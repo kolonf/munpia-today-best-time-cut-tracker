@@ -23,19 +23,12 @@ def fetch_html():
 
 
 def find_rank_entry(html, rank):
-    """
-    문피아 랭킹 페이지에서 특정 순위(rank)에 해당하는 작품 정보를 찾는다.
-    사이트 구조가 바뀌면 이 함수의 정규식을 조정해야 할 수 있다.
-    각 작품은 '/novel/detail/{id}' 링크를 갖고 있고, 그 주변에 순위/제목/조회수가 있다.
-    """
-    # 작품 상세 링크를 기준으로 대략적인 블록을 잘라낸다.
     pattern = re.compile(
         r'href="(/novel/detail/(\d+))"[^>]*>(.*?)(?=href="/novel/detail/|$)',
         re.DOTALL,
     )
 
     seen_ids = set()
-    order = 0
     for match in pattern.finditer(html):
         novel_id = match.group(2)
         block = match.group(3)
@@ -43,22 +36,18 @@ def find_rank_entry(html, rank):
         if novel_id in seen_ids:
             continue
 
-        # 이 블록에 순위 숫자가 있는지 확인 (예: '>200<' 또는 '200위' 형태)
         rank_match = re.search(r'(?:^|[^\d])(\d{1,3})(?:위)?(?:[^\d]|$)', block)
         if not rank_match:
             continue
 
         seen_ids.add(novel_id)
-        order += 1
 
         block_rank = int(rank_match.group(1))
         if block_rank == rank:
-            # 조회수로 보이는 숫자(콤마 포함 가능, 3자리 이상 또는 별도 표기) 추출
             numbers = re.findall(r'[\d,]{2,}', block)
             numbers = [n for n in numbers if n.replace(",", "").isdigit()]
             view_count = None
             if numbers:
-                # 보통 마지막 큰 숫자가 조회수인 경우가 많음 - 가장 큰 값 선택
                 view_count = max(int(n.replace(",", "")) for n in numbers)
 
             title_match = re.search(r'>([^<>\d][^<>]{1,60})<', block)
@@ -101,6 +90,11 @@ def main():
         "view_count": entry["view_count"] if entry else None,
         "ok": entry is not None,
     }
+
+    if entry is None:
+        snippet = html[-60000:] if len(html) > 60000 else html
+        with open("debug.html", "w", encoding="utf-8") as f:
+            f.write(snippet)
 
     data = load_data()
     data.append(record)
