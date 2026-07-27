@@ -66,11 +66,6 @@ def find_rank_entry(html, rank):
             )
             if class_match:
                 view_count = int(class_match.group(1).replace(",", ""))
-            else:
-                numbers = re.findall(r"[\d,]{2,}", block)
-                numbers = [n for n in numbers if n.replace(",", "").isdigit()]
-                if numbers:
-                    view_count = max(int(n.replace(",", "")) for n in numbers)
 
         author_match = re.search(r'class="novel-author">([^<]+)</div>', block)
         author = author_match.group(1).strip() if author_match else None
@@ -115,10 +110,9 @@ def main():
         "ok": entry is not None and entry.get("view_count") is not None,
     }
 
-if True:
-        snippet = html[-80000:] if len(html) > 80000 else html
-        with open("debug.html", "w", encoding="utf-8") as f:
-            f.write(snippet)
+    snippet = html[-80000:] if len(html) > 80000 else html
+    with open("debug.html", "w", encoding="utf-8") as f:
+        f.write(snippet)
 
     data = load_data()
     data.append(record)
