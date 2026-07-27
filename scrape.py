@@ -3,62 +3,85 @@ import os
 import re
 from datetime import datetime, timezone, timedelta
 
-import requests
+from playwright.sync_api import sync_playwright
 
 URL = "https://www.munpia.com/best/today?displayType=LIST"
 DATA_FILE = "data.json"
 TARGET_RANK = 200
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-}
 
-
-def fetch_html():
-    resp = requests.get(URL, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
-    resp.encoding = resp.apparent_encoding
-    return resp.text
+def fetch_rendered_html():
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+            )
+        )
+        page.goto(URL, wait_until="networkidle", timeout=30000)
+        page.wait_for_timeout(2000)
+        html = page.content()
+        browser.close()
+        return html
 
 
 def find_rank_entry(html, rank):
     pattern = re.compile(
-        r'href="(/novel/detail/(\d+))"[^>]*>(.*?)(?=href="/novel/detail/|$)',
+        r'<a href="[^"]*?/novel/detail/(\d+)"[^>]*class="novel-wrap"[^>]*>(.*?)</a>',
         re.DOTALL,
     )
 
-    seen_ids = set()
     for match in pattern.finditer(html):
-        novel_id = match.group(2)
-        block = match.group(3)
+        novel_id = match.group(1)
+        block = match.group(2)
 
-        if novel_id in seen_ids:
-            continue
-
-        rank_match = re.search(r'(?:^|[^\d])(\d{1,3})(?:위)?(?:[^\d]|$)', block)
+        rank_match = re.search(r'class="rank-num">\s*<span>(\d+)</span>', block)
         if not rank_match:
             continue
 
-        seen_ids.add(novel_id)
-
         block_rank = int(rank_match.group(1))
-        if block_rank == rank:
-            numbers = re.findall(r'[\d,]{2,}', block)
-            numbers = [n for n in numbers if n.replace(",", "").isdigit()]
-            view_count = None
-            if numbers:
-                view_count = max(int(n.replace(",", "")) for n in numbers)
+        if block_rank != rank:
+            continue
 
-            title_match = re.search(r'>([^<>\d][^<>]{1,60})<', block)
-            title = title_match.group(1).strip() if title_match else None
+        title_match = re.search(
+            r'class="novel-title">(.*?)</div>', block, re.DOTALL
+        )
+        title = None
+        if title_match:
+            spans = re.findall(r"<span[^>]*>([^<]+)</span>", title_match.group(1))
+            spans = [s.strip() for s in spans if s.strip()]
+            if spans:
+                title = spans[-1]
 
-            return {
-                "novel_id": novel_id,
-                "rank": block_rank,
-                "title": title,
-                "view_count": view_count,
-            }
+        view_count = None
+        view_label_match = re.search(r"조회\D{0,10}([\d,]{2,})", block)
+        if view_label_match:
+            view_count = int(view_label_match.group(1).replace(",", ""))
+        else:
+            class_match = re.search(
+                r'class="[^"]*(?:view|hit|count)[^"]*"[^>]*>\s*([\d,]{2,})',
+                block,
+                re.IGNORECASE,
+            )
+            if class_match:
+                view_count = int(class_match.group(1).replace(",", ""))
+            else:
+                numbers = re.findall(r"[\d,]{2,}", block)
+                numbers = [n for n in numbers if n.replace(",", "").isdigit()]
+                if numbers:
+                    view_count = max(int(n.replace(",", "")) for n in numbers)
+
+        author_match = re.search(r'class="novel-author">([^<]+)</div>', block)
+        author = author_match.group(1).strip() if author_match else None
+
+        return {
+            "novel_id": novel_id,
+            "rank": block_rank,
+            "title": title,
+            "author": author,
+            "view_count": view_count,
+        }
 
     return None
 
@@ -76,7 +99,7 @@ def save_data(data):
 
 
 def main():
-    html = fetch_html()
+    html = fetch_rendered_html()
     entry = find_rank_entry(html, TARGET_RANK)
 
     kst = timezone(timedelta(hours=9))
@@ -87,14 +110,17 @@ def main():
         "rank": TARGET_RANK,
         "novel_id": entry["novel_id"] if entry else None,
         "title": entry["title"] if entry else None,
+        "author": entry["author"] if entry else None,
         "view_count": entry["view_count"] if entry else None,
-        "ok": entry is not None,
+        "ok": entry is not None and entry.get("view_count") is not None,
     }
 
-    if entry is None:
-        snippet = html[-60000:] if len(html) > 60000 else html
+    if not record["ok"]:
+        snippet = html[-80000:] if len(html) > 80000 else html
         with open("debug.html", "w", encoding="utf-8") as f:
             f.write(snippet)
+    elif os.path.exists("debug.html"):
+        os.remove("debug.html")
 
     data = load_data()
     data.append(record)
