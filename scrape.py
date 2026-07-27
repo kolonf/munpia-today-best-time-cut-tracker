@@ -106,8 +106,20 @@ def main():
         "ok": entry is not None and view_count is not None,
     }
 
+debug_chunks = []
+    for m in re.finditer("조회", list_html):
+        start = max(0, m.start() - 300)
+        end = min(len(list_html), m.end() + 100)
+        debug_chunks.append(list_html[start:end])
+
     with open("debug.html", "w", encoding="utf-8") as f:
-        f.write(list_html)
+        if debug_chunks:
+            f.write(f"총 {len(debug_chunks)}개 '조회' 발견\n\n")
+            f.write("\n\n=====CHUNK=====\n\n".join(debug_chunks))
+        else:
+            f.write("'조회' 글자를 목록 페이지 HTML에서 전혀 찾지 못함.\n")
+            f.write(f"전체 길이: {len(list_html)}자\n\n")
+            f.write(list_html[:20000])
 
     data = load_data()
     data.append(record)
