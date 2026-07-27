@@ -100,7 +100,7 @@ def main():
         "ok": entry is not None and view_count is not None,
     }
 
-    debug_chunks = []
+        debug_chunks = []
     for m in re.finditer("조회", list_html):
         start = max(0, m.start() - 300)
         end = min(len(list_html), m.end() + 100)
