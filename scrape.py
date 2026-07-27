@@ -24,9 +24,6 @@ def fetch(url):
 
 
 def find_rank_novel_id(html, rank):
-    """
-    목록 페이지에서 특정 순위(rank)의 novel_id / 제목 / 작가를 찾는다.
-    """
     pattern = re.compile(
         r'<a href="[^"]*?/novel/detail/(\d+)"[^>]*class="novel-wrap"[^>]*>(.*?)</a>',
         re.DOTALL,
@@ -63,9 +60,6 @@ def find_rank_novel_id(html, rank):
 
 
 def find_view_count(detail_html):
-    """
-    작품 상세 페이지에서 '조회수: 59,377' 형태의 값을 찾는다.
-    """
     match = re.search(r"조회수\s*[:：]?\s*([\d,]+)", detail_html)
     if match:
         return int(match.group(1).replace(",", ""))
@@ -106,7 +100,7 @@ def main():
         "ok": entry is not None and view_count is not None,
     }
 
-debug_chunks = []
+    debug_chunks = []
     for m in re.finditer("조회", list_html):
         start = max(0, m.start() - 300)
         end = min(len(list_html), m.end() + 100)
@@ -121,12 +115,4 @@ debug_chunks = []
             f.write(f"전체 길이: {len(list_html)}자\n\n")
             f.write(list_html[:20000])
 
-    data = load_data()
-    data.append(record)
-    save_data(data)
-
-    print(json.dumps(record, ensure_ascii=False, indent=2))
-
-
-if __name__ == "__main__":
-    main()
+    data =
