@@ -17,10 +17,25 @@ def fetch_rendered_html():
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                 "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-            )
+            ),
+            viewport={"width": 1280, "height": 2000},
         )
         page.goto(URL, wait_until="networkidle", timeout=30000)
-        page.wait_for_timeout(2000)
+        page.wait_for_timeout(1000)
+
+        prev_height = 0
+        for _ in range(40):
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(400)
+            height = page.evaluate("document.body.scrollHeight")
+            if height == prev_height:
+                page.wait_for_timeout(800)
+                height2 = page.evaluate("document.body.scrollHeight")
+                if height2 == height:
+                    break
+            prev_height = height
+
+        page.wait_for_timeout(1500)
         html = page.content()
         browser.close()
         return html
