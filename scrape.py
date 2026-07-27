@@ -100,7 +100,7 @@ def main():
         "ok": entry is not None and view_count is not None,
     }
 
-        debug_chunks = []
+    debug_chunks = []
     for m in re.finditer("조회", list_html):
         start = max(0, m.start() - 300)
         end = min(len(list_html), m.end() + 100)
@@ -115,4 +115,12 @@ def main():
             f.write(f"전체 길이: {len(list_html)}자\n\n")
             f.write(list_html[:20000])
 
-    data =
+    data = load_data()
+    data.append(record)
+    save_data(data)
+
+    print(json.dumps(record, ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()
