@@ -7,7 +7,8 @@ import requests
 
 LIST_URL = "https://www.munpia.com/best/today?displayType=LIST"
 DATA_FILE = "data.json"
-TARGET_RANK = 200
+# 20위 단위 페이지 커트라인 + 200위(추적 대상)
+TARGET_RANKS = [20, 40, 60, 80, 100, 120, 140, 160, 180, 200]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -22,19 +23,22 @@ def fetch(url):
     return resp.text
 
 
-def find_rank_entry(html, rank):
+def find_all_ranks(html, ranks_wanted):
     pattern = re.compile(
         r'<a href="https://www\.munpia\.com/novel/detail/(\d+)">\s*'
         r'<div class="num">(\d+)</div>(.*?)</a>',
         re.DOTALL,
     )
 
+    wanted = set(ranks_wanted)
+    found = {}
+
     for match in pattern.finditer(html):
         novel_id = match.group(1)
         block_rank = int(match.group(2))
         block = match.group(3)
 
-        if block_rank != rank:
+        if block_rank not in wanted or block_rank in found:
             continue
 
         title_match = re.search(r'class="title-wrap">([^<]+)</span>', block)
@@ -46,15 +50,17 @@ def find_rank_entry(html, rank):
         view_match = re.search(r'class="view-count">([\d,]+)</div>', block)
         view_count = int(view_match.group(1).replace(",", "")) if view_match else None
 
-        return {
+        found[block_rank] = {
             "novel_id": novel_id,
-            "rank": block_rank,
             "title": title,
             "author": author,
             "view_count": view_count,
         }
 
-    return None
+        if len(found) == len(wanted):
+            break
+
+    return found
 
 
 def load_data():
@@ -71,19 +77,27 @@ def save_data(data):
 
 def main():
     list_html = fetch(LIST_URL)
-    entry = find_rank_entry(list_html, TARGET_RANK)
+    found = find_all_ranks(list_html, TARGET_RANKS)
 
     kst = timezone(timedelta(hours=9))
     now = datetime.now(kst).isoformat()
 
+    ranks_data = {}
+    for r in TARGET_RANKS:
+        entry = found.get(r)
+        ranks_data[str(r)] = {
+            "novel_id": entry["novel_id"] if entry else None,
+            "title": entry["title"] if entry else None,
+            "author": entry["author"] if entry else None,
+            "view_count": entry["view_count"] if entry else None,
+        }
+
+    ok = all(ranks_data[str(r)]["view_count"] is not None for r in TARGET_RANKS)
+
     record = {
         "timestamp": now,
-        "rank": TARGET_RANK,
-        "novel_id": entry["novel_id"] if entry else None,
-        "title": entry["title"] if entry else None,
-        "author": entry["author"] if entry else None,
-        "view_count": entry["view_count"] if entry else None,
-        "ok": entry is not None and entry.get("view_count") is not None,
+        "ranks": ranks_data,
+        "ok": ok,
     }
 
     data = load_data()
