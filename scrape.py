@@ -6,7 +6,6 @@ from datetime import datetime, timezone, timedelta
 import requests
 
 LIST_URL = "https://www.munpia.com/best/today?displayType=LIST"
-DETAIL_URL = "https://www.munpia.com/novel/detail/{}"
 DATA_FILE = "data.json"
 TARGET_RANK = 200
 
@@ -23,52 +22,38 @@ def fetch(url):
     return resp.text
 
 
-def find_rank_novel_id(html, rank):
-    """
-    목록 페이지에서 특정 순위(rank)의 novel_id / 제목 / 작가를 찾는다.
-    """
+def find_rank_entry(html, rank):
     pattern = re.compile(
-        r'<a href="[^"]*?/novel/detail/(\d+)"[^>]*class="novel-wrap"[^>]*>(.*?)</a>',
+        r'<a href="https://www\.munpia\.com/novel/detail/(\d+)">\s*'
+        r'<div class="num">(\d+)</div>(.*?)</a>',
         re.DOTALL,
     )
 
     for match in pattern.finditer(html):
         novel_id = match.group(1)
-        block = match.group(2)
+        block_rank = int(match.group(2))
+        block = match.group(3)
 
-        rank_match = re.search(r'class="rank-num">\s*<span>(\d+)</span>', block)
-        if not rank_match:
-            continue
-
-        block_rank = int(rank_match.group(1))
         if block_rank != rank:
             continue
 
-        title_match = re.search(
-            r'class="novel-title">(.*?)</div>', block, re.DOTALL
-        )
-        title = None
-        if title_match:
-            spans = re.findall(r"<span[^>]*>([^<]+)</span>", title_match.group(1))
-            spans = [s.strip() for s in spans if s.strip()]
-            if spans:
-                title = spans[-1]
+        title_match = re.search(r'class="title-wrap">([^<]+)</span>', block)
+        title = title_match.group(1).strip() if title_match else None
 
-        author_match = re.search(r'class="novel-author">([^<]+)</div>', block)
+        author_match = re.search(r'class="author">([^<]+)</div>', block)
         author = author_match.group(1).strip() if author_match else None
 
-        return {"novel_id": novel_id, "rank": block_rank, "title": title, "author": author}
+        view_match = re.search(r'class="view-count">([\d,]+)</div>', block)
+        view_count = int(view_match.group(1).replace(",", "")) if view_match else None
 
-    return None
+        return {
+            "novel_id": novel_id,
+            "rank": block_rank,
+            "title": title,
+            "author": author,
+            "view_count": view_count,
+        }
 
-
-def find_view_count(detail_html):
-    """
-    작품 상세 페이지에서 '조회수: 59,377' 형태의 값을 찾는다.
-    """
-    match = re.search(r"조회수\s*[:：]?\s*([\d,]+)", detail_html)
-    if match:
-        return int(match.group(1).replace(",", ""))
     return None
 
 
@@ -86,12 +71,7 @@ def save_data(data):
 
 def main():
     list_html = fetch(LIST_URL)
-    entry = find_rank_novel_id(list_html, TARGET_RANK)
-
-    view_count = None
-    if entry:
-        detail_html = fetch(DETAIL_URL.format(entry["novel_id"]))
-        view_count = find_view_count(detail_html)
+    entry = find_rank_entry(list_html, TARGET_RANK)
 
     kst = timezone(timedelta(hours=9))
     now = datetime.now(kst).isoformat()
@@ -102,22 +82,9 @@ def main():
         "novel_id": entry["novel_id"] if entry else None,
         "title": entry["title"] if entry else None,
         "author": entry["author"] if entry else None,
-        "view_count": view_count,
-        "ok": entry is not None and view_count is not None,
+        "view_count": entry["view_count"] if entry else None,
+        "ok": entry is not None and entry.get("view_count") is not None,
     }
-
-    debug_chunks = []
-    for m in re.finditer(r'class="view-count"', list_html):
-        start = max(0, m.start() - 700)
-        end = min(len(list_html), m.end() + 300)
-        debug_chunks.append(list_html[start:end])
-
-    with open("debug.html", "w", encoding="utf-8") as f:
-        if debug_chunks:
-            f.write("총 " + str(len(debug_chunks)) + "개 view-count 발견\n\n")
-            f.write("\n\n=====CHUNK=====\n\n".join(debug_chunks[:5]))
-        else:
-            f.write("view-count 클래스를 전혀 찾지 못함.\n")
 
     data = load_data()
     data.append(record)
