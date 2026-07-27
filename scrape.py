@@ -12,14 +12,35 @@ TARGET_RANK = 200
 
 def fetch_rendered_html():
     with sync_playwright() as p:
-        browser = p.chromium.launch()
+        browser = p.chromium.launch(
+            args=[
+                "--disable-blink-features=AutomationControlled",
+            ]
+        )
         page = browser.new_page(
             user_agent=(
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                 "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
             ),
             viewport={"width": 1280, "height": 2000},
+            locale="ko-KR",
         )
+
+        page.add_init_script(
+            """
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            Object.defineProperty(navigator, 'languages', { get: () => ['ko-KR', 'ko', 'en-US', 'en'] });
+            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+            window.chrome = { runtime: {} };
+            const originalQuery = window.navigator.permissions.query;
+            window.navigator.permissions.query = (parameters) => (
+                parameters.name === 'notifications'
+                    ? Promise.resolve({ state: Notification.permission })
+                    : originalQuery(parameters)
+            );
+            """
+        )
+
         page.goto(URL, wait_until="networkidle", timeout=30000)
         page.wait_for_timeout(1000)
 
