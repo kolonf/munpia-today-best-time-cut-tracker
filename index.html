@@ -22,7 +22,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Malgun Gothic", sans-serif;
     padding: 32px 16px 64px;
   }
-  .wrap { max-width: 880px; margin: 0 auto; }
+  .wrap { max-width: 1080px; margin: 0 auto; }
   h1 { font-size: 22px; font-weight: 700; margin: 0 0 4px; }
   h2 { font-size: 16px; font-weight: 700; margin: 0 0 16px; }
   .sub { color: var(--muted); font-size: 14px; margin-bottom: 28px; }
@@ -33,17 +33,26 @@
     padding: 20px;
     margin-bottom: 20px;
   }
+  .cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+  }
+  @media (max-width: 760px) {
+    .cols { grid-template-columns: 1fr; }
+  }
   .current { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
   .current .num { font-size: 40px; font-weight: 800; color: var(--accent); }
   .current .title { font-size: 15px; color: var(--ink); }
   .current .meta { font-size: 13px; color: var(--muted); width: 100%; }
-  canvas { max-height: 360px; }
+  canvas { max-height: 320px; }
   table { width: 100%; border-collapse: collapse; font-size: 13px; }
   th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); color: var(--ink); }
   th { color: var(--muted); font-weight: 500; }
+  td.num-cell { text-align: right; font-variant-numeric: tabular-nums; }
   .empty { color: var(--muted); font-size: 14px; text-align: center; padding: 40px 0; }
 
-  /* 달력 */
   .cal-header {
     display: flex;
     align-items: center;
@@ -81,7 +90,6 @@
     font-size: 13px;
     cursor: default;
     color: var(--muted);
-    position: relative;
   }
   .cal-day.has-data {
     background: rgba(110,231,200,0.12);
@@ -95,7 +103,8 @@
     font-weight: 700;
   }
   .cal-day.empty-cell { visibility: hidden; }
-  .day-detail-title { font-size: 14px; color: var(--muted); margin-bottom: 12px; }
+  .day-detail-title { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
+  .cutline-title { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
 </style>
 </head>
 <body>
@@ -103,224 +112,65 @@
     <h1>문피아 투데이 베스트 · 200위 조회수 추이</h1>
     <div class="sub">1시간 간격으로 자동 수집된 기록입니다.</div>
 
-    <div class="panel" id="currentPanel">
-      <div class="empty">데이터를 불러오는 중...</div>
-    </div>
-
-    <div class="panel">
-      <h2>전체 기간 추이</h2>
-      <canvas id="chart"></canvas>
-    </div>
-
-    <div class="panel">
-      <table id="table"></table>
-    </div>
-
-    <div class="panel">
-      <h2>날짜별로 보기</h2>
-      <div class="cal-header">
-        <button id="prevMonth">‹ 이전</button>
-        <div class="cal-title" id="calTitle"></div>
-        <button id="nextMonth">다음 ›</button>
+    <div class="cols">
+      <div>
+        <div class="panel" id="currentPanel">
+          <div class="empty">데이터를 불러오는 중...</div>
+        </div>
+        <div class="panel">
+          <div class="day-detail-title" id="dayDetailTitle">오늘 — 0시부터 24시까지 시간대별 조회수</div>
+          <canvas id="dayChart"></canvas>
+        </div>
       </div>
-      <div class="cal-grid" id="calGrid"></div>
-    </div>
 
-    <div class="panel" id="dayPanel" style="display:none;">
-      <div class="day-detail-title" id="dayDetailTitle"></div>
-      <canvas id="dayChart"></canvas>
+      <div>
+        <div class="panel">
+          <div class="cal-header">
+            <button id="prevMonth">‹ 이전</button>
+            <div class="cal-title" id="calTitle"></div>
+            <button id="nextMonth">다음 ›</button>
+          </div>
+          <div class="cal-grid" id="calGrid"></div>
+        </div>
+        <div class="panel">
+          <h2>페이지별 커트라인</h2>
+          <div class="cutline-title" id="cutlineTitle"></div>
+          <table id="cutlineTable"></table>
+        </div>
+      </div>
     </div>
   </div>
 
 <script>
 let allData = [];
-let calYear, calMonth; // calMonth: 0-11
+let calYear, calMonth;
 let dayChartInstance = null;
+let selectedKey = null;
+
+const PAGE_RANKS = [20, 40, 60, 80, 100, 120, 140, 160, 180, 200];
 
 async function load() {
   const res = await fetch('data.json?_=' + Date.now());
   const data = await res.json();
-  allData = data.filter(d => d.ok && d.view_count !== null && d.view_count !== undefined);
+  allData = data.filter(d => d && d.ranks);
 
   renderCurrent();
-  renderMainChart();
-  renderTable();
+  renderCutlineTable();
 
   const now = new Date();
   calYear = now.getFullYear();
   calMonth = now.getMonth();
+  selectedKey = dateKeyFromDate(now);
   renderCalendar();
+  renderDayChart(selectedKey);
 }
 
-function renderCurrent() {
-  const currentPanel = document.getElementById('currentPanel');
-  if (allData.length === 0) {
-    currentPanel.innerHTML = '<div class="empty">아직 수집된 데이터가 없어요. 1시간 뒤 다시 확인해주세요.</div>';
-    return;
-  }
-  const latest = allData[allData.length - 1];
-  currentPanel.innerHTML = `
-    <div class="current">
-      <div class="num">${latest.view_count.toLocaleString()}</div>
-      <div class="title">${latest.title ?? '(제목 미확인)'} — 200위</div>
-      <div class="meta">마지막 갱신: ${new Date(latest.timestamp).toLocaleString('ko-KR')}</div>
-    </div>
-  `;
-}
-
-function renderMainChart() {
-  if (allData.length === 0) return;
-  const labels = allData.map(d => new Date(d.timestamp).toLocaleString('ko-KR', { month: 'numeric', day: 'numeric', hour: '2-digit' }));
-  const views = allData.map(d => d.view_count);
-
-  new Chart(document.getElementById('chart'), {
-    type: 'line',
-    data: {
-      labels,
-      datasets: [{
-        label: '200위 조회수',
-        data: views,
-        borderColor: '#6ee7c8',
-        backgroundColor: 'rgba(110,231,200,0.12)',
-        fill: true,
-        tension: 0.3,
-        pointRadius: 2,
-      }]
-    },
-    options: {
-      responsive: true,
-      plugins: { legend: { display: false } },
-      scales: {
-        x: { ticks: { color: '#8b8fa3', maxTicksLimit: 10 }, grid: { color: '#2a2e3d' } },
-        y: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
-      }
-    }
-  });
-}
-
-function renderTable() {
-  const table = document.getElementById('table');
-  if (allData.length === 0) { table.innerHTML = ''; return; }
-  const rows = [...allData].reverse().slice(0, 30).map(d => `
-    <tr>
-      <td>${new Date(d.timestamp).toLocaleString('ko-KR')}</td>
-      <td>${d.title ?? '-'}</td>
-      <td>${d.view_count.toLocaleString()}</td>
-    </tr>
-  `).join('');
-  table.innerHTML = `
-    <tr><th>시간</th><th>작품</th><th>조회수</th></tr>
-    ${rows}
-  `;
-}
-
-function dateKey(d) {
-  const dt = new Date(d.timestamp);
+function dateKeyFromDate(dt) {
   const y = dt.getFullYear();
   const m = String(dt.getMonth() + 1).padStart(2, '0');
-  const day = String(dt.getDate()).padStart(2, '0');
-  return `${y}-${m}-${day}`;
+  const d = String(dt.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
 }
 
-function renderCalendar() {
-  const calTitle = document.getElementById('calTitle');
-  const calGrid = document.getElementById('calGrid');
-  calTitle.textContent = `${calYear}년 ${calMonth + 1}월`;
-
-  const datesWithData = new Set(allData.map(dateKey));
-
-  const dowNames = ['일', '월', '화', '수', '목', '금', '토'];
-  let html = dowNames.map(d => `<div class="cal-dow">${d}</div>`).join('');
-
-  const firstDay = new Date(calYear, calMonth, 1);
-  const startWeekday = firstDay.getDay();
-  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
-
-  for (let i = 0; i < startWeekday; i++) {
-    html += `<div class="cal-day empty-cell"></div>`;
-  }
-
-  for (let day = 1; day <= daysInMonth; day++) {
-    const y = calYear;
-    const m = String(calMonth + 1).padStart(2, '0');
-    const dstr = String(day).padStart(2, '0');
-    const key = `${y}-${m}-${dstr}`;
-    const has = datesWithData.has(key);
-    html += `<div class="cal-day ${has ? 'has-data' : ''}" data-key="${key}">${day}</div>`;
-  }
-
-  calGrid.innerHTML = html;
-
-  calGrid.querySelectorAll('.cal-day.has-data').forEach(el => {
-    el.addEventListener('click', () => {
-      calGrid.querySelectorAll('.cal-day').forEach(c => c.classList.remove('selected'));
-      el.classList.add('selected');
-      showDayDetail(el.getAttribute('data-key'));
-    });
-  });
-}
-
-function showDayDetail(key) {
-  const dayPanel = document.getElementById('dayPanel');
-  const dayDetailTitle = document.getElementById('dayDetailTitle');
-  dayPanel.style.display = 'block';
-
-  const dayRecords = allData.filter(d => dateKey(d) === key);
-
-  const [y, m, d] = key.split('-').map(Number);
-  dayDetailTitle.textContent = `${y}년 ${m}월 ${d}일 — 0시부터 24시까지 시간대별 조회수`;
-
-  const hourly = new Array(24).fill(null);
-  dayRecords.forEach(r => {
-    const hour = new Date(r.timestamp).getHours();
-    hourly[hour] = r.view_count;
-  });
-
-  const labels = Array.from({ length: 24 }, (_, h) => `${h}시`);
-
-  if (dayChartInstance) {
-    dayChartInstance.destroy();
-  }
-  dayChartInstance = new Chart(document.getElementById('dayChart'), {
-    type: 'line',
-    data: {
-      labels,
-      datasets: [{
-        label: '조회수',
-        data: hourly,
-        borderColor: '#6ee7c8',
-        backgroundColor: 'rgba(110,231,200,0.12)',
-        fill: true,
-        tension: 0.3,
-        spanGaps: true,
-        pointRadius: 3,
-      }]
-    },
-    options: {
-      responsive: true,
-      plugins: { legend: { display: false } },
-      scales: {
-        x: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
-        y: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
-      }
-    }
-  });
-
-  dayPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-}
-
-document.getElementById('prevMonth').addEventListener('click', () => {
-  calMonth -= 1;
-  if (calMonth < 0) { calMonth = 11; calYear -= 1; }
-  renderCalendar();
-});
-document.getElementById('nextMonth').addEventListener('click', () => {
-  calMonth += 1;
-  if (calMonth > 11) { calMonth = 0; calYear += 1; }
-  renderCalendar();
-});
-
-load();
-</script>
-</body>
-</html>
+function dateKey(record) {
+  return dateKeyFromDate(new
