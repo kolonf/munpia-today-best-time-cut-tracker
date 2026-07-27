@@ -113,5 +113,71 @@
     "author": "파란호박",
     "view_count": 153,
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-27T22:58:15.355460+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 2515
+      },
+      "40": {
+        "novel_id": "582634",
+        "title": "이름 없는 별들을 흡수했더니 전세계 첩보기관이 집착함",
+        "author": "탄도",
+        "view_count": 1301
+      },
+      "60": {
+        "novel_id": "581535",
+        "title": "사우디 왕자가 알라를 숨김",
+        "author": "헌앙",
+        "view_count": 844
+      },
+      "80": {
+        "novel_id": "576308",
+        "title": "검귀, 무림에 살다",
+        "author": "멜글",
+        "view_count": 612
+      },
+      "100": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "120": {
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 358
+      },
+      "140": {
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 302
+      },
+      "160": {
+        "novel_id": "583231",
+        "title": "재벌 회장이 내 점집 번호표를 구걸함",
+        "author": "뽕맛지림v",
+        "view_count": 266
+      },
+      "180": {
+        "novel_id": "563421",
+        "title": "살인마 갤러리 보는 회사원",
+        "author": "셰파드",
+        "view_count": 185
+      },
+      "200": {
+        "novel_id": "583740",
+        "title": "누가 오행잡영근 보고 쓰레기라 하는가?",
+        "author": "맘마먹자",
+        "view_count": 136
+      }
+    },
+    "ok": false
   }
 ]
