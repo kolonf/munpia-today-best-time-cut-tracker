@@ -108,11 +108,11 @@ def main():
 
     with open("debug.html", "w", encoding="utf-8") as f:
         if debug_chunks:
-            f.write(f"총 {len(debug_chunks)}개 '조회' 발견\n\n")
+            f.write("총 " + str(len(debug_chunks)) + "개 조회 발견\n\n")
             f.write("\n\n=====CHUNK=====\n\n".join(debug_chunks))
         else:
-            f.write("'조회' 글자를 목록 페이지 HTML에서 전혀 찾지 못함.\n")
-            f.write(f"전체 길이: {len(list_html)}자\n\n")
+            f.write("조회 글자를 목록 페이지 HTML에서 전혀 찾지 못함.\n")
+            f.write("전체 길이: " + str(len(list_html)) + "자\n\n")
             f.write(list_html[:20000])
 
     data = load_data()
