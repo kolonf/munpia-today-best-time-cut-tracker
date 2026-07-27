@@ -24,6 +24,9 @@ def fetch(url):
 
 
 def find_rank_novel_id(html, rank):
+    """
+    목록 페이지에서 특정 순위(rank)의 novel_id / 제목 / 작가를 찾는다.
+    """
     pattern = re.compile(
         r'<a href="[^"]*?/novel/detail/(\d+)"[^>]*class="novel-wrap"[^>]*>(.*?)</a>',
         re.DOTALL,
@@ -60,6 +63,9 @@ def find_rank_novel_id(html, rank):
 
 
 def find_view_count(detail_html):
+    """
+    작품 상세 페이지에서 '조회수: 59,377' 형태의 값을 찾는다.
+    """
     match = re.search(r"조회수\s*[:：]?\s*([\d,]+)", detail_html)
     if match:
         return int(match.group(1).replace(",", ""))
@@ -101,19 +107,17 @@ def main():
     }
 
     debug_chunks = []
-    for m in re.finditer("조회", list_html):
-        start = max(0, m.start() - 300)
-        end = min(len(list_html), m.end() + 100)
+    for m in re.finditer(r'class="view-count"', list_html):
+        start = max(0, m.start() - 700)
+        end = min(len(list_html), m.end() + 300)
         debug_chunks.append(list_html[start:end])
 
     with open("debug.html", "w", encoding="utf-8") as f:
         if debug_chunks:
-            f.write("총 " + str(len(debug_chunks)) + "개 조회 발견\n\n")
-            f.write("\n\n=====CHUNK=====\n\n".join(debug_chunks))
+            f.write("총 " + str(len(debug_chunks)) + "개 view-count 발견\n\n")
+            f.write("\n\n=====CHUNK=====\n\n".join(debug_chunks[:5]))
         else:
-            f.write("조회 글자를 목록 페이지 HTML에서 전혀 찾지 못함.\n")
-            f.write("전체 길이: " + str(len(list_html)) + "자\n\n")
-            f.write(list_html[:20000])
+            f.write("view-count 클래스를 전혀 찾지 못함.\n")
 
     data = load_data()
     data.append(record)
