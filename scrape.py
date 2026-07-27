@@ -115,12 +115,10 @@ def main():
         "ok": entry is not None and entry.get("view_count") is not None,
     }
 
-    if not record["ok"]:
+if True:
         snippet = html[-80000:] if len(html) > 80000 else html
         with open("debug.html", "w", encoding="utf-8") as f:
             f.write(snippet)
-    elif os.path.exists("debug.html"):
-        os.remove("debug.html")
 
     data = load_data()
     data.append(record)
