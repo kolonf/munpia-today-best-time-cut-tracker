@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>문피아 투데이 베스트 200위 조회수 추이</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #12141c;
+    --panel: #1b1e29;
+    --ink: #e9e9ef;
+    --muted: #8b8fa3;
+    --accent: #6ee7c8;
+    --line: #2a2e3d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Malgun Gothic", sans-serif;
+    padding: 32px 16px 64px;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  h1 {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0 0 4px;
+  }
+  .sub {
+    color: var(--muted);
+    font-size: 14px;
+    margin-bottom: 28px;
+  }
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .current {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .current .num {
+    font-size: 40px;
+    font-weight: 800;
+    color: var(--accent);
+  }
+  .current .title {
+    font-size: 15px;
+    color: var(--ink);
+  }
+  .current .meta {
+    font-size: 13px;
+    color: var(--muted);
+    width: 100%;
+  }
+  canvas { max-height: 360px; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  th, td {
+    text-align: left;
+    padding: 8px 6px;
+    border-bottom: 1px solid var(--line);
+    color: var(--ink);
+  }
+  th { color: var(--muted); font-weight: 500; }
+  .empty {
+    color: var(--muted);
+    font-size: 14px;
+    text-align: center;
+    padding: 40px 0;
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>문피아 투데이 베스트 · 200위 조회수 추이</h1>
+    <div class="sub">1시간 간격으로 자동 수집된 기록입니다.</div>
+
+    <div class="panel" id="currentPanel">
+      <div class="empty">데이터를 불러오는 중...</div>
+    </div>
+
+    <div class="panel">
+      <canvas id="chart"></canvas>
+    </div>
+
+    <div class="panel">
+      <table id="table"></table>
+    </div>
+  </div>
+
+<script>
+async function load() {
+  const res = await fetch('data.json?_=' + Date.now());
+  const data = await res.json();
+  const valid = data.filter(d => d.ok && d.view_count !== null);
+
+  const currentPanel = document.getElementById('currentPanel');
+  if (valid.length === 0) {
+    currentPanel.innerHTML = '<div class="empty">아직 수집된 데이터가 없어요. 1시간 뒤 다시 확인해주세요.</div>';
+    return;
+  }
+
+  const latest = valid[valid.length - 1];
+  currentPanel.innerHTML = `
+    <div class="current">
+      <div class="num">${latest.view_count.toLocaleString()}</div>
+      <div class="title">${latest.title ?? '(제목 미확인)'} — 200위</div>
+      <div class="meta">마지막 갱신: ${new Date(latest.timestamp).toLocaleString('ko-KR')}</div>
+    </div>
+  `;
+
+  const labels = valid.map(d => new Date(d.timestamp).toLocaleString('ko-KR', { month: 'numeric', day: 'numeric', hour: '2-digit' }));
+  const views = valid.map(d => d.view_count);
+
+  new Chart(document.getElementById('chart'), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: '200위 조회수',
+        data: views,
+        borderColor: '#6ee7c8',
+        backgroundColor: 'rgba(110,231,200,0.12)',
+        fill: true,
+        tension: 0.3,
+        pointRadius: 2,
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#8b8fa3', maxTicksLimit: 10 }, grid: { color: '#2a2e3d' } },
+        y: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
+      }
+    }
+  });
+
+  const table = document.getElementById('table');
+  const rows = [...valid].reverse().slice(0, 30).map(d => `
+    <tr>
+      <td>${new Date(d.timestamp).toLocaleString('ko-KR')}</td>
+      <td>${d.title ?? '-'}</td>
+      <td>${d.view_count.toLocaleString()}</td>
+    </tr>
+  `).join('');
+  table.innerHTML = `
+    <tr><th>시간</th><th>작품</th><th>조회수</th></tr>
+    ${rows}
+  `;
+}
+load();
+</script>
+</body>
+</html>
