@@ -3,66 +3,30 @@ import os
 import re
 from datetime import datetime, timezone, timedelta
 
-from playwright.sync_api import sync_playwright
+import requests
 
-URL = "https://www.munpia.com/best/today?displayType=LIST"
+LIST_URL = "https://www.munpia.com/best/today?displayType=LIST"
+DETAIL_URL = "https://www.munpia.com/novel/detail/{}"
 DATA_FILE = "data.json"
 TARGET_RANK = 200
 
-
-def fetch_rendered_html():
-    with sync_playwright() as p:
-        browser = p.chromium.launch(
-            args=[
-                "--disable-blink-features=AutomationControlled",
-            ]
-        )
-        page = browser.new_page(
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-            ),
-            viewport={"width": 1280, "height": 2000},
-            locale="ko-KR",
-        )
-
-        page.add_init_script(
-            """
-            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-            Object.defineProperty(navigator, 'languages', { get: () => ['ko-KR', 'ko', 'en-US', 'en'] });
-            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
-            window.chrome = { runtime: {} };
-            const originalQuery = window.navigator.permissions.query;
-            window.navigator.permissions.query = (parameters) => (
-                parameters.name === 'notifications'
-                    ? Promise.resolve({ state: Notification.permission })
-                    : originalQuery(parameters)
-            );
-            """
-        )
-
-        page.goto(URL, wait_until="networkidle", timeout=30000)
-        page.wait_for_timeout(1000)
-
-        prev_height = 0
-        for _ in range(40):
-            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            page.wait_for_timeout(400)
-            height = page.evaluate("document.body.scrollHeight")
-            if height == prev_height:
-                page.wait_for_timeout(800)
-                height2 = page.evaluate("document.body.scrollHeight")
-                if height2 == height:
-                    break
-            prev_height = height
-
-        page.wait_for_timeout(1500)
-        html = page.content()
-        browser.close()
-        return html
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+}
 
 
-def find_rank_entry(html, rank):
+def fetch(url):
+    resp = requests.get(url, headers=HEADERS, timeout=20)
+    resp.raise_for_status()
+    resp.encoding = resp.apparent_encoding
+    return resp.text
+
+
+def find_rank_novel_id(html, rank):
+    """
+    목록 페이지에서 특정 순위(rank)의 novel_id / 제목 / 작가를 찾는다.
+    """
     pattern = re.compile(
         r'<a href="[^"]*?/novel/detail/(\d+)"[^>]*class="novel-wrap"[^>]*>(.*?)</a>',
         re.DOTALL,
@@ -90,30 +54,21 @@ def find_rank_entry(html, rank):
             if spans:
                 title = spans[-1]
 
-        view_count = None
-        view_label_match = re.search(r"조회\D{0,10}([\d,]{2,})", block)
-        if view_label_match:
-            view_count = int(view_label_match.group(1).replace(",", ""))
-        else:
-            class_match = re.search(
-                r'class="[^"]*(?:view|hit|count)[^"]*"[^>]*>\s*([\d,]{2,})',
-                block,
-                re.IGNORECASE,
-            )
-            if class_match:
-                view_count = int(class_match.group(1).replace(",", ""))
-
         author_match = re.search(r'class="novel-author">([^<]+)</div>', block)
         author = author_match.group(1).strip() if author_match else None
 
-        return {
-            "novel_id": novel_id,
-            "rank": block_rank,
-            "title": title,
-            "author": author,
-            "view_count": view_count,
-        }
+        return {"novel_id": novel_id, "rank": block_rank, "title": title, "author": author}
 
+    return None
+
+
+def find_view_count(detail_html):
+    """
+    작품 상세 페이지에서 '조회수: 59,377' 형태의 값을 찾는다.
+    """
+    match = re.search(r"조회수\s*[:：]?\s*([\d,]+)", detail_html)
+    if match:
+        return int(match.group(1).replace(",", ""))
     return None
 
 
@@ -130,8 +85,13 @@ def save_data(data):
 
 
 def main():
-    html = fetch_rendered_html()
-    entry = find_rank_entry(html, TARGET_RANK)
+    list_html = fetch(LIST_URL)
+    entry = find_rank_novel_id(list_html, TARGET_RANK)
+
+    view_count = None
+    if entry:
+        detail_html = fetch(DETAIL_URL.format(entry["novel_id"]))
+        view_count = find_view_count(detail_html)
 
     kst = timezone(timedelta(hours=9))
     now = datetime.now(kst).isoformat()
@@ -142,13 +102,12 @@ def main():
         "novel_id": entry["novel_id"] if entry else None,
         "title": entry["title"] if entry else None,
         "author": entry["author"] if entry else None,
-        "view_count": entry["view_count"] if entry else None,
-        "ok": entry is not None and entry.get("view_count") is not None,
+        "view_count": view_count,
+        "ok": entry is not None and view_count is not None,
     }
 
-    snippet = html[-80000:] if len(html) > 80000 else html
     with open("debug.html", "w", encoding="utf-8") as f:
-        f.write(snippet)
+        f.write(list_html)
 
     data = load_data()
     data.append(record)
