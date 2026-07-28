@@ -144,7 +144,7 @@
 
 <script>
 let allData = [];
-let calYear, calMonth; // calMonth: 0-11
+let calYear, calMonth;
 let dayChartInstance = null;
 let selectedKey = null;
 
@@ -214,9 +214,10 @@ function renderCutlineTable() {
     const page = idx + 1;
     const entry = latest.ranks[String(rank)];
     const views = entry && entry.view_count !== null ? entry.view_count.toLocaleString() : '-';
+    const title = entry && entry.title ? entry.title : '(제목 미확인)';
     return `
       <tr>
-        <td>${page}페이지 커트 (${rank}위)</td>
+        <td>${title} - ${page}페이지 커트 (${rank}위)</td>
         <td class="num-cell">${views}</td>
       </tr>
     `;
