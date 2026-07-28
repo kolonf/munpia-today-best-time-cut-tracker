@@ -443,5 +443,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-28T15:30:44.193481+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "581981",
+        "title": "북부대공의 현질하는 남편이 되었다",
+        "author": "캐플",
+        "view_count": 2678
+      },
+      "40": {
+        "novel_id": "578219",
+        "title": "나 혼자 신화급 특성으로 탑 등반",
+        "author": "사바희",
+        "view_count": 1461
+      },
+      "60": {
+        "novel_id": "582214",
+        "title": "신내림받고 입털었더니 거물들이 집착하는 일타무당됨",
+        "author": "햇살쨍",
+        "view_count": 1049
+      },
+      "80": {
+        "novel_id": "584303",
+        "title": "로또 1등인데 행운 티켓까지 얻어서 출근이 즐거움",
+        "author": "김옥지",
+        "view_count": 718
+      },
+      "100": {
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 556
+      },
+      "120": {
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 패시브 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 430
+      },
+      "140": {
+        "novel_id": "580096",
+        "title": "경질된 야구감독은 꼴찌팀의 미래를 안다",
+        "author": "하호크로수",
+        "view_count": 362
+      },
+      "160": {
+        "novel_id": "581248",
+        "title": "시간정지 발롱도르",
+        "author": "무가옳",
+        "view_count": 284
+      },
+      "180": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "200": {
+        "novel_id": "585812",
+        "title": "땅을 파면 공룡이 나온다니까요?",
+        "author": "힐링이좋다",
+        "view_count": 170
+      }
+    },
+    "ok": false
   }
 ]
