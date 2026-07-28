@@ -245,5 +245,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-28T13:48:10.335902+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "582894",
+        "title": "병아리 힐러 탑에 오르다",
+        "author": "필독(必讀)",
+        "view_count": 2505
+      },
+      "40": {
+        "novel_id": "585412",
+        "title": "선협에서 땅굴을 숨김",
+        "author": "불로수선전",
+        "view_count": 1486
+      },
+      "60": {
+        "novel_id": "585730",
+        "title": "국가가 버린 소드마스터는 회귀 후 미국 헌터로 갈아탄다",
+        "author": "가냐슈",
+        "view_count": 1037
+      },
+      "80": {
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 697
+      },
+      "100": {
+        "novel_id": "584331",
+        "title": "복사기 들고 선협에 떨어지다",
+        "author": "아이씨렉",
+        "view_count": 482
+      },
+      "120": {
+        "novel_id": "583836",
+        "title": "삼국지 여포로 천하를 찢다",
+        "author": "고비류",
+        "view_count": 393
+      },
+      "140": {
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 312
+      },
+      "160": {
+        "novel_id": "566265",
+        "title": "해고당한 천재 셰프가 방송으로 대박남",
+        "author": "아멋밍",
+        "view_count": 238
+      },
+      "180": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "200": {
+        "novel_id": "556559",
+        "title": "삼국지: 난세의간옹",
+        "author": "Aka.Jin",
+        "view_count": 135
+      }
+    },
+    "ok": false
   }
 ]
