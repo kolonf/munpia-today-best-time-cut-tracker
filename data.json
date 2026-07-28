@@ -245,5 +245,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-28T13:13:48.387597+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "579762",
+        "title": "신입사원이 천재였다",
+        "author": "콜라탄산",
+        "view_count": 2875
+      },
+      "40": {
+        "novel_id": "583795",
+        "title": "달머리골 자연인은 잘 먹고 산다",
+        "author": "Dodeca",
+        "view_count": 1440
+      },
+      "60": {
+        "novel_id": "570727",
+        "title": "고려가 버린 땅, 내가 먹기로 했다",
+        "author": "햄버그",
+        "view_count": 1057
+      },
+      "80": {
+        "novel_id": "579778",
+        "title": "강화수선전(強化修仙傳)",
+        "author": "차재현",
+        "view_count": 728
+      },
+      "100": {
+        "novel_id": "586291",
+        "title": "14세 연하 회장 손녀가 고백했다",
+        "author": "새결",
+        "view_count": 508
+      },
+      "120": {
+        "novel_id": "583836",
+        "title": "삼국지 여포로 천하를 찢다",
+        "author": "고비류",
+        "view_count": 387
+      },
+      "140": {
+        "novel_id": "564560",
+        "title": "국가권력급 AI로 세상을 재편한다",
+        "author": "성재님",
+        "view_count": 305
+      },
+      "160": {
+        "novel_id": "565742",
+        "title": "세종시대, 산업혁명이 시작된다",
+        "author": "주절주절",
+        "view_count": 243
+      },
+      "180": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "200": {
+        "novel_id": "556559",
+        "title": "삼국지: 난세의간옹",
+        "author": "Aka.Jin",
+        "view_count": 120
+      }
+    },
+    "ok": false
   }
 ]
