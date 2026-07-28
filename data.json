@@ -641,5 +641,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-28T17:00:48.865300+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "578189",
+        "title": "19세기 러시아에 웹소설을 풀었다",
+        "author": "적백赤白",
+        "view_count": 2862
+      },
+      "40": {
+        "novel_id": "582598",
+        "title": "탑에서 신점보니 전 세계가 집착함",
+        "author": "KAY™",
+        "view_count": 1588
+      },
+      "60": {
+        "novel_id": "580105",
+        "title": "마계정복하고 왔더니 국가가 나를 버렸다.",
+        "author": "메리고양이",
+        "view_count": 1130
+      },
+      "80": {
+        "novel_id": "579778",
+        "title": "강화수선전(強化修仙傳)",
+        "author": "차재현",
+        "view_count": 790
+      },
+      "100": {
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 598
+      },
+      "120": {
+        "novel_id": "576702",
+        "title": "기갑마신",
+        "author": "이훈영",
+        "view_count": 460
+      },
+      "140": {
+        "novel_id": "584939",
+        "title": "회귀했더니 과학이 너무 쉬움",
+        "author": "(누누잉)",
+        "view_count": 386
+      },
+      "160": {
+        "novel_id": "583561",
+        "title": "EX급 테이머는 신화급 환수들을 키우며 힐링합니다",
+        "author": "Hadele",
+        "view_count": 291
+      },
+      "180": {
+        "novel_id": "586734",
+        "title": "이혼당한 퇴직 공무원 회귀후 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 227
+      },
+      "200": {
+        "novel_id": "556559",
+        "title": "삼국지: 난세의간옹",
+        "author": "Aka.Jin",
+        "view_count": 162
+      }
+    },
+    "ok": true
   }
 ]
