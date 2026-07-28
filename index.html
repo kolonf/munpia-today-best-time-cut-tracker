@@ -122,6 +122,11 @@
           <div class="day-detail-title" id="dayDetailTitle">오늘 — 0시부터 24시까지 시간대별 조회수</div>
           <canvas id="dayChart"></canvas>
         </div>
+        <div class="panel">
+          <h2>요일별 최저 조회수 시간대</h2>
+          <div class="cutline-title">최근 7일 데이터 기준 (200위)</div>
+          <table id="weekdayLowTable"></table>
+        </div>
       </div>
 
       <div>
@@ -157,6 +162,7 @@ async function load() {
 
   renderCurrent();
   renderCutlineTable();
+  renderWeekdayLowTable();
 
   const now = new Date();
   calYear = now.getFullYear();
@@ -225,6 +231,54 @@ function renderCutlineTable() {
 
   table.innerHTML = `
     <tr><th>구분</th><th style="text-align:right;">조회수</th></tr>
+    ${rows}
+  `;
+}
+
+function renderWeekdayLowTable() {
+  const table = document.getElementById('weekdayLowTable');
+  const weekdayNames = ['일', '월', '화', '수', '목', '금', '토'];
+
+  const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+  const recent = allData.filter(d => {
+    const r200 = d.ranks && d.ranks['200'];
+    return r200 && r200.view_count !== null && new Date(d.timestamp).getTime() >= oneWeekAgo;
+  });
+
+  const buckets = Array.from({ length: 7 }, () => Array.from({ length: 24 }, () => []));
+
+  recent.forEach(r => {
+    const dt = new Date(r.timestamp);
+    const dow = dt.getDay();
+    const hour = dt.getHours();
+    buckets[dow][hour].push(r.ranks['200'].view_count);
+  });
+
+  const rows = weekdayNames.map((name, dow) => {
+    let bestHour = null;
+    let bestAvg = null;
+    for (let h = 0; h < 24; h++) {
+      const vals = buckets[dow][h];
+      if (vals.length === 0) continue;
+      const avg = vals.reduce((a, b) => a + b, 0) / vals.length;
+      if (bestAvg === null || avg < bestAvg) {
+        bestAvg = avg;
+        bestHour = h;
+      }
+    }
+    const cell = bestHour === null
+      ? '<span style="color:var(--muted);">데이터 부족</span>'
+      : `${bestHour}시경 (평균 ${Math.round(bestAvg).toLocaleString()})`;
+    return `
+      <tr>
+        <td>${name}요일</td>
+        <td class="num-cell">${cell}</td>
+      </tr>
+    `;
+  }).join('');
+
+  table.innerHTML = `
+    <tr><th>요일</th><th style="text-align:right;">최저 조회수 시간대</th></tr>
     ${rows}
   `;
 }
