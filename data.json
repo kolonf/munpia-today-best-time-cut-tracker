@@ -2555,5 +2555,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-29T06:00:41.746678+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "579689",
+        "title": "전설급 신수들이 나를 너무 좋아함.",
+        "author": "버머랜드",
+        "view_count": 2822
+      },
+      "40": {
+        "novel_id": "579152",
+        "title": "단전을 고쳐주니 무림 최고수들이 집착함",
+        "author": "Mrpotato",
+        "view_count": 1754
+      },
+      "60": {
+        "novel_id": "578219",
+        "title": "나 혼자 신화급 특성으로 탑 등반",
+        "author": "사바희",
+        "view_count": 1063
+      },
+      "80": {
+        "novel_id": "578711",
+        "title": "내일을 보는 눈",
+        "author": "팥빵맨",
+        "view_count": 769
+      },
+      "100": {
+        "novel_id": "566337",
+        "title": "말년병장 남한산성 전투에 가다",
+        "author": "하기동",
+        "view_count": 609
+      },
+      "120": {
+        "novel_id": "582465",
+        "title": "21세기 훈장이 명종 시대에 환생함",
+        "author": "담배맛동산",
+        "view_count": 430
+      },
+      "140": {
+        "novel_id": "581102",
+        "title": "수도자의 신점에 거물들이 집착함",
+        "author": "안전사랑",
+        "view_count": 341
+      },
+      "160": {
+        "novel_id": "583231",
+        "title": "재벌 회장이 내 점집 번호표를 구걸함",
+        "author": "뽕맛지림v",
+        "view_count": 277
+      },
+      "180": {
+        "novel_id": "583565",
+        "title": "대일본제국은 이제 제 겁니다",
+        "author": "Merkava",
+        "view_count": 224
+      },
+      "200": {
+        "novel_id": "578615",
+        "title": "대공황 시대 뉴욕에서 바 영업 시작했습니다",
+        "author": "옛날사람임",
+        "view_count": 189
+      }
+    },
+    "ok": true
   }
 ]
