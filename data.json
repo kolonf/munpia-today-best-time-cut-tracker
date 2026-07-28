@@ -2027,5 +2027,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-29T02:30:44.175065+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "579689",
+        "title": "전설급 신수들이 나를 너무 좋아함.",
+        "author": "버머랜드",
+        "view_count": 2762
+      },
+      "40": {
+        "novel_id": "584701",
+        "title": "농사만 지었는데 북부대공이 되었다",
+        "author": "퍼본fb",
+        "view_count": 1541
+      },
+      "60": {
+        "novel_id": "583560",
+        "title": "식물인간에서 깨어났더니 돈이 보인다",
+        "author": "소수림",
+        "view_count": 1007
+      },
+      "80": {
+        "novel_id": "583062",
+        "title": "월클 선수들이 나한테 집착함",
+        "author": "콜레오",
+        "view_count": 736
+      },
+      "100": {
+        "novel_id": "582436",
+        "title": "사표 내러 갔다가 월드컵 감독이 됐다",
+        "author": "낙원s",
+        "view_count": 578
+      },
+      "120": {
+        "novel_id": "583471",
+        "title": "삼국지: 회귀한 여포가 양아버지를 거부함",
+        "author": "대역드래곤",
+        "view_count": 398
+      },
+      "140": {
+        "novel_id": "584485",
+        "title": "선협에서 현세로 귀환한 신선은 수선이 너무 쉽다",
+        "author": "태영(太影)",
+        "view_count": 326
+      },
+      "160": {
+        "novel_id": "583178",
+        "title": "알박기 능력으로 꿀빨면서 탑 등반",
+        "author": "후토마키",
+        "view_count": 260
+      },
+      "180": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "200": {
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 167
+      }
+    },
+    "ok": false
   }
 ]
