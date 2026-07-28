@@ -2885,5 +2885,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-29T08:30:38.519957+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "579689",
+        "title": "전설급 신수들이 나를 너무 좋아함.",
+        "author": "버머랜드",
+        "view_count": 2925
+      },
+      "40": {
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 1598
+      },
+      "60": {
+        "novel_id": "581737",
+        "title": "게임 속 전쟁영웅이 되었다",
+        "author": "시인단테",
+        "view_count": 1135
+      },
+      "80": {
+        "novel_id": "581887",
+        "title": "EX급 기연 싹슬이로 탑등반이 너무 쉬움",
+        "author": "[세인토]",
+        "view_count": 794
+      },
+      "100": {
+        "novel_id": "586291",
+        "title": "14세 연하 회장 손녀가 고백했다",
+        "author": "새결",
+        "view_count": 565
+      },
+      "120": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "140": {
+        "novel_id": "584939",
+        "title": "회귀했더니 과학이 너무 쉬움",
+        "author": "(누누잉)",
+        "view_count": 322
+      },
+      "160": {
+        "novel_id": "583125",
+        "title": "집 나간 미드필더가 세리에 A를 폭격함",
+        "author": "산타클라스",
+        "view_count": 270
+      },
+      "180": {
+        "novel_id": "583801",
+        "title": "삼국지 : 대검신궁",
+        "author": "메이키",
+        "view_count": 217
+      },
+      "200": {
+        "novel_id": "585345",
+        "title": "EX 즉사기급 스킬로 헬 난이도 탑 등반",
+        "author": "지우연",
+        "view_count": 179
+      }
+    },
+    "ok": false
   }
 ]
