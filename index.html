@@ -53,6 +53,7 @@
   td.num-cell { text-align: right; font-variant-numeric: tabular-nums; }
   .empty { color: var(--muted); font-size: 14px; text-align: center; padding: 40px 0; }
 
+  /* 달력 */
   .cal-header {
     display: flex;
     align-items: center;
@@ -143,7 +144,7 @@
 
 <script>
 let allData = [];
-let calYear, calMonth;
+let calYear, calMonth; // calMonth: 0-11
 let dayChartInstance = null;
 let selectedKey = null;
 
@@ -173,4 +174,156 @@ function dateKeyFromDate(dt) {
 }
 
 function dateKey(record) {
-  return dateKeyFromDate(new
+  return dateKeyFromDate(new Date(record.timestamp));
+}
+
+function latestValidRecord() {
+  for (let i = allData.length - 1; i >= 0; i--) {
+    const r = allData[i];
+    if (r.ranks && r.ranks['200'] && r.ranks['200'].view_count !== null) return r;
+  }
+  return allData.length ? allData[allData.length - 1] : null;
+}
+
+function renderCurrent() {
+  const currentPanel = document.getElementById('currentPanel');
+  const latest = latestValidRecord();
+  if (!latest || !latest.ranks['200'] || latest.ranks['200'].view_count === null) {
+    currentPanel.innerHTML = '<div class="empty">아직 수집된 데이터가 없어요. 잠시 후 다시 확인해주세요.</div>';
+    return;
+  }
+  const r200 = latest.ranks['200'];
+  currentPanel.innerHTML = `
+    <div class="current">
+      <div class="num">${r200.view_count.toLocaleString()}</div>
+      <div class="title">${r200.title ?? '(제목 미확인)'} — 200위</div>
+      <div class="meta">마지막 갱신: ${new Date(latest.timestamp).toLocaleString('ko-KR')}</div>
+    </div>
+  `;
+}
+
+function renderCutlineTable() {
+  const table = document.getElementById('cutlineTable');
+  const titleEl = document.getElementById('cutlineTitle');
+  const latest = latestValidRecord();
+  if (!latest) { table.innerHTML = ''; titleEl.textContent = ''; return; }
+
+  titleEl.textContent = `${new Date(latest.timestamp).toLocaleString('ko-KR')} 기준`;
+
+  const rows = PAGE_RANKS.map((rank, idx) => {
+    const page = idx + 1;
+    const entry = latest.ranks[String(rank)];
+    const views = entry && entry.view_count !== null ? entry.view_count.toLocaleString() : '-';
+    return `
+      <tr>
+        <td>${page}페이지 커트 (${rank}위)</td>
+        <td class="num-cell">${views}</td>
+      </tr>
+    `;
+  }).join('');
+
+  table.innerHTML = `
+    <tr><th>구분</th><th style="text-align:right;">조회수</th></tr>
+    ${rows}
+  `;
+}
+
+function renderCalendar() {
+  const calTitle = document.getElementById('calTitle');
+  const calGrid = document.getElementById('calGrid');
+  calTitle.textContent = `${calYear}년 ${calMonth + 1}월`;
+
+  const datesWithData = new Set(allData.map(dateKey));
+
+  const dowNames = ['일', '월', '화', '수', '목', '금', '토'];
+  let html = dowNames.map(d => `<div class="cal-dow">${d}</div>`).join('');
+
+  const firstDay = new Date(calYear, calMonth, 1);
+  const startWeekday = firstDay.getDay();
+  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+
+  for (let i = 0; i < startWeekday; i++) {
+    html += `<div class="cal-day empty-cell"></div>`;
+  }
+
+  for (let day = 1; day <= daysInMonth; day++) {
+    const m = String(calMonth + 1).padStart(2, '0');
+    const dstr = String(day).padStart(2, '0');
+    const key = `${calYear}-${m}-${dstr}`;
+    const has = datesWithData.has(key);
+    const isSelected = key === selectedKey;
+    html += `<div class="cal-day ${has ? 'has-data' : ''} ${isSelected ? 'selected' : ''}" data-key="${key}">${day}</div>`;
+  }
+
+  calGrid.innerHTML = html;
+
+  calGrid.querySelectorAll('.cal-day.has-data').forEach(el => {
+    el.addEventListener('click', () => {
+      selectedKey = el.getAttribute('data-key');
+      renderCalendar();
+      renderDayChart(selectedKey);
+    });
+  });
+}
+
+function renderDayChart(key) {
+  const dayDetailTitle = document.getElementById('dayDetailTitle');
+  const dayRecords = allData.filter(d => dateKey(d) === key);
+
+  const [y, m, d] = key.split('-').map(Number);
+  dayDetailTitle.textContent = `${y}년 ${m}월 ${d}일 — 0시부터 24시까지 시간대별 조회수 (200위)`;
+
+  const hourly = new Array(24).fill(null);
+  dayRecords.forEach(r => {
+    const r200 = r.ranks['200'];
+    if (!r200 || r200.view_count === null) return;
+    const hour = new Date(r.timestamp).getHours();
+    hourly[hour] = r200.view_count;
+  });
+
+  const labels = Array.from({ length: 24 }, (_, h) => `${h}시`);
+
+  if (dayChartInstance) {
+    dayChartInstance.destroy();
+  }
+  dayChartInstance = new Chart(document.getElementById('dayChart'), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: '조회수',
+        data: hourly,
+        borderColor: '#6ee7c8',
+        backgroundColor: 'rgba(110,231,200,0.12)',
+        fill: true,
+        tension: 0.3,
+        spanGaps: true,
+        pointRadius: 3,
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
+        y: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
+      }
+    }
+  });
+}
+
+document.getElementById('prevMonth').addEventListener('click', () => {
+  calMonth -= 1;
+  if (calMonth < 0) { calMonth = 11; calYear -= 1; }
+  renderCalendar();
+});
+document.getElementById('nextMonth').addEventListener('click', () => {
+  calMonth += 1;
+  if (calMonth > 11) { calMonth = 0; calYear += 1; }
+  renderCalendar();
+});
+
+load();
+</script>
+</body>
+</html>
