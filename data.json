@@ -1697,5 +1697,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-29T00:30:50.289103+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "579689",
+        "title": "전설급 신수들이 나를 너무 좋아함.",
+        "author": "버머랜드",
+        "view_count": 2680
+      },
+      "40": {
+        "novel_id": "581981",
+        "title": "북부대공의 현질하는 남편이 되었다",
+        "author": "캐플",
+        "view_count": 1476
+      },
+      "60": {
+        "novel_id": "581486",
+        "title": "EX급 특성으로 수습 해적에서 해적왕까지",
+        "author": "Primus",
+        "view_count": 968
+      },
+      "80": {
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 689
+      },
+      "100": {
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 527
+      },
+      "120": {
+        "novel_id": "586734",
+        "title": "이혼당한 퇴직 공무원 회귀후 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 372
+      },
+      "140": {
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 316
+      },
+      "160": {
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 247
+      },
+      "180": {
+        "novel_id": "583801",
+        "title": "삼국지 : 대검신궁",
+        "author": "메이키",
+        "view_count": 189
+      },
+      "200": {
+        "novel_id": "583565",
+        "title": "대일본제국은 이제 제 겁니다",
+        "author": "Merkava",
+        "view_count": 145
+      }
+    },
+    "ok": true
   }
 ]
