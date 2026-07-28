@@ -2687,5 +2687,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-29T07:00:52.828457+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "579689",
+        "title": "전설급 신수들이 나를 너무 좋아함.",
+        "author": "버머랜드",
+        "view_count": 2839
+      },
+      "40": {
+        "novel_id": "581142",
+        "title": "SSS급 게이트 옆에 안전지대를 만들었다",
+        "author": "limkun",
+        "view_count": 1838
+      },
+      "60": {
+        "novel_id": "578219",
+        "title": "나 혼자 신화급 특성으로 탑 등반",
+        "author": "사바희",
+        "view_count": 1096
+      },
+      "80": {
+        "novel_id": "583936",
+        "title": "삼국지, 눕는 게 계책으로 오해받는 중입니다",
+        "author": "연파냥",
+        "view_count": 807
+      },
+      "100": {
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 609
+      },
+      "120": {
+        "novel_id": "584254",
+        "title": "경험치 100,000,000배로 탑 등반",
+        "author": "글혼",
+        "view_count": 435
+      },
+      "140": {
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 346
+      },
+      "160": {
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 279
+      },
+      "180": {
+        "novel_id": "586568",
+        "title": "은퇴한 FBI 요원이 깡촌에서 라이브 방송하며 힐링함",
+        "author": "백원만s",
+        "view_count": 233
+      },
+      "200": {
+        "novel_id": "566295",
+        "title": "MBTI로 태종과 세종의 설계자가 되었다",
+        "author": "송석",
+        "view_count": 181
+      }
+    },
+    "ok": true
   }
 ]
