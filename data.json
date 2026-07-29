@@ -4337,5 +4337,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-29T19:00:45.012339+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "583812",
+        "title": "전능의 힐을 각성했다",
+        "author": "지하™",
+        "view_count": 2614
+      },
+      "40": {
+        "novel_id": "583018",
+        "title": "거물들이 집착하는 독일 제국 혼혈 융커",
+        "author": "글철인",
+        "view_count": 1562
+      },
+      "60": {
+        "novel_id": "583837",
+        "title": "방구석 덕후가 야구를 씹어먹음",
+        "author": "단팥빵소년",
+        "view_count": 1028
+      },
+      "80": {
+        "novel_id": "496889",
+        "title": "미래수선전",
+        "author": "엄청난",
+        "view_count": 777
+      },
+      "100": {
+        "novel_id": "578484",
+        "title": "검은머리 신입 FBI 요원이 너무 유능하다",
+        "author": "아마기슈",
+        "view_count": 542
+      },
+      "120": {
+        "novel_id": "582436",
+        "title": "사표 내러 갔다가 월드컵 감독이 됐다",
+        "author": "낙원s",
+        "view_count": 449
+      },
+      "140": {
+        "novel_id": "585812",
+        "title": "땅만 사면 공룡이 나온다니까요?",
+        "author": "힐링이좋다",
+        "view_count": 378
+      },
+      "160": {
+        "novel_id": "585082",
+        "title": "나 혼자 1000억 골드로 탑 등반",
+        "author": "별끝작가",
+        "view_count": 296
+      },
+      "180": {
+        "novel_id": "579664",
+        "title": "시골카페 운영하다 뭔가 터짐",
+        "author": "김리노",
+        "view_count": 198
+      },
+      "200": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      }
+    },
+    "ok": false
   }
 ]
