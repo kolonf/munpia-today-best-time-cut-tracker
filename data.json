@@ -6053,5 +6053,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-30T07:00:43.849407+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "580369",
+        "title": "CIA가 집착하는 미국 무당",
+        "author": "B군",
+        "view_count": 2761
+      },
+      "40": {
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 1514
+      },
+      "60": {
+        "novel_id": "583018",
+        "title": "거물들이 집착하는 독일 제국 혼혈 융커",
+        "author": "글철인",
+        "view_count": 1111
+      },
+      "80": {
+        "novel_id": "570727",
+        "title": "고려가 버린 땅, 내가 먹기로 했다",
+        "author": "햄버그",
+        "view_count": 764
+      },
+      "100": {
+        "novel_id": "580096",
+        "title": "경질된 야구감독은 꼴찌팀의 미래를 안다",
+        "author": "하호크로수",
+        "view_count": 561
+      },
+      "120": {
+        "novel_id": "583471",
+        "title": "삼국지: 회귀한 여포가 양아버지를 거부함",
+        "author": "대역드래곤",
+        "view_count": 413
+      },
+      "140": {
+        "novel_id": "584485",
+        "title": "선협에서 현세로 귀환한 신선은 수선이 너무 쉽다",
+        "author": "태영(太影)",
+        "view_count": 321
+      },
+      "160": {
+        "novel_id": "583862",
+        "title": "인성 터졌던 에이스가 개과천선함",
+        "author": "새결",
+        "view_count": 263
+      },
+      "180": {
+        "novel_id": "577935",
+        "title": "삼국지 제갈량의 총애를 독식했다",
+        "author": "밧슈",
+        "view_count": 204
+      },
+      "200": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      }
+    },
+    "ok": false
   }
 ]
