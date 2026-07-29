@@ -4997,5 +4997,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-30T00:00:45.893850+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "583076",
+        "title": "월드컵 임시 감독이 되었다",
+        "author": "닥터암",
+        "view_count": 2441
+      },
+      "40": {
+        "novel_id": "583837",
+        "title": "방구석 덕후가 야구를 씹어먹음",
+        "author": "단팥빵소년",
+        "view_count": 1307
+      },
+      "60": {
+        "novel_id": "581535",
+        "title": "회귀 후 석유재벌 사우디 왕자",
+        "author": "헌앙",
+        "view_count": 863
+      },
+      "80": {
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 663
+      },
+      "100": {
+        "novel_id": "583363",
+        "title": "퇴사하고 신점 쳐서 억만장자",
+        "author": "고돌이™",
+        "view_count": 507
+      },
+      "120": {
+        "novel_id": "586291",
+        "title": "14세 연하 회장 손녀가 고백했다",
+        "author": "새결",
+        "view_count": 388
+      },
+      "140": {
+        "novel_id": "581270",
+        "title": "이 기간트는 이제 제 겁니다",
+        "author": "남극부엉이",
+        "view_count": 290
+      },
+      "160": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "180": {
+        "novel_id": "583862",
+        "title": "인성 터졌던 에이스가 개과천선함",
+        "author": "새결",
+        "view_count": 186
+      },
+      "200": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      }
+    },
+    "ok": false
   }
 ]
