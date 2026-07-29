@@ -4667,5 +4667,71 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-29T21:30:40.448811+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 2756
+      },
+      "40": {
+        "novel_id": "579762",
+        "title": "신입사원이 천재였다",
+        "author": "콜라탄산",
+        "view_count": 1550
+      },
+      "60": {
+        "novel_id": "579050",
+        "title": "미국에서 K-주입식 교육했더니 학부모들이 집착함",
+        "author": "LUCA™",
+        "view_count": 870
+      },
+      "80": {
+        "novel_id": "561879",
+        "title": "삼국지 최강 빌런 여포로 살아남기",
+        "author": "chowoe",
+        "view_count": 622
+      },
+      "100": {
+        "novel_id": "582436",
+        "title": "사표 내러 갔다가 월드컵 감독이 됐다",
+        "author": "낙원s",
+        "view_count": 487
+      },
+      "120": {
+        "novel_id": "583018",
+        "title": "거물들이 집착하는 독일 제국 혼혈 융커",
+        "author": "글철인",
+        "view_count": 394
+      },
+      "140": {
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 289
+      },
+      "160": {
+        "novel_id": "586568",
+        "title": "은퇴한 FBI 요원이 깡촌에서 라이브 방송하며 힐링함",
+        "author": "백원만s",
+        "view_count": 220
+      },
+      "180": {
+        "novel_id": "586291",
+        "title": "14세 연하 회장 손녀가 고백했다",
+        "author": "새결",
+        "view_count": 182
+      },
+      "200": {
+        "novel_id": "579346",
+        "title": "해임된 경찰은 유일한 각성자",
+        "author": "쿨라임",
+        "view_count": 131
+      }
+    },
+    "ok": true
   }
 ]
