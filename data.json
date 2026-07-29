@@ -5327,5 +5327,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-30T02:00:47.157322+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "580512",
+        "title": "외계인 앱으로 대재벌 되다",
+        "author": "[도비]",
+        "view_count": 2461
+      },
+      "40": {
+        "novel_id": "582722",
+        "title": "경호원 출신 승무원이 너무 유능함",
+        "author": "동쪽사람",
+        "view_count": 1348
+      },
+      "60": {
+        "novel_id": "581486",
+        "title": "EX급 특성으로 수습 해적에서 해적왕까지",
+        "author": "Primus",
+        "view_count": 943
+      },
+      "80": {
+        "novel_id": "580332",
+        "title": "재벌 서자 때려치우고 요리하는 성자가 됨",
+        "author": "크엉컹컹",
+        "view_count": 680
+      },
+      "100": {
+        "novel_id": "581640",
+        "title": "회귀한 개발자는 딸깍으로 재벌이 되었다",
+        "author": "제로프리",
+        "view_count": 504
+      },
+      "120": {
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 371
+      },
+      "140": {
+        "novel_id": "582294",
+        "title": "회귀 트레이더가 너무 겸손함",
+        "author": "아이스버그",
+        "view_count": 295
+      },
+      "160": {
+        "novel_id": "583862",
+        "title": "인성 터졌던 에이스가 개과천선함",
+        "author": "새결",
+        "view_count": 227
+      },
+      "180": {
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 186
+      },
+      "200": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      }
+    },
+    "ok": false
   }
 ]
