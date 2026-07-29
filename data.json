@@ -5063,5 +5063,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-30T00:30:38.284364+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "585475",
+        "title": "은퇴 당한 헌터가 재평가되었다",
+        "author": "진소화",
+        "view_count": 2512
+      },
+      "40": {
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 1372
+      },
+      "60": {
+        "novel_id": "561879",
+        "title": "삼국지 최강 빌런 여포로 살아남기",
+        "author": "chowoe",
+        "view_count": 910
+      },
+      "80": {
+        "novel_id": "580332",
+        "title": "재벌 서자 때려치우고 요리하는 성자가 됨",
+        "author": "크엉컹컹",
+        "view_count": 673
+      },
+      "100": {
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 479
+      },
+      "120": {
+        "novel_id": "581487",
+        "title": "신점 봤더니, 거물들이 자꾸 꼬임",
+        "author": "런치",
+        "view_count": 362
+      },
+      "140": {
+        "novel_id": "580809",
+        "title": "국보급 연기력을 상속받았다",
+        "author": "자경(蔗境)",
+        "view_count": 291
+      },
+      "160": {
+        "novel_id": "580781",
+        "title": "차원 배달했더니 제국이 집착한다.",
+        "author": "한도현",
+        "view_count": 226
+      },
+      "180": {
+        "novel_id": "579146",
+        "title": "수선계에 양자 컴퓨터를 이식했다",
+        "author": "심쿵한",
+        "view_count": 171
+      },
+      "200": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      }
+    },
+    "ok": false
   }
 ]
