@@ -3479,5 +3479,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-29T13:00:53.191953+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "583076",
+        "title": "월드컵 임시 감독이 되었다",
+        "author": "닥터암",
+        "view_count": 3081
+      },
+      "40": {
+        "novel_id": "574506",
+        "title": "낭인이 무림을 살아가는 법",
+        "author": "테르치",
+        "view_count": 1576
+      },
+      "60": {
+        "novel_id": "582214",
+        "title": "신내림받고 입털었더니 거물들이 집착하는 일타무당됨",
+        "author": "햇살쨍",
+        "view_count": 1095
+      },
+      "80": {
+        "novel_id": "579778",
+        "title": "강화수선전(強化修仙傳)",
+        "author": "차재현",
+        "view_count": 706
+      },
+      "100": {
+        "novel_id": "581486",
+        "title": "EX급 특성으로 수습 해적에서 해적왕까지",
+        "author": "Primus",
+        "view_count": 526
+      },
+      "120": {
+        "novel_id": "577935",
+        "title": "삼국지 제갈량의 총애를 독식했다",
+        "author": "밧슈",
+        "view_count": 434
+      },
+      "140": {
+        "novel_id": "563375",
+        "title": "현실 FM하는 상태창 구단주",
+        "author": "헌팅산양",
+        "view_count": 331
+      },
+      "160": {
+        "novel_id": "581082",
+        "title": "회귀 후 역대급 헌터",
+        "author": "앱솔",
+        "view_count": 264
+      },
+      "180": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "200": {
+        "novel_id": "564640",
+        "title": "회귀한 줄 모르고 재입대했다",
+        "author": "에바트리체",
+        "view_count": 149
+      }
+    },
+    "ok": false
   }
 ]
