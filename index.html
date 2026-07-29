@@ -257,6 +257,7 @@ function renderWeekdayLowTable() {
   const rows = weekdayNames.map((name, dow) => {
     let bestHour = null;
     let bestAvg = null;
+    let bestMin = null;
     for (let h = 0; h < 24; h++) {
       const vals = buckets[dow][h];
       if (vals.length === 0) continue;
@@ -264,11 +265,12 @@ function renderWeekdayLowTable() {
       if (bestAvg === null || avg < bestAvg) {
         bestAvg = avg;
         bestHour = h;
+        bestMin = Math.min(...vals);
       }
     }
     const cell = bestHour === null
       ? '<span style="color:var(--muted);">데이터 부족</span>'
-      : `${bestHour}시경 (평균 ${Math.round(bestAvg).toLocaleString()})`;
+      : `${bestHour}시경 (평균 ${Math.round(bestAvg).toLocaleString()}, 최저 ${bestMin.toLocaleString()})`;
     return `
       <tr>
         <td>${name}요일</td>
