@@ -5459,5 +5459,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-30T03:00:56.021018+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "582993",
+        "title": "미국 시골 목수에게 거물들이 찾아옴.",
+        "author": "탄뽀",
+        "view_count": 2513
+      },
+      "40": {
+        "novel_id": "579152",
+        "title": "단전을 고쳐주니 무림 최고수들이 집착함",
+        "author": "Mrpotato",
+        "view_count": 1406
+      },
+      "60": {
+        "novel_id": "578219",
+        "title": "나 혼자 신화급 특성으로 탑 등반",
+        "author": "사바희",
+        "view_count": 970
+      },
+      "80": {
+        "novel_id": "583936",
+        "title": "삼국지, 눕는 게 계책으로 오해받는 중입니다",
+        "author": "연파냥",
+        "view_count": 697
+      },
+      "100": {
+        "novel_id": "581640",
+        "title": "회귀한 개발자는 딸깍으로 재벌이 되었다",
+        "author": "제로프리",
+        "view_count": 532
+      },
+      "120": {
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 386
+      },
+      "140": {
+        "novel_id": "584254",
+        "title": "경험치 100,000,000배로 탑 등반",
+        "author": "글혼",
+        "view_count": 305
+      },
+      "160": {
+        "novel_id": "583862",
+        "title": "인성 터졌던 에이스가 개과천선함",
+        "author": "새결",
+        "view_count": 234
+      },
+      "180": {
+        "novel_id": "565004",
+        "title": "이혼하고 골프 쳤더니 돈이 미쳤다!",
+        "author": "한량신선",
+        "view_count": 198
+      },
+      "200": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      }
+    },
+    "ok": false
   }
 ]
