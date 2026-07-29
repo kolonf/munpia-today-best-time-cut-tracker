@@ -3017,5 +3017,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-29T09:30:35.791524+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "580512",
+        "title": "외계인 앱으로 대재벌 되다",
+        "author": "[도비]",
+        "view_count": 3072
+      },
+      "40": {
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 1760
+      },
+      "60": {
+        "novel_id": "573248",
+        "title": "타임1866, 대한연방의 전설",
+        "author": "풍아저씨",
+        "view_count": 1154
+      },
+      "80": {
+        "novel_id": "580105",
+        "title": "마계정복하고 왔더니 국가가 나를 버렸다.",
+        "author": "메리고양이",
+        "view_count": 811
+      },
+      "100": {
+        "novel_id": "573364",
+        "title": "전직 용사의 주종 계약",
+        "author": "망신창이",
+        "view_count": 577
+      },
+      "120": {
+        "novel_id": "568951",
+        "title": "1945, 한국전쟁은 일어나지 않았다",
+        "author": "역사설계자",
+        "view_count": 404
+      },
+      "140": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "160": {
+        "novel_id": "583125",
+        "title": "집 나간 미드필더가 세리에 A를 폭격함",
+        "author": "산타클라스",
+        "view_count": 278
+      },
+      "180": {
+        "novel_id": "583402",
+        "title": "K-딸아빠는 너튜브 스타가 너무 쉽다",
+        "author": "나이와키",
+        "view_count": 213
+      },
+      "200": {
+        "novel_id": "564640",
+        "title": "회귀한 줄 모르고 재입대했다",
+        "author": "에바트리체",
+        "view_count": 136
+      }
+    },
+    "ok": false
   }
 ]
