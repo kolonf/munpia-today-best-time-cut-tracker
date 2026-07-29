@@ -329,11 +329,13 @@ function renderDayChart(key) {
   dayDetailTitle.textContent = `${y}년 ${m}월 ${d}일 — 0시부터 24시까지 시간대별 조회수 (200위)`;
 
   const hourly = new Array(24).fill(null);
+  const hourlyTitles = new Array(24).fill(null);
   dayRecords.forEach(r => {
     const r200 = r.ranks['200'];
     if (!r200 || r200.view_count === null) return;
     const hour = new Date(r.timestamp).getHours();
     hourly[hour] = r200.view_count;
+    hourlyTitles[hour] = r200.title;
   });
 
   const labels = Array.from({ length: 24 }, (_, h) => `${h}시`);
@@ -358,7 +360,17 @@ function renderDayChart(key) {
     },
     options: {
       responsive: true,
-      plugins: { legend: { display: false } },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            afterLabel: (context) => {
+              const title = hourlyTitles[context.dataIndex];
+              return title ? `작품명: ${title}` : '';
+            }
+          }
+        }
+      },
       scales: {
         x: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
         y: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
