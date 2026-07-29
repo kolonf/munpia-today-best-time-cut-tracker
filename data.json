@@ -6119,5 +6119,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-30T07:30:39.656405+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "580512",
+        "title": "외계인 앱으로 대재벌 되다",
+        "author": "[도비]",
+        "view_count": 2867
+      },
+      "40": {
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 1539
+      },
+      "60": {
+        "novel_id": "578219",
+        "title": "나 혼자 신화급 특성으로 탑 등반",
+        "author": "사바희",
+        "view_count": 1105
+      },
+      "80": {
+        "novel_id": "582007",
+        "title": "EX급 만능 서포터인 줄 모르고 국가에게 버림받음",
+        "author": "뒤랑달",
+        "view_count": 751
+      },
+      "100": {
+        "novel_id": "582794",
+        "title": "내일을 보는 투자 천재",
+        "author": "팥빵맨",
+        "view_count": 528
+      },
+      "120": {
+        "novel_id": "586437",
+        "title": "미국 급식으로 한식 만들었더니 거물들이 미쳐날뜀",
+        "author": "임완",
+        "view_count": 396
+      },
+      "140": {
+        "novel_id": "582294",
+        "title": "회귀 트레이더가 너무 겸손함",
+        "author": "아이스버그",
+        "view_count": 315
+      },
+      "160": {
+        "novel_id": "585835",
+        "title": "700억 엑시트를 상속 받았다",
+        "author": "웹소툰",
+        "view_count": 261
+      },
+      "180": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "200": {
+        "novel_id": "573590",
+        "title": "삼국지 장비전: 도원결의를 거절하다",
+        "author": "프로미녹",
+        "view_count": 132
+      }
+    },
+    "ok": false
   }
 ]
