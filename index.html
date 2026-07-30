@@ -199,10 +199,13 @@ function renderCurrent() {
     return;
   }
   const r200 = latest.ranks['200'];
+  const subNote = r200.substituted
+    ? ` <span style="color:var(--muted);font-size:12px;">(200위 감지 실패 — ${r200.actual_rank}위로 대체)</span>`
+    : '';
   currentPanel.innerHTML = `
     <div class="current">
       <div class="num">${r200.view_count.toLocaleString()}</div>
-      <div class="title">${r200.title ?? '(제목 미확인)'} — 200위</div>
+      <div class="title">${r200.title ?? '(제목 미확인)'} — 200위${subNote}</div>
       <div class="meta">마지막 갱신: ${new Date(latest.timestamp).toLocaleString('ko-KR')}</div>
     </div>
   `;
@@ -221,9 +224,12 @@ function renderCutlineTable() {
     const entry = latest.ranks[String(rank)];
     const views = entry && entry.view_count !== null ? entry.view_count.toLocaleString() : '-';
     const title = entry && entry.title ? entry.title : '(제목 미확인)';
+    const subNote = entry && entry.substituted
+      ? ` <span style="color:var(--muted);">(${entry.actual_rank}위로 대체)</span>`
+      : '';
     return `
       <tr>
-        <td>${title} - ${page}페이지 커트 (${rank}위)</td>
+        <td>${title} - ${page}페이지 커트 (${rank}위)${subNote}</td>
         <td class="num-cell">${views}</td>
       </tr>
     `;
