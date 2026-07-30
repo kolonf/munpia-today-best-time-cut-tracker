@@ -9215,5 +9215,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-31T00:30:38.951290+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582993",
+        "title": "미국 시골에서 빈티지 가구 복원으로 대박남",
+        "author": "탄뽀",
+        "view_count": 2529,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 1409,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "578846",
+        "title": "삼촌들, 총 내리고 밥 먹어요",
+        "author": "비몽자몽",
+        "view_count": 871,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583062",
+        "title": "월클 선수들이 나한테 집착함",
+        "author": "콜레오",
+        "view_count": 673,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 462,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583627",
+        "title": "방산재벌의 신(新) 남벌",
+        "author": "화오름",
+        "view_count": 337,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사가 되었다",
+        "author": "아트라",
+        "view_count": 259,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587418",
+        "title": "지방을 태우는 마법사",
+        "author": "마지막검사",
+        "view_count": 205,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "579146",
+        "title": "수선계에 양자 컴퓨터를 이식했다",
+        "author": "심쿵한",
+        "view_count": 162,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "581595",
+        "title": "단종엄마는 죽지 않는다",
+        "author": "양평시바견",
+        "view_count": 107,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
