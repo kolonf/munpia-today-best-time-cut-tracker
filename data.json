@@ -7199,5 +7199,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-30T14:30:38.431607+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "581981",
+        "title": "북부대공의 현질하는 남편이 되었다",
+        "author": "캐플",
+        "view_count": 2603,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583018",
+        "title": "거물들이 집착하는 독일 제국 혼혈 융커",
+        "author": "글철인",
+        "view_count": 1581,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "577610",
+        "title": "투자 실패 후 국민 여가수의 남동생으로 회귀했다",
+        "author": "신윤",
+        "view_count": 1027,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 703,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583565",
+        "title": "대일본제국은 이제 제 겁니다",
+        "author": "Merkava",
+        "view_count": 503,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "574664",
+        "title": "북방 군벌의 장남이 되었다.",
+        "author": "야수방",
+        "view_count": 397,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 335,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 245,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585742",
+        "title": "패키징 스킬로 포션 만들었더니 S급들이 환장하고 구매함",
+        "author": "차석원",
+        "view_count": 200,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586568",
+        "title": "은퇴한 FBI 요원이 깡촌에서 라이브 방송하며 힐링함",
+        "author": "백원만s",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
