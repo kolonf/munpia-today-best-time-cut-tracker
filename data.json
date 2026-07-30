@@ -7391,5 +7391,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-30T15:30:45.065544+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579007",
+        "title": "무고당한 헌터는 국가재앙급으로 각성했다",
+        "author": "괴물신입",
+        "view_count": 2639,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581772",
+        "title": "생각을 읽었더니 전세계 투수들이 나에게 집착함",
+        "author": "떠오르다",
+        "view_count": 1528,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 1027,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "563280",
+        "title": "GOTY를 싹쓸이하는 국가권력급 게임사",
+        "author": "뱅오",
+        "view_count": 702,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "584254",
+        "title": "경험치 100,000,000배로 탑 등반",
+        "author": "글혼",
+        "view_count": 486,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583836",
+        "title": "삼국지 여포로 천하를 찢다",
+        "author": "고비류",
+        "view_count": 415,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "566265",
+        "title": "해고당한 천재 셰프가 방송으로 대박남",
+        "author": "아멋밍",
+        "view_count": 345,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586437",
+        "title": "미국 급식으로 한식 만들었더니 거물들이 미쳐날뜀",
+        "author": "임완",
+        "view_count": 266,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "556559",
+        "title": "삼국지: 난세의간옹",
+        "author": "Aka.Jin",
+        "view_count": 203,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "579101",
+        "title": "거물들이 집착하는 신의가 되었다",
+        "author": "파란호박",
+        "view_count": 144,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
