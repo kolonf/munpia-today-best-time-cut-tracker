@@ -10847,5 +10847,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-31T08:00:45.111222+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "580369",
+        "title": "CIA가 집착하는 미국 무당",
+        "author": "B군",
+        "view_count": 2855,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583837",
+        "title": "방구석 덕후가 야구를 씹어먹음",
+        "author": "단팥빵소년",
+        "view_count": 1636,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584863",
+        "title": "영안 트였더니, 범죄 증거가 다 보임",
+        "author": "빈명",
+        "view_count": 1107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581082",
+        "title": "회귀 후 역대급 헌터",
+        "author": "앱솔",
+        "view_count": 755,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583560",
+        "title": "식물인간에서 깨어났더니 돈이 보인다",
+        "author": "소수림",
+        "view_count": 493,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 388,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586359",
+        "title": "축구부 벤치인데 월드컵 캐리함",
+        "author": "서태양",
+        "view_count": 300,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586249",
+        "title": "검신 삼촌은 저녁 전에 돌아온다",
+        "author": "다크다람쥐",
+        "view_count": 239,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 188,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "573930",
+        "title": "아포칼립스 3년 전, 섬에 도시를 세웠다",
+        "author": "스토리노트",
+        "view_count": 130,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
