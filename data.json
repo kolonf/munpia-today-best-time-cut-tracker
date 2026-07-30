@@ -9503,5 +9503,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-31T01:30:47.535629+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "580512",
+        "title": "외계인 앱으로 대재벌 되다",
+        "author": "[도비]",
+        "view_count": 2423,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585472",
+        "title": "좌천된 국민연금 지부장이 폐가에서 극락감",
+        "author": "더페이서",
+        "view_count": 1458,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "578846",
+        "title": "삼촌들, 총 내리고 밥 먹어요",
+        "author": "비몽자몽",
+        "view_count": 919,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581082",
+        "title": "회귀 후 역대급 헌터",
+        "author": "앱솔",
+        "view_count": 701,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 477,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 351,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사가 되었다",
+        "author": "아트라",
+        "view_count": 264,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 215,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 164,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "581595",
+        "title": "단종엄마는 죽지 않는다",
+        "author": "양평시바견",
+        "view_count": 109,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
