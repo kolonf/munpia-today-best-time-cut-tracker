@@ -9791,5 +9791,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-31T03:00:46.156183+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "580512",
+        "title": "외계인 앱으로 대재벌 되다",
+        "author": "[도비]",
+        "view_count": 2501,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 1485,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 968,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581082",
+        "title": "회귀 후 역대급 헌터",
+        "author": "앱솔",
+        "view_count": 715,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 496,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 364,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "571208",
+        "title": "외계인 뚜까패고 전능의 기술을 훔쳐 조선으로 튀었다",
+        "author": "정오(正午)",
+        "view_count": 275,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "579670",
+        "title": "거물들이 집착하는 천재 한의사가 되었다",
+        "author": "정하일",
+        "view_count": 225,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 169,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "573930",
+        "title": "아포칼립스 3년 전, 섬에 도시를 세웠다",
+        "author": "스토리노트",
+        "view_count": 112,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
