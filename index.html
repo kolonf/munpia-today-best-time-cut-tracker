@@ -164,23 +164,56 @@ async function load() {
   renderCutlineTable();
   renderWeekdayLowTable();
 
-  const now = new Date();
-  calYear = now.getFullYear();
-  calMonth = now.getMonth();
-  selectedKey = dateKeyFromDate(now);
+  const nowParts = kstNowParts();
+  calYear = nowParts.year;
+  calMonth = nowParts.month - 1;
+  selectedKey = `${nowParts.year}-${pad2(nowParts.month)}-${pad2(nowParts.day)}`;
   renderCalendar();
   renderDayChart(selectedKey);
 }
 
-function dateKeyFromDate(dt) {
-  const y = dt.getFullYear();
-  const m = String(dt.getMonth() + 1).padStart(2, '0');
-  const d = String(dt.getDate()).padStart(2, '0');
-  return `${y}-${m}-${d}`;
+function pad2(n) {
+  return String(n).padStart(2, '0');
+}
+
+// timestamp는 항상 "...+09:00"(KST) 형태로 저장되므로,
+// 브라우저의 로컬 시간대와 무관하게 문자열에서 직접 연/월/일/시를 뽑아낸다.
+function kstParts(isoString) {
+  const m = isoString.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
+  if (!m) return null;
+  return {
+    year: parseInt(m[1], 10),
+    month: parseInt(m[2], 10),
+    day: parseInt(m[3], 10),
+    hour: parseInt(m[4], 10),
+    minute: parseInt(m[5], 10),
+  };
+}
+
+// 지금 이 순간의 한국시간(KST)을 브라우저 시간대와 무관하게 계산한다.
+function kstNowParts() {
+  const now = new Date();
+  const utcMs = now.getTime() + now.getTimezoneOffset() * 60000;
+  const kst = new Date(utcMs + 9 * 60 * 60000);
+  return {
+    year: kst.getFullYear(),
+    month: kst.getMonth() + 1,
+    day: kst.getDate(),
+    hour: kst.getHours(),
+  };
+}
+
+function kstWeekday(year, month, day) {
+  return new Date(Date.UTC(year, month - 1, day)).getUTCDay();
+}
+
+function formatKst(isoString) {
+  return new Date(isoString).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
 }
 
 function dateKey(record) {
-  return dateKeyFromDate(new Date(record.timestamp));
+  const p = kstParts(record.timestamp);
+  return `${p.year}-${pad2(p.month)}-${pad2(p.day)}`;
 }
 
 function latestValidRecord() {
@@ -206,7 +239,7 @@ function renderCurrent() {
     <div class="current">
       <div class="num">${r200.view_count.toLocaleString()}</div>
       <div class="title">${r200.title ?? '(제목 미확인)'} — 200위${subNote}</div>
-      <div class="meta">마지막 갱신: ${new Date(latest.timestamp).toLocaleString('ko-KR')}</div>
+      <div class="meta">마지막 갱신: ${formatKst(latest.timestamp)}</div>
     </div>
   `;
 }
@@ -217,7 +250,7 @@ function renderCutlineTable() {
   const latest = latestValidRecord();
   if (!latest) { table.innerHTML = ''; titleEl.textContent = ''; return; }
 
-  titleEl.textContent = `${new Date(latest.timestamp).toLocaleString('ko-KR')} 기준`;
+  titleEl.textContent = `${formatKst(latest.timestamp)} 기준`;
 
   const rows = PAGE_RANKS.map((rank, idx) => {
     const page = idx + 1;
@@ -254,10 +287,9 @@ function renderWeekdayLowTable() {
   const buckets = Array.from({ length: 7 }, () => Array.from({ length: 24 }, () => []));
 
   recent.forEach(r => {
-    const dt = new Date(r.timestamp);
-    const dow = dt.getDay();
-    const hour = dt.getHours();
-    buckets[dow][hour].push(r.ranks['200'].view_count);
+    const p = kstParts(r.timestamp);
+    const dow = kstWeekday(p.year, p.month, p.day);
+    buckets[dow][p.hour].push(r.ranks['200'].view_count);
   });
 
   const rows = weekdayNames.map((name, dow) => {
@@ -341,7 +373,7 @@ function renderDayChart(key) {
   dayRecords.forEach(r => {
     const r200 = r.ranks['200'];
     if (!r200 || r200.view_count === null) return;
-    const hour = new Date(r.timestamp).getHours();
+    const hour = kstParts(r.timestamp).hour;
     hourly[hour] = r200.view_count;
     hourlyTitles[hour] = r200.title;
   });
