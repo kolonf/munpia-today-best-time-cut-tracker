@@ -10559,5 +10559,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-31T06:30:44.137520+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582993",
+        "title": "미국 시골에서 빈티지 가구 복원으로 대박남",
+        "author": "탄뽀",
+        "view_count": 2682,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 1584,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "561879",
+        "title": "삼국지 최강 빌런 여포로 살아남기",
+        "author": "chowoe",
+        "view_count": 1127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "570727",
+        "title": "고려가 버린 땅, 내가 먹기로 했다",
+        "author": "햄버그",
+        "view_count": 791,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 526,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "568224",
+        "title": "미래컴퓨터로 주식하고 통일했더니 미국중국이 난리",
+        "author": "요망진제주",
+        "view_count": 385,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "582352",
+        "title": "폐기각 복원술사",
+        "author": "화기린쨩",
+        "view_count": 301,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583991",
+        "title": "땜빵으로 콜업된 천재 공격수가 리그를 폭격함",
+        "author": "나는야푸",
+        "view_count": 252,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "566295",
+        "title": "MBTI로 태종과 세종의 설계자가 되었다",
+        "author": "송석",
+        "view_count": 185,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "576806",
+        "title": "삼국지 이각, 천하를 다시쓰다.",
+        "author": "섹시옹",
+        "view_count": 138,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
