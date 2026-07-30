@@ -6383,5 +6383,71 @@
       }
     },
     "ok": false
+  },
+  {
+    "timestamp": "2026-07-30T09:01:02.005149+09:00",
+    "ranks": {
+      "20": {
+        "novel_id": "582634",
+        "title": "이름 없는 별들을 흡수했더니 전세계 첩보기관이 집착함",
+        "author": "탄도",
+        "view_count": 2818
+      },
+      "40": {
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 1572
+      },
+      "60": {
+        "novel_id": "575157",
+        "title": "미국 무당의 신점 스트리밍",
+        "author": ".원",
+        "view_count": 1103
+      },
+      "80": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "100": {
+        "novel_id": "577142",
+        "title": "프로이센에서 살아남기",
+        "author": "대역사랑",
+        "view_count": 492
+      },
+      "120": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "140": {
+        "novel_id": "581142",
+        "title": "SSS급 게이트 옆에 안전지대를 만들었다",
+        "author": "limkun",
+        "view_count": 299
+      },
+      "160": {
+        "novel_id": null,
+        "title": null,
+        "author": null,
+        "view_count": null
+      },
+      "180": {
+        "novel_id": "583795",
+        "title": "달머리골 자연인은 잘 먹고 산다",
+        "author": "Dodeca",
+        "view_count": 194
+      },
+      "200": {
+        "novel_id": "587280",
+        "title": "EX급 탑 등반자인줄 모르고 국가가 나를 버림.",
+        "author": "김옥지",
+        "view_count": 122
+      }
+    },
+    "ok": false
   }
 ]
