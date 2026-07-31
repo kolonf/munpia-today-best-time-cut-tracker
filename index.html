@@ -176,8 +176,6 @@ function pad2(n) {
   return String(n).padStart(2, '0');
 }
 
-// timestamp는 항상 "...+09:00"(KST) 형태로 저장되므로,
-// 브라우저의 로컬 시간대와 무관하게 문자열에서 직접 연/월/일/시를 뽑아낸다.
 function kstParts(isoString) {
   const m = isoString.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
   if (!m) return null;
@@ -190,7 +188,6 @@ function kstParts(isoString) {
   };
 }
 
-// 지금 이 순간의 한국시간(KST)을 브라우저 시간대와 무관하게 계산한다.
 function kstNowParts() {
   const now = new Date();
   const utcMs = now.getTime() + now.getTimezoneOffset() * 60000;
@@ -308,7 +305,7 @@ function renderWeekdayLowTable() {
     }
     const cell = bestHour === null
       ? '<span style="color:var(--muted);">데이터 부족</span>'
-      : `${bestHour}시경 (평균 ${Math.round(bestAvg).toLocaleString()}, 최저 ${bestMin.toLocaleString()})`;
+      : `${bestHour}시경 (최저 ${bestMin.toLocaleString()})`;
     return `
       <tr>
         <td>${name}요일</td>
@@ -366,7 +363,6 @@ function renderDayChart(key) {
   const dayRecords = allData.filter(d => dateKey(d) === key);
 
   const [y, m, d] = key.split('-').map(Number);
-  dayDetailTitle.textContent = `${y}년 ${m}월 ${d}일 — 0시부터 24시까지 시간대별 조회수 (200위)`;
 
   const hourly = new Array(24).fill(null);
   const hourlyTitles = new Array(24).fill(null);
@@ -377,6 +373,12 @@ function renderDayChart(key) {
     hourly[hour] = r200.view_count;
     hourlyTitles[hour] = r200.title;
   });
+
+  const validValues = hourly.filter(v => v !== null);
+  const dayAvgText = validValues.length > 0
+    ? ` — 하루 평균 ${Math.round(validValues.reduce((a, b) => a + b, 0) / validValues.length).toLocaleString()}`
+    : '';
+  dayDetailTitle.textContent = `${y}년 ${m}월 ${d}일 — 0시부터 24시까지 시간대별 조회수 (200위)${dayAvgText}`;
 
   const labels = Array.from({ length: 24 }, (_, h) => `${h}시`);
 
