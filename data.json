@@ -11807,5 +11807,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-31T13:00:49.828882+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579152",
+        "title": "단전을 고쳐주니 무림 최고수들이 집착함",
+        "author": "Mrpotato",
+        "view_count": 2994,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581142",
+        "title": "SSS급 게이트 옆에 안전지대를 만들었다",
+        "author": "limkun",
+        "view_count": 1541,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 핵잠수함",
+        "author": "눌프",
+        "view_count": 987,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "584331",
+        "title": "복사수선전",
+        "author": "아이씨렉",
+        "view_count": 665,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583178",
+        "title": "알박기 능력으로 꿀빨면서 탑 등반",
+        "author": "후토마키",
+        "view_count": 481,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584556",
+        "title": "선협 비승자들의 축복을 가로챘다",
+        "author": "베베이",
+        "view_count": 381,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "582722",
+        "title": "경호원 출신 승무원이 너무 유능함",
+        "author": "동쪽사람",
+        "view_count": 287,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 242,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "568951",
+        "title": "1945, 한국전쟁은 일어나지 않았다",
+        "author": "역사설계자",
+        "view_count": 178,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "579101",
+        "title": "거물들이 집착하는 신의가 되었다",
+        "author": "파란호박",
+        "view_count": 124,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
