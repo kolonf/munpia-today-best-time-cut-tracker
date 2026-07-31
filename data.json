@@ -14591,5 +14591,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-01T02:30:41.047017+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582993",
+        "title": "미국 시골에서 빈티지 가구 복원으로 대박남",
+        "author": "탄뽀",
+        "view_count": 2553,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "580684",
+        "title": "1840 대영제국 재벌이 되었다",
+        "author": "최뚝",
+        "view_count": 1281,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "578711",
+        "title": "내일을 보는 눈",
+        "author": "팥빵맨",
+        "view_count": 957,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "579030",
+        "title": "이혼하고 애까지 딸린 작가, 쓰는 것마다 대박행진.",
+        "author": "다복고복",
+        "view_count": 669,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 501,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 353,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583565",
+        "title": "대일본제국은 이제 제 겁니다",
+        "author": "Merkava",
+        "view_count": 293,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 220,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 165,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "581595",
+        "title": "단종엄마는 죽지 않는다",
+        "author": "양평시바견",
+        "view_count": 109,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
