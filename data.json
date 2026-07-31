@@ -14303,5 +14303,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-01T01:00:45.704900+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583795",
+        "title": "달머리골 자연인은 잘 먹고 산다",
+        "author": "Dodeca",
+        "view_count": 2500,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585472",
+        "title": "좌천된 국민연금 지부장이 폐가에서 극락감",
+        "author": "더페이서",
+        "view_count": 1374,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581248",
+        "title": "시간정지 발롱도르",
+        "author": "무가옳",
+        "view_count": 840,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 595,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "576409",
+        "title": "회귀한 금의위는 무림맹을 찢는다",
+        "author": "너구리작가",
+        "view_count": 461,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587418",
+        "title": "지방을 태우는 마법사",
+        "author": "마지막검사",
+        "view_count": 327,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585405",
+        "title": "나 혼자 EX급 사령술로 무한성장",
+        "author": "글러트",
+        "view_count": 258,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 208,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 151,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588693",
+        "title": "검은머리 특수요원이 미국 목장을 인수함",
+        "author": "무정호",
+        "view_count": 107,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
