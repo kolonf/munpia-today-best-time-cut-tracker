@@ -11903,5 +11903,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-07-31T13:30:36.905751+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "581981",
+        "title": "북부대공의 현질하는 남편이 되었다",
+        "author": "캐플",
+        "view_count": 2556,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581772",
+        "title": "생각을 읽었더니 전세계 투수들이 나에게 집착함",
+        "author": "떠오르다",
+        "view_count": 1548,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 947,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "577142",
+        "title": "프로이센에서 살아남기",
+        "author": "대역사랑",
+        "view_count": 658,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583403",
+        "title": "EX급 포션 마스터로 각성하니 전세계가 내게 집착함",
+        "author": "만타(萬打)",
+        "view_count": 488,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585000",
+        "title": "검은 머리 영국 조리병",
+        "author": "마개조",
+        "view_count": 371,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 299,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "578615",
+        "title": "대공황 시대 뉴욕에서 바 영업 시작했습니다",
+        "author": "옛날사람임",
+        "view_count": 240,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 186,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584968",
+        "title": "이혼한 농부가 수선계를 접수함",
+        "author": "차재현",
+        "view_count": 127,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
