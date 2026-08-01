@@ -17855,5 +17855,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-01T18:32:29.182121+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 2426,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "575157",
+        "title": "미국 무당의 신점 스트리밍",
+        "author": ".원",
+        "view_count": 1557,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1020,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581248",
+        "title": "시간정지 발롱도르",
+        "author": "무가옳",
+        "view_count": 703,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "580332",
+        "title": "재벌 서자 때려치우고 요리하는 성자가 됨",
+        "author": "크엉컹컹",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 327,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586359",
+        "title": "축구부 벤치인데 월드컵 캐리함",
+        "author": "서태양",
+        "view_count": 259,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "584728",
+        "title": "신력999,999,999배 초월급 무당 강림",
+        "author": "성공할",
+        "view_count": 177,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "583125",
+        "title": "월드컵도 못 가는 이탈리아가 나를 원한다.",
+        "author": "산타클라스",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
