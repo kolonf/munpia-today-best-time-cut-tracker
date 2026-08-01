@@ -16895,5 +16895,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-01T14:02:15.214471+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579152",
+        "title": "단전을 고쳐주니 무림 최고수들이 집착함",
+        "author": "Mrpotato",
+        "view_count": 2444,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "579689",
+        "title": "전설급 신수들과 동물원에서 힐링합니다",
+        "author": "버머랜드",
+        "view_count": 1469,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "582993",
+        "title": "미국 시골에서 빈티지 가구 복원으로 대박남",
+        "author": "탄뽀",
+        "view_count": 926,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "582647",
+        "title": "2회차 낙하산 단장이 일을 잘함",
+        "author": "동동아리",
+        "view_count": 716,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "578484",
+        "title": "검은머리 신입 FBI 요원이 너무 유능하다",
+        "author": "아마기슈",
+        "view_count": 487,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 탑 등반",
+        "author": "오브더",
+        "view_count": 375,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580096",
+        "title": "경질된 야구감독은 꼴찌팀의 미래를 안다",
+        "author": "하호크로수",
+        "view_count": 303,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586437",
+        "title": "미국 급식으로 한식 만들었더니 거물들이 미쳐날뜀",
+        "author": "임완",
+        "view_count": 244,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 198,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "579670",
+        "title": "거물들이 집착하는 천재 한의사가 되었다",
+        "author": "정하일",
+        "view_count": 140,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
