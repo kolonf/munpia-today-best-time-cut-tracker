@@ -16319,5 +16319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-01T11:02:37.827051+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582993",
+        "title": "미국 시골에서 빈티지 가구 복원으로 대박남",
+        "author": "탄뽀",
+        "view_count": 2798,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "576467",
+        "title": "가스라이팅 당한 수비수는 영국으로 갑니다",
+        "author": "울영",
+        "view_count": 1607,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "576308",
+        "title": "검귀, 무림에 살다",
+        "author": "멜글",
+        "view_count": 1023,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 647,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585405",
+        "title": "나 혼자 EX급 사령술로 무한성장",
+        "author": "글러트",
+        "view_count": 468,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585322",
+        "title": "토건조선",
+        "author": "보헤미아.",
+        "view_count": 357,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "584716",
+        "title": "신점으로 팔자 고쳐줬더니 의뢰가 쏟아짐",
+        "author": "핫뜨거",
+        "view_count": 272,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 215,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "584968",
+        "title": "이혼했더니 수선이 너무 쉽다",
+        "author": "차재현",
+        "view_count": 181,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 124,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
