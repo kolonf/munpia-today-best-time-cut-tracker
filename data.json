@@ -18047,5 +18047,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-01T19:30:38.663457+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582722",
+        "title": "경호원 출신 승무원이 너무 유능함",
+        "author": "동쪽사람",
+        "view_count": 2399,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "577489",
+        "title": "시청률이 보여서 막장드라마 씁니다",
+        "author": "수민",
+        "view_count": 1694,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "576575",
+        "title": "운명을 읽는 회사원이 되다.",
+        "author": "어진바람",
+        "view_count": 1036,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573364",
+        "title": "전직 용사의 주종 계약",
+        "author": "망신창이",
+        "view_count": 676,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 480,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583549",
+        "title": "3연속 광탈 이탈리아로 회귀했다.",
+        "author": "우운(雨雲)",
+        "view_count": 371,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "582057",
+        "title": "말단병사인데 선조가 너무 좋아함",
+        "author": "사관(史官)",
+        "view_count": 282,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "545181",
+        "title": "책 먹는 회귀자가 다 해먹음",
+        "author": "옵티무스",
+        "view_count": 194,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "573590",
+        "title": "삼국지 장비전: 도원결의를 거절하다",
+        "author": "프로미녹",
+        "view_count": 170,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589056",
+        "title": "전여친 덕에 미국 로또에 당첨됐다",
+        "author": "소수림",
+        "view_count": 120,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
