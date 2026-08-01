@@ -17087,5 +17087,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-01T15:02:07.536242+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579007",
+        "title": "무고당한 헌터는 국가재앙급으로 각성했다",
+        "author": "괴물신입",
+        "view_count": 2572,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583795",
+        "title": "달머리골 자연인은 잘 먹고 산다",
+        "author": "Dodeca",
+        "view_count": 1590,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 953,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586390",
+        "title": "악역만 연기했는데 탑스타가 되었다",
+        "author": "해피엔딩이즈굿",
+        "view_count": 783,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 502,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584254",
+        "title": "경험치 100,000,000배로 탑 등반",
+        "author": "글혼",
+        "view_count": 406,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585318",
+        "title": "미국에서 돈되는 걸 귀신같이 찾음.",
+        "author": "뜨끈아이스",
+        "view_count": 328,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586813",
+        "title": "기상청 퇴사했더니 재난 사망률이 0％ 됨",
+        "author": "글GPT",
+        "view_count": 265,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 212,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "579670",
+        "title": "거물들이 집착하는 천재 한의사가 되었다",
+        "author": "정하일",
+        "view_count": 150,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
