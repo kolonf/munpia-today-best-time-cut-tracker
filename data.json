@@ -21407,5 +21407,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-02T11:32:13.775234+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "584035",
+        "title": "정자기증으로 재벌가 데릴사위",
+        "author": "황금코끼리",
+        "view_count": 2959,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "576575",
+        "title": "운명을 읽는 회사원이 되다.",
+        "author": "어진바람",
+        "view_count": 1674,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 1177,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 753,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586359",
+        "title": "축구부 벤치인데 월드컵 캐리함",
+        "author": "서태양",
+        "view_count": 536,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587705",
+        "title": "재벌가 늦둥이 막내딸의 남편이 되었다",
+        "author": "노란안경",
+        "view_count": 385,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586529",
+        "title": "시청률 30％ 작가인 줄 모르고 방송국에서 퇴출당함",
+        "author": "누리용",
+        "view_count": 299,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "582057",
+        "title": "말단병사인데 선조가 너무 좋아함",
+        "author": "사관(史官)",
+        "view_count": 223,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580096",
+        "title": "경질된 야구감독은 꼴찌팀의 미래를 안다",
+        "author": "하호크로수",
+        "view_count": 169,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "581638",
+        "title": "농업 천재 소현세자, 위대한 조선을 열다.",
+        "author": "대붕이날다",
+        "view_count": 109,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
