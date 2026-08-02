@@ -862,5 +862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T02:00:36.303088+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586783",
+        "title": "해고 후 슈퍼볼 당첨으로 힐링함",
+        "author": "깊은수풀",
+        "view_count": 364,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585629",
+        "title": "퇴직했는데 성공한 제자들이 내게 집착한다",
+        "author": "[덕우]",
+        "view_count": 173,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588178",
+        "title": "얼굴 천재인데 치유가 극락급",
+        "author": "꿈가득남",
+        "view_count": 81,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 57,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588387",
+        "title": "선조가 집착하는 충신이 되었다",
+        "author": "연재약장수",
+        "view_count": 40,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588415",
+        "title": "19세기 북한트립",
+        "author": "여운(餘韻)",
+        "view_count": 31,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586186",
+        "title": "전능의 흑마법사가 되었다 [탑등반]",
+        "author": "지니Genie",
+        "view_count": 26,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587686",
+        "title": "진상 여배우로 환생했더니 연예계가 너무 쉬움",
+        "author": "박꼽등",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587582",
+        "title": "번식 능력으로 제주도 힐링 라이프",
+        "author": "찹쌀빵",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588319",
+        "title": "괴담에 캐스팅되셨습니다, 배우님.",
+        "author": "심우주",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
