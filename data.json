@@ -21887,5 +21887,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-02T14:04:50.724095+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585412",
+        "title": "선협에서 땅굴을 숨김",
+        "author": "불로수선전",
+        "view_count": 2622,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "575157",
+        "title": "미국 무당의 신점 스트리밍",
+        "author": ".원",
+        "view_count": 1459,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 962,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 690,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585345",
+        "title": "EX 즉사기급 스킬로 헬 난이도 탑 등반",
+        "author": "지우연",
+        "view_count": 475,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586897",
+        "title": "맨시티에 배신당한 축구천재가 맨유로 이적함",
+        "author": "치킨순애보",
+        "view_count": 359,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585082",
+        "title": "나 혼자 1000억 골드로 탑 등반",
+        "author": "별끝작가",
+        "view_count": 297,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583561",
+        "title": "전세계가 집착하는 EX급 테이머가 되었다.",
+        "author": "Hadele",
+        "view_count": 232,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581524",
+        "title": "회귀한 나는 금융제국의 황제가 되겠다",
+        "author": "창조소설러",
+        "view_count": 173,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589056",
+        "title": "전여친 덕에 미국 로또에 당첨됐다",
+        "author": "소수림",
+        "view_count": 115,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
