@@ -478,5 +478,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T00:01:53.638576+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585068",
+        "title": "G급 방산 능력으로 탑 등반",
+        "author": "최자까s",
+        "view_count": 436,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587786",
+        "title": "선협에서 선녀를 임신시키고 시작",
+        "author": "뭉낑깡",
+        "view_count": 195,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581582",
+        "title": "전능의 의술 AI손을 얻었더니, 미국 거물들이 집착함",
+        "author": "시냅스",
+        "view_count": 90,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585316",
+        "title": "고물상에서 딸깍 했더니 국가권력급 헌터가 됨",
+        "author": "스스디",
+        "view_count": 62,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 42,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588081",
+        "title": "상태이상 면역으로 악몽 난이도 등반",
+        "author": "애너그램™",
+        "view_count": 32,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587877",
+        "title": "망국 조선에 기관총을 풀었다",
+        "author": "파전거북",
+        "view_count": 26,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588313",
+        "title": "내 인벤토리에서 SS급 대본이 쏟아짐",
+        "author": "바람길따라",
+        "view_count": 21,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587873",
+        "title": "선협 세계에서 사마귀로 수선한다",
+        "author": "안약",
+        "view_count": 17,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589606",
+        "title": "소드마스터 아니고 소설가입니다",
+        "author": "킹슬레이",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
