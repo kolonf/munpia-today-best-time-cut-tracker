@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "timestamp": "2026-08-02T21:57:21.452109+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 438,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589056",
+        "title": "전여친 덕에 미국 로또에 당첨됐다",
+        "author": "소수림",
+        "view_count": 215,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587122",
+        "title": "귀농해서 신점봤더니 거물들이 몰려온다",
+        "author": "송태섭",
+        "view_count": 92,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589058",
+        "title": "서자가 북부군 장교를 너무 잘한다",
+        "author": "신수.",
+        "view_count": 62,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585794",
+        "title": "삼국지 제갈량의 스승이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587080",
+        "title": "혈로血路",
+        "author": "겨루",
+        "view_count": 30,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589195",
+        "title": "삼국지, 나는 천하를 셈한다",
+        "author": "윤실",
+        "view_count": 26,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586632",
+        "title": "내 MAX 레벨 10",
+        "author": "OneQ",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587724",
+        "title": "회귀했더니 돈 복사가 너무 쉽다",
+        "author": "염주",
+        "view_count": 17,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587171",
+        "title": "튜토리얼에서 1000년이 흘렀다",
+        "author": "비르둘기",
+        "view_count": 14,
+        "substituted": false
+      }
+    },
+    "ok": true
+  }
+]
