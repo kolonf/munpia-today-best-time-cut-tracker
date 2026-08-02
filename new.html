@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>문피아 신규 베스트 200위 조회수 추이</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #12141c;
+    --panel: #1b1e29;
+    --ink: #e9e9ef;
+    --muted: #8b8fa3;
+    --accent: #6ee7c8;
+    --line: #2a2e3d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Malgun Gothic", sans-serif;
+    padding: 32px 16px 64px;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; }
+  h1 { font-size: 22px; font-weight: 700; margin: 0 0 4px; }
+  h2 { font-size: 16px; font-weight: 700; margin: 0 0 16px; }
+  .sub { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+  }
+  @media (max-width: 760px) {
+    .cols { grid-template-columns: 1fr; }
+  }
+  .current { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .current .num { font-size: 40px; font-weight: 800; color: var(--accent); }
+  .current .title { font-size: 15px; color: var(--ink); }
+  .current .meta { font-size: 13px; color: var(--muted); width: 100%; }
+  canvas { max-height: 320px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); color: var(--ink); }
+  th { color: var(--muted); font-weight: 500; }
+  td.num-cell { text-align: right; font-variant-numeric: tabular-nums; }
+  .empty { color: var(--muted); font-size: 14px; text-align: center; padding: 40px 0; }
+
+  .tabs { display: flex; gap: 4px; margin-bottom: 20px; border-bottom: 1px solid var(--line); }
+  .tab {
+    padding: 10px 16px;
+    font-size: 14px;
+    color: var(--muted);
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+  }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tab:hover:not(.active) { color: var(--ink); }
+
+  /* 달력 */
+  .cal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+  .cal-header button {
+    background: var(--line);
+    border: none;
+    color: var(--ink);
+    border-radius: 8px;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .cal-header button:hover { background: #363b4d; }
+  .cal-title { font-weight: 700; font-size: 15px; }
+  .cal-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+  }
+  .cal-dow {
+    text-align: center;
+    font-size: 12px;
+    color: var(--muted);
+    padding-bottom: 4px;
+  }
+  .cal-day {
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 13px;
+    cursor: default;
+    color: var(--muted);
+  }
+  .cal-day.has-data {
+    background: rgba(110,231,200,0.12);
+    color: var(--ink);
+    cursor: pointer;
+  }
+  .cal-day.has-data:hover { background: rgba(110,231,200,0.25); }
+  .cal-day.selected {
+    background: var(--accent);
+    color: #12141c;
+    font-weight: 700;
+  }
+  .cal-day.empty-cell { visibility: hidden; }
+  .day-detail-title { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
+  .cutline-title { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>문피아 신규 베스트 · 200위 조회수 추이</h1>
+    <div class="sub">30분 간격으로 자동 수집된 기록입니다.</div>
+
+    <div class="tabs">
+      <a href="index.html" class="tab">투데이 베스트</a>
+      <a href="new.html" class="tab active">신규 베스트</a>
+    </div>
+
+    <div class="cols">
+      <div>
+        <div class="panel" id="currentPanel">
+          <div class="empty">데이터를 불러오는 중...</div>
+        </div>
+        <div class="panel">
+          <div class="day-detail-title" id="dayDetailTitle">오늘 — 0시부터 24시까지 시간대별 조회수</div>
+          <canvas id="dayChart"></canvas>
+        </div>
+        <div class="panel">
+          <h2>요일별 최저 조회수 시간대</h2>
+          <div class="cutline-title">최근 7일 데이터 기준 (200위)</div>
+          <table id="weekdayLowTable"></table>
+        </div>
+      </div>
+
+      <div>
+        <div class="panel">
+          <div class="cal-header">
+            <button id="prevMonth">‹ 이전</button>
+            <div class="cal-title" id="calTitle"></div>
+            <button id="nextMonth">다음 ›</button>
+          </div>
+          <div class="cal-grid" id="calGrid"></div>
+        </div>
+        <div class="panel">
+          <h2>페이지별 커트라인</h2>
+          <div class="cutline-title" id="cutlineTitle"></div>
+          <table id="cutlineTable"></table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+let allData = [];
+let calYear, calMonth;
+let dayChartInstance = null;
+let selectedKey = null;
+
+const PAGE_RANKS = [20, 40, 60, 80, 100, 120, 140, 160, 180, 200];
+const DATA_URL = 'data_new.json';
+
+async function load() {
+  const res = await fetch(DATA_URL + '?_=' + Date.now());
+  const data = await res.json();
+  allData = data.filter(d => d && d.ranks);
+
+  renderCurrent();
+  renderCutlineTable();
+  renderWeekdayLowTable();
+
+  const nowParts = kstNowParts();
+  calYear = nowParts.year;
+  calMonth = nowParts.month - 1;
+  selectedKey = `${nowParts.year}-${pad2(nowParts.month)}-${pad2(nowParts.day)}`;
+  renderCalendar();
+  renderDayChart(selectedKey);
+}
+
+function pad2(n) {
+  return String(n).padStart(2, '0');
+}
+
+function kstParts(isoString) {
+  const m = isoString.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
+  if (!m) return null;
+  return {
+    year: parseInt(m[1], 10),
+    month: parseInt(m[2], 10),
+    day: parseInt(m[3], 10),
+    hour: parseInt(m[4], 10),
+    minute: parseInt(m[5], 10),
+  };
+}
+
+function kstNowParts() {
+  const now = new Date();
+  const utcMs = now.getTime() + now.getTimezoneOffset() * 60000;
+  const kst = new Date(utcMs + 9 * 60 * 60000);
+  return {
+    year: kst.getFullYear(),
+    month: kst.getMonth() + 1,
+    day: kst.getDate(),
+    hour: kst.getHours(),
+  };
+}
+
+function kstWeekday(year, month, day) {
+  return new Date(Date.UTC(year, month - 1, day)).getUTCDay();
+}
+
+function formatKst(isoString) {
+  return new Date(isoString).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
+}
+
+function dateKey(record) {
+  const p = kstParts(record.timestamp);
+  return `${p.year}-${pad2(p.month)}-${pad2(p.day)}`;
+}
+
+function latestValidRecord() {
+  for (let i = allData.length - 1; i >= 0; i--) {
+    const r = allData[i];
+    if (r.ranks && r.ranks['200'] && r.ranks['200'].view_count !== null) return r;
+  }
+  return allData.length ? allData[allData.length - 1] : null;
+}
+
+function renderCurrent() {
+  const currentPanel = document.getElementById('currentPanel');
+  const latest = latestValidRecord();
+  if (!latest || !latest.ranks['200'] || latest.ranks['200'].view_count === null) {
+    currentPanel.innerHTML = '<div class="empty">아직 수집된 데이터가 없어요. 잠시 후 다시 확인해주세요.</div>';
+    return;
+  }
+  const r200 = latest.ranks['200'];
+  const subNote = r200.substituted
+    ? ` <span style="color:var(--muted);font-size:12px;">(200위 감지 실패 — ${r200.actual_rank}위로 대체)</span>`
+    : '';
+  currentPanel.innerHTML = `
+    <div class="current">
+      <div class="num">${r200.view_count.toLocaleString()}</div>
+      <div class="title">${r200.title ?? '(제목 미확인)'} — 200위${subNote}</div>
+      <div class="meta">마지막 갱신: ${formatKst(latest.timestamp)}</div>
+    </div>
+  `;
+}
+
+function renderCutlineTable() {
+  const table = document.getElementById('cutlineTable');
+  const titleEl = document.getElementById('cutlineTitle');
+  const latest = latestValidRecord();
+  if (!latest) { table.innerHTML = ''; titleEl.textContent = ''; return; }
+
+  titleEl.textContent = `${formatKst(latest.timestamp)} 기준`;
+
+  const rows = PAGE_RANKS.map((rank, idx) => {
+    const page = idx + 1;
+    const entry = latest.ranks[String(rank)];
+    const views = entry && entry.view_count !== null ? entry.view_count.toLocaleString() : '-';
+    const title = entry && entry.title ? entry.title : '(제목 미확인)';
+    const subNote = entry && entry.substituted
+      ? ` <span style="color:var(--muted);">(${entry.actual_rank}위로 대체)</span>`
+      : '';
+    return `
+      <tr>
+        <td>${title} - ${page}페이지 커트 (${rank}위)${subNote}</td>
+        <td class="num-cell">${views}</td>
+      </tr>
+    `;
+  }).join('');
+
+  table.innerHTML = `
+    <tr><th>구분</th><th style="text-align:right;">조회수</th></tr>
+    ${rows}
+  `;
+}
+
+function renderWeekdayLowTable() {
+  const table = document.getElementById('weekdayLowTable');
+  const weekdayNames = ['일', '월', '화', '수', '목', '금', '토'];
+
+  const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+  const recent = allData.filter(d => {
+    const r200 = d.ranks && d.ranks['200'];
+    return r200 && r200.view_count !== null && new Date(d.timestamp).getTime() >= oneWeekAgo;
+  });
+
+  const buckets = Array.from({ length: 7 }, () => Array.from({ length: 24 }, () => []));
+
+  recent.forEach(r => {
+    const p = kstParts(r.timestamp);
+    const dow = kstWeekday(p.year, p.month, p.day);
+    buckets[dow][p.hour].push(r.ranks['200'].view_count);
+  });
+
+  const rows = weekdayNames.map((name, dow) => {
+    let bestHour = null;
+    let bestAvg = null;
+    let bestMin = null;
+    for (let h = 0; h < 24; h++) {
+      const vals = buckets[dow][h];
+      if (vals.length === 0) continue;
+      const avg = vals.reduce((a, b) => a + b, 0) / vals.length;
+      if (bestAvg === null || avg < bestAvg) {
+        bestAvg = avg;
+        bestHour = h;
+        bestMin = Math.min(...vals);
+      }
+    }
+    const cell = bestHour === null
+      ? '<span style="color:var(--muted);">데이터 부족</span>'
+      : `${bestHour}시경 (최저 ${bestMin.toLocaleString()})`;
+    return `
+      <tr>
+        <td>${name}요일</td>
+        <td class="num-cell">${cell}</td>
+      </tr>
+    `;
+  }).join('');
+
+  table.innerHTML = `
+    <tr><th>요일</th><th style="text-align:right;">최저 조회수 시간대</th></tr>
+    ${rows}
+  `;
+}
+
+function renderCalendar() {
+  const calTitle = document.getElementById('calTitle');
+  const calGrid = document.getElementById('calGrid');
+  calTitle.textContent = `${calYear}년 ${calMonth + 1}월`;
+
+  const datesWithData = new Set(allData.map(dateKey));
+
+  const dowNames = ['일', '월', '화', '수', '목', '금', '토'];
+  let html = dowNames.map(d => `<div class="cal-dow">${d}</div>`).join('');
+
+  const firstDay = new Date(calYear, calMonth, 1);
+  const startWeekday = firstDay.getDay();
+  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+
+  for (let i = 0; i < startWeekday; i++) {
+    html += `<div class="cal-day empty-cell"></div>`;
+  }
+
+  for (let day = 1; day <= daysInMonth; day++) {
+    const m = String(calMonth + 1).padStart(2, '0');
+    const dstr = String(day).padStart(2, '0');
+    const key = `${calYear}-${m}-${dstr}`;
+    const has = datesWithData.has(key);
+    const isSelected = key === selectedKey;
+    html += `<div class="cal-day ${has ? 'has-data' : ''} ${isSelected ? 'selected' : ''}" data-key="${key}">${day}</div>`;
+  }
+
+  calGrid.innerHTML = html;
+
+  calGrid.querySelectorAll('.cal-day.has-data').forEach(el => {
+    el.addEventListener('click', () => {
+      selectedKey = el.getAttribute('data-key');
+      renderCalendar();
+      renderDayChart(selectedKey);
+    });
+  });
+}
+
+function renderDayChart(key) {
+  const dayDetailTitle = document.getElementById('dayDetailTitle');
+  const dayRecords = allData.filter(d => dateKey(d) === key);
+
+  const [y, m, d] = key.split('-').map(Number);
+
+  const hourly = new Array(24).fill(null);
+  const hourlyTitles = new Array(24).fill(null);
+  dayRecords.forEach(r => {
+    const r200 = r.ranks['200'];
+    if (!r200 || r200.view_count === null) return;
+    const hour = kstParts(r.timestamp).hour;
+    hourly[hour] = r200.view_count;
+    hourlyTitles[hour] = r200.title;
+  });
+
+  const validValues = hourly.filter(v => v !== null);
+  const dayAvgText = validValues.length > 0
+    ? ` — 하루 평균 ${Math.round(validValues.reduce((a, b) => a + b, 0) / validValues.length).toLocaleString()}`
+    : '';
+  dayDetailTitle.textContent = `${y}년 ${m}월 ${d}일 — 0시부터 24시까지 시간대별 조회수 (200위)${dayAvgText}`;
+
+  const labels = Array.from({ length: 24 }, (_, h) => `${h}시`);
+
+  if (dayChartInstance) {
+    dayChartInstance.destroy();
+  }
+  dayChartInstance = new Chart(document.getElementById('dayChart'), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: '조회수',
+        data: hourly,
+        borderColor: '#6ee7c8',
+        backgroundColor: 'rgba(110,231,200,0.12)',
+        fill: true,
+        tension: 0.3,
+        spanGaps: true,
+        pointRadius: 3,
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            afterLabel: (context) => {
+              const title = hourlyTitles[context.dataIndex];
+              return title ? `작품명: ${title}` : '';
+            }
+          }
+        }
+      },
+      scales: {
+        x: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
+        y: { ticks: { color: '#8b8fa3' }, grid: { color: '#2a2e3d' } },
+      }
+    }
+  });
+}
+
+document.getElementById('prevMonth').addEventListener('click', () => {
+  calMonth -= 1;
+  if (calMonth < 0) { calMonth = 11; calYear -= 1; }
+  renderCalendar();
+});
+document.getElementById('nextMonth').addEventListener('click', () => {
+  calMonth += 1;
+  if (calMonth > 11) { calMonth = 0; calYear += 1; }
+  renderCalendar();
+});
+
+load();
+</script>
+</body>
+</html>
