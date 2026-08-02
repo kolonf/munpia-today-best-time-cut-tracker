@@ -21215,5 +21215,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-02T10:30:45.611808+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "576920",
+        "title": "TRPG 세계에서 전사로 살아남기",
+        "author": "푸른색그림",
+        "view_count": 2798,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "576575",
+        "title": "운명을 읽는 회사원이 되다.",
+        "author": "어진바람",
+        "view_count": 1635,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583402",
+        "title": "K-딸아빠는 너튜브 스타가 너무 쉽다",
+        "author": "나이와키",
+        "view_count": 1076,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 708,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586359",
+        "title": "축구부 벤치인데 월드컵 캐리함",
+        "author": "서태양",
+        "view_count": 515,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 371,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585718",
+        "title": "온천을 샀더니 신선들이 단골이 됨",
+        "author": "버몬트",
+        "view_count": 283,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 211,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586657",
+        "title": "고양이 줍고 내 팔로워 수 1,004,019",
+        "author": "지렌",
+        "view_count": 156,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 107,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
