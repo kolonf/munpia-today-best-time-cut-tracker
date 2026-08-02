@@ -22655,5 +22655,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-02T18:00:18.550662+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579152",
+        "title": "단전을 고쳐주니 무림 최고수들이 집착함",
+        "author": "Mrpotato",
+        "view_count": 3114,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581772",
+        "title": "생각을 읽었더니 전세계 투수들이 나에게 집착함",
+        "author": "떠오르다",
+        "view_count": 1911,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581429",
+        "title": "북부 용병의 피지컬이 너무 강함",
+        "author": "아다따뚜겐",
+        "view_count": 1186,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573248",
+        "title": "타임1866, 대한연방의 전설",
+        "author": "풍아저씨",
+        "view_count": 847,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 패시브 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 571,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "580332",
+        "title": "재벌 서자 때려치우고 요리하는 성자가 됨",
+        "author": "크엉컹컹",
+        "view_count": 435,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585068",
+        "title": "G급 방산 능력으로 탑 등반",
+        "author": "최자까s",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 255,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589056",
+        "title": "전여친 덕에 미국 로또에 당첨됐다",
+        "author": "소수림",
+        "view_count": 181,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "564640",
+        "title": "회귀한 줄 모르고 재입대했다",
+        "author": "에바트리체",
+        "view_count": 120,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
