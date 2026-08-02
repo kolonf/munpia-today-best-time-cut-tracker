@@ -1054,5 +1054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T03:00:41.705662+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586783",
+        "title": "해고 후 슈퍼볼 당첨으로 힐링함",
+        "author": "깊은수풀",
+        "view_count": 373,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585629",
+        "title": "퇴직했는데 성공한 제자들이 내게 집착한다",
+        "author": "[덕우]",
+        "view_count": 177,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587058",
+        "title": "나 혼자 9999강화로 1000조 재벌",
+        "author": "비장한",
+        "view_count": 91,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589890",
+        "title": "미국에서 1조 파워볼 당첨되어 벼락 부자",
+        "author": "귤청",
+        "view_count": 59,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588387",
+        "title": "선조가 집착하는 충신이 되었다",
+        "author": "연재약장수",
+        "view_count": 41,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587447",
+        "title": "재벌도 집착하는 웹예능 피디가 되었다",
+        "author": "배부른콩",
+        "view_count": 32,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585131",
+        "title": "사령술로 EX급 보스 얻음",
+        "author": "금장",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587866",
+        "title": "회귀한 황자는 변경부터 먹는다",
+        "author": "다작김절필",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588919",
+        "title": "이혼당하고 알래스카에서 돈을 쓸어담음",
+        "author": "족염누이",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589904",
+        "title": "이계에서 돌아온 삼촌이 너무 강함",
+        "author": "덤벨아저씨",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
