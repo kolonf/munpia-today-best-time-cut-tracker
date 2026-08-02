@@ -1822,5 +1822,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T07:30:35.286244+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586395",
+        "title": "EX급 게임 핵으로 탑에서 돈을 쓸어담음",
+        "author": "화염술사",
+        "view_count": 366,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586657",
+        "title": "고양이 줍고 내 팔로워 수 1,004,019",
+        "author": "지렌",
+        "view_count": 197,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588293",
+        "title": "미국 시골의 밀밭 재벌에게 이웃들이 집착함",
+        "author": "귤청",
+        "view_count": 102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588466",
+        "title": "EX급 네크로맨서인 줄 모르고 국가에게 버림받음",
+        "author": "강우제",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586116",
+        "title": "상남자 바이킹이 탑 등반을 씹어먹음",
+        "author": "써케이",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586486",
+        "title": "내 정령들이 너무 유능하다",
+        "author": "느린생각",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585428",
+        "title": "치트급 재능으로 아포칼립스 게임에서 살아남기",
+        "author": "유우리",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587099",
+        "title": "본 적도 없는 재벌회장이 나 보고 아들하라고 하네",
+        "author": "달빛너머",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589230",
+        "title": "폭군의 처녀를 앗아갔다",
+        "author": "분재나무",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
