@@ -23615,5 +23615,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T01:36:17.836852+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "576920",
+        "title": "TRPG 세계에서 전사로 살아남기",
+        "author": "푸른색그림",
+        "view_count": 2532,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585730",
+        "title": "국가가 버린 소드마스터는 회귀 후 미국 헌터로 갈아탄다",
+        "author": "가냐슈",
+        "view_count": 1404,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 1012,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580105",
+        "title": "마계정복하고 왔더니 국가가 나를 버렸다.",
+        "author": "메리고양이",
+        "view_count": 712,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585184",
+        "title": "구급대원인데 재난의 정답이 보임",
+        "author": "담하파",
+        "view_count": 514,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583627",
+        "title": "방산재벌의 신(新) 남벌",
+        "author": "화오름",
+        "view_count": 363,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583565",
+        "title": "대일본제국은 이제 제 겁니다",
+        "author": "Merkava",
+        "view_count": 285,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583991",
+        "title": "땜빵으로 콜업된 천재 공격수가 리그를 폭격함",
+        "author": "나는야푸",
+        "view_count": 209,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "579146",
+        "title": "수선계에 양자 컴퓨터를 이식했다",
+        "author": "심쿵한",
+        "view_count": 164,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 104,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
