@@ -23039,5 +23039,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-02T19:30:38.866360+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "577862",
+        "title": "10서클 대마법사의 유산을 얻었다!",
+        "author": "고독한아재",
+        "view_count": 2747,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582722",
+        "title": "경호원 출신 승무원이 너무 유능함",
+        "author": "동쪽사람",
+        "view_count": 1847,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "580684",
+        "title": "1840 대영제국 재벌이 되었다",
+        "author": "최뚝",
+        "view_count": 1131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "568951",
+        "title": "1945, 한국전쟁은 일어나지 않았다",
+        "author": "역사설계자",
+        "view_count": 741,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 495,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 399,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583893",
+        "title": "나 혼자만 낚시로 EX급 헌터",
+        "author": "씨즐",
+        "view_count": 281,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586395",
+        "title": "EX급 게임 핵으로 탑에서 돈을 쓸어담음",
+        "author": "화염술사",
+        "view_count": 215,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587786",
+        "title": "선협에서 선녀를 임신시키고 시작",
+        "author": "뭉낑깡",
+        "view_count": 160,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586261",
+        "title": "승률 100％의 할리우드 투자자",
+        "author": "꼬노네",
+        "view_count": 110,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
