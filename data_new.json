@@ -1726,5 +1726,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T07:00:36.998783+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585345",
+        "title": "EX 즉사기급 스킬로 헬 난이도 탑 등반",
+        "author": "지우연",
+        "view_count": 402,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587986",
+        "title": "희망퇴직 당한 김부장을 미국이 전략자산 취급함",
+        "author": "크로노크",
+        "view_count": 200,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581582",
+        "title": "전능의 의술 AI손을 얻었더니, 미국 거물들이 집착함",
+        "author": "시냅스",
+        "view_count": 101,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588466",
+        "title": "EX급 네크로맨서인 줄 모르고 국가에게 버림받음",
+        "author": "강우제",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588930",
+        "title": "이혼하고 호주에서 만능 철물점을 열었다.",
+        "author": "한도현",
+        "view_count": 47,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588084",
+        "title": "이혼후 사주로 대박난 역술가",
+        "author": "4311",
+        "view_count": 35,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589930",
+        "title": "중동의 왕자가 되었다",
+        "author": "뚱보고양이",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589583",
+        "title": "탑스타 아이돌과 동거함",
+        "author": "희나리T",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
