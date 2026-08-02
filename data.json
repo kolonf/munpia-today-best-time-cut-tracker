@@ -23231,5 +23231,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-02T20:30:42.147235+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586697",
+        "title": "미국 시골 영양사에게 이웃들이 너무 집착함.",
+        "author": "글과달",
+        "view_count": 2751,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "576920",
+        "title": "TRPG 세계에서 전사로 살아남기",
+        "author": "푸른색그림",
+        "view_count": 1939,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1114,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "575857",
+        "title": "호색공자 유봉의 천하제패",
+        "author": "88진학",
+        "view_count": 686,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "581981",
+        "title": "북부대공의 현질하는 남편이 되었다",
+        "author": "캐플",
+        "view_count": 495,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "576308",
+        "title": "검귀, 무림에 살다",
+        "author": "멜글",
+        "view_count": 403,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 294,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 226,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "583125",
+        "title": "월드컵도 못 가는 이탈리아가 나를 원한다.",
+        "author": "산타클라스",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587237",
+        "title": "천하는 멀고 영지는 가난했다.",
+        "author": "천수방세옥",
+        "view_count": 128,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
