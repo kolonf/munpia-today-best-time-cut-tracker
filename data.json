@@ -21695,5 +21695,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-02T13:03:37.167954+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583812",
+        "title": "전능의 힐을 각성했다",
+        "author": "지하™",
+        "view_count": 2949,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583363",
+        "title": "퇴사하고 신점 쳐서 억만장자",
+        "author": "고돌이™",
+        "view_count": 1612,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581535",
+        "title": "검은머리 사우디 왕자가 개혁을 너무 잘함",
+        "author": "헌앙",
+        "view_count": 973,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586697",
+        "title": "미국 시골 영양사에게 이웃들이 너무 집착함.",
+        "author": "글과달",
+        "view_count": 691,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583403",
+        "title": "EX급 포션 마스터로 각성하니 전세계가 내게 집착함",
+        "author": "만타(萬打)",
+        "view_count": 486,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584716",
+        "title": "신점으로 팔자 고쳐줬더니 의뢰가 쏟아짐",
+        "author": "핫뜨거",
+        "view_count": 378,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585082",
+        "title": "나 혼자 1000억 골드로 탑 등반",
+        "author": "별끝작가",
+        "view_count": 289,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583893",
+        "title": "나 혼자만 낚시로 EX급 헌터",
+        "author": "씨즐",
+        "view_count": 228,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 171,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "581638",
+        "title": "농업 천재 소현세자, 위대한 조선을 열다.",
+        "author": "대붕이날다",
+        "view_count": 114,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
