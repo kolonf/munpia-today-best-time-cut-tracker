@@ -4510,5 +4510,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T23:00:41.697234+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586897",
+        "title": "배신당한 축구천재가 맨시티에 복수함",
+        "author": "치킨순애보",
+        "view_count": 477,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 181,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586294",
+        "title": "회귀한 파문제자가 40년치 기연을 독식함",
+        "author": "장삼봉90",
+        "view_count": 81,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586088",
+        "title": "선협의 개가 되었다",
+        "author": "글청",
+        "view_count": 59,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583734",
+        "title": "당신의 수명을 삽니다",
+        "author": "김멈뭄",
+        "view_count": 43,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585450",
+        "title": "서울역 중국집 막내",
+        "author": "푸른동",
+        "view_count": 33,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589195",
+        "title": "삼국지, 나는 천하를 셈한다",
+        "author": "윤실",
+        "view_count": 26,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587873",
+        "title": "사마귀로 시작하는 수선 생활",
+        "author": "안약",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터는 회귀 후 복수한다",
+        "author": "초록코끼리",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588077",
+        "title": "정신병원 탈출 후 탑 공략",
+        "author": "은둔자적",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
