@@ -3742,5 +3742,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T19:00:36.474851+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "584716",
+        "title": "신점으로 팔자 고쳐줬더니 의뢰가 쏟아짐",
+        "author": "핫뜨거",
+        "view_count": 478,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587130",
+        "title": "귀신잡은 영상 떡상하니 재벌들이 줄을 선다.",
+        "author": "탄두리치킨",
+        "view_count": 265,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586394",
+        "title": "각성한 회사원은 소소하게 힐링합니다",
+        "author": "귤림(橘林)",
+        "view_count": 105,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586294",
+        "title": "회귀한 파문제자가 40년치 기연을 독식함",
+        "author": "장삼봉90",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588807",
+        "title": "8세기 스페인의 성자로 착각당했다",
+        "author": "구오(句汚)",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589755",
+        "title": "드디어 상온 상압 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589384",
+        "title": "퇴역 우주전함이, 내원룸에 정박했다.",
+        "author": "임가놈",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586513",
+        "title": "알고보니 주식 천재였다",
+        "author": "망령K",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
