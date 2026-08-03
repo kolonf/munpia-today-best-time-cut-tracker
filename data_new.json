@@ -2782,5 +2782,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T12:30:32.538627+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 386,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585629",
+        "title": "퇴직했는데 성공한 제자들이 내게 집착한다",
+        "author": "[덕우]",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584542",
+        "title": "조선백자 빚는 국보급 천재에 유럽왕실이 집착함",
+        "author": "치타리아",
+        "view_count": 100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589058",
+        "title": "서자가 북부군 장교를 너무 잘한다",
+        "author": "신수.",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586644",
+        "title": "회귀한 검사의 복수는 키링 뽑기보다 쉬움",
+        "author": "글사언",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "584867",
+        "title": "재벌가 서자는 부실기업만 삼킨다",
+        "author": "레츠기륏",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589195",
+        "title": "삼국지, 나는 천하를 셈한다",
+        "author": "윤실",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589583",
+        "title": "탑스타 아이돌과 동거함",
+        "author": "희나리T",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589554",
+        "title": "흡수수선전",
+        "author": "일의전심",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
