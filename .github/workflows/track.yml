@@ -1,8 +1,6 @@
-name: Track Munpia Rank 200
+name: Track Munpia New Novel Rank 200
 
 on:
-  schedule:
-    - cron: "20 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -24,14 +22,14 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scrape.py
+        run: python scrape_new.py
 
-      - name: Commit and push data.json
+      - name: Commit and push data_new.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json debug_missing.html 2>/dev/null || git add data.json
-          git diff --cached --quiet || git commit -m "Update rank data $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git add data_new.json
+          git diff --cached --quiet || git commit -m "Update new-novel rank data $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push && break
             sleep 5
