@@ -26111,5 +26111,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T03:00:49.352204+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579689",
+        "title": "전설급 신수들과 동물원에서 힐링합니다",
+        "author": "버머랜드",
+        "view_count": 2761,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583936",
+        "title": "삼국지, 눕는 게 계책으로 오해받는 중입니다",
+        "author": "연파냥",
+        "view_count": 1350,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 992,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573364",
+        "title": "전직 용사의 주종 계약",
+        "author": "망신창이",
+        "view_count": 714,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 498,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582436",
+        "title": "사표 내러 갔다가 월드컵 감독이 됐다",
+        "author": "낙원s",
+        "view_count": 393,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "582352",
+        "title": "폐기각 복원술사",
+        "author": "화기린쨩",
+        "view_count": 295,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "582057",
+        "title": "말단병사인데 선조가 너무 좋아함",
+        "author": "사관(史官)",
+        "view_count": 225,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586897",
+        "title": "배신당한 축구천재가 맨시티에 복수함",
+        "author": "치킨순애보",
+        "view_count": 173,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 119,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
