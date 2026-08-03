@@ -24671,5 +24671,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T20:00:47.003993+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "577862",
+        "title": "10서클 대마법사의 유산을 얻었다!",
+        "author": "고독한아재",
+        "view_count": 2908,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "577489",
+        "title": "시청률이 보여서 막장드라마 씁니다",
+        "author": "수민",
+        "view_count": 1926,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1068,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "575857",
+        "title": "호색공자 유봉의 천하제패",
+        "author": "88진학",
+        "view_count": 675,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 탑 등반",
+        "author": "오브더",
+        "view_count": 499,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "573364",
+        "title": "전직 용사의 주종 계약",
+        "author": "망신창이",
+        "view_count": 412,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 321,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "576308",
+        "title": "검귀, 무림에 살다",
+        "author": "멜글",
+        "view_count": 249,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586556",
+        "title": "귀여운 꼬마 소환사가 재앙급 마왕을 소환함",
+        "author": "카라닥",
+        "view_count": 185,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586261",
+        "title": "승률 100％의 할리우드 투자자",
+        "author": "꼬노네",
+        "view_count": 125,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
