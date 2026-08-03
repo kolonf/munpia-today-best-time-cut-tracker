@@ -27167,5 +27167,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T08:00:45.914397+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "580694",
+        "title": "사천당가 신의가 미국에서 환자를 너무 잘 고침",
+        "author": "카피닌자",
+        "view_count": 3051,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581772",
+        "title": "생각을 읽었더니 전세계 투수들이 나에게 집착함",
+        "author": "떠오르다",
+        "view_count": 1819,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 핵잠수함",
+        "author": "눌프",
+        "view_count": 1135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 762,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "582007",
+        "title": "EX급 만능 서포터인 줄 모르고 국가에게 버림받음",
+        "author": "뒤랑달",
+        "view_count": 541,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587705",
+        "title": "재벌가 늦둥이 막내딸의 남편이 되었다",
+        "author": "노란안경",
+        "view_count": 415,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586972",
+        "title": "땜빵 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "박하비",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 245,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587264",
+        "title": "사람 머리 위에 범죄 기록이 보인다!",
+        "author": "기영수",
+        "view_count": 185,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "587303",
+        "title": "국가에 버림받고 즉사기 화살로 헬 난이도 탑 공략",
+        "author": "강예향",
+        "view_count": 140,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
