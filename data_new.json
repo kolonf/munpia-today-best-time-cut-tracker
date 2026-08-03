@@ -5950,5 +5950,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T07:30:39.897820+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585835",
+        "title": "700억 상속받고 사장님들이 내 훈수에 집착함",
+        "author": "웹소툰",
+        "view_count": 379,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586657",
+        "title": "고양이 줍고 내 팔로워 수 1,004,019",
+        "author": "지렌",
+        "view_count": 183,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586400",
+        "title": "30살 모쏠이 22살 여신과 계약연애함",
+        "author": "현연",
+        "view_count": 95,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588252",
+        "title": "데뷔가 챔스 결승전인 15살 축구 천재",
+        "author": "김택용",
+        "view_count": 69,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587080",
+        "title": "혈로血路",
+        "author": "겨루",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590111",
+        "title": "NBA의 폭군이 되었다",
+        "author": "필리포스",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587739",
+        "title": "탑 중개인이 헌터계를 장악함",
+        "author": "윤수호",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588298",
+        "title": "아공간으로 재벌이 되었다.",
+        "author": "은빛열대어",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
