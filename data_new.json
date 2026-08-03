@@ -3646,5 +3646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T16:30:41.749804+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 475,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586359",
+        "title": "축구부 벤치가 역대급 천재였다",
+        "author": "서태양",
+        "view_count": 251,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586368",
+        "title": "회귀한 버거집 사장님은 IMF를 기다린다",
+        "author": "몬도리아",
+        "view_count": 110,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587169",
+        "title": "천재감독으로 착각당하는 중입니다",
+        "author": "유세프",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585959",
+        "title": "블랙기업 회장이 경영을 너무 잘함",
+        "author": "류해인",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585724",
+        "title": "맥을 잡으면 죽을 날이 보인다.",
+        "author": "톨킴",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589881",
+        "title": "우주모함 딸깍으로 탑 등반",
+        "author": "24시수면중",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589755",
+        "title": "드디어 상온 상압 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588491",
+        "title": "이혼 후 미국가서 대박남",
+        "author": "학이선",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586191",
+        "title": "막장 미궁에서 전능의 벌레를 각성했다",
+        "author": "운향림",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
