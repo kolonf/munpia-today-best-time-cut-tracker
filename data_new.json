@@ -2302,5 +2302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T10:00:44.313577+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585835",
+        "title": "700억 상속받고 사장님들이 내 훈수에 집착함",
+        "author": "웹소툰",
+        "view_count": 366,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586657",
+        "title": "고양이 줍고 내 팔로워 수 1,004,019",
+        "author": "지렌",
+        "view_count": 207,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 패시브 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586594",
+        "title": "아포칼립스 유일 힐러는 경험치가 100만 배다",
+        "author": "심흔",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585385",
+        "title": "아무도 안 가져간 AI, 샀더니 돈이 복사된다.",
+        "author": "신선임",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588650",
+        "title": "법이 안 죽이길래 그냥 내가 죽임",
+        "author": "묘엽",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585428",
+        "title": "치트급 재능으로 아포칼립스 게임에서 살아남기",
+        "author": "유우리",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585186",
+        "title": "축구선수 능력치를 보는 천재 스카우터",
+        "author": "캡틴내꼬양",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587746",
+        "title": "내 훈수 한 번에 SSS급들의 고질병이 고쳐짐",
+        "author": "번민",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589554",
+        "title": "흡수수선전",
+        "author": "일의전심",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
