@@ -4126,5 +4126,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T21:00:45.804903+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 474,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587986",
+        "title": "희망퇴직 당한 김부장을 미국이 전략자산 취급함",
+        "author": "크로노크",
+        "view_count": 195,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 94,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587115",
+        "title": "지옥에서 돌아온 EX급 소환사",
+        "author": "치이고",
+        "view_count": 58,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589968",
+        "title": "상업의 나라 조선, 상업의 왕 세종",
+        "author": "송석",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588683",
+        "title": "대장장이 명가 막내아들은 세공사 합니다",
+        "author": "묵묵히간다",
+        "view_count": 33,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 26,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587252",
+        "title": "내공 무한으로 탑 등반",
+        "author": "강한임",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587247",
+        "title": "전능의 대장장이로 각성했더니 전 세계가 미쳐 날뜀",
+        "author": "한미르.",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587969",
+        "title": "나 혼자만 스트존이 넓었다",
+        "author": "로웰크란",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
