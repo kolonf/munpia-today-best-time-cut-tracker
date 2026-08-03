@@ -3358,5 +3358,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T15:01:48.490979+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 패시브 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 457,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 242,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589056",
+        "title": "전여친 덕에 미국 로또에 당첨됐다",
+        "author": "소수림",
+        "view_count": 108,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 62,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586486",
+        "title": "내 정령들이 너무 유능하다",
+        "author": "느린생각",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585724",
+        "title": "맥을 잡으면 죽을 날이 보인다.",
+        "author": "톨킴",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588414",
+        "title": "조선의 라스푸틴이 되었다",
+        "author": "삼락검",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588382",
+        "title": "딸깍 문을 만들었더니 전세계가 집착한다",
+        "author": "블랙카드",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587947",
+        "title": "던전에서 내 호텔로 헌터들이 넘어온다",
+        "author": "그루핀",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
