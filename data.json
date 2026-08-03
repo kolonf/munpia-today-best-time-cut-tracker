@@ -26687,5 +26687,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T05:45:21.144241+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579689",
+        "title": "전설급 신수들과 동물원에서 힐링합니다",
+        "author": "버머랜드",
+        "view_count": 2812,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583812",
+        "title": "전능의 힐을 각성했다",
+        "author": "지하™",
+        "view_count": 1607,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 핵잠수함",
+        "author": "눌프",
+        "view_count": 1099,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586359",
+        "title": "축구부 벤치가 역대급 천재였다",
+        "author": "서태양",
+        "view_count": 744,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583862",
+        "title": "인성 터졌던 에이스가 개과천선함",
+        "author": "새결",
+        "view_count": 530,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582465",
+        "title": "21세기 훈장이 명종 시대에 환생함",
+        "author": "담배맛동산",
+        "view_count": 422,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "577935",
+        "title": "삼국지 말단장군이 살아가는 법",
+        "author": "밧슈",
+        "view_count": 321,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "579087",
+        "title": "무림 고수들이 내 침 없이는 못 산다",
+        "author": "아트라",
+        "view_count": 244,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586368",
+        "title": "회귀한 버거집 사장님은 IMF를 기다린다",
+        "author": "몬도리아",
+        "view_count": 190,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585279",
+        "title": "날먹수선전",
+        "author": "LunStellar",
+        "view_count": 137,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
