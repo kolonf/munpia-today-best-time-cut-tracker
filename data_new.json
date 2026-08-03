@@ -5854,5 +5854,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T07:00:42.133094+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585835",
+        "title": "700억 상속받고 사장님들이 내 훈수에 집착함",
+        "author": "웹소툰",
+        "view_count": 362,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586368",
+        "title": "회귀한 버거집 사장님은 IMF를 기다린다",
+        "author": "몬도리아",
+        "view_count": 196,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585724",
+        "title": "맥을 잡으면 죽을 날이 보인다.",
+        "author": "톨킴",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588084",
+        "title": "이혼후 사주로 대박난 역술가",
+        "author": "4311",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590214",
+        "title": "48년 전으로 돌아간 애니메이션 제작자",
+        "author": "차돌박E",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588414",
+        "title": "조선의 라스푸틴이 되었다",
+        "author": "삼락검",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587739",
+        "title": "탑 중개인이 헌터계를 장악함",
+        "author": "윤수호",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589467",
+        "title": "호주에서 벌레 잡아주니까, 사람들이 줄을 선다",
+        "author": "진필.",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
