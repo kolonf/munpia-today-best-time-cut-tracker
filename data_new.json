@@ -5374,5 +5374,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T04:00:40.949111+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586813",
+        "title": "퇴사한 기상예보관이 천재지변을 잘 막음",
+        "author": "글GPT",
+        "view_count": 349,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586657",
+        "title": "고양이 줍고 내 팔로워 수 1,004,019",
+        "author": "지렌",
+        "view_count": 172,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588780",
+        "title": "미국 깡촌 소방관에게 동물들이 집착함",
+        "author": "우운(雨雲)",
+        "view_count": 92,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 66,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588486",
+        "title": "아내가 흑인을 낳았다.",
+        "author": "배추나무",
+        "view_count": 46,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587877",
+        "title": "망국 조선에 기관총을 풀었다",
+        "author": "파전거북",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590214",
+        "title": "48년 전으로 돌아간 애니메이션 제작자",
+        "author": "차돌박E",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586318",
+        "title": "영국 7부리그 클럽의 구단주가 되었다",
+        "author": "글쓴이H",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586795",
+        "title": "누더기 제국의 전쟁 영웅이 됐다",
+        "author": "가늴",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586692",
+        "title": "폐관무사",
+        "author": "환상인물",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
