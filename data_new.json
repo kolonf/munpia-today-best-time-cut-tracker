@@ -3454,5 +3454,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-03T15:30:34.489099+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 453,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587303",
+        "title": "국가에 버림받고 즉사기 화살로 헬 난이도 탑 공략",
+        "author": "강예향",
+        "view_count": 233,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584542",
+        "title": "조선백자 빚는 국보급 천재에 유럽왕실이 집착함",
+        "author": "치타리아",
+        "view_count": 106,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586513",
+        "title": "알고보니 주식 천재였다",
+        "author": "망령K",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586486",
+        "title": "내 정령들이 너무 유능하다",
+        "author": "느린생각",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584867",
+        "title": "재벌가 서자는 부실기업만 삼킨다",
+        "author": "레츠기륏",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586795",
+        "title": "누더기 제국의 전쟁 영웅이 됐다",
+        "author": "가늴",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588715",
+        "title": "게임 속 최강 우주전함이 진짜가 됐다",
+        "author": "구라백작",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588491",
+        "title": "이혼 후 미국가서 대박남",
+        "author": "학이선",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587211",
+        "title": "코스프레했을 뿐인데, EX급 헌터로 착각당함",
+        "author": "죽엇푹",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
