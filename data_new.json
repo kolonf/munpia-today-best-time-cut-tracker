@@ -6814,5 +6814,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T12:00:39.476250+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 386,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587280",
+        "title": "EX급 탑 등반자인줄 모르고 국가가 나를 버림.",
+        "author": "김옥지",
+        "view_count": 192,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586804",
+        "title": "좌천 후, 탑공략으로 돈이 미쳤다",
+        "author": "주짓떼로.",
+        "view_count": 95,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586594",
+        "title": "아포칼립스 유일 힐러는 경험치가 100만 배다",
+        "author": "심흔",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589890",
+        "title": "미국에서 1조 파워볼 당첨되어 벼락 부자",
+        "author": "귤청",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585450",
+        "title": "서울역 중국집 막내",
+        "author": "푸른동",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590014",
+        "title": "대한민국 육군 출신이 일본 천황이 되었다",
+        "author": "강그린",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588382",
+        "title": "딸깍 문을 만들었더니 전세계가 집착한다",
+        "author": "블랙카드",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587582",
+        "title": "전생고블린 이번 생은 편하게 좀 살랍니다",
+        "author": "찹쌀빵",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
