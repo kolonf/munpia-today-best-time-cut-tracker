@@ -7966,5 +7966,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T20:00:40.055111+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587912",
+        "title": "선협 속 영전을 얻었다",
+        "author": "탄산수영장",
+        "view_count": 442,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588486",
+        "title": "아내가 흑인을 낳았다.",
+        "author": "배추나무",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585885",
+        "title": "이혼 후 길마를 임신시켰다",
+        "author": "정상화의신",
+        "view_count": 98,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589058",
+        "title": "위대한 가문의 서자가 너무 잘한다",
+        "author": "신수.",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586486",
+        "title": "내 정령들이 너무 유능하다",
+        "author": "느린생각",
+        "view_count": 47,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589884",
+        "title": "아빠는 신빨 방송 중",
+        "author": "광별",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590014",
+        "title": "대한민국 육군 출신이 일본 천황이 되었다",
+        "author": "강그린",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588576",
+        "title": "EX급 시간 능력자가 탑 난이도를 숨김",
+        "author": "코맷초",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589384",
+        "title": "퇴역 우주전함이, 내원룸에 정박했다.",
+        "author": "임가놈",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
