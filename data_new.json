@@ -7294,5 +7294,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T15:30:33.234770+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586897",
+        "title": "배신당한 축구천재가 맨시티에 복수함",
+        "author": "치킨순애보",
+        "view_count": 432,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 212,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587122",
+        "title": "귀농해서 신점봤더니 거물들이 몰려온다",
+        "author": "송태섭",
+        "view_count": 104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586513",
+        "title": "알고보니 주식 천재였다",
+        "author": "망령K",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585701",
+        "title": "과거를 보는 유해발굴병",
+        "author": "살라하",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588715",
+        "title": "게임 속 최강 우주전함이 진짜가 됐다",
+        "author": "구라백작",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588415",
+        "title": "19세기 북한트립",
+        "author": "여운(餘韻)",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586632",
+        "title": "내 MAX 레벨 10",
+        "author": "OneQ",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590070",
+        "title": "미슐랭이 집착하는 파리 기사식당",
+        "author": "우운(雨雲)",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
