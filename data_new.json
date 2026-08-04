@@ -6334,5 +6334,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T09:30:32.226262+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 412,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585279",
+        "title": "날먹수선전",
+        "author": "LunStellar",
+        "view_count": 178,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588466",
+        "title": "EX급 네크로맨서인 줄 모르고 국가에게 버림받음",
+        "author": "강우제",
+        "view_count": 99,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587593",
+        "title": "영포티, 각성하다",
+        "author": "[동주]",
+        "view_count": 66,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "584950",
+        "title": "나혼자 탑보스들로 탑등반",
+        "author": "클릭카나",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589968",
+        "title": "상업의 나라 조선, 상업의 왕 세종",
+        "author": "송석",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587873",
+        "title": "사마귀로 시작하는 수선 생활",
+        "author": "안약",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586795",
+        "title": "누더기 제국의 전쟁 영웅이 됐다",
+        "author": "가늴",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588298",
+        "title": "아공간으로 재벌이 되었다.",
+        "author": "은빛열대어",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
