@@ -29663,5 +29663,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T20:30:40.118471+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "584701",
+        "title": "농사만 지었는데 북부대공이 되었다",
+        "author": "퍼본fb",
+        "view_count": 2867,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583018",
+        "title": "독일에 조선을 풀었다",
+        "author": "글철인",
+        "view_count": 1750,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587705",
+        "title": "재벌가 늦둥이 막내딸의 남편이 되었다",
+        "author": "노란안경",
+        "view_count": 984,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583565",
+        "title": "대일본제국은 이제 제 겁니다",
+        "author": "Merkava",
+        "view_count": 627,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585345",
+        "title": "EX 즉사기급 스킬로 헬 난이도 탑 등반",
+        "author": "지우연",
+        "view_count": 481,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "565004",
+        "title": "이혼하고 골프 쳤더니 돈이 미쳤다!",
+        "author": "한량신선",
+        "view_count": 398,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "579778",
+        "title": "강화수선전(強化修仙傳)",
+        "author": "차재현",
+        "view_count": 320,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "585718",
+        "title": "온천을 샀더니 신선들이 단골이 됨",
+        "author": "버몬트",
+        "view_count": 246,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587237",
+        "title": "천하는 멀고 영지는 가난했다.",
+        "author": "천수방세옥",
+        "view_count": 170,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
