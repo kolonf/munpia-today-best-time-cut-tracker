@@ -7102,5 +7102,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T14:30:36.668474+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 409,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587130",
+        "title": "귀신잡은 영상 떡상하니 재벌들이 줄을 선다.",
+        "author": "탄두리치킨",
+        "view_count": 199,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586657",
+        "title": "고양이 줍고 내 팔로워 수 1,004,019",
+        "author": "지렌",
+        "view_count": 100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587681",
+        "title": "즉사능력으로 인생역전",
+        "author": "방탄리무진",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589245",
+        "title": "LA 헐리웃 셀럽들이 환장하는 천재 수의사",
+        "author": "제이리밋",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587252",
+        "title": "내공 무한으로 탑 등반",
+        "author": "강한임",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588319",
+        "title": "괴담에 캐스팅되셨습니다, 배우님.",
+        "author": "심우주",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586191",
+        "title": "막장 미궁에서 전능의 벌레를 각성했다",
+        "author": "운향림",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
