@@ -8830,5 +8830,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T01:30:41.914716+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586568",
+        "title": "은퇴한 FBI 요원이 깡촌에서 라이브 방송하며 힐링함",
+        "author": "백원만s",
+        "view_count": 414,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586897",
+        "title": "배신당한 축구천재가 맨시티에 복수함",
+        "author": "치킨순애보",
+        "view_count": 190,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588613",
+        "title": "부동산 천재는 여우냄새가 난다",
+        "author": "경우勁雨",
+        "view_count": 89,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587593",
+        "title": "영포티, 각성하다",
+        "author": "[동주]",
+        "view_count": 62,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585385",
+        "title": "아무도 안 가져간 AI, 샀더니 돈이 복사된다.",
+        "author": "신선임",
+        "view_count": 43,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586644",
+        "title": "회귀한 검사의 복수는 키링 뽑기보다 쉬움",
+        "author": "글사언",
+        "view_count": 35,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589890",
+        "title": "미국에서 1조 파워볼 당첨되어 벼락 부자",
+        "author": "귤청",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588118",
+        "title": "주인공의 세 번째 다리가 안 올라감",
+        "author": "우치뭉치",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587497",
+        "title": "내 망치질에 거물들이 집착함",
+        "author": "박가장",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
