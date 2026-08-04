@@ -30143,5 +30143,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T22:30:39.687724+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579762",
+        "title": "신입사원이 천재였다",
+        "author": "콜라탄산",
+        "view_count": 3012,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 1420,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 핵잠수함",
+        "author": "눌프",
+        "view_count": 916,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583391",
+        "title": "로또 1등보다 성과급이 더 많음",
+        "author": "카이남",
+        "view_count": 631,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "576409",
+        "title": "회귀한 금의위는 무림맹을 찢는다",
+        "author": "너구리작가",
+        "view_count": 482,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "581102",
+        "title": "수도자의 신점에 거물들이 집착함",
+        "author": "안전사랑",
+        "view_count": 384,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 304,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587002",
+        "title": "기상청 9급 신입사원의 날씨예지 스트리밍",
+        "author": "타오름",
+        "view_count": 231,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587804",
+        "title": "삼국지, 나라에 돈이 없는 게 아니라 도둑이 너무 많아",
+        "author": "쓰고또쓰고",
+        "view_count": 167,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "565899",
+        "title": "심역 밑, 영웅은 없다",
+        "author": "일다나크",
+        "view_count": 113,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
