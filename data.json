@@ -28319,5 +28319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T14:00:45.338566+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "570884",
+        "title": "다른 세상의 나 덕분에 만능 매니저가 됨",
+        "author": "지장수",
+        "view_count": 2636,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "579689",
+        "title": "전설급 신수들과 동물원에서 힐링합니다",
+        "author": "버머랜드",
+        "view_count": 1514,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583560",
+        "title": "식물인간에서 깨어났더니 돈이 보인다",
+        "author": "소수림",
+        "view_count": 972,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588693",
+        "title": "검은머리 특수요원이 미국 목장을 인수함",
+        "author": "무정호",
+        "view_count": 745,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585835",
+        "title": "700억 상속받고 사장님들이 내 훈수에 집착함",
+        "author": "웹소툰",
+        "view_count": 523,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586897",
+        "title": "배신당한 축구천재가 맨시티에 복수함",
+        "author": "치킨순애보",
+        "view_count": 401,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "576409",
+        "title": "회귀한 금의위는 무림맹을 찢는다",
+        "author": "너구리작가",
+        "view_count": 310,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583471",
+        "title": "삼국지: 회귀한 여포가 양아버지를 거부함",
+        "author": "대역드래곤",
+        "view_count": 258,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586331",
+        "title": "스탯 999,999,999 싸움 천재의 탑 등반",
+        "author": "가온™",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "566337",
+        "title": "말년병장 남한산성 전투에 가다",
+        "author": "하기동",
+        "view_count": 146,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
