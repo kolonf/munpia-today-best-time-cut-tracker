@@ -9118,5 +9118,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T03:00:48.168604+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586568",
+        "title": "은퇴한 FBI 요원이 깡촌에서 라이브 방송하며 힐링함",
+        "author": "백원만s",
+        "view_count": 425,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586681",
+        "title": "회귀했더니 폭락장 전날이었다",
+        "author": "빡쎔",
+        "view_count": 204,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586421",
+        "title": "최강의 사형수",
+        "author": "메밀면",
+        "view_count": 92,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588666",
+        "title": "나는 소아외과 전문의였다",
+        "author": "홈스탠바이",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585385",
+        "title": "아무도 안 가져간 AI, 샀더니 돈이 복사된다.",
+        "author": "신선임",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588694",
+        "title": "가족을 죽인 놈에게 복수하고, 재벌 아들로 빙의했다.",
+        "author": "신유(愼惟)",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586186",
+        "title": "전능의 흑마법사가 되었다 [탑등반]",
+        "author": "지니Genie",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588384",
+        "title": "마교 소공자는 마법을 쓴다!",
+        "author": "다원.",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586486",
+        "title": "내 정령들이 너무 유능하다",
+        "author": "느린생각",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587859",
+        "title": "릅퀴가 릅신에 빙의함",
+        "author": "천재유교수",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
