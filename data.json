@@ -30431,5 +30431,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T00:00:51.660157+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582774",
+        "title": "퓨전펑크 만렙 칼잡이",
+        "author": "토니토",
+        "view_count": 2900,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582598",
+        "title": "탑에서 신점보니 전 세계가 집착함",
+        "author": "KAY™",
+        "view_count": 1355,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586359",
+        "title": "축구부 벤치가 역대급 천재였다",
+        "author": "서태양",
+        "view_count": 882,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580332",
+        "title": "회귀 성자가 됐더니 전세계가 집착함",
+        "author": "크엉컹컹",
+        "view_count": 600,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587309",
+        "title": "EX급 예언 방송으로 헌터들을 씹어먹음",
+        "author": "동동주스",
+        "view_count": 470,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582007",
+        "title": "EX급 만능 서포터인 줄 모르고 국가에게 버림받음",
+        "author": "뒤랑달",
+        "view_count": 372,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585322",
+        "title": "토건조선",
+        "author": "보헤미아.",
+        "view_count": 289,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 219,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 168,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "565899",
+        "title": "심역 밑, 영웅은 없다",
+        "author": "일다나크",
+        "view_count": 114,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
