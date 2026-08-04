@@ -7486,5 +7486,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T16:30:34.196850+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588693",
+        "title": "검은머리 특수요원이 미국 목장을 인수함",
+        "author": "무정호",
+        "view_count": 455,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 239,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587122",
+        "title": "귀농해서 신점봤더니 거물들이 몰려온다",
+        "author": "송태섭",
+        "view_count": 109,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586513",
+        "title": "알고보니 주식 천재였다",
+        "author": "망령K",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586948",
+        "title": "은퇴한 특수요원의 아들이 납치됐다.",
+        "author": "검은후드",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585794",
+        "title": "삼국지 제갈량의 스승이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588271",
+        "title": "빙하기 아포칼립스의 유일한 화염술사",
+        "author": "한손검",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588298",
+        "title": "아공간으로 재벌이 되었다.",
+        "author": "은빛열대어",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588084",
+        "title": "이혼후 사주로 대박난 역술가",
+        "author": "4311",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589692",
+        "title": "미국 무당에 거물들이 집착함",
+        "author": "연진(連進)",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
