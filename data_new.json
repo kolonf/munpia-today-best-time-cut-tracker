@@ -9790,5 +9790,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T07:30:34.614041+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587418",
+        "title": "지방을 태우는 마법사",
+        "author": "마지막검사",
+        "view_count": 455,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587264",
+        "title": "사람 머리 위에 범죄 기록이 보인다!",
+        "author": "기영수",
+        "view_count": 243,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586804",
+        "title": "좌천 후, 탑공략으로 돈이 미쳤다",
+        "author": "주짓떼로.",
+        "view_count": 103,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588666",
+        "title": "나는 소아외과 전문의였다",
+        "author": "홈스탠바이",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584867",
+        "title": "재벌가 서자는 부실기업만 삼킨다",
+        "author": "레츠기륏",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590014",
+        "title": "대한민국 육군 출신이 일본 천황이 되었다",
+        "author": "강그린",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589737",
+        "title": "13서클 대마법사의 유산으로 초월급 탑 등반",
+        "author": "김옥지",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586795",
+        "title": "누더기 제국의 전쟁 영웅이 됐다",
+        "author": "가늴",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588319",
+        "title": "괴담에 캐스팅되셨습니다, 배우님.",
+        "author": "심우주",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
