@@ -9694,5 +9694,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T07:02:53.527815+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586568",
+        "title": "은퇴한 FBI 요원이 깡촌에서 라이브 방송하며 힐링함",
+        "author": "백원만s",
+        "view_count": 446,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 228,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 103,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588486",
+        "title": "아내가 흑인을 낳았다.",
+        "author": "배추나무",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586661",
+        "title": "은퇴 후 무인도에서 소소하게 힐링함",
+        "author": "쾌재",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587877",
+        "title": "망국 조선에 기관총을 풀었다",
+        "author": "파전거북",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588384",
+        "title": "마교 소공자는 마법을 쓴다!",
+        "author": "다원.",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587947",
+        "title": "던전에서 내 호텔로 헌터들이 넘어온다",
+        "author": "그루핀",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588470",
+        "title": "헌터협회 직원이 초월급 신선임",
+        "author": "건태양",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
