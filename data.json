@@ -31391,5 +31391,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T04:30:43.705246+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582722",
+        "title": "경호원 출신 승무원이 너무 유능함",
+        "author": "동쪽사람",
+        "view_count": 3000,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584981",
+        "title": "회장님이 나를 아들로 착각한다",
+        "author": "양치기자리",
+        "view_count": 1547,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 핵잠수함",
+        "author": "눌프",
+        "view_count": 1102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "566337",
+        "title": "말년병장 남한산성 전투에 가다",
+        "author": "하기동",
+        "view_count": 676,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585184",
+        "title": "119구급대원에게 상태창이 생김",
+        "author": "담하파",
+        "view_count": 510,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586813",
+        "title": "퇴사한 기상예보관이 천재지변을 잘 막음",
+        "author": "글GPT",
+        "view_count": 383,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 307,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586681",
+        "title": "회귀했더니 폭락장 전날이었다",
+        "author": "빡쎔",
+        "view_count": 225,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587912",
+        "title": "선협 속 영전을 얻었다",
+        "author": "탄산수영장",
+        "view_count": 161,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585068",
+        "title": "G급 방산 능력으로 탑 등반",
+        "author": "최자까s",
+        "view_count": 123,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
