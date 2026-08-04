@@ -27551,5 +27551,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T10:00:45.420417+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582543",
+        "title": "사진을 찍었을 뿐인데 전세계가 집착함.",
+        "author": "글과달",
+        "view_count": 3140,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583596",
+        "title": "국가에게 버림받고 저작권료를 상속받음",
+        "author": "하이너",
+        "view_count": 1858,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583402",
+        "title": "K-딸아빠는 너튜브 스타가 너무 쉽다",
+        "author": "나이와키",
+        "view_count": 1180,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580105",
+        "title": "마계정복하고 왔더니 국가가 나를 버렸다.",
+        "author": "메리고양이",
+        "view_count": 730,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "584629",
+        "title": "텔레포트로 등반하니 강대국들이 안달냄",
+        "author": "NZ",
+        "view_count": 512,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "578484",
+        "title": "검은머리 신입 FBI 요원이 너무 유능하다",
+        "author": "아마기슈",
+        "view_count": 408,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588904",
+        "title": "국가에게 버림받은 힐러가 EX급으로 각성함",
+        "author": "초코팝",
+        "view_count": 324,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586249",
+        "title": "검신 삼촌은 저녁 전에 돌아온다",
+        "author": "다크다람쥐",
+        "view_count": 259,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "579146",
+        "title": "수선계에 양자 컴퓨터를 이식했다",
+        "author": "심쿵한",
+        "view_count": 188,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 142,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
