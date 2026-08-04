@@ -8350,5 +8350,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T22:30:37.408957+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586783",
+        "title": "해고 후 슈퍼볼 당첨으로 힐링함",
+        "author": "깊은수풀",
+        "view_count": 479,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587002",
+        "title": "기상청 9급 신입사원의 날씨예지 스트리밍",
+        "author": "타오름",
+        "view_count": 231,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586400",
+        "title": "30살 모쏠이 22살 여신과 계약연애함",
+        "author": "현연",
+        "view_count": 94,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585794",
+        "title": "삼국지 제갈량의 스승이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 59,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586594",
+        "title": "아포칼립스 유일 힐러는 경험치가 100만 배다",
+        "author": "심흔",
+        "view_count": 42,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589930",
+        "title": "중동의 왕자가 되었다",
+        "author": "뚱보고양이",
+        "view_count": 34,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589390",
+        "title": "파면당한 형사가 죄인의 탑을 각성했다",
+        "author": "제로레벨",
+        "view_count": 21,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589554",
+        "title": "흡수수선전",
+        "author": "일의전심",
+        "view_count": 17,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587216",
+        "title": "개명해서 탑 보상 4번씩 부정수급함",
+        "author": "G리드",
+        "view_count": 14,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
