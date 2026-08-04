@@ -28799,5 +28799,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-04T16:00:47.421866+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "570884",
+        "title": "다른 세상의 나 덕분에 만능 매니저가 됨",
+        "author": "지장수",
+        "view_count": 2789,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582543",
+        "title": "사진을 찍었을 뿐인데 전세계가 집착함.",
+        "author": "글과달",
+        "view_count": 1707,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "577610",
+        "title": "투자 실패 후 국민 여가수의 남동생으로 회귀했다",
+        "author": "신윤",
+        "view_count": 1147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583862",
+        "title": "인성 터졌던 에이스가 개과천선함",
+        "author": "새결",
+        "view_count": 769,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583565",
+        "title": "대일본제국은 이제 제 겁니다",
+        "author": "Merkava",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 429,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 138,
+        "novel_id": "580165",
+        "title": "분유값 벌려다 주식 천재가 됐다",
+        "author": "라데우",
+        "view_count": 338,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "580809",
+        "title": "국보급 연기력을 상속받았다",
+        "author": "자경(蔗境)",
+        "view_count": 273,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 215,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584728",
+        "title": "신력999,999,999배 초월급 무당 강림",
+        "author": "성공할",
+        "view_count": 153,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
