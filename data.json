@@ -34367,5 +34367,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T19:00:46.389244+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585472",
+        "title": "좌천된 국민연금 지부장이 폐가에서 극락감",
+        "author": "더페이서",
+        "view_count": 3076,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586734",
+        "title": "이혼당한 퇴직 공무원 회귀후 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 1704,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "580299",
+        "title": "전능의 안경을 얻었다.",
+        "author": "마키야또",
+        "view_count": 1019,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 655,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 탑 등반",
+        "author": "오브더",
+        "view_count": 507,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586972",
+        "title": "땜빵 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "박하비",
+        "view_count": 418,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586813",
+        "title": "퇴사한 기상예보관이 천재지변을 잘 막음",
+        "author": "글GPT",
+        "view_count": 333,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 260,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "584310",
+        "title": "과거로간 조선 최고 공돌이 세계를 지배하다",
+        "author": "강그린",
+        "view_count": 170,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "582007",
+        "title": "EX급 만능 서포터인 줄 모르고 국가에게 버림받음",
+        "author": "뒤랑달",
+        "view_count": 130,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
