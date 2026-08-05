@@ -35615,5 +35615,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T01:00:45.839533+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 2935,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584863",
+        "title": "영안 트였더니, 범죄 증거가 다 보임",
+        "author": "빈명",
+        "view_count": 1374,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585812",
+        "title": "미국 시골에서 공룡 발굴로 대박남",
+        "author": "힐링이좋다",
+        "view_count": 889,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 583,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 457,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586331",
+        "title": "미친 싸움 천재가 EX급 특성으로 탑을 박살냄",
+        "author": "가온™",
+        "view_count": 343,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "584728",
+        "title": "신력999,999,999배 초월급 무당 강림",
+        "author": "성공할",
+        "view_count": 261,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 194,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581595",
+        "title": "단종엄마는 죽지 않는다",
+        "author": "양평시바견",
+        "view_count": 145,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586394",
+        "title": "무한재능 회사원의 힐링 라이프",
+        "author": "귤림(橘林)",
+        "view_count": 99,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
