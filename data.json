@@ -35807,5 +35807,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T02:00:45.469539+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579689",
+        "title": "전설급 신수들과 동물원에서 힐링합니다",
+        "author": "버머랜드",
+        "view_count": 2738,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "580684",
+        "title": "1840 대영제국 재벌이 되었다",
+        "author": "최뚝",
+        "view_count": 1370,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583391",
+        "title": "로또 1등보다 성과급이 더 많음",
+        "author": "카이남",
+        "view_count": 855,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581524",
+        "title": "회귀한 나는 금융제국의 황제가 되겠다",
+        "author": "창조소설러",
+        "view_count": 584,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585184",
+        "title": "119구급대원에게 상태창이 생김",
+        "author": "담하파",
+        "view_count": 465,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 344,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 255,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "565004",
+        "title": "이혼하고 골프 쳤더니 돈이 미쳤다!",
+        "author": "한량신선",
+        "view_count": 197,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 156,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "586394",
+        "title": "무한재능 회사원의 힐링 라이프",
+        "author": "귤림(橘林)",
+        "view_count": 103,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
