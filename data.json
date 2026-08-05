@@ -33503,5 +33503,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T15:03:03.606910+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586291",
+        "title": "14세 연하 회장 손녀가 고백했다",
+        "author": "새결",
+        "view_count": 2646,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584331",
+        "title": "선협에서 복사능력으로 꿀빤다",
+        "author": "아이씨렉",
+        "view_count": 1640,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 997,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "582007",
+        "title": "EX급 만능 서포터인 줄 모르고 국가에게 버림받음",
+        "author": "뒤랑달",
+        "view_count": 644,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585835",
+        "title": "700억 상속받고 사장님들이 내 훈수에 집착함",
+        "author": "웹소툰",
+        "view_count": 505,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 380,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "582352",
+        "title": "폐기각 복원술사",
+        "author": "화기린쨩",
+        "view_count": 310,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585629",
+        "title": "퇴직했는데 성공한 제자들이 내게 집착한다",
+        "author": "[덕우]",
+        "view_count": 253,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586331",
+        "title": "미친 싸움 천재가 EX급 특성으로 탑을 박살냄",
+        "author": "가온™",
+        "view_count": 187,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 134,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
