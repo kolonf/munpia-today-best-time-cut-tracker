@@ -10270,5 +10270,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T11:00:45.521806+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 442,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587130",
+        "title": "귀신잡은 영상 떡상하니 재벌들이 줄을 선다.",
+        "author": "탄두리치킨",
+        "view_count": 208,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 97,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587593",
+        "title": "영포티, 각성하다",
+        "author": "[동주]",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589884",
+        "title": "아빠는 신빨 방송 중",
+        "author": "광별",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 역대급 벌레 사냥꾼",
+        "author": "진필.",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586453",
+        "title": "아포칼립스의 막내 교도관은 잘 먹고 잘 산다",
+        "author": "랑몰아",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587859",
+        "title": "릅퀴가 릅신에 빙의함",
+        "author": "천재유교수",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588845",
+        "title": "유럽의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
