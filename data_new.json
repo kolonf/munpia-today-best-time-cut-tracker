@@ -9982,5 +9982,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T09:30:32.166950+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588904",
+        "title": "국가에게 버림받은 힐러가 EX급으로 각성함",
+        "author": "초코팝",
+        "view_count": 477,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587804",
+        "title": "삼국지, 나라에 돈이 없는 게 아니라 도둑이 너무 많아",
+        "author": "쓰고또쓰고",
+        "view_count": 228,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587122",
+        "title": "귀농해서 신점봤더니 거물들이 몰려온다",
+        "author": "송태섭",
+        "view_count": 95,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585794",
+        "title": "삼국지 제갈량의 스승이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587171",
+        "title": "튜토리얼에서 1000년이 흘렀다",
+        "author": "코브라참새",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590326",
+        "title": "빌런 혼자 각성했다",
+        "author": "쿨라임",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588414",
+        "title": "조선의 라스푸틴이 되었다",
+        "author": "삼락검",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585450",
+        "title": "서울역 중국집 막내",
+        "author": "푸른동",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588319",
+        "title": "괴담에 캐스팅되셨습니다, 배우님.",
+        "author": "심우주",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
