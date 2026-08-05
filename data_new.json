@@ -12382,5 +12382,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T23:30:33.795165+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586395",
+        "title": "EX급 게임 핵으로 탑에서 돈을 쓸어담음",
+        "author": "화염술사",
+        "view_count": 527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587130",
+        "title": "귀신잡은 영상 떡상하니 재벌들이 줄을 선다.",
+        "author": "탄두리치킨",
+        "view_count": 124,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587273",
+        "title": "선협에서 언데드 뽑기를 숨김",
+        "author": "청송(靑松)",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588919",
+        "title": "이혼당하고 알래스카에서 돈을 쓸어담음",
+        "author": "족염누이",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586318",
+        "title": "영국 7부리그 클럽의 구단주가 되었다",
+        "author": "글쓴이H",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588715",
+        "title": "게임 속 최강 우주전함이 진짜가 됐다",
+        "author": "구라백작",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589062",
+        "title": "꿈꾸는 명종은 문정왕후에게 사랑받는다",
+        "author": "후리자",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
