@@ -32447,5 +32447,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T09:30:38.453915+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583345",
+        "title": "헌터 고쳐주는 의사가 되었다",
+        "author": "숙성연어",
+        "view_count": 3410,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584981",
+        "title": "회장님이 나를 아들로 착각한다",
+        "author": "양치기자리",
+        "view_count": 1875,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585812",
+        "title": "미국 시골에서 공룡 발굴로 대박남",
+        "author": "힐링이좋다",
+        "view_count": 969,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580105",
+        "title": "마계정복하고 왔더니 국가가 나를 버렸다.",
+        "author": "메리고양이",
+        "view_count": 691,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "584629",
+        "title": "텔레포트로 등반하니 강대국들이 안달냄",
+        "author": "NZ",
+        "view_count": 505,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586813",
+        "title": "퇴사한 기상예보관이 천재지변을 잘 막음",
+        "author": "글GPT",
+        "view_count": 398,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585082",
+        "title": "나 혼자 1000억 골드로 탑 등반",
+        "author": "별끝작가",
+        "view_count": 299,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586657",
+        "title": "고양이 줍고 내 팔로워 수 1,004,019",
+        "author": "지렌",
+        "view_count": 233,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "583561",
+        "title": "전세계가 집착하는 EX급 테이머가 되었다.",
+        "author": "Hadele",
+        "view_count": 178,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586261",
+        "title": "20년 무명배우는 할리우드 큰손이 되었다",
+        "author": "꼬노네",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
