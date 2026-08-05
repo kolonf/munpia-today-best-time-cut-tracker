@@ -10558,5 +10558,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T13:31:35.756439+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588693",
+        "title": "검은머리 특수요원이 미국 목장을 인수함",
+        "author": "무정호",
+        "view_count": 470,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 200,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588397",
+        "title": "퇴사 후 폐가에서 힐링합니다",
+        "author": "냥재",
+        "view_count": 76,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586948",
+        "title": "은퇴한 특수요원의 아들이 납치됐다.",
+        "author": "검은후드",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589909",
+        "title": "삼국지, 유표네 장남은 호구인 척한다",
+        "author": "설은하수",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583337",
+        "title": "회사원이 월클급 축구실력을 숨김",
+        "author": "실록",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589884",
+        "title": "아빠는 신빨 방송 중",
+        "author": "광별",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588274",
+        "title": "망치질만 했더니 탑이 직착함",
+        "author": "한도현",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
