@@ -32927,5 +32927,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-05T12:00:46.256382+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583629",
+        "title": "2회차 천살성은 헌터 심사관이 되었다",
+        "author": "김현우",
+        "view_count": 3096,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584863",
+        "title": "영안 트였더니, 범죄 증거가 다 보임",
+        "author": "빈명",
+        "view_count": 1692,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585730",
+        "title": "국가가 버린 소드마스터는 회귀 후 미국 헌터로 갈아탄다",
+        "author": "가냐슈",
+        "view_count": 983,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581086",
+        "title": "방구석에 EX급 창고가 연결됨",
+        "author": "행운카",
+        "view_count": 721,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 515,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588573",
+        "title": "은퇴 힐러는 시골에서 힐링합니다",
+        "author": "기린샛별",
+        "view_count": 408,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 288,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "580165",
+        "title": "분유값 벌려다 주식 천재가 됐다",
+        "author": "라데우",
+        "view_count": 236,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580022",
+        "title": "헬 난이도 99층에서 힐링합니다",
+        "author": "lnX",
+        "view_count": 174,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584310",
+        "title": "과거로간 조선 최고 공돌이 세계를 지배하다",
+        "author": "강그린",
+        "view_count": 131,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
