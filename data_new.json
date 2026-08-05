@@ -13054,5 +13054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T04:30:34.843831+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 507,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586681",
+        "title": "회귀했더니 폭락장 전날이었다",
+        "author": "빡쎔",
+        "view_count": 236,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586421",
+        "title": "국가권력급 사형수",
+        "author": "메밀면",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588869",
+        "title": "만년 후보 메이저리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586513",
+        "title": "알고보니 주식 천재였다",
+        "author": "망령K",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588279",
+        "title": "초월급 스킬로 나 혼자 탑에서 힐링함",
+        "author": "코찬",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588159",
+        "title": "EX급 테이머는 탑을 너무 쉽게 오른다",
+        "author": "초록코끼리",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586632",
+        "title": "내 MAX 레벨 10",
+        "author": "OneQ",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588414",
+        "title": "AI 흑막 조선",
+        "author": "삼락검",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
