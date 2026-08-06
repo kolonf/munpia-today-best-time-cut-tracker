@@ -16030,5 +16030,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T23:00:45.299439+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 600,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586529",
+        "title": "왜 자꾸 드라마가 잘되는데!",
+        "author": "누리용",
+        "view_count": 306,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587838",
+        "title": "결함을 보는 눈을 각성했더니 업계가 집착함",
+        "author": "시온유",
+        "view_count": 106,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589058",
+        "title": "서자가 북부군 장교를 너무 잘함",
+        "author": "신수.",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586804",
+        "title": "좌천 후, 탑공략으로 돈이 미쳤다",
+        "author": "주짓떼로.",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587106",
+        "title": "어플을 결제했더니 사기 스킬이 내 몸에 들어왔다",
+        "author": "집필머신",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588382",
+        "title": "딸깍 문을 만들었더니 전세계가 집착한다",
+        "author": "블랙카드",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587686",
+        "title": "진상 여배우로 환생했더니 연예계가 너무 쉬움",
+        "author": "박꼽등",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586795",
+        "title": "유사 근대에서 기사로 살아남기",
+        "author": "가늴",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590149",
+        "title": "흑도에도 낭만은 있다",
+        "author": "김멈뭄",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
