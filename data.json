@@ -39839,5 +39839,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T21:30:40.744190+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582218",
+        "title": "치유 마법사인데 계룡산 도사로 착각당했다",
+        "author": "프링글",
+        "view_count": 3098,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581904",
+        "title": "집만 고쳤는데, 이웃이 극락감",
+        "author": "꿈가득남",
+        "view_count": 1581,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584331",
+        "title": "선협에서 복사능력으로 꿀빤다",
+        "author": "아이씨렉",
+        "view_count": 863,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586783",
+        "title": "해고 후 슈퍼볼 당첨으로 힐링함",
+        "author": "깊은수풀",
+        "view_count": 604,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 472,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582057",
+        "title": "말단병사인데 선조가 너무 좋아함",
+        "author": "사관(史官)",
+        "view_count": 367,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 297,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583836",
+        "title": "삼국지 여포로 천하를 찢다",
+        "author": "고비류",
+        "view_count": 220,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 167,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "584808",
+        "title": "BC.63 로마 씹어먹는 일기당천 망나니",
+        "author": "연진홍",
+        "view_count": 125,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
