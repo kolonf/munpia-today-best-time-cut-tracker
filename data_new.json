@@ -14494,5 +14494,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T12:30:31.744573+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 485,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586813",
+        "title": "퇴사한 기상예보관이 천재지변을 잘 막음",
+        "author": "글GPT",
+        "view_count": 239,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588387",
+        "title": "선조의 애완충신이 되었다",
+        "author": "연재약장수",
+        "view_count": 128,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590544",
+        "title": "폐업 직전 감정사가 모든 물건의 미래 가격을 봄",
+        "author": "강그린",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588715",
+        "title": "게임 속 최강 우주전함이 진짜가 됐다",
+        "author": "구라백작",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590014",
+        "title": "대한민국 육군 출신이 일본 천황이 되었다",
+        "author": "강그린",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589492",
+        "title": "내 머릿속 천마들이 탑을 씹어먹음",
+        "author": "글삭기",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
