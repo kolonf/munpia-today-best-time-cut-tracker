@@ -39167,5 +39167,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T18:30:39.341634+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582894",
+        "title": "병아리 힐러 탑에 오르다",
+        "author": "필독(必讀)",
+        "view_count": 2834,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "578219",
+        "title": "나 혼자 신화급 특성으로 탑 등반",
+        "author": "사바희",
+        "view_count": 1641,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 1024,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587912",
+        "title": "선협 속 영전을 얻었다",
+        "author": "탄산수영장",
+        "view_count": 612,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 506,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 404,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "584331",
+        "title": "선협에서 복사능력으로 꿀빤다",
+        "author": "아이씨렉",
+        "view_count": 325,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 259,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "573590",
+        "title": "삼국지 장비전: 도원결의를 거절하다",
+        "author": "프로미녹",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "581638",
+        "title": "농업 천재 소현세자, 위대한 조선을 열다.",
+        "author": "대붕이날다",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
