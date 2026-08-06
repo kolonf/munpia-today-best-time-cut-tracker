@@ -15166,5 +15166,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T16:30:34.159968+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587912",
+        "title": "선협 속 영전을 얻었다",
+        "author": "탄산수영장",
+        "view_count": 572,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587130",
+        "title": "귀신잡은 영상 떡상하니 재벌들이 줄을 선다.",
+        "author": "탄두리치킨",
+        "view_count": 299,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586513",
+        "title": "알고보니 주식 천재였다",
+        "author": "망령K",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590326",
+        "title": "빌런 혼자 각성했다",
+        "author": "쿨라임",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587873",
+        "title": "사마귀로 시작하는 수선 생활",
+        "author": "안약",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589789",
+        "title": "러시아 제국의 불로불사 비선실세",
+        "author": "LSPAFF",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588717",
+        "title": "탑 등반하는 외신은 프라모델을 마개조한다",
+        "author": "양승훈",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590535",
+        "title": "EX급 초능력자는 조용히 좀 살고 싶다",
+        "author": "라떼는",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586661",
+        "title": "은퇴 후 무인도에서 소소하게 힐링함",
+        "author": "쾌재",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
