@@ -13822,5 +13822,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T09:00:39.771957+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 568,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586681",
+        "title": "회귀했더니 폭락장 전날이었다",
+        "author": "빡쎔",
+        "view_count": 251,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 145,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588271",
+        "title": "빙하기 아포칼립스의 유일한 화염술사",
+        "author": "한손검",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588125",
+        "title": "하루 먼저 본 SNS로 재벌이 되었다",
+        "author": "아아연하게",
+        "view_count": 58,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589245",
+        "title": "LA 헐리웃 셀럽들이 환장하는 천재 수의사",
+        "author": "제이리밋",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585078",
+        "title": "맵통떡을 팔았더니 화류계와 연예계 거물들이 집착함.",
+        "author": "아르헨",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590535",
+        "title": "EX급 초능력자는 조용히 좀 살고 싶다",
+        "author": "라떼는",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588707",
+        "title": "해적의 경제학",
+        "author": "페르세르크",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
