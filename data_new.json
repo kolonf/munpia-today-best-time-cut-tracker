@@ -15550,5 +15550,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T19:00:39.463078+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586556",
+        "title": "귀여운 꼬마 소환사가 재앙급 마왕을 소환함",
+        "author": "카라닥",
+        "view_count": 311,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586681",
+        "title": "회귀했더니 폭락장 전날이었다",
+        "author": "빡쎔",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587838",
+        "title": "결함을 보는 눈을 각성했더니 업계가 집착함",
+        "author": "시온유",
+        "view_count": 85,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588930",
+        "title": "이혼하고 호주에서 만능 철물점을 열었다.",
+        "author": "한도현",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588159",
+        "title": "EX급 테이머는 탑을 너무 쉽게 오른다",
+        "author": "초록코끼리",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587877",
+        "title": "망국 조선에 기관총을 풀었다",
+        "author": "파전거북",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585078",
+        "title": "맵통떡을 팔았더니 화류계와 연예계 거물들이 집착함.",
+        "author": "아르헨",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591027",
+        "title": "회장님, 진료 보시려면 줄부터 서세요",
+        "author": "쿠쿠하스",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
