@@ -38687,5 +38687,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-06T16:00:43.500752+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "581729",
+        "title": "은퇴당한 탱커가 힐 능력을 각성했다",
+        "author": "쿨쿨잠자자",
+        "view_count": 2644,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582543",
+        "title": "사진을 찍었을 뿐인데 전세계가 집착함.",
+        "author": "글과달",
+        "view_count": 1583,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "579537",
+        "title": "USB",
+        "author": "리코리",
+        "view_count": 956,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 680,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585345",
+        "title": "EX 즉사기급 스킬로 헬 난이도 탑 등반",
+        "author": "지우연",
+        "view_count": 537,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 387,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "586813",
+        "title": "내 예보 한 번에 재난 사망률이 낮아짐",
+        "author": "글GPT",
+        "view_count": 326,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587986",
+        "title": "희망퇴직 당한 김부장을 미국이 전략자산 취급함",
+        "author": "크로노크",
+        "view_count": 262,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 131,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
