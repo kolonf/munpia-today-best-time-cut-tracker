@@ -17470,5 +17470,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-07T15:00:38.338705+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586897",
+        "title": "맨시티에 배신당한 축구천재가 맨유에 복수함",
+        "author": "치킨순애보",
+        "view_count": 530,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586331",
+        "title": "미친 싸움 천재가 EX급 특성으로 탑을 박살냄",
+        "author": "가온™",
+        "view_count": 251,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 119,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586294",
+        "title": "회귀한 파문제자가 40년치 기연을 독식함",
+        "author": "장삼봉90",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588159",
+        "title": "EX급 테이머는 탑을 너무 쉽게 오른다",
+        "author": "초록코끼리",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589265",
+        "title": "아포칼립스 속 벌레술사",
+        "author": "사제락",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589884",
+        "title": "아빠의 신빨 스트리밍",
+        "author": "광별",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587985",
+        "title": "미제팀 형사 서도진",
+        "author": "백마장사",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590518",
+        "title": "사모님 임신하려면 번호표 뽑으세요",
+        "author": "대작살",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
