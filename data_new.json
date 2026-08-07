@@ -19870,5 +19870,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T04:30:35.038444+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 503,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 252,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587584",
+        "title": "히틀러가 집착하는 의사가 되었다",
+        "author": "빵먹고싶다",
+        "view_count": 136,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589583",
+        "title": "탑스타 아이돌과 동거함",
+        "author": "희나리T",
+        "view_count": 78,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588279",
+        "title": "초월급 스킬로 나 혼자 탑에서 힐링함",
+        "author": "코찬",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589820",
+        "title": "호주 워홀러가 농사를 잘함",
+        "author": "아라운",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589739",
+        "title": "국가에서 버림받은 랭커들이 내 장비로 재평가 받음",
+        "author": "수진(水辰)",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588414",
+        "title": "AI 흑막 조선",
+        "author": "삼락검",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589059",
+        "title": "EX급 전능의 석가모니가 됐다",
+        "author": "피달팽이",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
