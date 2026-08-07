@@ -40703,5 +40703,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-07T09:00:49.005117+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583629",
+        "title": "환생한 천살성, 헌터 협회의 저승사자가 되었다",
+        "author": "김현우",
+        "view_count": 3103,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 1721,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588904",
+        "title": "국가에게 버림받은 힐러가 EX급으로 각성함",
+        "author": "초코팝",
+        "view_count": 882,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585730",
+        "title": "국가가 버린 소드마스터는 회귀 후 미국 헌터로 갈아탄다",
+        "author": "가냐슈",
+        "view_count": 662,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "582436",
+        "title": "축협 말단 분석관이 역대급 천재였다",
+        "author": "낙원s",
+        "view_count": 499,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584629",
+        "title": "텔레포트로 등반하니 강대국들이 안달냄",
+        "author": "NZ",
+        "view_count": 405,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587804",
+        "title": "삼국지, 나라에 돈이 없는 게 아니라 도둑이 너무 많아",
+        "author": "쓰고또쓰고",
+        "view_count": 307,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585629",
+        "title": "퇴직했는데 성공한 제자들이 내게 집착한다",
+        "author": "[덕우]",
+        "view_count": 235,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589755",
+        "title": "드디어 상온 상압 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 176,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "576806",
+        "title": "삼국지 이각, 천하를 다시쓰다.",
+        "author": "섹시옹",
+        "view_count": 125,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
