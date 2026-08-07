@@ -43295,5 +43295,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-07T21:00:47.815888+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582894",
+        "title": "병아리 힐러 탑에 오르다",
+        "author": "필독(必讀)",
+        "view_count": 3019,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583837",
+        "title": "듣보잡 풋내기가 마운드를 찢음",
+        "author": "단팥빵소년",
+        "view_count": 1679,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585405",
+        "title": "나 혼자 EX급 사령술로 무한성장",
+        "author": "글러트",
+        "view_count": 995,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581524",
+        "title": "회귀한 나는 금융제국의 황제가 되겠다",
+        "author": "창조소설러",
+        "view_count": 679,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 512,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585184",
+        "title": "119구급대원에게 상태창이 생김",
+        "author": "담하파",
+        "view_count": 405,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585730",
+        "title": "국가가 버린 소드마스터는 회귀 후 미국 헌터로 갈아탄다",
+        "author": "가냐슈",
+        "view_count": 302,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 234,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "573590",
+        "title": "삼국지 장비전: 도원결의를 거절하다",
+        "author": "프로미녹",
+        "view_count": 169,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 132,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
