@@ -44927,5 +44927,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T04:00:54.948161+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583596",
+        "title": "은퇴당한 특수요원이 연예계를 씹어먹음",
+        "author": "하이너",
+        "view_count": 2798,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 1596,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586972",
+        "title": "땜빵 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "박하비",
+        "view_count": 864,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580096",
+        "title": "경질된 야구감독은 꼴찌팀의 미래를 안다",
+        "author": "하호크로수",
+        "view_count": 587,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 503,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582465",
+        "title": "21세기 훈장이 명종 시대에 환생함",
+        "author": "담배맛동산",
+        "view_count": 395,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583836",
+        "title": "삼국지 여포로 천하를 찢다",
+        "author": "고비류",
+        "view_count": 297,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585082",
+        "title": "나 혼자 1000억 골드로 탑 등반",
+        "author": "별끝작가",
+        "view_count": 246,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "583991",
+        "title": "땜빵으로 콜업된 천재 공격수가 리그를 폭격함",
+        "author": "나는야푸",
+        "view_count": 191,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 132,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
