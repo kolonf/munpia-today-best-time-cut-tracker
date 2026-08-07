@@ -18718,5 +18718,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-07T22:00:41.709359+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 535,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586529",
+        "title": "왜 자꾸 드라마가 잘되는데!",
+        "author": "누리용",
+        "view_count": 279,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588125",
+        "title": "하루 먼저 본 SNS로 재벌이 되었다",
+        "author": "아아연하게",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587724",
+        "title": "회귀했더니 돈 복사가 너무 쉽다",
+        "author": "염주",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586804",
+        "title": "좌천 후, 탑공략으로 돈이 미쳤다",
+        "author": "주짓떼로.",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588919",
+        "title": "이혼당하고 알래스카에서 돈을 쓸어담음",
+        "author": "족염누이",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586644",
+        "title": "회귀한 검사의 복수는 키링 뽑기보다 쉬움",
+        "author": "글사언",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590997",
+        "title": "버림받은 테이머는 EX급 신수 농장을 차린다",
+        "author": "초록코끼리",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590823",
+        "title": "완전최면능력으로 탑등반",
+        "author": "가지(GAZI)",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588201",
+        "title": "확률이 보이기 시작했다",
+        "author": "총각무",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
