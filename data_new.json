@@ -19582,5 +19582,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T03:00:40.152273+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 468,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586400",
+        "title": "30살 모쏠이 22살 여신과 계약연애함",
+        "author": "현연",
+        "view_count": 238,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586948",
+        "title": "은퇴한 특수요원의 아들이 납치됐다.",
+        "author": "검은후드",
+        "view_count": 109,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586804",
+        "title": "좌천 후, 탑공략으로 돈이 미쳤다",
+        "author": "주짓떼로.",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586661",
+        "title": "은퇴 후 무인도에서 소소하게 힐링함",
+        "author": "쾌재",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590157",
+        "title": "망한 조선소에서 우주전함이 자란다",
+        "author": "흑문도",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터는 회귀 후 복수한다",
+        "author": "초록코끼리",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587686",
+        "title": "진상 여배우로 환생했더니 연예계가 너무 쉬움",
+        "author": "박꼽등",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590053",
+        "title": "미국에서 K푸드 팔았더니 CIA에서 전화옴",
+        "author": "슬리피헤드",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590535",
+        "title": "EX급 초능력자는 조용히 좀 살고 싶다",
+        "author": "라떼는",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
