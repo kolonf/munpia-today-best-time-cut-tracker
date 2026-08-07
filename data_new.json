@@ -20350,5 +20350,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T07:00:44.698812+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 531,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 262,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587584",
+        "title": "히틀러가 집착하는 의사가 되었다",
+        "author": "빵먹고싶다",
+        "view_count": 140,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590544",
+        "title": "폐업 직전 감정사가 모든 물건의 미래 가격을 봄",
+        "author": "강그린",
+        "view_count": 80,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590646",
+        "title": "삼국지 귀큰놈한테 유기당했다",
+        "author": "따도도",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590042",
+        "title": "뻐꾸기 낳은 전아내 대신 회귀 후 재벌 외동녀랑 결혼함",
+        "author": "글끌클",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590518",
+        "title": "사모님 임신하려면 번호표 뽑으세요",
+        "author": "대작살",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590400",
+        "title": "은퇴당한 힐러가 EX로 재각성하고 탑 공략",
+        "author": "치규치규",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588414",
+        "title": "AI 흑막 조선",
+        "author": "삼락검",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590285",
+        "title": "미래 AI와 2000년으로 회귀했다",
+        "author": "김치은",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
