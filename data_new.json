@@ -19774,5 +19774,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T04:00:47.040435+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586529",
+        "title": "왜 자꾸 드라마가 잘되는데!",
+        "author": "누리용",
+        "view_count": 486,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586400",
+        "title": "30살 모쏠이 22살 여신과 계약연애함",
+        "author": "현연",
+        "view_count": 246,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 78,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585078",
+        "title": "맵통떡을 팔았더니 화류계와 연예계 거물들이 집착함.",
+        "author": "아르헨",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590765",
+        "title": "이혼 후 재벌 귀신들이 집착한다",
+        "author": "연함™",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590428",
+        "title": "운송 재벌이 된 배달 라이더",
+        "author": "악중선",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588885",
+        "title": "EX급 능력 흡수로 탑 등반",
+        "author": "참새친구",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588470",
+        "title": "헌터협회 직원이 초월급 신선임",
+        "author": "건태양",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
