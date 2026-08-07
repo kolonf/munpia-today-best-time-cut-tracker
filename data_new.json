@@ -20062,5 +20062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T05:30:43.174794+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 520,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 255,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589583",
+        "title": "탑스타 아이돌과 동거함",
+        "author": "희나리T",
+        "view_count": 78,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585078",
+        "title": "맵통떡을 팔았더니 화류계와 연예계 거물들이 집착함.",
+        "author": "아르헨",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588708",
+        "title": "천마신공으로 PGA를 씹어먹음.",
+        "author": "바비용",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590319",
+        "title": "재앙급 마나 흡수한 줄 모르고 은퇴당함",
+        "author": "풀매수",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588159",
+        "title": "EX급 테이머는 탑을 너무 쉽게 오른다",
+        "author": "초록코끼리",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590285",
+        "title": "미래 AI와 2000년으로 회귀했다",
+        "author": "김치은",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
