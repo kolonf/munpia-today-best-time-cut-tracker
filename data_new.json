@@ -18238,5 +18238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-07T19:30:34.198637+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587058",
+        "title": "내 강화템에 전 세계가 집착함",
+        "author": "비장한",
+        "view_count": 581,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586394",
+        "title": "무한재능 회사원의 힐링 라이프",
+        "author": "귤림(橘林)",
+        "view_count": 274,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588125",
+        "title": "하루 먼저 본 SNS로 재벌이 되었다",
+        "author": "아아연하게",
+        "view_count": 122,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589930",
+        "title": "중동왕자로 환생했더니 빈 라덴이 집착함",
+        "author": "뚱보고양이",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588650",
+        "title": "법으로 안 죽이길래 그냥 내가 죽임",
+        "author": "묘엽",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590148",
+        "title": "불사 능력으로 탑 등반했더니 세계가 찬양함",
+        "author": "픤호랑이",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586039",
+        "title": "신경세포 진화로 회귀후 재앙급 헌터",
+        "author": "강운™",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590099",
+        "title": "AI가 세종의 조선을 선택했다",
+        "author": "심흔",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590743",
+        "title": "양아치 개발자가 국산 AI 만들어 미국 빅테크 씹어먹음",
+        "author": "극복밤송",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
