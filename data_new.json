@@ -17182,5 +17182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-07T13:30:32.632653+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586683",
+        "title": "귀환한 삼촌이 제작으로 탑을 개팸",
+        "author": "흑전",
+        "view_count": 525,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 247,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 113,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589056",
+        "title": "전여친 덕에 미국 로또에 당첨됐다",
+        "author": "소수림",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589890",
+        "title": "퇴사 후 밀밭에서 돈벼락이 쏟아짐",
+        "author": "귤청",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591147",
+        "title": "[1997] 돈부터 벌었다",
+        "author": "팥고당",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589265",
+        "title": "아포칼립스 속 벌레술사",
+        "author": "사제락",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589662",
+        "title": "파이어족인데 정조가 집착한다",
+        "author": "욱욱청청",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589863",
+        "title": "EX급 초월 연금술사에게 헌터들이 환장함",
+        "author": "스스디",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591181",
+        "title": "나 혼자 탑에서 무한 부활",
+        "author": "여연",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
