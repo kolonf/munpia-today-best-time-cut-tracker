@@ -23326,5 +23326,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T23:00:36.592703+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588573",
+        "title": "은퇴 힐러는 시골에서 힐링합니다",
+        "author": "기린샛별",
+        "view_count": 528,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589388",
+        "title": "할리우드 거장들이 내 영화에 집착함",
+        "author": "고별",
+        "view_count": 234,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586041",
+        "title": "문어부터 시작하는 환생 라이프",
+        "author": "탑돼지",
+        "view_count": 95,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590157",
+        "title": "망한 조선소에서 우주전함이 자란다",
+        "author": "흑문도",
+        "view_count": 60,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587630",
+        "title": "파혼당한 후 10초 회귀로 힐링함",
+        "author": "아재활극",
+        "view_count": 41,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585410",
+        "title": "회사에선 만년 대리, 빵집에선 경영 천재",
+        "author": "poplar",
+        "view_count": 33,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591027",
+        "title": "회장님, 진료 보시려면 줄부터 서세요",
+        "author": "쿠쿠하스",
+        "view_count": 27,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591009",
+        "title": "미국 한인타운에 훈련사했더니 돈이 쏟아짐",
+        "author": "이문성",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590728",
+        "title": "크툴루 모시는 무당에게 재벌들이 집착함",
+        "author": "지렌",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588380",
+        "title": "삼국지도 베낀 원조 병법으로 천하를 씹어먹음",
+        "author": "삿갓서생",
+        "view_count": 14,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
