@@ -22942,5 +22942,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T21:00:36.653876+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 561,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 227,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587704",
+        "title": "국가에게 버림받은 삼촌이 귀환했다",
+        "author": "매일한편",
+        "view_count": 87,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589583",
+        "title": "탑스타 아이돌과 동거함",
+        "author": "희나리T",
+        "view_count": 61,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590157",
+        "title": "망한 조선소에서 우주전함이 자란다",
+        "author": "흑문도",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587739",
+        "title": "EX급 중개인이 탑 경제를 독식함",
+        "author": "윤수호",
+        "view_count": 35,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585410",
+        "title": "회사에선 만년 대리, 빵집에선 경영 천재",
+        "author": "poplar",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588255",
+        "title": "여의주 먹고 귀신 씹어먹는 경찰",
+        "author": "석굴암",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591481",
+        "title": "선협 속 진화하는 EX급 영수를 얻었다.",
+        "author": "탄산수영장",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591532",
+        "title": "F급 마법사가 EX급 즉사기로 탑 등반",
+        "author": "진독자",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
