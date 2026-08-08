@@ -24958,5 +24958,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T07:30:35.164930+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 456,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 252,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588486",
+        "title": "아내가 흑인을 낳았다.",
+        "author": "배추나무",
+        "view_count": 117,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589460",
+        "title": "500억만 벌고 쉬려다, 1000조 재벌이 되었다",
+        "author": "일시불",
+        "view_count": 76,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591289",
+        "title": "1987, 재벌가 장손이 되었다",
+        "author": "천강(泉剛)",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589370",
+        "title": "아포칼립스의 시골 슈퍼 주인이 되었다",
+        "author": "산면",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588708",
+        "title": "천마신공으로 PGA를 씹어먹음.",
+        "author": "바비용",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590608",
+        "title": "회 귀한 줄 모르고 매운탕 끓여버림",
+        "author": "서담™",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590492",
+        "title": "연중 한 소설에 첫사랑이 찾아왔다",
+        "author": "소설마표",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
