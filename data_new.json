@@ -20926,5 +20926,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T10:00:36.744160+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 505,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 268,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 111,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586088",
+        "title": "선협의 개가 되었다",
+        "author": "글청",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589692",
+        "title": "검은 머리 무당에 거물들이 줄 섭니다",
+        "author": "연진(連進)",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587873",
+        "title": "사마귀로 시작하는 수선 생활",
+        "author": "안약",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591289",
+        "title": "1987, 재벌가 장손이 되었다",
+        "author": "천강(泉剛)",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590997",
+        "title": "버림받은 테이머는 EX급 신수 농장을 차린다",
+        "author": "초록코끼리",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588319",
+        "title": "괴담에 캐스팅되셨습니다, 배우님.",
+        "author": "심우주",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588255",
+        "title": "여의주 먹고 귀신 씹어먹는 경찰",
+        "author": "석굴암",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
