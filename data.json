@@ -49055,5 +49055,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T22:30:45.653114+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582218",
+        "title": "치유 마법사인데 계룡산 도사로 착각당했다",
+        "author": "프링글",
+        "view_count": 3091,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581086",
+        "title": "방구석에 EX급 창고가 연결됨",
+        "author": "행운카",
+        "view_count": 1628,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 990,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583018",
+        "title": "독일에 조선을 풀었다",
+        "author": "글철인",
+        "view_count": 681,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "581524",
+        "title": "회귀한 나는 금융제국의 황제가 되겠다",
+        "author": "창조소설러",
+        "view_count": 479,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586556",
+        "title": "귀여운 꼬마 소환사가 재앙급 마왕을 소환함",
+        "author": "카라닥",
+        "view_count": 353,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580949",
+        "title": "시골 의원인데 세계 의학계가 줄을 선다",
+        "author": "팥빵맨",
+        "view_count": 286,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587838",
+        "title": "결함을 보는 눈을 각성했더니 업계가 집착함",
+        "author": "시온유",
+        "view_count": 227,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588666",
+        "title": "소아외과 전문의는 행복하게 살고 싶다",
+        "author": "홈스탠바이",
+        "view_count": 164,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 109,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
