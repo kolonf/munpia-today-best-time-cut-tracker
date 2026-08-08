@@ -24094,5 +24094,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T03:00:36.594482+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587786",
+        "title": "선협에서 선녀를 임신시키고 시작",
+        "author": "뭉낑깡",
+        "view_count": 379,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 212,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587096",
+        "title": "연금술로 프랑스에서 향수 재벌",
+        "author": "꾸뻬",
+        "view_count": 98,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589460",
+        "title": "500억만 벌고 쉬려다, 1000조 재벌이 되었다",
+        "author": "일시불",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588279",
+        "title": "초월급 스킬로 나 혼자 탑에서 힐링함",
+        "author": "코찬",
+        "view_count": 46,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589910",
+        "title": "범죄자 처단했더니 재벌녀들이 몰려옴",
+        "author": "민족의힘",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590024",
+        "title": "견훤의 외동딸을 임신시켜버렸다.",
+        "author": "대박터짐",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590474",
+        "title": "친구따라 무림맹 면접보러 갔다가 뽑힘",
+        "author": "테양이",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590997",
+        "title": "버림받은 테이머는 EX급 신수 농장을 차린다",
+        "author": "초록코끼리",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590743",
+        "title": "양아치 개발자가 국산 AI 만들어 미국 빅테크 씹어먹음",
+        "author": "극복밤송",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
