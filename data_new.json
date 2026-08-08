@@ -24862,5 +24862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T07:00:41.592764+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 448,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 236,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587264",
+        "title": "사람 머리 위에 범죄 기록이 보인다!",
+        "author": "기영수",
+        "view_count": 120,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 74,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589692",
+        "title": "검은 머리 무당에 거물들이 줄 섭니다",
+        "author": "연진(連進)",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588717",
+        "title": "탑 등반하는 외신은 프라모델을 마개조한다",
+        "author": "양승훈",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586120",
+        "title": "소소하게 던전 채굴 대기만성",
+        "author": "문향(文香)",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587252",
+        "title": "내공 무한으로 탑 등반",
+        "author": "강한임",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590728",
+        "title": "크툴루 모시는 무당에게 재벌들이 집착함",
+        "author": "지렌",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589863",
+        "title": "EX급 초월 연금술사에게 헌터들이 환장함",
+        "author": "스스디",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
