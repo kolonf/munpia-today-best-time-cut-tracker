@@ -48959,5 +48959,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T22:00:45.545219+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583629",
+        "title": "환생한 천살성, 헌터 협회의 저승사자가 되었다",
+        "author": "김현우",
+        "view_count": 2997,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 핵잠수함",
+        "author": "눌프",
+        "view_count": 1614,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581248",
+        "title": "시간정지 발롱도르",
+        "author": "무가옳",
+        "view_count": 922,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585812",
+        "title": "미국 시골에서 공룡 발굴로 대박남",
+        "author": "힐링이좋다",
+        "view_count": 682,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "576409",
+        "title": "회귀한 금의위는 무림맹을 찢는다",
+        "author": "너구리작가",
+        "view_count": 456,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586556",
+        "title": "귀여운 꼬마 소환사가 재앙급 마왕을 소환함",
+        "author": "카라닥",
+        "view_count": 348,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583627",
+        "title": "방산재벌의 신(新) 남벌",
+        "author": "화오름",
+        "view_count": 258,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585405",
+        "title": "나 혼자 EX급 사령술로 무한성장",
+        "author": "글러트",
+        "view_count": 209,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585082",
+        "title": "나 혼자 1000억 골드로 탑 등반",
+        "author": "별끝작가",
+        "view_count": 163,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588387",
+        "title": "선조의 애완충신이 되었다",
+        "author": "연재약장수",
+        "view_count": 111,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
