@@ -47519,5 +47519,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-08T16:00:48.302955+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "584981",
+        "title": "회장님이 나를 아들로 착각한다",
+        "author": "양치기자리",
+        "view_count": 2566,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588904",
+        "title": "국가에게 버림받은 힐러가 EX급으로 각성함",
+        "author": "초코팝",
+        "view_count": 1622,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "582647",
+        "title": "2회차 낙하산 단장이 일을 잘함",
+        "author": "동동아리",
+        "view_count": 997,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 707,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586783",
+        "title": "해고 후 슈퍼볼 당첨으로 힐링함",
+        "author": "깊은수풀",
+        "view_count": 529,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 423,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583991",
+        "title": "땜빵으로 콜업된 천재 공격수가 리그를 폭격함",
+        "author": "나는야푸",
+        "view_count": 329,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586556",
+        "title": "귀여운 꼬마 소환사가 재앙급 마왕을 소환함",
+        "author": "카라닥",
+        "view_count": 265,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 193,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584728",
+        "title": "신력999,999,999배 초월급 무당 강림",
+        "author": "성공할",
+        "view_count": 135,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
