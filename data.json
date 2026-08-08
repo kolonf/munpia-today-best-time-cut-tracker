@@ -49727,5 +49727,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T01:00:45.838733+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585253",
+        "title": "전투형 AI와 함께 1984년으로",
+        "author": "마나크",
+        "view_count": 3138,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586390",
+        "title": "악역만 연기했는데 탑스타가 되었다",
+        "author": "해피엔딩이즈굿",
+        "view_count": 1678,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586783",
+        "title": "해고 후 슈퍼볼 당첨으로 힐링함",
+        "author": "깊은수풀",
+        "view_count": 875,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580299",
+        "title": "전능의 안경을 얻었다.",
+        "author": "마키야또",
+        "view_count": 583,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583862",
+        "title": "사인 한 장에 국보급 투수가 되었다",
+        "author": "새결",
+        "view_count": 452,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 325,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 261,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "584728",
+        "title": "신력999,999,999배 초월급 무당 강림",
+        "author": "성공할",
+        "view_count": 205,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "585885",
+        "title": "이혼 후 길마를 임신시켰다",
+        "author": "정상화의신",
+        "view_count": 157,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "584310",
+        "title": "과거로간 조선 최고 공돌이 세계를 지배하다",
+        "author": "강그린",
+        "view_count": 102,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
