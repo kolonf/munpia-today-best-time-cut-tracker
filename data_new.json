@@ -25342,5 +25342,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T09:30:33.347554+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586897",
+        "title": "맨시티에 배신당한 축구천재가 맨유에 복수함",
+        "author": "치킨순애보",
+        "view_count": 472,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 262,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588271",
+        "title": "빙하기 아포칼립스의 유일한 화염술사",
+        "author": "한손검",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590646",
+        "title": "삼국지 귀큰놈한테 유기당했다",
+        "author": "따도도",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터는 회귀 후 복수한다",
+        "author": "초록코끼리",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591499",
+        "title": "촌구석 소년으로 환생한 천하제일인, 영약을 싹쓸이 하다",
+        "author": "강그린",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590255",
+        "title": "EX급 수렵 및 개사기 제작 스킬로 탑 등반",
+        "author": "켈린더",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587099",
+        "title": "본 적도 없는 재벌회장이 나 보고 아들하라고 하네",
+        "author": "달빛너머",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590743",
+        "title": "양아치 개발자가 국산 AI 만들어 미국 빅테크 씹어먹음",
+        "author": "극복밤송",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
