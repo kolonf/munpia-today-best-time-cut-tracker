@@ -28606,5 +28606,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T03:30:32.504835+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588869",
+        "title": "만년 후보 메이저리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 474,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588930",
+        "title": "이혼하고 호주에서 만능 철물점을 열었다.",
+        "author": "한도현",
+        "view_count": 252,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589058",
+        "title": "서자가 북부군 장교를 너무 잘함",
+        "author": "신수.",
+        "view_count": 119,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589488",
+        "title": "국결로 얻은 아내가 SSS급 헌터였다.",
+        "author": "수기리",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590428",
+        "title": "운송 재벌이 된 배달 라이더",
+        "author": "악중선",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588954",
+        "title": "천재 투수의 눈에 숫자가 보임",
+        "author": "토리토",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591634",
+        "title": "500억 상속 후 대뜸 탑스타들이 집착함",
+        "author": "알랜더",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589880",
+        "title": "내 힐 한 번에 나락 간 S급 헌터가 극락감",
+        "author": "죽엇푹",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590174",
+        "title": "신인상 받으려고 S급 신인들을 죽이기로 했다",
+        "author": "쏘하이",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590573",
+        "title": "1997, 사교육의 신으로 돌아왔다",
+        "author": "사쇼",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
