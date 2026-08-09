@@ -57119,5 +57119,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T08:53:34.571620+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583596",
+        "title": "은퇴당한 특수요원이 연예계를 씹어먹음",
+        "author": "하이너",
+        "view_count": 2991,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "578253",
+        "title": "삼국지연의:병사의꿈",
+        "author": "동동휘온",
+        "view_count": 1981,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587309",
+        "title": "EX급 예언 방송으로 헌터들을 씹어먹음",
+        "author": "동동주스",
+        "view_count": 1121,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588780",
+        "title": "미국 깡촌 소방관에게 동물들이 집착함",
+        "author": "우운(雨雲)",
+        "view_count": 728,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586261",
+        "title": "밥차 사장인데 할리우드가 너무 집착함",
+        "author": "꼬노네",
+        "view_count": 576,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588466",
+        "title": "해고당했는데 EX급 네크로맨서로 각성했다",
+        "author": "강우제",
+        "view_count": 464,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587237",
+        "title": "천하는 멀고 영지는 가난했다.",
+        "author": "천수방세옥",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사",
+        "author": "아트라",
+        "view_count": 293,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588125",
+        "title": "하루 먼저 본 SNS로 재벌이 되었다",
+        "author": "아아연하게",
+        "view_count": 213,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587704",
+        "title": "국가에게 버림받은 삼촌이 귀환했다",
+        "author": "매일한편",
+        "view_count": 150,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
