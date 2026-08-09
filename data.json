@@ -56063,5 +56063,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T04:30:43.218110+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579689",
+        "title": "전설급 신수들과 동물원에서 힐링합니다",
+        "author": "버머랜드",
+        "view_count": 2858,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584981",
+        "title": "회장님이 나를 아들로 착각한다",
+        "author": "양치기자리",
+        "view_count": 1711,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587309",
+        "title": "EX급 예언 방송으로 헌터들을 씹어먹음",
+        "author": "동동주스",
+        "view_count": 1050,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581142",
+        "title": "SSS급 게이트 옆에 안전지대를 만들었다",
+        "author": "limkun",
+        "view_count": 672,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586261",
+        "title": "밥차 사장인데 할리우드가 너무 집착함",
+        "author": "꼬노네",
+        "view_count": 548,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 423,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587912",
+        "title": "내 영전만 시간 가속이라 영초 싹쓸이함",
+        "author": "탄산수영장",
+        "view_count": 316,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588252",
+        "title": "데뷔가 챔스 결승전인 15살 축구 천재",
+        "author": "김택용",
+        "view_count": 273,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 206,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "587273",
+        "title": "선협에서 언데드 뽑기를 숨김",
+        "author": "청송(靑松)",
+        "view_count": 146,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
