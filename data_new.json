@@ -27070,5 +27070,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T19:00:37.419661+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 633,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588387",
+        "title": "선조의 애완충신이 되었다",
+        "author": "연재약장수",
+        "view_count": 294,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 119,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 69,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589255",
+        "title": "연금술 치킨집 차렸더니 서울이 미쳤다",
+        "author": "캡틴베어",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589492",
+        "title": "내 머릿속 천마들이 탑을 씹어먹음",
+        "author": "글삭기",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591754",
+        "title": "북유럽 왕실 온돌 장인이 되었다.",
+        "author": "라이솔트",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588695",
+        "title": "고대 로판 제국에 떨어졌다",
+        "author": "havoc",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590679",
+        "title": "히트맨 각성 후 암살로 탑 등반",
+        "author": "땡시기",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589911",
+        "title": "회귀한 재벌은 돈으로 탑을 지배한다.",
+        "author": "매니보보",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
