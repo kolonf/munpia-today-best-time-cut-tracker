@@ -29182,5 +29182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T06:30:33.124175+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 516,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588397",
+        "title": "퇴사 후 폐가에서 힐링합니다",
+        "author": "냥재",
+        "view_count": 116,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589390",
+        "title": "누명 쓰고 파면당했더니 죄인의 탑을 각성했다",
+        "author": "제로레벨",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589456",
+        "title": "쉬었음 청년이 신빨 만렙이 됨",
+        "author": "이창연",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589938",
+        "title": "환생한 대마법사가 시골에서 힐링함",
+        "author": "922",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589836",
+        "title": "내 무인도에 해츨링이 산다",
+        "author": "asbaldr",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590981",
+        "title": "아포칼립스에서 좀비들이 나를 아빠라고 부름",
+        "author": "바스크치케",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590492",
+        "title": "연중 한 소설에 첫사랑이 찾아왔다",
+        "author": "소설마표",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
