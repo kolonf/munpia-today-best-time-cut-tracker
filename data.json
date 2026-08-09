@@ -53855,5 +53855,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T19:06:26.077960+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586734",
+        "title": "이혼당한 퇴직 공무원 회귀후 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 2829,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1681,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "582647",
+        "title": "2회차 낙하산 단장이 일을 잘함",
+        "author": "동동아리",
+        "view_count": 1127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586897",
+        "title": "맨시티에 배신당한 축구천재가 맨유에 복수함",
+        "author": "치킨순애보",
+        "view_count": 747,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "582465",
+        "title": "21세기 훈장이 명종 시대에 환생함",
+        "author": "담배맛동산",
+        "view_count": 569,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "576409",
+        "title": "회귀한 금의위는 무림맹을 찢는다",
+        "author": "너구리작가",
+        "view_count": 447,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 333,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 247,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "584728",
+        "title": "신력999,999,999배 초월급 무당 강림",
+        "author": "성공할",
+        "view_count": 185,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 121,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
