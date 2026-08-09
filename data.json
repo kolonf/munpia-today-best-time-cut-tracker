@@ -52319,5 +52319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T12:30:39.386363+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583596",
+        "title": "은퇴당한 특수요원이 연예계를 씹어먹음",
+        "author": "하이너",
+        "view_count": 2908,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586697",
+        "title": "미국 시골 영양사에게 이웃들이 너무 집착함.",
+        "author": "글과달",
+        "view_count": 1470,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587705",
+        "title": "재벌가 늦둥이 막내딸의 남편이 되었다",
+        "author": "노란안경",
+        "view_count": 1004,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587193",
+        "title": "괴이들이 너무 귀엽다",
+        "author": "으므므",
+        "view_count": 661,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 512,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584629",
+        "title": "텔레포트로 등반하니 강대국들이 안달냄",
+        "author": "NZ",
+        "view_count": 415,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586437",
+        "title": "미국 급식으로 한식 만들었더니 거물들이 미쳐날뜀",
+        "author": "임완",
+        "view_count": 316,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 243,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 180,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "587115",
+        "title": "지옥에서 돌아온 EX급 소환사",
+        "author": "치이고",
+        "view_count": 108,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
