@@ -27646,5 +27646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T22:30:31.081021+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588780",
+        "title": "미국 깡촌 소방관에게 동물들이 집착함",
+        "author": "우운(雨雲)",
+        "view_count": 574,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588466",
+        "title": "해고당했는데 EX급 네크로맨서로 각성했다",
+        "author": "강우제",
+        "view_count": 259,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586041",
+        "title": "문어부터 시작하는 환생 라이프",
+        "author": "탑돼지",
+        "view_count": 115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589692",
+        "title": "검은 머리 무당에 거물들이 줄 섭니다",
+        "author": "연진(連進)",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588084",
+        "title": "이혼후 사주로 대박난 역술가",
+        "author": "4311",
+        "view_count": 43,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587384",
+        "title": "소소한 특전으로 인생 역전",
+        "author": "신림서점",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591755",
+        "title": "EX급 마법으로 탑을 삭제한다",
+        "author": "김치은",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588993",
+        "title": "축알못,월드컵 우승감독되다",
+        "author": "허당명장",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588954",
+        "title": "천재 투수의 눈에 숫자가 보임",
+        "author": "토리토",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591400",
+        "title": "흙수저 고딩 해커한테 전 세계 정보기관이 집착함",
+        "author": "에그빵",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
