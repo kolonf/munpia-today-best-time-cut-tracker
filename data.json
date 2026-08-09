@@ -54239,5 +54239,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T20:49:53.310553+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586734",
+        "title": "이혼당한 퇴직 공무원 회귀후 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 3178,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1827,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588904",
+        "title": "국가에게 버림받은 힐러가 EX급으로 각성함",
+        "author": "초코팝",
+        "view_count": 1124,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580165",
+        "title": "분유값 벌려다 주식 천재가 됐다",
+        "author": "라데우",
+        "view_count": 747,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "584981",
+        "title": "회장님이 나를 아들로 착각한다",
+        "author": "양치기자리",
+        "view_count": 516,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 369,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 297,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 240,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "584939",
+        "title": "회귀한 과학 천재에게 거물들이 집착함",
+        "author": "(누누잉)",
+        "view_count": 170,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 139,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
