@@ -26782,5 +26782,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-09T17:30:32.804295+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587309",
+        "title": "EX급 예언 방송으로 헌터들을 씹어먹음",
+        "author": "동동주스",
+        "view_count": 608,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587786",
+        "title": "선협에서 선녀를 임신시키고 시작",
+        "author": "뭉낑깡",
+        "view_count": 286,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591696",
+        "title": "귀환 후 세계재벌",
+        "author": "김치은",
+        "view_count": 114,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589292",
+        "title": "물리 치트로 재벌 과학자가 되었다",
+        "author": "필드스틱",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586864",
+        "title": "벼락 맞고 EX급 뇌룡으로 탑 등반",
+        "author": "김육공",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588470",
+        "title": "헌터협회 직원이 초월급 신선임",
+        "author": "건태양",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590208",
+        "title": "아포칼립스에 나 혼자 무인도에서 힐링함",
+        "author": "재즈소울",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590024",
+        "title": "견훤의 외동딸을 임신시켜버렸다.",
+        "author": "대박터짐",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590456",
+        "title": "내 목걸이는 5000BTC를 숨기고 있었다",
+        "author": "나의마을",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590053",
+        "title": "미국에서 K푸드 팔았더니 CIA에서 전화옴",
+        "author": "슬리피헤드",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
