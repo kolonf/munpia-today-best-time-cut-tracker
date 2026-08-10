@@ -61343,5 +61343,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T04:30:43.845293+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586390",
+        "title": "악역만 연기했는데 탑스타가 되었다",
+        "author": "해피엔딩이즈굿",
+        "view_count": 2868,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581904",
+        "title": "집만 고쳤는데, 이웃이 극락감",
+        "author": "꿈가득남",
+        "view_count": 1717,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 966,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "582436",
+        "title": "축협 말단 분석관이 역대급 천재였다",
+        "author": "낙원s",
+        "view_count": 689,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 571,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 432,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 328,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 283,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 209,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 156,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
