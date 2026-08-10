@@ -31870,5 +31870,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T21:30:41.258715+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 484,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587115",
+        "title": "지옥에서 돌아온 EX급 소환사",
+        "author": "치이고",
+        "view_count": 249,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590872",
+        "title": "미국 국세청 말단인데, 온갖 거물들이 나를 두려워함",
+        "author": "김옥지",
+        "view_count": 110,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587275",
+        "title": "스코틀랜드의 성을 물려받아 술을 빚다",
+        "author": "아케냥",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589782",
+        "title": "광마가 회귀 능력을 강탈했다",
+        "author": "얼하",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590535",
+        "title": "EX급 초능력자는 조용히 좀 살고 싶다",
+        "author": "라떼는",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588885",
+        "title": "EX급 능력 흡수로 탑 등반",
+        "author": "참새친구",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590481",
+        "title": "미국 갱스터가 한국 재벌가 장남이었음",
+        "author": "츄르츄르",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588319",
+        "title": "괴담에서 굴렀더니 연기력이 미쳤다",
+        "author": "심우주",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589445",
+        "title": "EX급 천사를 얻었더니 탑 등반이 너무 쉽다",
+        "author": "르클레르",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
