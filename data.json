@@ -61823,5 +61823,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T06:30:42.112915+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586390",
+        "title": "악역만 연기했는데 탑스타가 되었다",
+        "author": "해피엔딩이즈굿",
+        "view_count": 3026,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 1886,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583402",
+        "title": "K-딸아빠는 너튜브 스타가 너무 쉽다",
+        "author": "나이와키",
+        "view_count": 1032,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588134",
+        "title": "파혼하고 비트코인 천 개를 찾았다.",
+        "author": "백건우.",
+        "view_count": 742,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587002",
+        "title": "기상청에서 날씨예지 유튜브하니 장관들이 집착함",
+        "author": "타오름",
+        "view_count": 600,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585322",
+        "title": "토건조선",
+        "author": "보헤미아.",
+        "view_count": 460,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "565780",
+        "title": "전뇌의 마법사",
+        "author": "이야기의힘",
+        "view_count": 344,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 224,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 166,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
