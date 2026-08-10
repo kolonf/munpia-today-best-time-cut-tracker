@@ -32350,5 +32350,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T00:30:35.086507+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 474,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587705",
+        "title": "재벌가 늦둥이 막내딸의 남편이 되었다",
+        "author": "노란안경",
+        "view_count": 226,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583337",
+        "title": "신입사원이 축신급 포텐을 터트림",
+        "author": "실록",
+        "view_count": 98,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590157",
+        "title": "망한 조선소에서 우주전함이 자란다",
+        "author": "흑문도",
+        "view_count": 61,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591289",
+        "title": "재벌집 장손으로 회귀했더니 돈이 너무 쉽게 벌린다",
+        "author": "천강(泉剛)",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587630",
+        "title": "파혼당한 후 10초 회귀로 힐링함",
+        "author": "아재활극",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589384",
+        "title": "퇴역 우주전함이, 내원룸에 정박했다.",
+        "author": "임가놈",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590053",
+        "title": "전세계가 내 K푸드에 너무 집착함",
+        "author": "슬리피헤드",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589911",
+        "title": "회귀한 재벌은 돈으로 탑을 지배한다.",
+        "author": "매니보보",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590853",
+        "title": "선협에서 귀환하고 무림을 씹어먹음",
+        "author": "용골참",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
