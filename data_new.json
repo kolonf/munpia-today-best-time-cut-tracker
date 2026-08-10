@@ -31390,5 +31390,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T19:00:44.610231+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589723",
+        "title": "미국 시골에서 한식했더니 이웃들이 극락감",
+        "author": "더페이서",
+        "view_count": 484,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587584",
+        "title": "히틀러가 집착하는 의사가 되었다",
+        "author": "빵먹고싶다",
+        "view_count": 256,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588271",
+        "title": "빙하기 아포칼립스의 유일한 화염술사",
+        "author": "한손검",
+        "view_count": 126,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591400",
+        "title": "흙수저 고딩 해커한테 전 세계 정보기관이 집착함",
+        "author": "에그빵",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589739",
+        "title": "은퇴당한 랭커들이 내 장비로 재평가 받음",
+        "author": "수진(水辰)",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591498",
+        "title": "상속받은 거북이가 귀신 먹는 현무라 대박남",
+        "author": "크엉컹컹",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589390",
+        "title": "누명 쓰고 파면당했더니 죄인의 탑을 각성했다",
+        "author": "제로레벨",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591160",
+        "title": "천재 수리공이 만능 AI를 각성함",
+        "author": "분재나무",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588319",
+        "title": "괴담에서 굴렀더니 연기력이 미쳤다",
+        "author": "심우주",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
