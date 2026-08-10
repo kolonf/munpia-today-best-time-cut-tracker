@@ -33502,5 +33502,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T07:00:37.798656+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 560,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588125",
+        "title": "하루 먼저 본 SNS로 재벌이 되었다",
+        "author": "아아연하게",
+        "view_count": 286,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 112,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587275",
+        "title": "스코틀랜드의 성을 물려받아 술을 빚다",
+        "author": "아케냥",
+        "view_count": 74,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589255",
+        "title": "연금술 치킨집 차렸더니 서울이 미쳤다",
+        "author": "캡틴베어",
+        "view_count": 59,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590765",
+        "title": "귀신을 보니 재벌들이 집착한다",
+        "author": "연함™",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591634",
+        "title": "500억 상속 후 대뜸 탑스타들이 집착함",
+        "author": "알랜더",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589863",
+        "title": "전투력 F급 연금술사이지만 헌터들이 집착합니다",
+        "author": "스스디",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588589",
+        "title": "막장감독의 재림",
+        "author": "왕십리글쟁이",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592210",
+        "title": "경험치 100만배 세계재벌",
+        "author": "나나코니",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
