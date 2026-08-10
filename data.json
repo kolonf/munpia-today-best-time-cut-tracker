@@ -60479,5 +60479,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T00:30:46.316658+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582894",
+        "title": "병아리 힐러 탑에 오르다",
+        "author": "필독(必讀)",
+        "view_count": 3339,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582598",
+        "title": "신점봤더니 탑 공략이 다 보임",
+        "author": "KAY™",
+        "view_count": 1751,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 968,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581887",
+        "title": "EX급 기연 싹슬이로 탑등반이 너무 쉬움",
+        "author": "[세인토]",
+        "view_count": 625,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "581524",
+        "title": "회귀한 나는 금융제국의 황제가 되겠다",
+        "author": "창조소설러",
+        "view_count": 511,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587786",
+        "title": "선협에서 선녀를 임신시키고 시작",
+        "author": "뭉낑깡",
+        "view_count": 404,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 290,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587724",
+        "title": "회귀했더니 돈 복사가 너무 쉽다",
+        "author": "염주",
+        "view_count": 234,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "586368",
+        "title": "회귀한 버거집 사장님은 IMF를 기다린다",
+        "author": "몬도리아",
+        "view_count": 188,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587273",
+        "title": "선협에서 언데드 뽑기를 숨김",
+        "author": "청송(靑松)",
+        "view_count": 137,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
