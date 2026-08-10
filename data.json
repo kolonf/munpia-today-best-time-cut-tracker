@@ -57887,5 +57887,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T12:30:41.947650+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582598",
+        "title": "신점봤더니 탑 공략이 다 보임",
+        "author": "KAY™",
+        "view_count": 3274,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581737",
+        "title": "게임 속 전쟁영웅이 되었다",
+        "author": "시인단테",
+        "view_count": 1556,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 1073,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 750,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585322",
+        "title": "토건조선",
+        "author": "보헤미아.",
+        "view_count": 563,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584939",
+        "title": "회귀한 과학 천재에게 거물들이 집착함",
+        "author": "(누누잉)",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588930",
+        "title": "이혼하고 호주에서 만능 철물점을 열었다.",
+        "author": "한도현",
+        "view_count": 326,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587122",
+        "title": "귀농해서 신점봤더니 거물들이 몰려온다",
+        "author": "송태섭",
+        "view_count": 266,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585279",
+        "title": "날먹수선전",
+        "author": "LunStellar",
+        "view_count": 201,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591696",
+        "title": "귀환 후 세계재벌",
+        "author": "김치은",
+        "view_count": 123,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
