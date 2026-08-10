@@ -30910,5 +30910,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-10T15:30:36.434783+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588486",
+        "title": "아내가 흑인을 낳았다.",
+        "author": "배추나무",
+        "view_count": 466,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588869",
+        "title": "만년 후보 메이저리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 245,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586948",
+        "title": "은퇴한 특수요원의 아들이 납치됐다.",
+        "author": "검은후드",
+        "view_count": 113,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589059",
+        "title": "EX급 전능의 석가모니가 됐다",
+        "author": "피달팽이",
+        "view_count": 61,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589662",
+        "title": "파이어족인데 정조가 집착한다",
+        "author": "욱욱청청",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588079",
+        "title": "탈북 후 메이저리그행, 1시즌 30승 찍었습니다.",
+        "author": "미친재능",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587582",
+        "title": "귀환한 황제의 힐링 라이프",
+        "author": "찹쌀빵",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591413",
+        "title": "SSS급 절대 판정으로 신화급 탑 등반",
+        "author": "고돌이™",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591532",
+        "title": "F급 마법사가 EX급 즉사기로 탑 등반",
+        "author": "진독자",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586191",
+        "title": "막장 미궁에서 군단의 초월체가 되었다",
+        "author": "운향림",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
