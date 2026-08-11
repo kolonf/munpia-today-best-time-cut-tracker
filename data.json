@@ -65855,5 +65855,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-12T01:00:45.461778+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "581142",
+        "title": "SSS급 게이트 옆에 안전지대를 만들었다",
+        "author": "limkun",
+        "view_count": 3095,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1634,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583862",
+        "title": "사인 한 장에 국보급 투수가 되었다",
+        "author": "새결",
+        "view_count": 938,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588466",
+        "title": "EX급 네크로맨서인데 국가에게 정리해고 당함",
+        "author": "강우제",
+        "view_count": 645,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "585184",
+        "title": "내가 출동하면 아무도 안 죽음",
+        "author": "담하파",
+        "view_count": 527,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 401,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 311,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 246,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581595",
+        "title": "단종엄마는 죽지 않는다",
+        "author": "양평시바견",
+        "view_count": 184,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587273",
+        "title": "선협에서 언데드 뽑기를 숨김",
+        "author": "청송(靑松)",
+        "view_count": 138,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
