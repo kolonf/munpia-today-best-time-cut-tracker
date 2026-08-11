@@ -67391,5 +67391,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-12T08:00:47.006290+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 3003,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581904",
+        "title": "집만 고쳤는데, 이웃이 극락감",
+        "author": "꿈가득남",
+        "view_count": 1817,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583062",
+        "title": "월클 선수들이 나한테 집착함",
+        "author": "콜레오",
+        "view_count": 1058,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586529",
+        "title": "왜 자꾸 드라마가 잘되는데!",
+        "author": "누리용",
+        "view_count": 756,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587002",
+        "title": "기상청에서 날씨예지 유튜브하니 장관들이 집착함",
+        "author": "타오름",
+        "view_count": 600,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584939",
+        "title": "회귀한 과학 천재에게 거물들이 집착함",
+        "author": "(누누잉)",
+        "view_count": 461,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580022",
+        "title": "헬 난이도 99층에서 힐링합니다",
+        "author": "lnX",
+        "view_count": 365,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 293,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588271",
+        "title": "빙하기 아포칼립스의 유일한 화염술사",
+        "author": "한손검",
+        "view_count": 211,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "583801",
+        "title": "삼국지 : 대검신궁",
+        "author": "메이키",
+        "view_count": 138,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
