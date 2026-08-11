@@ -25,7 +25,7 @@
   .wrap { max-width: 1080px; margin: 0 auto; }
   h1 { font-size: 22px; font-weight: 700; margin: 0 0 4px; }
   h2 { font-size: 16px; font-weight: 700; margin: 0 0 16px; }
-  .sub { color: var(--muted); font-size: 14px; margin-bottom: 28px; }
+  .sub { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
   .panel {
     background: var(--panel);
     border: 1px solid var(--line);
@@ -52,6 +52,8 @@
   th { color: var(--muted); font-weight: 500; }
   td.num-cell { text-align: right; font-variant-numeric: tabular-nums; }
   .empty { color: var(--muted); font-size: 14px; text-align: center; padding: 40px 0; }
+  a.novel-link { color: var(--ink); text-decoration: none; }
+  a.novel-link:hover { color: var(--accent); text-decoration: underline; }
 
   .tabs { display: flex; gap: 4px; margin-bottom: 20px; border-bottom: 1px solid var(--line); }
   .tab {
@@ -170,9 +172,10 @@ let dayChartInstance = null;
 let selectedKey = null;
 
 const PAGE_RANKS = [20, 40, 60, 80, 100, 120, 140, 160, 180, 200];
+const DATA_URL = 'data.json';
 
 async function load() {
-  const res = await fetch('data.json?_=' + Date.now());
+  const res = await fetch(DATA_URL + '?_=' + Date.now());
   const data = await res.json();
   allData = data.filter(d => d && d.ranks);
 
@@ -229,6 +232,16 @@ function dateKey(record) {
   return `${p.year}-${pad2(p.month)}-${pad2(p.day)}`;
 }
 
+function novelUrl(novelId) {
+  return `https://www.munpia.com/novel/detail/${novelId}`;
+}
+
+function titleHtml(title, novelId) {
+  const safeTitle = title ? title : '(제목 미확인)';
+  if (!novelId) return safeTitle;
+  return `<a class="novel-link" href="${novelUrl(novelId)}" target="_blank" rel="noopener">${safeTitle}</a>`;
+}
+
 function latestValidRecord() {
   for (let i = allData.length - 1; i >= 0; i--) {
     const r = allData[i];
@@ -251,7 +264,7 @@ function renderCurrent() {
   currentPanel.innerHTML = `
     <div class="current">
       <div class="num">${r200.view_count.toLocaleString()}</div>
-      <div class="title">${r200.title ?? '(제목 미확인)'} — 200위${subNote}</div>
+      <div class="title">${titleHtml(r200.title, r200.novel_id)} — 200위${subNote}</div>
       <div class="meta">마지막 갱신: ${formatKst(latest.timestamp)}</div>
     </div>
   `;
@@ -269,13 +282,13 @@ function renderCutlineTable() {
     const page = idx + 1;
     const entry = latest.ranks[String(rank)];
     const views = entry && entry.view_count !== null ? entry.view_count.toLocaleString() : '-';
-    const title = entry && entry.title ? entry.title : '(제목 미확인)';
+    const titleLink = entry ? titleHtml(entry.title, entry.novel_id) : '(제목 미확인)';
     const subNote = entry && entry.substituted
       ? ` <span style="color:var(--muted);">(${entry.actual_rank}위로 대체)</span>`
       : '';
     return `
       <tr>
-        <td>${title} - ${page}페이지 커트 (${rank}위)${subNote}</td>
+        <td>${titleLink} - ${page}페이지 커트 (${rank}위)${subNote}</td>
         <td class="num-cell">${views}</td>
       </tr>
     `;
