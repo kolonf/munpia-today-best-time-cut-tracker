@@ -37918,5 +37918,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-12T08:00:40.501303+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588780",
+        "title": "미국 깡촌 소방관에게 동물들이 집착함",
+        "author": "우운(雨雲)",
+        "view_count": 570,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 293,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590646",
+        "title": "삼국지 귀큰놈한테 유기당했다",
+        "author": "따도도",
+        "view_count": 101,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 74,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590997",
+        "title": "귀농한 EX급 테이머는 시골에서 힐링합니다",
+        "author": "초록코끼리",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590640",
+        "title": "멸망한 세계의 고인물 기관사",
+        "author": "세디바",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592372",
+        "title": "미국에서 정리해고 후, 시골에서 19금 웹소설 씁니다.",
+        "author": "글과달",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591368",
+        "title": "이혼 후 무신(武神)이 되었다",
+        "author": "뒤랑달",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587413",
+        "title": "위자료로 회귀한 로펌의 사냥개",
+        "author": "이마시아",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592251",
+        "title": "생각을 읽었더니 야구천재가 되었다",
+        "author": "진독자",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
