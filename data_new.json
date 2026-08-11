@@ -33886,5 +33886,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T09:00:39.857705+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 578,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587704",
+        "title": "국가에게 버림받은 삼촌이 귀환했다",
+        "author": "매일한편",
+        "view_count": 300,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588576",
+        "title": "내 탑 등반의 난이도만 너무 어렵다",
+        "author": "잊힌별",
+        "view_count": 113,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590208",
+        "title": "아포칼립스에 나 혼자 무인도에서 힐링함",
+        "author": "재즈소울",
+        "view_count": 76,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590646",
+        "title": "삼국지 귀큰놈한테 유기당했다",
+        "author": "따도도",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589662",
+        "title": "파이어족인데 정조가 집착한다",
+        "author": "욱욱청청",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591183",
+        "title": "이혼 후 신점 봐주니 거물들이 집착함",
+        "author": "기영수",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587582",
+        "title": "귀환한 황제의 힐링 라이프",
+        "author": "찹쌀빵",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591057",
+        "title": "격투 천재인 줄 모르고 회사 다님",
+        "author": "남호원",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590573",
+        "title": "1997, 사교육의 신으로 돌아왔다",
+        "author": "사쇼",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
