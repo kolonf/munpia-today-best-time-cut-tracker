@@ -35038,5 +35038,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T16:00:39.746554+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 480,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587169",
+        "title": "천재감독으로 착각당하는 중입니다",
+        "author": "유세프",
+        "view_count": 238,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 103,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589884",
+        "title": "아빠의 신빨 스트리밍",
+        "author": "광별",
+        "view_count": 63,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591027",
+        "title": "시골 보건소 의사가 힐러로 각성함",
+        "author": "쿠쿠하스",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 119,
+        "novel_id": "587081",
+        "title": "정조가 사도세자에 빙의함",
+        "author": "너기누기",
+        "view_count": 41,
+        "substituted": true
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588589",
+        "title": "막장 감독의 재림",
+        "author": "왕십리글쟁이",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591755",
+        "title": "EX급 마법으로 탑을 삭제한다",
+        "author": "김치은",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589938",
+        "title": "0살부터 시작하는 대마법사 힐링 라이프",
+        "author": "922",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
