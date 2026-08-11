@@ -36190,5 +36190,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-11T22:00:40.708865+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 524,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 261,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590646",
+        "title": "삼국지 귀큰놈한테 유기당했다",
+        "author": "따도도",
+        "view_count": 98,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591027",
+        "title": "시골 보건소 의사가 힐러로 각성함",
+        "author": "쿠쿠하스",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588993",
+        "title": "축알못,월드컵 우승감독되다",
+        "author": "허당명장",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590640",
+        "title": "멸망한 세계의 고인물 기관사",
+        "author": "세디바",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591754",
+        "title": "북유럽 왕실 온돌 장인이 되었다.",
+        "author": "라이솔트",
+        "view_count": 27,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588319",
+        "title": "괴담에서 굴렀더니 연기력이 미쳤다",
+        "author": "심우주",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590174",
+        "title": "시한부 아이돌 하나가 올해 아이돌 농사 다 망친다",
+        "author": "쏘하이",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590868",
+        "title": "문화체육부가 돈을 잘 범",
+        "author": "현우(炫宇)",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
