@@ -37054,5 +37054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-12T03:00:41.427377+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 515,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588313",
+        "title": "내 인벤토리에서 SS급 대본이 쏟아짐",
+        "author": "바람길따라",
+        "view_count": 259,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 94,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592051",
+        "title": "미국 3천억 파워볼 당첨자인데 빈 통장으로 회귀함",
+        "author": "기신",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590481",
+        "title": "미국 갱스터가 한국 재벌집 장남이었음",
+        "author": "츄르츄르",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589938",
+        "title": "0살부터 시작하는 대마법사 힐링 라이프",
+        "author": "922",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590981",
+        "title": "아포칼립스에서 좀비들이 나를 아빠라고 부름",
+        "author": "바스크치케",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589206",
+        "title": "분신술사인데요, 분신이 저보다 셉니다",
+        "author": "태양물고기",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592088",
+        "title": "S급 스킬북 팔았더니 온 세상이 집착함",
+        "author": "모모헌",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590726",
+        "title": "국가에게 버림받자 아포칼립스 유일의 건물주가 되었다",
+        "author": "한미르.",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
