@@ -40702,5 +40702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-12T23:00:42.778796+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588466",
+        "title": "EX급 네크로맨서인데 국가에게 정리해고 당함",
+        "author": "강우제",
+        "view_count": 562,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 251,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 105,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589782",
+        "title": "광마가 회귀 능력을 강탈했다",
+        "author": "얼하",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590608",
+        "title": "내 정화 한 번에 이세계인들이 극락감",
+        "author": "서담™",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589265",
+        "title": "아포칼립스 속 벌레술사",
+        "author": "사제락",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592372",
+        "title": "미국에서 정리해고 후, 시골에서 19금 웹소설 씁니다.",
+        "author": "글과달",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589246",
+        "title": "내가 나를 만난 후 인생이 얼마나 쉬운지 감도 안 옴",
+        "author": "무성(無聲)",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590088",
+        "title": "팔자 꼬였으면 문부터 여세요",
+        "author": "아스렌",
+        "view_count": 17,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589268",
+        "title": "삼국지 장비가 주먹보다 머리를 잘 씀",
+        "author": "맛난오이",
+        "view_count": 14,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
