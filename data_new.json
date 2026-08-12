@@ -42046,5 +42046,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T07:30:33.468259+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588780",
+        "title": "미국 깡촌 소방관에게 동물들이 집착함",
+        "author": "우운(雨雲)",
+        "view_count": 593,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591308",
+        "title": "은퇴 당한 헌터는 조용히 약초나 캐고 싶다",
+        "author": "글혼",
+        "view_count": 256,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589884",
+        "title": "아빠의 신빨 스트리밍",
+        "author": "광별",
+        "view_count": 106,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590608",
+        "title": "내 정화 한 번에 이세계인들이 극락감",
+        "author": "서담™",
+        "view_count": 76,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589059",
+        "title": "EX급 전능의 석가모니가 됐다",
+        "author": "피달팽이",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592553",
+        "title": "미국 깡촌에 서당을 차렸더니 이웃들이 환장하고 몰려옴",
+        "author": "백원만s",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591837",
+        "title": "흑인에게 간 전 여친이 준 미국 파워볼 1등 당첨 힐링",
+        "author": "글끌클",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589554",
+        "title": "흡수수선전",
+        "author": "늘고불고",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590808",
+        "title": "할아버지 유언으로 재벌가 무남독녀의 약혼자가 되었다",
+        "author": "배소리",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590240",
+        "title": "주사위 던져서 코인 대박",
+        "author": "차원의방",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
