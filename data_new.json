@@ -40990,5 +40990,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T00:30:33.219012+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 405,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588397",
+        "title": "퇴사 후 폐가에서 힐링합니다",
+        "author": "냥재",
+        "view_count": 197,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 59,
+        "novel_id": "587912",
+        "title": "내 영전만 시간 가속이라 영초 싹쓸이함",
+        "author": "탄산수영장",
+        "view_count": 93,
+        "substituted": true
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589910",
+        "title": "범죄자 처단했더니 재벌녀들이 몰려옴",
+        "author": "민족의힘",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590428",
+        "title": "운송 재벌이 된 배달 라이더",
+        "author": "악중선",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588708",
+        "title": "천마신공으로 PGA를 씹어먹음.",
+        "author": "바비용",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592372",
+        "title": "미국에서 정리해고 후, 시골에서 19금 웹소설 씁니다.",
+        "author": "글과달",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591837",
+        "title": "흑인에게 간 전 여친이 준 미국 파워볼 1등 당첨 힐링",
+        "author": "글끌클",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590237",
+        "title": "우리집 지하에 고구려 제국을 건설함",
+        "author": "BrentLim",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592688",
+        "title": "조선왕자가 공산주의자로 착각당함",
+        "author": "치킨동무",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
