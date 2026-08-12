@@ -40222,5 +40222,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-12T20:30:34.938637+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 434,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589315",
+        "title": "해고 후 위기감지 능력으로 투자했더니 월가가 집착함",
+        "author": "비건두부",
+        "view_count": 230,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 114,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587275",
+        "title": "스코틀랜드의 성을 물려받아 술을 빚다",
+        "author": "아케냥",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590640",
+        "title": "아포칼립스 지하에 집을 숨김",
+        "author": "세디바",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590726",
+        "title": "국가에게 버림받자 아포칼립스 유일의 건물주가 되었다",
+        "author": "한미르.",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591238",
+        "title": "미국 시골 중고시장에 돈이 쏟아짐",
+        "author": "환승이직왕",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588403",
+        "title": "1945년, 200원에 산 고무공장으로 재벌이 되었다",
+        "author": "한너른",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590240",
+        "title": "주사위 던져서 코인 대박",
+        "author": "차원의방",
+        "view_count": 17,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592203",
+        "title": "전 세계인이 1원씩 입금하는 계좌의 주인이 되었다",
+        "author": "나일깡",
+        "view_count": 14,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
