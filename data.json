@@ -71039,5 +71039,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T01:00:48.279038+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582598",
+        "title": "신점봤더니 탑 공략이 다 보임",
+        "author": "KAY™",
+        "view_count": 3278,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1731,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589388",
+        "title": "할리우드 거장들이 내 영화에 집착함",
+        "author": "고별",
+        "view_count": 974,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 635,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 493,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 371,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588694",
+        "title": "검은머리 원유왕이 되었다!",
+        "author": "신유(愼惟)",
+        "view_count": 284,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588271",
+        "title": "빙하기 아포칼립스의 유일한 화염술사",
+        "author": "한손검",
+        "view_count": 215,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "587058",
+        "title": "내 강화템에 전 세계가 집착함",
+        "author": "비장한",
+        "view_count": 172,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587912",
+        "title": "내 영전만 시간 가속이라 영초 싹쓸이함",
+        "author": "탄산수영장",
+        "view_count": 121,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
