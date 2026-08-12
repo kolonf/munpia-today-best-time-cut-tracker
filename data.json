@@ -70463,5 +70463,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-12T22:30:39.797249+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583936",
+        "title": "삼국지, 눕는 게 계책으로 오해받는 중입니다",
+        "author": "연파냥",
+        "view_count": 3110,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586390",
+        "title": "악역만 연기했는데 탑스타가 되었다",
+        "author": "해피엔딩이즈굿",
+        "view_count": 1768,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586783",
+        "title": "해고 후 슈퍼볼 당첨으로 힐링함",
+        "author": "깊은수풀",
+        "view_count": 1052,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583862",
+        "title": "사인 한 장에 국보급 투수가 되었다",
+        "author": "새결",
+        "view_count": 718,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "496889",
+        "title": "미래수선전",
+        "author": "엄청난",
+        "view_count": 524,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 397,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 308,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "568613",
+        "title": "닥터 귀환",
+        "author": "망고키보드",
+        "view_count": 256,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587584",
+        "title": "히틀러가 집착하는 의사가 되었다",
+        "author": "빵먹고싶다",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
