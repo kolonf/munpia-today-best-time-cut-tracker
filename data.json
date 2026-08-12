@@ -72767,5 +72767,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T08:30:43.747092+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586291",
+        "title": "14세 연하 회장 손녀가 고백했다",
+        "author": "새결",
+        "view_count": 3325,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 1817,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 1214,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "579030",
+        "title": "이혼하고 애까지 딸린 작가, 쓰는 것마다 대박행진.",
+        "author": "다복고복",
+        "view_count": 741,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587002",
+        "title": "기상청에서 날씨예지 유튜브하니 장관들이 집착함",
+        "author": "타오름",
+        "view_count": 606,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582057",
+        "title": "말단병사인데 선조가 너무 좋아함",
+        "author": "사관(史官)",
+        "view_count": 422,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 탑 등반",
+        "author": "오브더",
+        "view_count": 343,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588271",
+        "title": "빙하기 아포칼립스의 유일한 화염술사",
+        "author": "한손검",
+        "view_count": 244,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587273",
+        "title": "선협에서 언데드 뽑기를 숨김",
+        "author": "청송(靑松)",
+        "view_count": 192,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "564640",
+        "title": "회귀한 줄 모르고 재입대했다",
+        "author": "에바트리체",
+        "view_count": 135,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
