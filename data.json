@@ -72191,5 +72191,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T06:00:45.439463+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586359",
+        "title": "축구부 벤치가 역대급 천재였다",
+        "author": "서태양",
+        "view_count": 3244,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584331",
+        "title": "선협에서 복사능력으로 꿀빤다",
+        "author": "아이씨렉",
+        "view_count": 1740,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 1094,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 714,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 575,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582057",
+        "title": "말단병사인데 선조가 너무 좋아함",
+        "author": "사관(史官)",
+        "view_count": 395,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "584709",
+        "title": "마라도나의 후계자가 되었다",
+        "author": "강성혁",
+        "view_count": 325,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590319",
+        "title": "재앙급 마나 흡수한 줄 모르고 은퇴당함",
+        "author": "풀매수",
+        "view_count": 239,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "583991",
+        "title": "땜빵으로 콜업된 천재 공격수가 리그를 폭격함",
+        "author": "나는야푸",
+        "view_count": 188,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "564640",
+        "title": "회귀한 줄 모르고 재입대했다",
+        "author": "에바트리체",
+        "view_count": 127,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
