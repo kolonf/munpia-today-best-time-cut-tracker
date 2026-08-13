@@ -75359,5 +75359,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T21:00:50.580231+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586734",
+        "title": "회귀한 퇴직공무원이 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 3255,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "580684",
+        "title": "대영제국에 프로야구를 만들었다",
+        "author": "최뚝",
+        "view_count": 1974,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586972",
+        "title": "땜빵 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "박하비",
+        "view_count": 1185,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583402",
+        "title": "K-딸아빠는 너튜브 스타가 너무 쉽다",
+        "author": "나이와키",
+        "view_count": 779,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586897",
+        "title": "맨시티에 배신당한 축구천재가 맨유로 이적함",
+        "author": "치킨순애보",
+        "view_count": 507,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587130",
+        "title": "역대급 신들을 하청 돌렸더니 거물들이 집착함",
+        "author": "탄두리치킨",
+        "view_count": 360,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583391",
+        "title": "로또 1등보다 성과급이 더 많음",
+        "author": "카이남",
+        "view_count": 256,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 연락옴",
+        "author": "대작살",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "582465",
+        "title": "21세기 훈장이 명종 시대에 환생함",
+        "author": "담배맛동산",
+        "view_count": 142,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
