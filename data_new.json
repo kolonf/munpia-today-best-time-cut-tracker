@@ -42718,5 +42718,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T11:00:41.099453+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 597,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589292",
+        "title": "물리 치트로 재벌 과학자가 되었다",
+        "author": "필드스틱",
+        "view_count": 279,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589456",
+        "title": "쉬었음 청년 당했더니 신빨이 미쳐버림",
+        "author": "이창연",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589820",
+        "title": "호주 대농장의 농사 천재",
+        "author": "아라운",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591634",
+        "title": "미래를 읽었더니 대뜸 톱스타들이 집착함",
+        "author": "알랜더",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585701",
+        "title": "과거를 보는 유해발굴병",
+        "author": "살라하",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590573",
+        "title": "1997, 사교육의 신으로 돌아왔다",
+        "author": "사쇼",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591598",
+        "title": "구단 팔아먹으려는데 감독이 자꾸 이김",
+        "author": "필로스",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590240",
+        "title": "주사위 던져서 코인 대박",
+        "author": "차원의방",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
