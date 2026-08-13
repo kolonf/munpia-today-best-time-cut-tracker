@@ -46654,5 +46654,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T08:30:34.293927+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588666",
+        "title": "소아외과 전문의는 행복하게 살고 싶다",
+        "author": "홈스탠바이",
+        "view_count": 584,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591219",
+        "title": "천재 복원사가 유럽 고성을 물려받음",
+        "author": "글삭기",
+        "view_count": 291,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터는 회귀 후 복수한다",
+        "author": "초록코끼리",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589387",
+        "title": "은퇴당한 S급 헌터가 EX급 무당을 각성했다",
+        "author": "총골드",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588807",
+        "title": "미개 유럽의 계몽 메시아가 되었다",
+        "author": "구오(句汚)",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590474",
+        "title": "친구따라 무림맹 면접보러 갔다가 뽑힘",
+        "author": "테양이",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591837",
+        "title": "흑인에게 간 전 여친이 준 미국 파워볼 1등 당첨 힐링",
+        "author": "글끌클",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592203",
+        "title": "전 세계인이 1원씩 입금하는 계좌의 주인이 되었다",
+        "author": "나일깡",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586757",
+        "title": "백운상단의 막내아들이 되었다.",
+        "author": "8월의봄",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
