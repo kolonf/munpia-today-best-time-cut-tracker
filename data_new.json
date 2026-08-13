@@ -43006,5 +43006,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T12:30:34.011355+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 607,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587704",
+        "title": "국가에게 버림받은 삼촌이 귀환했다",
+        "author": "매일한편",
+        "view_count": 287,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588869",
+        "title": "만년 후보 메이저리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 78,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588717",
+        "title": "탑 등반하는 외신은 프라모델을 마개조한다",
+        "author": "양승훈",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591000",
+        "title": "회귀한 0점짜리 남편이 빅테크를 만들었다",
+        "author": "톨킴",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590053",
+        "title": "전세계가 내 K푸드에 너무 집착함",
+        "author": "슬리피헤드",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590573",
+        "title": "1997, 사교육의 신으로 돌아왔다",
+        "author": "사쇼",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592088",
+        "title": "S급 스킬북 팔았더니 온 세상이 집착함",
+        "author": "모모헌",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590394",
+        "title": "승탑비경에서 사망회귀로 탑을 오름",
+        "author": "일레븐11",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
