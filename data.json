@@ -75839,5 +75839,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T23:30:43.130404+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586359",
+        "title": "축구부 벤치가 역대급 천재였다",
+        "author": "서태양",
+        "view_count": 2976,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583403",
+        "title": "EX급 포션 마스터로 각성하니 전세계가 내게 집착함",
+        "author": "만타(萬打)",
+        "view_count": 1695,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583812",
+        "title": "전능의 힐을 각성했다",
+        "author": "지하™",
+        "view_count": 1023,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "586529",
+        "title": "왜 자꾸 드라마가 잘되는데!",
+        "author": "누리용",
+        "view_count": 698,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590892",
+        "title": "파워볼 당첨 후 미국 알래스카에서 낚시 합니다",
+        "author": "칠팔",
+        "view_count": 503,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "581737",
+        "title": "게임 속 전쟁영웅이 되었다",
+        "author": "시인단테",
+        "view_count": 394,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589058",
+        "title": "서자가 북부군 장교를 너무 잘함",
+        "author": "신수.",
+        "view_count": 297,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588509",
+        "title": "득표율 200％ 초자발적 선거군주가 되었다",
+        "author": "탈닌",
+        "view_count": 236,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 162,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589456",
+        "title": "쉬었음 청년 당했더니 신빨이 미쳐버림",
+        "author": "이창연",
+        "view_count": 117,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
