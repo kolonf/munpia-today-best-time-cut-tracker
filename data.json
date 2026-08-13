@@ -77087,5 +77087,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T05:00:45.465415+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588693",
+        "title": "검은머리 특수요원이 미국 목장을 인수함",
+        "author": "무정호",
+        "view_count": 2856,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581981",
+        "title": "북부대공의 현질하는 남편이 되었다",
+        "author": "캐플",
+        "view_count": 1555,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588466",
+        "title": "EX급 네크로맨서인데 국가에게 정리해고 당함",
+        "author": "강우제",
+        "view_count": 952,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 674,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 509,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587058",
+        "title": "내 강화템에 전 세계가 집착함",
+        "author": "비장한",
+        "view_count": 395,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591308",
+        "title": "은퇴 당한 헌터는 조용히 약초나 캐고 싶다",
+        "author": "글혼",
+        "view_count": 307,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 233,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589871",
+        "title": "귀환 후 코인 재벌",
+        "author": "시우림",
+        "view_count": 179,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "589884",
+        "title": "내 한마디에 회장님들이 쫓아옴",
+        "author": "광별",
+        "view_count": 125,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
