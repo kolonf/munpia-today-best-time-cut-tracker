@@ -42910,5 +42910,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T12:00:40.717740+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587912",
+        "title": "내 영전만 시간 가속이라 영초 싹쓸이함",
+        "author": "탄산수영장",
+        "view_count": 653,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 284,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터는 회귀 후 복수한다",
+        "author": "초록코끼리",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588613",
+        "title": "부동산 천재는 여우냄새가 난다",
+        "author": "경우勁雨",
+        "view_count": 80,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589863",
+        "title": "전투력 F급 연금술사이지만 헌터들이 집착합니다",
+        "author": "스스디",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589836",
+        "title": "내 무인도에 해츨링이 산다",
+        "author": "asbaldr",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589390",
+        "title": "누명 쓰고 파면당했더니 죄인의 탑을 각성했다",
+        "author": "제로레벨",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590808",
+        "title": "할아버지 유언으로 재벌가 무남독녀의 약혼자가 되었다",
+        "author": "배소리",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590096",
+        "title": "나 혼자 유일급 만능 상점이 열림",
+        "author": "연애재판",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591056",
+        "title": "신내림 사이비의 무인도 생존기",
+        "author": "스이베라트",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
