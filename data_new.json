@@ -43678,5 +43678,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T16:00:39.821721+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588573",
+        "title": "은퇴 힐러는 시골에서 힐링합니다",
+        "author": "기린샛별",
+        "view_count": 510,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591219",
+        "title": "천재 복원사가 유럽 고성을 물려받음",
+        "author": "글삭기",
+        "view_count": 265,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588954",
+        "title": "방출 투수의 눈에 숫자가 보임",
+        "author": "토리토",
+        "view_count": 111,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590765",
+        "title": "귀신을 보니 재벌들이 집착한다",
+        "author": "연함™",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591368",
+        "title": "이혼 후 무신(武神)이 되었다",
+        "author": "뒤랑달",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590400",
+        "title": "국가에게 버림받은 헌터가 EX로 재각성 후 탑등반",
+        "author": "치규치규",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590548",
+        "title": "주문서를 만들었더니 다들 나만 찾는다",
+        "author": "라니트",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590240",
+        "title": "주사위 던져서 코인 대박",
+        "author": "차원의방",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592006",
+        "title": "삼국지 천객전(三國志 天客傳)",
+        "author": "큼비",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
