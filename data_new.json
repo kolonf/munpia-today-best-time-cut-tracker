@@ -45598,5 +45598,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T03:00:41.118017+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588666",
+        "title": "소아외과 전문의는 행복하게 살고 싶다",
+        "author": "홈스탠바이",
+        "view_count": 528,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 250,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590208",
+        "title": "아포칼립스에 나 혼자 무인도에서 힐링함",
+        "author": "재즈소울",
+        "view_count": 110,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590255",
+        "title": "종말급 제작 스킬로 탑등반이 너무 쉬움",
+        "author": "켈린더",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588669",
+        "title": "친 할머니를 퇴마했더니 금광이 열렸다.",
+        "author": "수없는씨박",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591684",
+        "title": "버려진 고아가 불사로 헬모드 탑 등반",
+        "author": "여연",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590818",
+        "title": "노가다 잡부하다 회귀했는데 건설사회장 딸이 내게 집착함",
+        "author": "원조통닭",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591068",
+        "title": "신안(神眼), 골동품으로 재벌이되다.",
+        "author": "decloud",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592120",
+        "title": "전역한 군인은 이세계 캠핑으로 힐링함",
+        "author": "처령",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
