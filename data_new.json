@@ -44158,5 +44158,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T18:30:33.867827+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590111",
+        "title": "NBA의 폭군이 되었다",
+        "author": "필리포스",
+        "view_count": 560,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590162",
+        "title": "나만이 멸망한 세계에 갈 수 있다",
+        "author": "김현준™",
+        "view_count": 268,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 134,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588715",
+        "title": "치트키들고 현실속으로",
+        "author": "구라백작",
+        "view_count": 77,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590535",
+        "title": "EX급 초능력자는 조용히 좀 살고 싶다",
+        "author": "라떼는",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587630",
+        "title": "파혼당한 후 10초 회귀로 힐링함",
+        "author": "아재활극",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590808",
+        "title": "할아버지 유언으로 재벌가 무남독녀의 약혼자가 되었다",
+        "author": "배소리",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590259",
+        "title": "회귀탐정마도행",
+        "author": "Rovin",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590743",
+        "title": "세금 7300억 날린 놈들 국산 AI로 대가리 뿌심",
+        "author": "극복밤송",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589588",
+        "title": "선협에서 악질 신선들의 수행을 압류함",
+        "author": "무선武仙",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
