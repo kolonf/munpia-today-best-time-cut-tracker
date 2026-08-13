@@ -42430,5 +42430,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-13T09:30:33.673720+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 582,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588397",
+        "title": "퇴사 후 폐가에서 힐링합니다",
+        "author": "냥재",
+        "view_count": 257,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589456",
+        "title": "쉬었음 청년 당했더니 신빨이 미쳐버림",
+        "author": "이창연",
+        "view_count": 114,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588613",
+        "title": "부동산 천재는 여우냄새가 난다",
+        "author": "경우勁雨",
+        "view_count": 78,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590981",
+        "title": "아포칼립스에서 좀비들이 나를 아빠라고 부름",
+        "author": "바스크치케",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591238",
+        "title": "미국 시골 중고시장에 돈이 쏟아짐",
+        "author": "환승이직왕",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "585701",
+        "title": "과거를 보는 유해발굴병",
+        "author": "살라하",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590492",
+        "title": "연중 한 소설에 첫사랑이 찾아왔다",
+        "author": "소설마표",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592088",
+        "title": "S급 스킬북 팔았더니 온 세상이 집착함",
+        "author": "모모헌",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589739",
+        "title": "퇴물 헌터들이 내가 만든 장비로 탑을 찢음",
+        "author": "수진(水辰)",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
