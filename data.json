@@ -77759,5 +77759,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T07:30:44.571235+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588650",
+        "title": "법으로 안 죽이길래 그냥 내가 죽임",
+        "author": "묘엽",
+        "view_count": 3141,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583862",
+        "title": "사인 한 장에 국보급 투수가 되었다",
+        "author": "새결",
+        "view_count": 1542,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583062",
+        "title": "월클 선수들이 나한테 집착함",
+        "author": "콜레오",
+        "view_count": 1052,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581887",
+        "title": "EX급 기연 싹슬이로 탑등반이 너무 쉬움",
+        "author": "[세인토]",
+        "view_count": 742,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587058",
+        "title": "내 강화템에 전 세계가 집착함",
+        "author": "비장한",
+        "view_count": 546,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 418,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "565429",
+        "title": "내가 재벌인줄은 나도 몰랐다",
+        "author": "키위소다",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587130",
+        "title": "역대급 신들을 하청 돌렸더니 거물들이 집착함",
+        "author": "탄두리치킨",
+        "view_count": 256,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 188,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "564640",
+        "title": "회귀한 줄 모르고 재입대했다",
+        "author": "에바트리체",
+        "view_count": 143,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
