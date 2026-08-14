@@ -47518,5 +47518,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T13:00:38.159659+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588666",
+        "title": "소아외과 전문의는 행복하게 살고 싶다",
+        "author": "홈스탠바이",
+        "view_count": 659,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 294,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589460",
+        "title": "회귀한 증권맨은 투자가 너무 쉽다",
+        "author": "일시불",
+        "view_count": 126,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592389",
+        "title": "러시아 방계 황족, 회귀하다",
+        "author": "쿤타세계관",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589259",
+        "title": "연금복권 1등으로 세계 여행하며 힐링합니다",
+        "author": "이하담담",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591837",
+        "title": "흑인에게 간 전 여친이 준 미국 파워볼 1등 당첨 힐링",
+        "author": "글끌클",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591569",
+        "title": "임진왜란, K소대의 반격",
+        "author": "코이너",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592006",
+        "title": "삼국지 천객전(三國志 天客傳)",
+        "author": "큼비",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592110",
+        "title": "뒷산에서 구미호를 주웠다",
+        "author": "청라수",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
