@@ -48286,5 +48286,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T23:00:39.472675+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590162",
+        "title": "나만이 멸망한 세계에 갈 수 있다",
+        "author": "김현준™",
+        "view_count": 499,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587724",
+        "title": "회귀했더니 돈 복사가 너무 쉽다",
+        "author": "염주",
+        "view_count": 211,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590312",
+        "title": "게이트 독식하는 기억 흡수 헌터",
+        "author": "기뮹스",
+        "view_count": 91,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588652",
+        "title": "마수조리사가 힐러보다 버프를 잘 줌",
+        "author": "SU다달",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588403",
+        "title": "1945년, 200원에 산 고무공장으로 재벌이 되었다",
+        "author": "한너른",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590492",
+        "title": "연중 한 소설에 첫사랑이 찾아왔다",
+        "author": "소설마표",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587413",
+        "title": "위자료로 회귀한 로펌의 사냥개",
+        "author": "이마시아",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592038",
+        "title": "아포칼립스에 미국 SSS급 교도소를 얻음",
+        "author": "딸기베리",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
