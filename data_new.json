@@ -48574,5 +48574,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T00:30:34.992079+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590892",
+        "title": "파워볼 당첨 후 미국 알래스카에서 낚시 합니다",
+        "author": "칠팔",
+        "view_count": 555,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 225,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 91,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590981",
+        "title": "아포칼립스에서 좀비들이 나를 아빠라고 부름",
+        "author": "바스크치케",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591893",
+        "title": "검은머리 천조국 탱크 설계자",
+        "author": "[서평]",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590548",
+        "title": "주문서를 만들었더니 다들 나만 찾는다",
+        "author": "라니트",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591860",
+        "title": "전능의 스킬을 얻었다",
+        "author": "가지(GAZI)",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592470",
+        "title": "무시받던 D급 딜러가 EX급 행운을 각성했다",
+        "author": "건태양",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590934",
+        "title": "미친 데릴사위의 탑 공략법",
+        "author": "네시기상",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591705",
+        "title": "고점 판독기가 되었다",
+        "author": "북골드",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
