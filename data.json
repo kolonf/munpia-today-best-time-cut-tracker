@@ -80063,5 +80063,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T19:30:32.078259+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 2934,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581843",
+        "title": "검은머리 러시아 재벌이 되었다",
+        "author": "푸달",
+        "view_count": 1687,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586799",
+        "title": "헬 난이도에서 마법으로 나 혼자 꿀빰",
+        "author": "고옹",
+        "view_count": 940,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585322",
+        "title": "중건조선",
+        "author": "보헤미아.",
+        "view_count": 683,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588666",
+        "title": "소아외과 전문의는 행복하게 살고 싶다",
+        "author": "홈스탠바이",
+        "view_count": 474,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588780",
+        "title": "미국 깡촌 소방관에게 동물들이 집착함",
+        "author": "우운(雨雲)",
+        "view_count": 349,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587252",
+        "title": "선천적 무극지체로 탑 등반",
+        "author": "강한임",
+        "view_count": 283,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591027",
+        "title": "시골 보건소 의사가 힐러로 각성함",
+        "author": "쿠쿠하스",
+        "view_count": 223,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "581595",
+        "title": "단종엄마는 죽지 않는다",
+        "author": "양평시바견",
+        "view_count": 180,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591183",
+        "title": "이혼 후 신점 봐주니 거물들이 집착함",
+        "author": "기영수",
+        "view_count": 130,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
