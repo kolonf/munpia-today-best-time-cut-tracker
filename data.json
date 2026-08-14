@@ -82079,5 +82079,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T04:34:42.222994+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582722",
+        "title": "경호원 출신 승무원이 너무 유능함",
+        "author": "동쪽사람",
+        "view_count": 3096,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586972",
+        "title": "땜빵 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "박하비",
+        "view_count": 1460,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586529",
+        "title": "왜 자꾸 드라마가 잘되는데!",
+        "author": "누리용",
+        "view_count": 942,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "580299",
+        "title": "전능의 안경을 얻었다.",
+        "author": "마키야또",
+        "view_count": 659,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 538,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587058",
+        "title": "나 혼자 무한 템빨로 탑을 씹어먹음",
+        "author": "비장한",
+        "view_count": 393,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586261",
+        "title": "할리우드가 집착하는 거물투자자가 되었다",
+        "author": "꼬노네",
+        "view_count": 313,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 253,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 탑 등반",
+        "author": "오브더",
+        "view_count": 204,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590042",
+        "title": "뻐꾸기 낳은 전아내 대신 회귀 후 재벌 외동녀랑 결혼함",
+        "author": "글끌클",
+        "view_count": 147,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
