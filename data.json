@@ -78239,5 +78239,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T10:00:50.370685+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585812",
+        "title": "미국 시골에서 공룡 발굴로 대박남",
+        "author": "힐링이좋다",
+        "view_count": 3234,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587705",
+        "title": "재벌가 늦둥이 막내딸의 남편이 되었다",
+        "author": "노란안경",
+        "view_count": 1483,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 1038,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581478",
+        "title": "축협도 필드도 뚫어버리는 스트라이커",
+        "author": "마레다드루",
+        "view_count": 723,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590319",
+        "title": "재앙급 마나 흡수한 줄 모르고 은퇴당함",
+        "author": "풀매수",
+        "view_count": 591,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585345",
+        "title": "전세계가 집착하는 EX즉사기급 스킬을 각성했다",
+        "author": "지우연",
+        "view_count": 423,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589103",
+        "title": "퇴사 후 귀촌해서 힐링하려는데 동물 목소리가 들려",
+        "author": "이구공",
+        "view_count": 333,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 250,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587704",
+        "title": "국가에게 버림받은 삼촌이 귀환했다",
+        "author": "매일한편",
+        "view_count": 211,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588279",
+        "title": "초월급 스킬로 나 혼자 탑에서 힐링함",
+        "author": "코찬",
+        "view_count": 141,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
