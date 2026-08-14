@@ -80543,5 +80543,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T21:31:20.409844+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585472",
+        "title": "좌천된 국민연금 지부장이 대한민국을 먹여살림",
+        "author": "더페이서",
+        "view_count": 2946,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581737",
+        "title": "게임 속 전쟁영웅이 되었다",
+        "author": "시인단테",
+        "view_count": 1703,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587912",
+        "title": "내 영전만 시간 가속이라 영초 싹쓸이함",
+        "author": "탄산수영장",
+        "view_count": 980,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 573,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590042",
+        "title": "뻐꾸기 낳은 전아내 대신 회귀 후 재벌 외동녀랑 결혼함",
+        "author": "글끌클",
+        "view_count": 443,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584939",
+        "title": "중학생이 과학 좀 했더니 교수들이 줄을 섬",
+        "author": "(누누잉)",
+        "view_count": 364,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "573916",
+        "title": "전능수선전",
+        "author": "행호사",
+        "view_count": 304,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 231,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592658",
+        "title": "해고 후 전능의 눈을 얻어 슈퍼볼 당첨됨",
+        "author": "깊은수풀",
+        "view_count": 181,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584808",
+        "title": "BC.63 로마 씹어먹는 일기당천 망나니",
+        "author": "연진홍",
+        "view_count": 125,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
