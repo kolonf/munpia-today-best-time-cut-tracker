@@ -47134,5 +47134,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T11:00:40.342685+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 622,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589292",
+        "title": "물리 치트로 재벌 과학자가 되었다",
+        "author": "필드스틱",
+        "view_count": 316,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590312",
+        "title": "국가 공인 쓰레기 스킬로 게이트를 독식함",
+        "author": "기뮹스",
+        "view_count": 126,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589059",
+        "title": "EX급 전능의 석가모니가 됐다",
+        "author": "피달팽이",
+        "view_count": 80,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589836",
+        "title": "내 무인도에 해츨링이 산다",
+        "author": "asbaldr",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588403",
+        "title": "1945년, 200원에 산 고무공장으로 재벌이 되었다",
+        "author": "한너른",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588255",
+        "title": "여의주 먹고 귀신 씹어먹는 경찰",
+        "author": "석굴암",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591100",
+        "title": "미래 자동차는 내 특허로 움직인다",
+        "author": "새벽감자",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589789",
+        "title": "러시아 제국의 불로불사 비선실세",
+        "author": "LSPAFF",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
