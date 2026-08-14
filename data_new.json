@@ -47614,5 +47614,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-14T13:30:33.210123+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 594,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589514",
+        "title": "EX급 스킬 융합으로 삼류 무인에서 무신까지",
+        "author": "Primus",
+        "view_count": 214,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 98,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588589",
+        "title": "막장 감독의 재림",
+        "author": "왕십리글쟁이",
+        "view_count": 63,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588695",
+        "title": "고대 로판 제국에 떨어졌다",
+        "author": "havoc",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592565",
+        "title": "단종에 빙의했더니 명군으로 착각당함",
+        "author": "Poket7",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591634",
+        "title": "미래를 읽었더니 대뜸 톱스타들이 집착함",
+        "author": "알랜더",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592553",
+        "title": "미국 깡촌에 서당을 차렸더니 이웃들이 환장하고 몰려옴",
+        "author": "백원만s",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591482",
+        "title": "러시아 여제의 남첩이 검은 머리라는 소문",
+        "author": "일단타만원",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592467",
+        "title": "선협 속 거북이가 되었다.",
+        "author": "호균박",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
