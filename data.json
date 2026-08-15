@@ -86207,5 +86207,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T20:30:31.802054+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "579762",
+        "title": "신입사원이 천재였다",
+        "author": "콜라탄산",
+        "view_count": 2800,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581843",
+        "title": "검은머리 러시아 재벌이 되었다",
+        "author": "푸달",
+        "view_count": 1722,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586437",
+        "title": "미국 급식실의 천재 한식 조리사",
+        "author": "임완",
+        "view_count": 1016,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 676,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589871",
+        "title": "귀환 후 코인 재벌",
+        "author": "시우림",
+        "view_count": 445,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584939",
+        "title": "중학생이 과학 좀 했더니 교수들이 줄을 섬",
+        "author": "(누누잉)",
+        "view_count": 349,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 298,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585279",
+        "title": "날먹수선전",
+        "author": "LunStellar",
+        "view_count": 226,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 183,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587724",
+        "title": "회귀했더니 돈 복사가 너무 쉽다",
+        "author": "염주",
+        "view_count": 114,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
