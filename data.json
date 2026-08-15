@@ -85919,5 +85919,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T19:30:33.780701+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 2616,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581843",
+        "title": "검은머리 러시아 재벌이 되었다",
+        "author": "푸달",
+        "view_count": 1601,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "579537",
+        "title": "USB",
+        "author": "리코리",
+        "view_count": 965,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 702,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587002",
+        "title": "기상청에서 날씨예지 유튜브하니 장관들이 집착함",
+        "author": "타오름",
+        "view_count": 489,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584867",
+        "title": "재벌가 서자는 부실기업만 삼킨다",
+        "author": "레츠기륏",
+        "view_count": 357,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 292,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 220,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589456",
+        "title": "쉬었음 청년 당했더니 신빨이 미쳐버림",
+        "author": "이창연",
+        "view_count": 176,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589206",
+        "title": "분신술사인데요, 분신이 저보다 셉니다",
+        "author": "태양물고기",
+        "view_count": 116,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
