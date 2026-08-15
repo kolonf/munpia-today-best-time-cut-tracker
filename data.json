@@ -85535,5 +85535,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T18:04:04.470507+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588280",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 호텔영업합니다.",
+        "author": "김망초",
+        "view_count": 2981,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583018",
+        "title": "독일에 조선을 풀었다",
+        "author": "글철인",
+        "view_count": 1818,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 1091,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 769,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 552,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589871",
+        "title": "귀환 후 코인 재벌",
+        "author": "시우림",
+        "view_count": 402,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587584",
+        "title": "히틀러의 충신으로 착각당했다",
+        "author": "빵먹고싶다",
+        "view_count": 309,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588397",
+        "title": "미래를 보는 디카로 폐가 고치며 힐링합니다",
+        "author": "냥재",
+        "view_count": 248,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 200,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "581638",
+        "title": "소현세자, 17세기 위대한 대조선 제국을 열다.",
+        "author": "대붕이날다",
+        "view_count": 139,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
