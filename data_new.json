@@ -50782,5 +50782,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T21:00:40.578766+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589871",
+        "title": "귀환 후 코인 재벌",
+        "author": "시우림",
+        "view_count": 443,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590997",
+        "title": "귀농한 EX급 테이머는 시골에서 힐링합니다",
+        "author": "초록코끼리",
+        "view_count": 223,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589265",
+        "title": "아포칼립스 속 벌레술사",
+        "author": "사제락",
+        "view_count": 102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591498",
+        "title": "상속받은 거북이가 귀신 먹는 현무라 대박남",
+        "author": "크엉컹컹",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590726",
+        "title": "국가에게 버림받자 아포칼립스 유일의 건물주가 되었다",
+        "author": "한미르.",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592235",
+        "title": "나 혼자 초월급 상점으로 꿀 빱니다",
+        "author": "서휘영",
+        "view_count": 35,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589554",
+        "title": "흡수수선전",
+        "author": "늘고불고",
+        "view_count": 27,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592510",
+        "title": "삼국지: 내 아버지가 십상시 장양이다.",
+        "author": "웹소설좋아",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592916",
+        "title": "F급 마법사가 경험치 10.000.000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591057",
+        "title": "격투 천재인 줄 모르고 회사 다님",
+        "author": "남호원",
+        "view_count": 14,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
