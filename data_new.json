@@ -50974,5 +50974,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-16T01:00:39.182527+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 연락옴",
+        "author": "대작살",
+        "view_count": 431,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589265",
+        "title": "아포칼립스 속 벌레술사",
+        "author": "사제락",
+        "view_count": 231,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 114,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588993",
+        "title": "축알못,월드컵 우승감독되다",
+        "author": "허당명장",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590096",
+        "title": "나 혼자 유일급 만능 상점이 열림",
+        "author": "연애재판",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592038",
+        "title": "아포칼립스에 미국 SSS급 교도소를 얻음",
+        "author": "딸기베리",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590759",
+        "title": "탑이 숨긴 SSS급 보상을 나 혼자 먹음",
+        "author": "노랑커피",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590259",
+        "title": "회귀탐정마도행",
+        "author": "Rovin",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592217",
+        "title": "수의사인데 동물들이 주인 몰래 예약함",
+        "author": "바스크치케",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
