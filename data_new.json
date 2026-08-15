@@ -50302,5 +50302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T15:00:37.955882+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589103",
+        "title": "퇴사 후 귀촌해서 힐링하려는데 동물 목소리가 들려",
+        "author": "이구공",
+        "view_count": 423,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589315",
+        "title": "해고 후 위기감지 능력으로 투자했더니 월가가 집착함",
+        "author": "비건두부",
+        "view_count": 211,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 110,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590535",
+        "title": "EX급 초능력자는 조용히 좀 살고 싶다",
+        "author": "라떼는",
+        "view_count": 69,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591498",
+        "title": "상속받은 거북이가 귀신 먹는 현무라 대박남",
+        "author": "크엉컹컹",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588652",
+        "title": "마수조리사가 힐러보다 버프를 잘 줌",
+        "author": "SU다달",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592026",
+        "title": "프로게이머가 너무 예쁨",
+        "author": "송시운",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589554",
+        "title": "흡수수선전",
+        "author": "늘고불고",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591300",
+        "title": "귀환한 삼촌이 탑에 식당을 차림",
+        "author": "니은숲",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592086",
+        "title": "바람난 아내에게 살해당하고 금수저로 환생",
+        "author": "신수목",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
