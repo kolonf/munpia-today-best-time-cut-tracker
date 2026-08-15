@@ -88895,5 +88895,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-16T06:00:38.990755+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583629",
+        "title": "환생한 천살성은 헌터 협회 저승사자가 되었다",
+        "author": "김현우",
+        "view_count": 3181,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588252",
+        "title": "데뷔가 챔스 결승전인 15살 축구 천재",
+        "author": "김택용",
+        "view_count": 1671,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584035",
+        "title": "정자기증으로 재벌가 데릴사위",
+        "author": "황금코끼리",
+        "view_count": 974,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "579778",
+        "title": "강화수선전(強化修仙傳)",
+        "author": "차재현",
+        "view_count": 694,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 연락옴",
+        "author": "대작살",
+        "view_count": 501,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 406,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 313,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 250,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 199,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "586368",
+        "title": "회귀한 버거집 사장님은 IMF를 기다린다",
+        "author": "몬도리아",
+        "view_count": 156,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
