@@ -86687,5 +86687,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T22:30:34.739675+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586359",
+        "title": "축구부 벤치가 역대급 천재였다",
+        "author": "서태양",
+        "view_count": 2810,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581772",
+        "title": "생각을 읽었더니 전세계 투수들이 집착함",
+        "author": "떠오르다",
+        "view_count": 1596,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587309",
+        "title": "EX급 예언 방송으로 헌터들을 씹어먹음",
+        "author": "동동주스",
+        "view_count": 994,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 671,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "581524",
+        "title": "회귀한 나는 금융제국의 황제가 되겠다",
+        "author": "창조소설러",
+        "view_count": 464,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587252",
+        "title": "선천적 무극지체로 탑 등반",
+        "author": "강한임",
+        "view_count": 359,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 298,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589292",
+        "title": "물리 치트로 재벌 과학자가 되었다",
+        "author": "필드스틱",
+        "view_count": 214,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터는 회귀 후 복수한다",
+        "author": "초록코끼리",
+        "view_count": 143,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590157",
+        "title": "망한 조선소에서 우주전함이 자란다",
+        "author": "흑문도",
+        "view_count": 111,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
