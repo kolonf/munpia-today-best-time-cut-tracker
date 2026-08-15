@@ -50014,5 +50014,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T12:00:40.813141+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588387",
+        "title": "탐관오리가 충신으로 착각당함",
+        "author": "연재약장수",
+        "view_count": 747,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 281,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590608",
+        "title": "내 정화 한 번에 이세계인들이 극락감",
+        "author": "서담™",
+        "view_count": 121,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589206",
+        "title": "분신술사인데요, 분신이 저보다 셉니다",
+        "author": "태양물고기",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592848",
+        "title": "백만 대군을 데리고 귀환했다",
+        "author": "나나코니",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590679",
+        "title": "전설급 암살 기술로 나 혼자만 탑 등반",
+        "author": "땡시기",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590096",
+        "title": "나 혼자 유일급 만능 상점이 열림",
+        "author": "연애재판",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589390",
+        "title": "누명 쓰고 파면당했더니 죄인의 탑을 각성했다",
+        "author": "제로레벨",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591684",
+        "title": "버림받은 고아는 헬 난이도에서도 죽지 못함",
+        "author": "여연",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592536",
+        "title": "퇴사 후 프랑스에서 한국 카페로 힐링합니다",
+        "author": "홍삼더덕",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
