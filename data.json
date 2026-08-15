@@ -85631,5 +85631,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-15T18:30:32.998816+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582218",
+        "title": "치유 마법사인데 계룡산 도사로 착각당했다",
+        "author": "프링글",
+        "view_count": 2789,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583629",
+        "title": "환생한 천살성은 헌터 협회 저승사자가 되었다",
+        "author": "김현우",
+        "view_count": 1839,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581526",
+        "title": "환생 엘프가 미국에서 농사를 잘함",
+        "author": "lnX",
+        "view_count": 1053,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589583",
+        "title": "걸그룹 여신이 내 딸이었다",
+        "author": "희나리T",
+        "view_count": 722,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "580022",
+        "title": "헬 난이도 99층에서 힐링합니다",
+        "author": "lnX",
+        "view_count": 530,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582794",
+        "title": "내일을 보는 투자 천재",
+        "author": "팥빵맨",
+        "view_count": 384,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "583991",
+        "title": "땜빵으로 콜업된 천재 공격수가 리그를 폭격함",
+        "author": "나는야푸",
+        "view_count": 307,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 249,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 180,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "582057",
+        "title": "말단병사가 선조를 SSS급으로 만들어 버림",
+        "author": "사관(史官)",
+        "view_count": 121,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
