@@ -51646,5 +51646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-16T12:00:39.584226+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 598,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 259,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589387",
+        "title": "은퇴당한 S급 헌터가 EX급 무당을 각성했다",
+        "author": "총골드",
+        "view_count": 124,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591498",
+        "title": "상속받은 거북이가 귀신 먹는 현무라 대박남",
+        "author": "크엉컹컹",
+        "view_count": 76,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589863",
+        "title": "전투력 F급 연금술사이지만 헌터들이 집착합니다",
+        "author": "스스디",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592235",
+        "title": "나 혼자 초월급 상점으로 꿀 빱니다",
+        "author": "서휘영",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592421",
+        "title": "해고당한 삼촌이 천재 기타리스트라고?",
+        "author": "김불록",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592944",
+        "title": "격리픽션 속 회사원이 되었다",
+        "author": "우주강철",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589782",
+        "title": "미친 강탈자가 회귀를 빼앗음",
+        "author": "얼하",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590237",
+        "title": "우리집 지하에 고구려 제국을 건설함",
+        "author": "BrentLim",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
