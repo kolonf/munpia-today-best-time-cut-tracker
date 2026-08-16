@@ -89951,5 +89951,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-16T10:00:36.830669+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582993",
+        "title": "미국 시골 목수에게 거물들이 집착함",
+        "author": "탄뽀",
+        "view_count": 3058,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583018",
+        "title": "독일에 조선을 풀었다",
+        "author": "글철인",
+        "view_count": 1536,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 994,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 703,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584968",
+        "title": "이혼했더니 수선이 너무 쉽다",
+        "author": "차재현",
+        "view_count": 416,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 331,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589910",
+        "title": "반지하에서 국가권력급으로 각성함",
+        "author": "민족의힘",
+        "view_count": 246,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587804",
+        "title": "삼국지, 내가 황제가 될 상인가?",
+        "author": "쓰고또쓰고",
+        "view_count": 209,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 153,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
