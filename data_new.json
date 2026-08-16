@@ -52606,5 +52606,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T02:00:39.248301+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591308",
+        "title": "은퇴 당한 헌터는 조용히 약초나 캐고 싶다",
+        "author": "글혼",
+        "view_count": 397,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 240,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 113,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592507",
+        "title": "각성했더니 경험치가 100만 배",
+        "author": "나나코니",
+        "view_count": 69,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592916",
+        "title": "F급 마법사가 경험치 10.000.000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 35,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591300",
+        "title": "귀환한 삼촌이 탑에 식당을 차림",
+        "author": "니은숲",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592086",
+        "title": "바람난 아내에게 살해당하고 금수저로 환생",
+        "author": "신수목",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592711",
+        "title": "30년만에 귀환한 헌터가 너무 강하다",
+        "author": "내라",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
