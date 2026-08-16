@@ -52702,5 +52702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T03:00:38.064812+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 401,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590997",
+        "title": "귀농한 EX급 테이머는 시골에서 힐링합니다",
+        "author": "초록코끼리",
+        "view_count": 228,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 117,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592507",
+        "title": "각성했더니 경험치가 100만 배",
+        "author": "나나코니",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592916",
+        "title": "F급 마법사가 경험치 10.000.000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590573",
+        "title": "1997, 사교육의 신으로 돌아왔다",
+        "author": "사쇼",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586632",
+        "title": "내 MAX 레벨 10",
+        "author": "OneQ",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592470",
+        "title": "무시받던 D급 딜러가 EX급 행운을 각성했다",
+        "author": "건태양",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592454",
+        "title": "초월급 비행 능력으로 탑 날먹",
+        "author": "냉동작가",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592014",
+        "title": "무한 도트데미지로 탑 등반",
+        "author": "직관",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
