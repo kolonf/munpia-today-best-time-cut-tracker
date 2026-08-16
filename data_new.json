@@ -52510,5 +52510,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T00:00:37.965293+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589315",
+        "title": "해고 후 위기감지 능력으로 투자했더니 월가가 집착함",
+        "author": "비건두부",
+        "view_count": 386,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590997",
+        "title": "귀농한 EX급 테이머는 시골에서 힐링합니다",
+        "author": "초록코끼리",
+        "view_count": 199,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591289",
+        "title": "1987 미래를 삼켰다",
+        "author": "천강(泉剛)",
+        "view_count": 66,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590088",
+        "title": "팔자 꼬였으면 문부터 여세요",
+        "author": "아스렌",
+        "view_count": 47,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592088",
+        "title": "S급 스킬북 팔았더니 전 세계가 집착함",
+        "author": "모모헌",
+        "view_count": 34,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591837",
+        "title": "흑인에게 간 전 여친이 준 미국 파워볼 1등 당첨 힐링",
+        "author": "글끌클",
+        "view_count": 26,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592273",
+        "title": "국가권력급 헌터가 짐꾼에 빙의함",
+        "author": "치이고",
+        "view_count": 20,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591813",
+        "title": "격투군주 킹세종, 걸리면 다 팬다",
+        "author": "물연필",
+        "view_count": 16,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592591",
+        "title": "상속 수선(相續 修仙)",
+        "author": "닥터하이츠",
+        "view_count": 13,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
