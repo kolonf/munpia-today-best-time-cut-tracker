@@ -95519,5 +95519,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T07:30:32.094735+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583629",
+        "title": "환생한 천살성은 헌터 협회 저승사자가 되었다",
+        "author": "김현우",
+        "view_count": 3517,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582543",
+        "title": "사진을 찍었을 뿐인데 전세계가 집착함.",
+        "author": "글과달",
+        "view_count": 1833,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588573",
+        "title": "은퇴 힐러는 시골에서 힐링합니다",
+        "author": "기린샛별",
+        "view_count": 1244,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 연락옴",
+        "author": "대작살",
+        "view_count": 738,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "582794",
+        "title": "내일을 보는 투자 천재",
+        "author": "팥빵맨",
+        "view_count": 552,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592658",
+        "title": "해고 후 전능의 눈을 얻어 슈퍼볼 당첨됨",
+        "author": "깊은수풀",
+        "view_count": 337,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586217",
+        "title": "검은머리 미국 국대 골키퍼",
+        "author": "리즐리",
+        "view_count": 274,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "358414",
+        "title": "요셉",
+        "author": "강철신검",
+        "view_count": 211,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "585279",
+        "title": "날먹수선전",
+        "author": "LunStellar",
+        "view_count": 150,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
