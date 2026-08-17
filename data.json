@@ -98207,5 +98207,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T19:00:41.024242+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 2829,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587986",
+        "title": "희망퇴직 당한 김부장을 미국이 전략자산 취급함",
+        "author": "크로노크",
+        "view_count": 1652,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 1047,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 847,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 592,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 442,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "584939",
+        "title": "중학생이 과학 좀 했더니 교수들이 줄을 섬",
+        "author": "(누누잉)",
+        "view_count": 338,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591183",
+        "title": "이혼 후 신점 봐주니 거물들이 집착함",
+        "author": "기영수",
+        "view_count": 286,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590312",
+        "title": "게이트 독식하는 기억 흡수 헌터",
+        "author": "기뮹스",
+        "view_count": 198,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사",
+        "author": "아트라",
+        "view_count": 144,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
