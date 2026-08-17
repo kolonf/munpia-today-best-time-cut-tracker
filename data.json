@@ -97151,5 +97151,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T14:30:33.474819+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586734",
+        "title": "회귀한 퇴직공무원이 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 2679,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582634",
+        "title": "이름 없는 별들을 흡수했더니 전세계 첩보기관이 집착함",
+        "author": "탄도",
+        "view_count": 1663,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 1100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 761,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583427",
+        "title": "제국 깡촌의 선임기사가 너무 강함",
+        "author": "한평.",
+        "view_count": 579,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587804",
+        "title": "삼국지, 내가 황제가 될 상인가?",
+        "author": "쓰고또쓰고",
+        "view_count": 345,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588919",
+        "title": "이혼당하고 알래스카에서 돈을 쓸어담음",
+        "author": "족염누이",
+        "view_count": 284,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586404",
+        "title": "이등병이 주식 투자를 잘함",
+        "author": "지금이니",
+        "view_count": 206,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 141,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
