@@ -100511,5 +100511,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-18T04:09:36.069472+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585812",
+        "title": "미국 시골에서 공룡 발굴로 대박남",
+        "author": "힐링이좋다",
+        "view_count": 3012,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 1874,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "579537",
+        "title": "USB",
+        "author": "리코리",
+        "view_count": 1138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589265",
+        "title": "아포칼립스 속 벌레술사",
+        "author": "사제락",
+        "view_count": 808,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 593,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "569115",
+        "title": "눈 먼 천재의 강호",
+        "author": "녹색여우",
+        "view_count": 426,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "581535",
+        "title": "정리해고 후, 兆만장자 사우디 왕자",
+        "author": "헌앙",
+        "view_count": 343,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589460",
+        "title": "회귀한 증권맨은 투자가 너무 쉽다",
+        "author": "일시불",
+        "view_count": 270,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587584",
+        "title": "히틀러의 충신으로 착각당했다",
+        "author": "빵먹고싶다",
+        "view_count": 207,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 171,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
