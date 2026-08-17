@@ -53086,5 +53086,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T11:00:40.692606+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 501,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590997",
+        "title": "귀농한 EX급 테이머는 시골에서 힐링합니다",
+        "author": "초록코끼리",
+        "view_count": 279,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591660",
+        "title": "F급이 수선전생 각성 후 1,000,000배 재평가됨",
+        "author": "노블테라피",
+        "view_count": 80,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592756",
+        "title": "악동 투수는 노답 감독 들이박고 고삐가 풀림.",
+        "author": "맥스.",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590601",
+        "title": "마법 교육이 망한 세계의 일타강사가 되었다.",
+        "author": "하이용가리",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592974",
+        "title": "미국에서 한식뷔페 차렸더니 거물급들이 몰려옴",
+        "author": "방탄커피",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590096",
+        "title": "나 혼자 유일급 만능 상점이 열림",
+        "author": "연애재판",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592862",
+        "title": "조선 독립은 1인 특수부대가 합니다",
+        "author": "아사히베리",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593140",
+        "title": "취준생, 방구석 농사로 회장님 되었다",
+        "author": "소수림",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
