@@ -96959,5 +96959,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T13:30:30.940496+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 2613,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582598",
+        "title": "신점봤더니 탑 공략이 다 보임",
+        "author": "KAY™",
+        "view_count": 1511,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "582993",
+        "title": "미국 시골 목수에게 거물들이 집착함",
+        "author": "탄뽀",
+        "view_count": 1057,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "582543",
+        "title": "사진을 찍었을 뿐인데 전세계가 집착함.",
+        "author": "글과달",
+        "view_count": 733,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 568,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590608",
+        "title": "내 정화 한 번에 이세계인들이 극락감",
+        "author": "서담™",
+        "view_count": 388,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "582352",
+        "title": "수선계 만물 수리공",
+        "author": "진휘록",
+        "view_count": 317,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589820",
+        "title": "호주 대농장의 농사 천재",
+        "author": "아라운",
+        "view_count": 241,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "583402",
+        "title": "K-딸아빠는 너튜브 스타가 너무 쉽다",
+        "author": "나이와키",
+        "view_count": 188,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 134,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
