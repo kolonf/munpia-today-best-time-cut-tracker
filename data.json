@@ -99743,5 +99743,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-18T00:58:36.680020+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583629",
+        "title": "환생한 천살성은 헌터 협회 저승사자가 되었다",
+        "author": "김현우",
+        "view_count": 3143,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584863",
+        "title": "영안 트였더니, 귀신들이 범죄 증거를 다 알려줌",
+        "author": "빈명",
+        "view_count": 1712,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 1063,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588780",
+        "title": "미국 깡촌 소방관에게 동물들이 집착함",
+        "author": "우운(雨雲)",
+        "view_count": 704,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589583",
+        "title": "걸그룹 여신이 내 딸이었다",
+        "author": "희나리T",
+        "view_count": 527,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588313",
+        "title": "내 인벤토리에서 SS급 대본이 쏟아짐",
+        "author": "바람길따라",
+        "view_count": 390,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 302,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 246,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587058",
+        "title": "나 혼자 무한 템빨로 탑을 씹어먹음",
+        "author": "비장한",
+        "view_count": 180,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "588919",
+        "title": "이혼당하고 알래스카에서 돈을 쓸어담음",
+        "author": "족염누이",
+        "view_count": 149,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
