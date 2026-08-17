@@ -53182,5 +53182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T14:00:40.904719+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589292",
+        "title": "물리 치트로 재벌 과학자가 되었다",
+        "author": "필드스틱",
+        "view_count": 511,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590319",
+        "title": "재앙급 마나 흡수한 줄 모르고 은퇴당함",
+        "author": "풀매수",
+        "view_count": 225,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591498",
+        "title": "상속받은 거북이가 귀신 먹는 현무라 대박남",
+        "author": "크엉컹컹",
+        "view_count": 101,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 74,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591860",
+        "title": "전능의 스킬을 얻었다",
+        "author": "가지(GAZI)",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592751",
+        "title": "차원이 다른 먼치킨이 귀환했다",
+        "author": "감다살이",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593096",
+        "title": "퇴사하니 거물들이 추앙한다",
+        "author": "연함™",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590148",
+        "title": "나 혼자 불사 능력으로 탑 등반",
+        "author": "픤호랑이",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593140",
+        "title": "취준생, 방구석 농사로 회장님 되었다",
+        "author": "소수림",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
