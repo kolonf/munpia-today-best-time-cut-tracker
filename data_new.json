@@ -53374,5 +53374,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-17T15:00:38.408859+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591219",
+        "title": "천재 복원사가 유럽 고성을 물려받음",
+        "author": "글삭기",
+        "view_count": 478,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 연락옴",
+        "author": "대작살",
+        "view_count": 272,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591498",
+        "title": "상속받은 거북이가 귀신 먹는 현무라 대박남",
+        "author": "크엉컹컹",
+        "view_count": 104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587477",
+        "title": "재벌가 사모님들이 내 목욕탕에서 패싸움함",
+        "author": "별수수깡",
+        "view_count": 77,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593153",
+        "title": "이혼당한 기러기 아빠 파워볼 당첨후 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592944",
+        "title": "격리픽션 속 회사원이 되었다",
+        "author": "우주강철",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589938",
+        "title": "0살부터 시작하는 대마법사 힐링 라이프",
+        "author": "922",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591068",
+        "title": "신안(神眼), 골동품으로 재벌이되다.",
+        "author": "decloud",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "588707",
+        "title": "해적의 경제학",
+        "author": "페르세르크",
+        "view_count": 16,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
