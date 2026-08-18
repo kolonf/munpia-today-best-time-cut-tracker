@@ -56638,5 +56638,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T07:30:32.934878+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587384",
+        "title": "소소한 특전으로 인생 역전",
+        "author": "신림서점",
+        "view_count": 632,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586404",
+        "title": "이등병이 주식 투자를 잘함",
+        "author": "지금이니",
+        "view_count": 307,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592133",
+        "title": "회귀한 김대리는 속마음이 들린다",
+        "author": "킴총무",
+        "view_count": 171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593429",
+        "title": "수상한 복학생은 전직용병 코인재벌",
+        "author": "제이앤소디",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590981",
+        "title": "아포칼립스에서 좀비들이 나를 아빠라고 부름",
+        "author": "바스크치케",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589836",
+        "title": "내 무인도에 해츨링이 산다",
+        "author": "asbaldr",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592751",
+        "title": "차원이 다른 먼치킨에겐 탑이 너무 쉽다",
+        "author": "감다살이",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592965",
+        "title": "1,000억 스켈레톤의 초월급 네크로맨서",
+        "author": "남다른",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593297",
+        "title": "방송을 켰더니 미래가 보인다",
+        "author": "페르세르크",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591762",
+        "title": "서유럽의 천재 위스키 메이커",
+        "author": "방탄커피",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
