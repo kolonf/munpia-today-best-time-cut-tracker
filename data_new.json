@@ -54910,5 +54910,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-18T12:00:43.142663+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 658,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591183",
+        "title": "탑스타들이 집착하는 무당 스트리머가 되었다",
+        "author": "기영수",
+        "view_count": 304,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591368",
+        "title": "이혼 후 무신(武神)이 되었다",
+        "author": "뒤랑달",
+        "view_count": 151,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592756",
+        "title": "악동 투수는 노답 감독 들이박고 멕시코를 경유함.",
+        "author": "맥스.",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592235",
+        "title": "나 혼자 초월급 상점으로 탑 등반",
+        "author": "서휘영",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590726",
+        "title": "국가에게 버림받았더니 아포칼립스에서 나만 건물주가 됐다",
+        "author": "한미르.",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592454",
+        "title": "초월급 비행 능력으로 탑 날먹",
+        "author": "냉동작가",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592401",
+        "title": "이혼 후 엄마와 산다",
+        "author": "반달곰81",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592094",
+        "title": "SSS급 임신",
+        "author": "나니모노",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592711",
+        "title": "30년만에 귀환한 헌터가 너무 강하다",
+        "author": "내라",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
