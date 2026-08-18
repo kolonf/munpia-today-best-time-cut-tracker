@@ -55678,5 +55678,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-18T20:00:38.620350+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 505,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 211,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592233",
+        "title": "국가에서 버림당한 F급 힐러가 EX급 소환사로 재각성함",
+        "author": "기영수",
+        "view_count": 109,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590516",
+        "title": "이혼 후 초월 각성",
+        "author": "이럴수",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592751",
+        "title": "차원이 다른 먼치킨에겐 탑이 너무 쉽다",
+        "author": "감다살이",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590818",
+        "title": "노가다 잡부하다 회귀했는데 건설사회장 딸이 내게 집착함",
+        "author": "원조통닭",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592006",
+        "title": "삼국지 천객전(三國志 天客傳)",
+        "author": "큼비",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586632",
+        "title": "내 MAX 레벨 10",
+        "author": "OneQ",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592324",
+        "title": "회귀한 파이터가 슈팅을 너무 잘 막음",
+        "author": "산타클라스",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594092",
+        "title": "숨만 쉬어도 수익률 10000000％",
+        "author": "문가문가",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
