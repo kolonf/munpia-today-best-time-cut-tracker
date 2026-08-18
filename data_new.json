@@ -56254,5 +56254,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T04:30:34.482161+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 557,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592159",
+        "title": "스킬 위력 999만배로 시작하는 헌터생활",
+        "author": "김판",
+        "view_count": 273,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592133",
+        "title": "회귀한 김대리는 속마음이 들린다",
+        "author": "킴총무",
+        "view_count": 165,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 85,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592470",
+        "title": "무시받던 D급 딜러가 EX급 행운을 각성했다",
+        "author": "건태양",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589963",
+        "title": "미국의 얼굴천재가 연기까지 잘함",
+        "author": "송송백",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592965",
+        "title": "1,000억 스켈레톤의 초월급 네크로맨서",
+        "author": "남다른",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590490",
+        "title": "이혼 후 뇌신(雷神)이 되었다.",
+        "author": "쇼텔",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592510",
+        "title": "삼국지: 십상시 아비 팔아 살아남기",
+        "author": "웹소설좋아",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
