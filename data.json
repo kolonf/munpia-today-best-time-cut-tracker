@@ -105215,5 +105215,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-18T23:00:41.649499+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589755",
+        "title": "드디어 상온 상압 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 2837,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584331",
+        "title": "선협인데 사회생활을 잘함",
+        "author": "아이씨렉",
+        "view_count": 1711,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585000",
+        "title": "검은 머리 영국 조리병",
+        "author": "마개조",
+        "view_count": 1071,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587104",
+        "title": "재벌집 검사는 수사도 너무 쉬움.",
+        "author": "자카예프",
+        "view_count": 751,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "580299",
+        "title": "전능의 안경을 얻었다.",
+        "author": "마키야또",
+        "view_count": 527,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "586897",
+        "title": "맨시티에 배신당한 축구천재가 맨유로 이적함",
+        "author": "치킨순애보",
+        "view_count": 404,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591368",
+        "title": "이혼 후 무신(武神)이 되었다",
+        "author": "뒤랑달",
+        "view_count": 310,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 229,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "584125",
+        "title": "번개의 신",
+        "author": "에잇치m",
+        "view_count": 172,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587584",
+        "title": "히틀러의 충신으로 착각당했다",
+        "author": "빵먹고싶다",
+        "view_count": 128,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
