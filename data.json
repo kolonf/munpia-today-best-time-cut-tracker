@@ -111839,5 +111839,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-20T02:00:41.241412+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 아포칼립스 핵잠수함",
+        "author": "눌프",
+        "view_count": 2784,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584863",
+        "title": "귀신 보는 경찰이 범죄자를 씹어먹음",
+        "author": "빈명",
+        "view_count": 1645,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 1028,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 631,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 483,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592141",
+        "title": "나는 왜 야구를 시작해서 힘들게 살고 있을까?",
+        "author": "동동구르르",
+        "view_count": 371,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587058",
+        "title": "내 강화템에 전 세계가 집착함",
+        "author": "비장한",
+        "view_count": 264,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589103",
+        "title": "퇴사 후 귀촌해서 힐링하려는데 동물 목소리가 들려",
+        "author": "이구공",
+        "view_count": 215,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591198",
+        "title": "퇴근한뒤 요리하고 혼술하는 힐링일상",
+        "author": "참숯닭구이",
+        "view_count": 154,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590174",
+        "title": "작곡으로 깽판치는 아이돌이 되련다",
+        "author": "쏘하이",
+        "view_count": 113,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
