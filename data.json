@@ -110879,5 +110879,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T22:00:43.642746+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588650",
+        "title": "법으로 안 죽이길래 그냥 내가 죽임",
+        "author": "묘엽",
+        "view_count": 2775,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 1667,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586390",
+        "title": "악역만 연기했는데 탑스타가 되었다",
+        "author": "해피엔딩이즈굿",
+        "view_count": 1002,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 641,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 462,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590608",
+        "title": "내 정화 한 번에 이세계인들이 극락감",
+        "author": "서담™",
+        "view_count": 360,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 272,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사",
+        "author": "아트라",
+        "view_count": 211,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 173,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584920",
+        "title": "외계기술로 두번산다",
+        "author": "짜세",
+        "view_count": 119,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
