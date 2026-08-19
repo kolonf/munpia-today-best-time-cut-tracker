@@ -57502,5 +57502,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T19:30:34.700025+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 526,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 240,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591642",
+        "title": "전능의 핵미사일을 얻었다",
+        "author": "기획자K",
+        "view_count": 119,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590726",
+        "title": "국가에게 버림받았더니 아포칼립스에서 나만 건물주가 됐다",
+        "author": "한미르.",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590853",
+        "title": "나 혼자 무림에서 선협식 수련",
+        "author": "용골참",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594408",
+        "title": "델타포스 출신 예비역, 멸망한 세계에서 재미있게 살아남",
+        "author": "강그린",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589477",
+        "title": "맥주보이가 야구를 너무 잘함",
+        "author": "짙은물안개",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592599",
+        "title": "드래곤이 탑 공략법을 계속 알려줌",
+        "author": "써케이",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593264",
+        "title": "미친 쥐새끼가 되어 탑을 씹어먹다",
+        "author": "심우주",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
