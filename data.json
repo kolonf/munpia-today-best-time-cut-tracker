@@ -108479,5 +108479,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T12:00:42.536218+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582993",
+        "title": "미국 시골 목수에게 거물들이 집착함",
+        "author": "탄뽀",
+        "view_count": 3116,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "583018",
+        "title": "독일에 조선을 풀었다",
+        "author": "글철인",
+        "view_count": 1893,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1220,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "581270",
+        "title": "마법 천재 기간트 라이더가 되었다",
+        "author": "남극부엉이",
+        "view_count": 872,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 615,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 446,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586437",
+        "title": "미국 급식실의 천재 한식 조리사",
+        "author": "임완",
+        "view_count": 307,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590997",
+        "title": "귀농한 EX급 테이머는 시골에서 힐링합니다",
+        "author": "초록코끼리",
+        "view_count": 248,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592141",
+        "title": "나는 왜 야구를 시작해서 힘들게 살고 있을까?",
+        "author": "동동구르르",
+        "view_count": 169,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "592389",
+        "title": "러시아 방계 황족, 회귀하다",
+        "author": "쿤타세계관",
+        "view_count": 126,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
