@@ -111263,5 +111263,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T23:30:37.441805+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585812",
+        "title": "검은머리 발굴가가 공룡을 너무 잘 찾음",
+        "author": "힐링이좋다",
+        "view_count": 2724,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588869",
+        "title": "만년 후보 메이저리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 1780,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590872",
+        "title": "미국 국세청 말단인데, 온갖 거물들이 나를 두려워함",
+        "author": "김옥지",
+        "view_count": 986,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591027",
+        "title": "시골 보건소 의사가 힐러로 각성함",
+        "author": "쿠쿠하스",
+        "view_count": 686,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "582057",
+        "title": "말단병사가 너무 강함",
+        "author": "사관(史官)",
+        "view_count": 480,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 380,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 273,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 215,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "589820",
+        "title": "호주 대농장의 농사 천재",
+        "author": "아라운",
+        "view_count": 159,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588613",
+        "title": "부동산 천재는 여우냄새가 난다",
+        "author": "경우勁雨",
+        "view_count": 112,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
