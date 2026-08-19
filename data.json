@@ -111071,5 +111071,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T23:00:43.009417+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586359",
+        "title": "축구부 벤치가 역대급 천재였다",
+        "author": "서태양",
+        "view_count": 2880,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 1818,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585000",
+        "title": "검은 머리 영국 조리병",
+        "author": "마개조",
+        "view_count": 1045,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 684,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587704",
+        "title": "국가에게 버림받은 삼촌이 귀환했다",
+        "author": "매일한편",
+        "view_count": 486,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590312",
+        "title": "F급 기억 흡수로 게이트를 독식함",
+        "author": "기뮹스",
+        "view_count": 369,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591219",
+        "title": "물려받은 고성에 돈 되는 물건이 너무 많음",
+        "author": "글삭기",
+        "view_count": 285,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 210,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589662",
+        "title": "파이어족인데 정조가 집착한다",
+        "author": "욱욱청청",
+        "view_count": 163,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591198",
+        "title": "퇴근한뒤 요리하고 혼술하는 힐링일상",
+        "author": "참숯닭구이",
+        "view_count": 107,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
