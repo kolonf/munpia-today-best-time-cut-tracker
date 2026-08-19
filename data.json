@@ -113087,5 +113087,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-20T06:30:35.295882+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587986",
+        "title": "희망퇴직 당한 김부장을 미국이 전략자산 취급함",
+        "author": "크로노크",
+        "view_count": 3149,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 2008,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588573",
+        "title": "은퇴 힐러는 시골에서 힐링합니다",
+        "author": "기린샛별",
+        "view_count": 1214,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 697,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589880",
+        "title": "힐만 했는데 퇴물 헌터들이 내게 집착함",
+        "author": "죽엇푹",
+        "view_count": 532,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 422,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588382",
+        "title": "문만 열었는데 전세계가 집착함",
+        "author": "블랙카드",
+        "view_count": 301,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "589662",
+        "title": "파이어족인데 정조가 집착한다",
+        "author": "욱욱청청",
+        "view_count": 249,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 185,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591705",
+        "title": "고점 판독기가 되었다",
+        "author": "북골드",
+        "view_count": 136,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
