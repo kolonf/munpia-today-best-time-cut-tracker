@@ -108863,5 +108863,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T13:30:32.323210+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 2726,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582598",
+        "title": "신점봤더니 탑 공략이 다 보임",
+        "author": "KAY™",
+        "view_count": 1475,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581535",
+        "title": "검은머리 사우디 왕자가 개혁을 너무 잘함",
+        "author": "헌앙",
+        "view_count": 964,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 704,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591696",
+        "title": "귀환 후 세계재벌",
+        "author": "김치은",
+        "view_count": 506,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584863",
+        "title": "귀신 보는 경찰이 범죄자를 씹어먹음",
+        "author": "빈명",
+        "view_count": 375,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 277,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 찾아옴",
+        "author": "대작살",
+        "view_count": 221,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "591198",
+        "title": "퇴근한뒤 요리하고 혼술하는 힐링일상",
+        "author": "참숯닭구이",
+        "view_count": 157,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592507",
+        "title": "각성했더니 경험치가 100만 배",
+        "author": "나나코니",
+        "view_count": 121,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
