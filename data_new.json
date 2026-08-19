@@ -56734,5 +56734,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T09:00:40.848510+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591308",
+        "title": "은퇴 당한 헌터는 조용히 약초나 캐고 싶다",
+        "author": "글혼",
+        "view_count": 690,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586404",
+        "title": "이등병이 주식 투자를 잘함",
+        "author": "지금이니",
+        "view_count": 310,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588509",
+        "title": "득표율 200％ 초자발적 선거군주가 되었다",
+        "author": "탈닌",
+        "view_count": 179,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593429",
+        "title": "수상한 복학생은 전직용병 코인재벌",
+        "author": "제이앤소디",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590981",
+        "title": "아포칼립스에서 좀비들이 나를 아빠라고 부름",
+        "author": "바스크치케",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590240",
+        "title": "주사위 던져서 코인 대박",
+        "author": "차원의방",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592751",
+        "title": "차원이 다른 먼치킨에겐 탑이 너무 쉽다",
+        "author": "감다살이",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592302",
+        "title": "웜홀을 만들었다",
+        "author": "zionn",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594226",
+        "title": "암흑기 에이스가 2차 드래프트로 이적함",
+        "author": "그링스",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592599",
+        "title": "드래곤이 탑 공략법을 계속 알려줌",
+        "author": "써케이",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
