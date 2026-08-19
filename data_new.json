@@ -56926,5 +56926,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-19T13:00:39.096106+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591308",
+        "title": "은퇴 당한 헌터는 조용히 약초나 캐고 싶다",
+        "author": "글혼",
+        "view_count": 789,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591027",
+        "title": "시골 보건소 의사가 힐러로 각성함",
+        "author": "쿠쿠하스",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592038",
+        "title": "아포칼립스에 나 혼자 EX급 미국 비밀 교도소",
+        "author": "딸기베리",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592110",
+        "title": "뒷산에서 구미호를 주웠다",
+        "author": "청라수",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590259",
+        "title": "회귀탐정마도행",
+        "author": "Rovin",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592585",
+        "title": "우라까이의 제왕",
+        "author": "서칸더브이",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "바스크치케",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590008",
+        "title": "집행관 김철수",
+        "author": "팥고당",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
