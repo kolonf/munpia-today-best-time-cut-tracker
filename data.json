@@ -116255,5 +116255,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-20T20:00:43.708200+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 2747,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "582543",
+        "title": "사진을 찍었을 뿐인데 전세계가 집착함.",
+        "author": "글과달",
+        "view_count": 1570,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586529",
+        "title": "왜 자꾸 드라마가 잘되는데!",
+        "author": "누리용",
+        "view_count": 1022,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 꿀 빤다",
+        "author": "오브더",
+        "view_count": 701,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590481",
+        "title": "미국 갱스터가 한국 재벌집 장남이었음",
+        "author": "츄르츄르",
+        "view_count": 445,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585462",
+        "title": "[1997] 멸망까지 40년, 돈부터 벌었다",
+        "author": "팥고당",
+        "view_count": 360,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 277,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587147",
+        "title": "코마 15년 후, 코인으로 1조",
+        "author": "매운맛당근",
+        "view_count": 207,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "584968",
+        "title": "이혼했더니 수선이 너무 쉽다",
+        "author": "차재현",
+        "view_count": 170,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584125",
+        "title": "번개의 신",
+        "author": "에잇치m",
+        "view_count": 125,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
