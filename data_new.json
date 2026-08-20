@@ -60286,5 +60286,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-20T23:00:42.426527+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590481",
+        "title": "미국 갱스터가 한국 재벌집 장남이었음",
+        "author": "츄르츄르",
+        "view_count": 530,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591866",
+        "title": "이혼후 전세계가 내게 집착한다.",
+        "author": "익명(匿名)",
+        "view_count": 239,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591198",
+        "title": "퇴근한뒤 요리하고 혼술하는 힐링일상",
+        "author": "참숯닭구이",
+        "view_count": 119,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592238",
+        "title": "미국 깡촌 피아노 학원에 이웃들이 너무 집착함",
+        "author": "녹수(淥水)",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592364",
+        "title": "삼국지, 회귀한 전풍은 유비의 킹메이커가 된다.",
+        "author": "다작김절필",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593474",
+        "title": "북한 천재 해커가 비트코인 30000개 들고 튐",
+        "author": "바위너굴이",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593997",
+        "title": "미국 깡촌 셰프가 한식을 너무 잘함",
+        "author": "귤림(橘林)",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594531",
+        "title": "실험실에서 탈출했더니 와이프와 자식이 생김",
+        "author": "라떼는",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594150",
+        "title": "한강 이남, 지방 재벌!",
+        "author": "류진호",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
