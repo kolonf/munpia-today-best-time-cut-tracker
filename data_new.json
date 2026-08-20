@@ -59230,5 +59230,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-20T09:30:33.335033+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 581,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591634",
+        "title": "500억 상속 후 톱스타들이 내게 집착한다",
+        "author": "알랜더",
+        "view_count": 280,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589782",
+        "title": "미친 강탈자가 회귀를 빼앗음",
+        "author": "얼하",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592616",
+        "title": "베트남전 장교가 되었는데 전쟁을 너무 잘함",
+        "author": "세티리진",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592454",
+        "title": "비행으로 탑에 메테오 처박음",
+        "author": "냉동작가",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591719",
+        "title": "생각을 읽었더니 골을 안 먹음",
+        "author": "끝내",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590259",
+        "title": "회귀탐정마도행",
+        "author": "Rovin",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585802",
+        "title": "삼국지의 천재 스카우트",
+        "author": "고냥임",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594242",
+        "title": "미국 거물들이 집착하는 회귀자가 되었다.",
+        "author": "한손검",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
