@@ -123455,5 +123455,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-22T01:00:42.270558+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587309",
+        "title": "전능의 신으로 헌터들을 극락 보냄",
+        "author": "동동주스",
+        "view_count": 2559,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 찾아옴",
+        "author": "대작살",
+        "view_count": 1269,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591027",
+        "title": "시골 보건소 의사가 힐러로 각성함",
+        "author": "쿠쿠하스",
+        "view_count": 835,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "584485",
+        "title": "현세수선전",
+        "author": "태영(太影)",
+        "view_count": 554,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 470,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "584968",
+        "title": "이혼했더니 수선이 너무 쉽다",
+        "author": "차재현",
+        "view_count": 339,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589460",
+        "title": "회귀했더니 500억이 너무 쉽다",
+        "author": "일시불",
+        "view_count": 257,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589782",
+        "title": "미친 강탈자가 회귀를 빼앗음",
+        "author": "얼하",
+        "view_count": 205,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588079",
+        "title": "북한에서 온 투수가 야구 천재였다",
+        "author": "미친재능",
+        "view_count": 157,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591705",
+        "title": "고점 판독기가 되었다",
+        "author": "북골드",
+        "view_count": 105,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
