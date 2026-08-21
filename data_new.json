@@ -61630,5 +61630,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-21T22:00:40.631004+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590481",
+        "title": "미국 갱스터가 한국 재벌집 장남이었음",
+        "author": "츄르츄르",
+        "view_count": 545,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 215,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589387",
+        "title": "은퇴당한 S급 헌터가 EX급 무당을 각성했다",
+        "author": "총골드",
+        "view_count": 137,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590428",
+        "title": "운송 재벌이 된 배달 라이더",
+        "author": "악중선",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593035",
+        "title": "삼국지 유비의 두 번째 공명이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591730",
+        "title": "해고당한 회사원은 영업이 너무 쉽다",
+        "author": "우상향차트",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591719",
+        "title": "생각을 읽었더니 골을 안 먹음",
+        "author": "끝내",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592946",
+        "title": "판타지에서 마법사로 살아남기",
+        "author": "이찬솔",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594959",
+        "title": "내 어항에 레비아탄이 살고있다",
+        "author": "페르세르크",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594847",
+        "title": "선협인데 비승 안 하고 오래 살렵니다",
+        "author": "글먹는쿠마",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
