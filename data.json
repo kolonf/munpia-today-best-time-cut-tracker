@@ -123071,5 +123071,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-21T23:30:33.037721+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 아포칼립스 핵잠수함",
+        "author": "눌프",
+        "view_count": 2599,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588573",
+        "title": "은퇴 힐러는 시골에서 힐링합니다",
+        "author": "기린샛별",
+        "view_count": 1425,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 836,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583391",
+        "title": "로또 1등보다 성과급이 더 많음",
+        "author": "카이남",
+        "view_count": 558,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 452,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589292",
+        "title": "물리 치트로 재벌 과학자가 되었다",
+        "author": "필드스틱",
+        "view_count": 353,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580599",
+        "title": "흙수저 중학생,4조달러 재벌되다.",
+        "author": "글맛국밥",
+        "view_count": 256,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 214,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589387",
+        "title": "은퇴당한 S급 헌터가 EX급 무당을 각성했다",
+        "author": "총골드",
+        "view_count": 163,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592235",
+        "title": "나 혼자 초월급 상점으로 탑 등반",
+        "author": "서휘영",
+        "view_count": 109,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
