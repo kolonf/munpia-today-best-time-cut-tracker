@@ -121919,5 +121919,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-21T19:00:39.420615+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582634",
+        "title": "비밀 요원이 계속 유명해짐",
+        "author": "탄도",
+        "view_count": 2790,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589769",
+        "title": "미국에서 창고경매로 대박남",
+        "author": "겸업작가",
+        "view_count": 1534,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587058",
+        "title": "내 강화템에 전 세계가 집착함",
+        "author": "비장한",
+        "view_count": 956,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590104",
+        "title": "나 혼자 차원거래로 신소재 재벌",
+        "author": "plustari",
+        "view_count": 721,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589103",
+        "title": "퇴사 후 귀촌해서 힐링하려는데 동물 목소리가 들려",
+        "author": "이구공",
+        "view_count": 519,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 372,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591642",
+        "title": "전능의 핵미사일을 얻었다",
+        "author": "기획자K",
+        "view_count": 296,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 223,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "590400",
+        "title": "은퇴당한 힐러가 EX로 재각성하고 탑등반",
+        "author": "치규치규",
+        "view_count": 177,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "586318",
+        "title": "영국 7부리그 클럽의 구단주가 되었다",
+        "author": "글쓴이H",
+        "view_count": 135,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
