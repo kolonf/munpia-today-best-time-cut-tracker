@@ -61438,5 +61438,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-21T14:30:36.032125+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592193",
+        "title": "재앙급 절대자의 귀환",
+        "author": "김치은",
+        "view_count": 515,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591642",
+        "title": "전능의 핵미사일을 얻었다",
+        "author": "기획자K",
+        "view_count": 253,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588713",
+        "title": "무림 속 시한부 광마가 되었다",
+        "author": "글카인",
+        "view_count": 124,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591056",
+        "title": "신내림 사이비의 무인도 생존기",
+        "author": "스이베라트",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593497",
+        "title": "미국에서 방출 선수만 계약한다",
+        "author": "아아연하게",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593959",
+        "title": "나 혼자만 총으로 탑 등반",
+        "author": "24시수면중",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590743",
+        "title": "세금 7300억 날린 놈들 국산 AI로 대가리 뿌심",
+        "author": "극복밤송",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593821",
+        "title": "세계가 집착하는 귀농 헌터의 탑 등반",
+        "author": "이스트우드",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
