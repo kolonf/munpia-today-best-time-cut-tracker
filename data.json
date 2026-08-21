@@ -122111,5 +122111,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-21T20:00:39.194307+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 2724,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1507,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 953,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 729,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592421",
+        "title": "해고당한 삼촌이 천재 기타리스트라고?",
+        "author": "김불록",
+        "view_count": 481,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587237",
+        "title": "천하는 멀고 영지는 가난했다.",
+        "author": "천수방세옥",
+        "view_count": 354,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 270,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586948",
+        "title": "은퇴한 특수요원의 아들이 납치됐다.",
+        "author": "검은후드",
+        "view_count": 219,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사",
+        "author": "아트라",
+        "view_count": 167,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
