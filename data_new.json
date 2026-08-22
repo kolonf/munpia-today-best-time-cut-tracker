@@ -63646,5 +63646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-22T21:00:40.347797+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 469,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 185,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593109",
+        "title": "내가 프로이센의 반역자라니?!",
+        "author": "I알자스I",
+        "view_count": 102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592848",
+        "title": "백만 대군을 데리고 귀환했다",
+        "author": "나나코니",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592006",
+        "title": "삼국지 천객전(三國志 天客傳)",
+        "author": "큼비",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592346",
+        "title": "재벌집 데릴사위가 신내림 받고, 신의가 됨",
+        "author": "시냅스",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594297",
+        "title": "신빨 김순경이 미제사건을 전부 해결함",
+        "author": "서핑보이",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592625",
+        "title": "스택모아 우주최강",
+        "author": "허바",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
