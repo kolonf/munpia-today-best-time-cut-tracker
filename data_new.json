@@ -64126,5 +64126,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T02:00:39.333226+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592133",
+        "title": "회귀한 김대리는 속마음이 들린다",
+        "author": "킴총무",
+        "view_count": 420,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591498",
+        "title": "귀신 먹고 미국 힐링 명소로 대박남",
+        "author": "크엉컹컹",
+        "view_count": 193,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592565",
+        "title": "단종에 빙의했더니 명군으로 착각당함",
+        "author": "Poket7",
+        "view_count": 91,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593109",
+        "title": "내가 프로이센의 반역자라니?!",
+        "author": "I알자스I",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592946",
+        "title": "판타지에서 마법사로 살아남기",
+        "author": "이찬솔",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594934",
+        "title": "삼국지 원가의 적장손이 되었다",
+        "author": "레니sh",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592450",
+        "title": "광해군이 조선을 군수제국으로 만듦",
+        "author": "세듀",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594242",
+        "title": "미국 거물들이 집착하는 회귀자가 되었다",
+        "author": "한손검",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594845",
+        "title": "배신 당한 헌터는 EX급 연금술사",
+        "author": "커피시러러",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594205",
+        "title": "좌천된 PD에게 거물들이 집착한다",
+        "author": "비요뜨귀신",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
