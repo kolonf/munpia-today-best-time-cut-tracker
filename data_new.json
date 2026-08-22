@@ -64414,5 +64414,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T05:00:38.929535+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591634",
+        "title": "500억 상속 후 톱스타들이 내게 집착한다",
+        "author": "알랜더",
+        "view_count": 423,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592916",
+        "title": "F급 마법사가 경험치 10,000,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 201,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592086",
+        "title": "바람난 아내에게 살해당하고 금수저로 환생",
+        "author": "신수목",
+        "view_count": 101,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594193",
+        "title": "미국 텍사스 목장 인수하고 돈이 쏟아짐",
+        "author": "한꽃",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592401",
+        "title": "이혼 후 엄마와 산다",
+        "author": "반달곰81",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592046",
+        "title": "걸그룹 대표가 작곡을 너무 잘함",
+        "author": "비밀책방",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594476",
+        "title": "시골에서 힐링하려는데 월클들이 집착하기 시작했다",
+        "author": "네오소울",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593951",
+        "title": "아포칼립스에서 S급 헌터가 되었다",
+        "author": "글쓰는벌레",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593441",
+        "title": "관우는 이제 은퇴하고 싶다",
+        "author": "백금문",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
