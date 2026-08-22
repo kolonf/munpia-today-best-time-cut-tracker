@@ -63934,5 +63934,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T00:00:38.266505+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591634",
+        "title": "500억 상속 후 톱스타들이 내게 집착한다",
+        "author": "알랜더",
+        "view_count": 372,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592235",
+        "title": "나 혼자 초월급 상점으로 탑 등반",
+        "author": "서휘영",
+        "view_count": 200,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592086",
+        "title": "바람난 아내에게 살해당하고 금수저로 환생",
+        "author": "신수목",
+        "view_count": 89,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592472",
+        "title": "방출 전날, 투수 천재라는 걸 알았다",
+        "author": "얼음장미",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592946",
+        "title": "판타지에서 마법사로 살아남기",
+        "author": "이찬솔",
+        "view_count": 47,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591127",
+        "title": "세계적으로 버림받은 EX급이 빌런이 됨",
+        "author": "찐따석학",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592943",
+        "title": "삼국지, 입사 첫날 나를 죽이려함.",
+        "author": "윤실",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594722",
+        "title": "전능의 투자 능력을 얻은 날 해고 당했다",
+        "author": "제3소년",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592722",
+        "title": "프랑스에서 한옥을 물려받았다.",
+        "author": "가디스트",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595281",
+        "title": "맵핵수선전",
+        "author": "신선의길",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
