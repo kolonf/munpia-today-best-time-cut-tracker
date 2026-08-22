@@ -62974,5 +62974,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-22T13:01:57.198382+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 698,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590808",
+        "title": "할아버지 유언으로 재벌가 무남독녀의 약혼자가 되었다",
+        "author": "배소리",
+        "view_count": 260,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592916",
+        "title": "F급 마법사가 경험치 10,000,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 85,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592536",
+        "title": "퇴사 후 프랑스에서 한국 카페로 힐링합니다",
+        "author": "홍삼더덕",
+        "view_count": 58,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593363",
+        "title": "선협에서 EX급 각성을 했는데 아무도 나를 모름",
+        "author": "에루꼬로넬",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594973",
+        "title": "이혼당한 기러기아빠, 파워볼 당첨 후 미국 대지주가 됨",
+        "author": "탄산수영장",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592324",
+        "title": "회귀한 파이터가 슈팅을 너무 잘 막음",
+        "author": "산타클라스",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593957",
+        "title": "번개 맞고 회귀했더니 인생 난이도가 낮아짐",
+        "author": "무성(無聲)",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
