@@ -128447,5 +128447,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-22T20:30:30.595875+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 2683,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 1691,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 1018,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590312",
+        "title": "F급 기억흡수 헌터의 게이트 독식법",
+        "author": "기뮹스",
+        "view_count": 689,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 448,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591634",
+        "title": "500억 상속 후 톱스타들이 내게 집착한다",
+        "author": "알랜더",
+        "view_count": 317,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "581638",
+        "title": "소현세자, 17세기 위대한 대조선 제국을 열다.",
+        "author": "대붕이날다",
+        "view_count": 233,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "586217",
+        "title": "은퇴당한 천재가 피지컬이 사기임",
+        "author": "리즐리",
+        "view_count": 196,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592235",
+        "title": "나 혼자 초월급 상점으로 탑 등반",
+        "author": "서휘영",
+        "view_count": 167,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591099",
+        "title": "즉사무기 들고 이세계로",
+        "author": "땅피",
+        "view_count": 127,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
