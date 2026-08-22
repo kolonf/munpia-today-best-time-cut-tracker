@@ -63070,5 +63070,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-22T14:30:34.167687+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 523,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592658",
+        "title": "해고 후 전능의 눈을 얻어 슈퍼볼 당첨됨",
+        "author": "깊은수풀",
+        "view_count": 224,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592233",
+        "title": "국가에서 버림당한 F급 힐러가 EX급 소환사로 재각성함",
+        "author": "기영수",
+        "view_count": 107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593035",
+        "title": "삼국지 유비의 두 번째 공명이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590148",
+        "title": "나 혼자 불사 능력으로 탑 등반",
+        "author": "픤호랑이",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593239",
+        "title": "회귀한 재벌3세는 깡촌에서 힐링합니다",
+        "author": "니은숲",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592731",
+        "title": "무면허 약사가 돈을 쓸어모음",
+        "author": "신줏단지",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594002",
+        "title": "미국 시골에서 한식했더니 아이들이 너무 극락감",
+        "author": "황금크래커",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591907",
+        "title": "프로포즈 후 960억이 생겼다.",
+        "author": "켄치",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594242",
+        "title": "미국 거물들이 집착하는 회귀자가 되었다",
+        "author": "한손검",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
