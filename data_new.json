@@ -63742,5 +63742,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-22T21:30:33.730545+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 483,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592470",
+        "title": "행운 EX 원딜은 탑 등반이 맛있다",
+        "author": "건태양",
+        "view_count": 202,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593035",
+        "title": "삼국지 유비의 두 번째 공명이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 96,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590726",
+        "title": "국가에게 버림받았더니 아포칼립스에서 나만 건물주가 됐다",
+        "author": "한미르.",
+        "view_count": 66,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592731",
+        "title": "무면허 약사가 돈을 쓸어모음",
+        "author": "신줏단지",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591730",
+        "title": "해고당한 회사원은 영업이 너무 쉽다",
+        "author": "우상향차트",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592046",
+        "title": "걸그룹 대표가 작곡을 너무 잘함",
+        "author": "비밀책방",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592965",
+        "title": "초월급 네크로맨서의 창고를 얻었다",
+        "author": "남다른",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594719",
+        "title": "아이돌 연습생이 음악을 너무 잘함",
+        "author": "공상소년",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594563",
+        "title": "얘기 좀 들어줬더니 미국 건물주",
+        "author": "빡글",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
