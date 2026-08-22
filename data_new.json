@@ -62782,5 +62782,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-22T11:30:35.350914+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 677,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589387",
+        "title": "은퇴당한 S급 헌터가 EX급 무당을 각성했다",
+        "author": "총골드",
+        "view_count": 249,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592848",
+        "title": "백만 대군을 데리고 귀환했다",
+        "author": "나나코니",
+        "view_count": 128,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593697",
+        "title": "무능했던 남편이 슈퍼볼 당첨된 후 매우 유능해짐",
+        "author": "어람서브",
+        "view_count": 77,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586404",
+        "title": "이등병이 주식 투자를 잘함",
+        "author": "지금이니",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593363",
+        "title": "선협에서 EX급 각성을 했는데 아무도 나를 모름",
+        "author": "에루꼬로넬",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594776",
+        "title": "백수 삼촌의 뇌가 양자컴퓨터로 각성함",
+        "author": "런타임",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590743",
+        "title": "세금 7300억 날린 놈들 국산 AI로 대가리 뿌심",
+        "author": "극복밤송",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594205",
+        "title": "좌천된 PD에게 거물들이 집착한다",
+        "author": "비요뜨귀신",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
