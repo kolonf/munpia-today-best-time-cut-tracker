@@ -66526,5 +66526,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-24T02:00:37.977759+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 385,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591099",
+        "title": "즉사무기 들고 이세계로",
+        "author": "땅피",
+        "view_count": 203,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592965",
+        "title": "초월급 네크로맨서의 창고를 얻었다",
+        "author": "남다른",
+        "view_count": 107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593035",
+        "title": "삼국지 유비의 두 번째 공명이 되었다",
+        "author": "글못쓰는놈",
+        "view_count": 66,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591598",
+        "title": "구단 팔아먹으려는데 감독이 자꾸 이김",
+        "author": "필로스",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594847",
+        "title": "선협인데 비승 안 하고 오래 살렵니다",
+        "author": "글먹는쿠마",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594510",
+        "title": "19세기 대영제국의 K-제빵천재",
+        "author": "글쓰는너겟",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593951",
+        "title": "아포칼립스에서 S급 헌터가 되었다",
+        "author": "글쓰는벌레",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594097",
+        "title": "귀농인이 1층에서 농사를 잘함",
+        "author": "어비윤",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
