@@ -64894,5 +64894,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T11:00:38.735387+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591183",
+        "title": "신내림 받고 거물들이 집착하는 스트리머가 되었다",
+        "author": "기영수",
+        "view_count": 492,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591642",
+        "title": "전능의 핵미사일을 얻었다",
+        "author": "기획자K",
+        "view_count": 222,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591955",
+        "title": "반려만 했는데 S급들이 줄을 섭니다",
+        "author": "강브로끄",
+        "view_count": 99,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594371",
+        "title": "29살 시장이 도시를 너무 잘 키움",
+        "author": "탄두리치킨",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592235",
+        "title": "나 혼자 초월급 상점으로 탑 등반",
+        "author": "서휘영",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592450",
+        "title": "광해군이 조선을 군수제국으로 만듦",
+        "author": "세듀",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594093",
+        "title": "잡주만 샀는데 수익률 1000％",
+        "author": "문가문가",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585701",
+        "title": "과거를 보는 유해발굴병",
+        "author": "살라하",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592868",
+        "title": "월면기지에서 지구멸망을 직관했다",
+        "author": "Stay.",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
