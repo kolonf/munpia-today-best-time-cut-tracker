@@ -65854,5 +65854,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T20:00:37.707346+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 322,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590516",
+        "title": "이혼 후 초월 각성",
+        "author": "이럴수",
+        "view_count": 203,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594337",
+        "title": "국가에게 버림받은 탱커는 재앙급 각성자",
+        "author": "쿨라임",
+        "view_count": 98,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592953",
+        "title": "아포칼립스의 무시무시한 가족",
+        "author": "검은작약",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592591",
+        "title": "상속 수선(相續 修仙)",
+        "author": "닥터하이츠",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594597",
+        "title": "랭커들이 집착하는 유일 소환수가 되었다",
+        "author": "필드스틱",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591907",
+        "title": "프로포즈 후 960억이 생겼다.",
+        "author": "켄치",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594532",
+        "title": "2회차에는 트레이드 되지 않는다",
+        "author": "포도맛봉봉",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593128",
+        "title": "내 원룸이 S급 전속 대기실이 되었다",
+        "author": "일단타만원",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
