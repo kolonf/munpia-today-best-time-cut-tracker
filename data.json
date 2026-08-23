@@ -133919,5 +133919,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T17:30:33.674025+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589755",
+        "title": "드디어 상온 상압 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 3202,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585405",
+        "title": "나 혼자 EX급 사령술로 무한성장",
+        "author": "글러트",
+        "view_count": 1650,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590518",
+        "title": "침술로 장기를 재생했더니 FDA에서 찾아옴",
+        "author": "대작살",
+        "view_count": 1070,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592133",
+        "title": "회귀한 김대리는 속마음이 들린다",
+        "author": "킴총무",
+        "view_count": 785,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586437",
+        "title": "천재 한식 셰프의 손맛에 미국 아이들이 극락감",
+        "author": "임완",
+        "view_count": 559,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588279",
+        "title": "초월급 스킬로 나 혼자 탑에서 힐링함",
+        "author": "코찬",
+        "view_count": 392,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 298,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591705",
+        "title": "고점 판독기가 되었다",
+        "author": "북골드",
+        "view_count": 227,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585629",
+        "title": "퇴직했는데 성공한 제자들이 내게 집착한다",
+        "author": "[덕우]",
+        "view_count": 183,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 135,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
