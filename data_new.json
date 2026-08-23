@@ -64990,5 +64990,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T13:30:33.022152+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 435,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591866",
+        "title": "이혼후 전세계가 내게 집착한다.",
+        "author": "익명(匿名)",
+        "view_count": 194,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593109",
+        "title": "내가 프로이센의 반역자라니?!",
+        "author": "I알자스I",
+        "view_count": 94,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592862",
+        "title": "조선 독립은 1인 특수부대가 합니다",
+        "author": "아사히베리",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589963",
+        "title": "미국의 얼굴천재가 연기까지 잘함",
+        "author": "송송백",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590400",
+        "title": "은퇴당한 힐러가 EX로 재각성하고 탑등반",
+        "author": "치규치규",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591860",
+        "title": "전능의 스킬을 각성했다",
+        "author": "가지(GAZI)",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594446",
+        "title": "최소 메시의 저주에 걸렸다",
+        "author": "윤범™",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592439",
+        "title": "초인기 아이돌이 내 아이를 임신했다",
+        "author": "헤이블",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592497",
+        "title": "2008년부터 시작하는 회귀생활",
+        "author": "287000",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
