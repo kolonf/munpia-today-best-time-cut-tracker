@@ -66238,5 +66238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-23T23:30:33.207259+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 338,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 176,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595446",
+        "title": "아무도 내가 세계재벌인 줄 모른다",
+        "author": "나나코니",
+        "view_count": 105,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592731",
+        "title": "무면허 약사가 돈을 쓸어모음",
+        "author": "신줏단지",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591569",
+        "title": "임진왜란, EX급 중대가 화력을 퍼붓는다.",
+        "author": "코이너",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594110",
+        "title": "파워볼 당첨돼서 다니던 게임회사 사버림",
+        "author": "잡탕드래곤",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593015",
+        "title": "무림맹에서 쫓겨난 후 온 무림이 집착함",
+        "author": "영국유학생",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594423",
+        "title": "동네 무당인데 재벌들이 줄섬",
+        "author": "고냥임",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594315",
+        "title": "미국 시골 양조가에게 월가 큰손들이 집착함",
+        "author": "안밀림",
+        "view_count": 15,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
