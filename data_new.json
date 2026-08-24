@@ -68062,5 +68062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-25T00:30:34.650762+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 380,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 178,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591068",
+        "title": "신안(神眼), 골동품으로 재벌이되다.",
+        "author": "decloud",
+        "view_count": 93,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592120",
+        "title": "전역했더니 소소하게 힐링함",
+        "author": "처령",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594838",
+        "title": "압류하러 갔는데 범죄자를 너무 잘 잡음",
+        "author": "팥고당",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595031",
+        "title": "1,000,000명 배틀로얄 선협게임 속 폭군이 되었다",
+        "author": "노블테라피",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595290",
+        "title": "이혼 도장 찍자마자 대박 터짐",
+        "author": "문가문가",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592439",
+        "title": "초인기 아이돌이 내 아이를 임신했다",
+        "author": "헤이블",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594796",
+        "title": "이혼 후 회귀 천재 소아외과 의사는 의학계가 애호집착함",
+        "author": "글끌클",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
