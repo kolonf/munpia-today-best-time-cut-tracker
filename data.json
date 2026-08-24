@@ -138623,5 +138623,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-24T11:00:38.980352+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "582993",
+        "title": "미국 시골 목수에게 거물들이 집착함",
+        "author": "탄뽀",
+        "view_count": 3386,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584863",
+        "title": "귀신 보는 경찰이 범죄자를 씹어먹음",
+        "author": "빈명",
+        "view_count": 1914,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590312",
+        "title": "F급 기억흡수 헌터의 게이트 독식법",
+        "author": "기뮹스",
+        "view_count": 1236,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588666",
+        "title": "소아외과 전문의는 행복하게 살고 싶다",
+        "author": "홈스탠바이",
+        "view_count": 780,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 559,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 438,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "589662",
+        "title": "파이어족인데 정조가 집착한다",
+        "author": "욱욱청청",
+        "view_count": 322,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터의 복수",
+        "author": "초록코끼리",
+        "view_count": 260,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 184,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591866",
+        "title": "이혼후 전세계가 내게 집착한다.",
+        "author": "익명(匿名)",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
