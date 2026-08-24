@@ -67198,5 +67198,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-24T13:00:39.257846+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 394,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591705",
+        "title": "고점 판독기가 되었다",
+        "author": "북골드",
+        "view_count": 210,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593497",
+        "title": "미국에서 방출 선수만 계약한다",
+        "author": "아아연하게",
+        "view_count": 107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587477",
+        "title": "재벌가 사모님들이 내 목욕탕에서 패싸움함",
+        "author": "별수수깡",
+        "view_count": 74,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587413",
+        "title": "위자료로 회귀한 로펌의 사냥개",
+        "author": "이마시아",
+        "view_count": 59,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590726",
+        "title": "국가에게 버림받았더니 아포칼립스에서 나만 건물주가 됐다",
+        "author": "한미르.",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594722",
+        "title": "전능의 투자 능력을 얻은 날 해고 당했다",
+        "author": "제3소년",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592858",
+        "title": "축구판 씹어먹는 주사위형 스트라이커",
+        "author": "윤범™",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595406",
+        "title": "나 혼자 5조 벌었는데 국민들이 너무 좋아함",
+        "author": "만슬라",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
