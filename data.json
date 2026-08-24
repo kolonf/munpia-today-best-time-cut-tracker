@@ -143327,5 +143327,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-25T06:48:20.278006+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586390",
+        "title": "악역만 연기했는데 탑스타가 되었다",
+        "author": "해피엔딩이즈굿",
+        "view_count": 3288,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587384",
+        "title": "소소한 특전으로 인생 역전",
+        "author": "신림서점",
+        "view_count": 1642,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 1116,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591219",
+        "title": "물려받은 고성에 돈 되는 물건이 너무 많음",
+        "author": "글삭기",
+        "view_count": 734,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587237",
+        "title": "천하는 멀고 영지는 가난했다.",
+        "author": "천수방세옥",
+        "view_count": 559,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592038",
+        "title": "아포칼립스에 나 혼자 EX급 미국 비밀 교도소",
+        "author": "딸기베리",
+        "view_count": 440,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 312,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 255,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 198,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589206",
+        "title": "분신술사인데요, 분신이 저보다 셉니다",
+        "author": "태양물고기",
+        "view_count": 147,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
