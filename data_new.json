@@ -68350,5 +68350,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-25T03:00:42.183249+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592038",
+        "title": "아포칼립스에 나 혼자 EX급 미국 비밀 교도소",
+        "author": "딸기베리",
+        "view_count": 400,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593777",
+        "title": "24시간 뒤 뉴스로 자본 독식",
+        "author": "요거투",
+        "view_count": 187,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589963",
+        "title": "미국의 얼굴천재가 연기까지 잘함",
+        "author": "송송백",
+        "view_count": 108,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594776",
+        "title": "매장당한 천재가 손대는 것마다 대기업이 집착함",
+        "author": "런타임",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595738",
+        "title": "퇴사 당했더니 건물 가치가 보인다",
+        "author": "천강(泉剛)",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595551",
+        "title": "배트로 상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595683",
+        "title": "버림받은 헌터가 재앙급 던전으로 탑을 자동사냥함",
+        "author": "세른",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593821",
+        "title": "은퇴당한 헌터의 탑 등반에 세계가 주목함",
+        "author": "이스트우드",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594695",
+        "title": "인생 망했는데, 신령들이 내 몸을 노린다",
+        "author": "태양물고기",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
