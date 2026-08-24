@@ -140927,5 +140927,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-24T21:00:42.097002+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590319",
+        "title": "재앙급 마나 흡수한 줄 모르고 은퇴당함",
+        "author": "풀매수",
+        "view_count": 2731,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589871",
+        "title": "귀환 후 코인 재벌",
+        "author": "시우림",
+        "view_count": 1848,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592141",
+        "title": "야구를 왜 시작했을까?",
+        "author": "동동구르르",
+        "view_count": 1085,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 637,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591642",
+        "title": "전능의 핵미사일을 얻었다",
+        "author": "기획자K",
+        "view_count": 445,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582352",
+        "title": "수선계 만물 수리공",
+        "author": "진휘록",
+        "view_count": 367,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 274,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 212,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "592616",
+        "title": "베트남전 장교가 되었는데 전쟁을 너무 잘함",
+        "author": "세티리진",
+        "view_count": 186,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589387",
+        "title": "은퇴당한 S급 헌터가 EX급 무당을 각성했다",
+        "author": "총골드",
+        "view_count": 143,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
