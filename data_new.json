@@ -67774,5 +67774,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-24T21:30:34.354268+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 388,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591498",
+        "title": "귀신 먹고 미국 힐링 명소로 대박남",
+        "author": "크엉컹컹",
+        "view_count": 175,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 88,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594002",
+        "title": "미국 시골에서 한식했더니 아이들이 너무 극락감",
+        "author": "황금크래커",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591730",
+        "title": "해고당한 회사원은 영업이 너무 쉽다",
+        "author": "우상향차트",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592401",
+        "title": "이혼 후 엄마와 산다",
+        "author": "반달곰81",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593957",
+        "title": "번개 맞고 회귀했더니 인생 난이도가 낮아짐",
+        "author": "무성(無聲)",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595544",
+        "title": "전생 대마법사 LAPD 대박신입 되다",
+        "author": "서해강",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594226",
+        "title": "버림받은 에이스가 구속을 되찾음",
+        "author": "그링스",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589766",
+        "title": "회귀한 설계자는 사기꾼만 턴다",
+        "author": "패스트",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
