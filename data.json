@@ -138911,5 +138911,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-24T12:30:30.844076+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 3296,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 1887,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585000",
+        "title": "검은 머리 영국 조리병",
+        "author": "마개조",
+        "view_count": 1227,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 779,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592141",
+        "title": "야구를 왜 시작했을까?",
+        "author": "동동구르르",
+        "view_count": 552,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590400",
+        "title": "은퇴당한 힐러가 EX로 재각성하고 탑등반",
+        "author": "치규치규",
+        "view_count": 422,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590103",
+        "title": "초월급 특성을 각성했다",
+        "author": "빌림",
+        "view_count": 298,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 231,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "592658",
+        "title": "해고 후 전능의 눈을 얻어 슈퍼볼 당첨됨",
+        "author": "깊은수풀",
+        "view_count": 184,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "585629",
+        "title": "퇴직했는데 성공한 제자들이 내게 집착한다",
+        "author": "[덕우]",
+        "view_count": 137,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
