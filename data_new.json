@@ -70750,5 +70750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-26T05:00:40.044201+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 449,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 219,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594240",
+        "title": "방구석 먼치킨",
+        "author": "호종이",
+        "view_count": 109,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593540",
+        "title": "선협 속 수선자들이 집착하는 천겁 대행자",
+        "author": "칠팔",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590733",
+        "title": "시골 출신 천재가 거물들을 극락 보냄",
+        "author": "서찬",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594834",
+        "title": "사도세자가 집착하는 정신과 어의가 되었다",
+        "author": "하마버지",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595340",
+        "title": "해고 된 감정사는 전능의 눈을 각성했다.",
+        "author": "시온유",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594279",
+        "title": "폐기당한 내 대본에 회장 손녀가 집착함",
+        "author": "피자소주",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593913",
+        "title": "선협에서 도둑놈이 술을 훔침",
+        "author": "낭선",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
