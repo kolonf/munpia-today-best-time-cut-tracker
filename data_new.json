@@ -69118,5 +69118,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-25T10:30:35.167029+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 426,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 208,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592545",
+        "title": "배팅볼 투수에겐 퍼펙트게임이 쉽다",
+        "author": "홍7홍",
+        "view_count": 104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 77,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591730",
+        "title": "해고당한 회사원은 영업이 너무 쉽다",
+        "author": "우상향차트",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592568",
+        "title": "교주의 탑 공략 스트리밍",
+        "author": "레몽트리",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595340",
+        "title": "해고 된 감정사는 전능의 눈을 각성했다.",
+        "author": "시온유",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594796",
+        "title": "이혼 후 회귀 천재 소아외과 의사는 의학계가 애호집착함",
+        "author": "글끌클",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593824",
+        "title": "자기만 몰랐던 음악천재는 첫사랑 때문에 노래를 시작한다",
+        "author": "mirtail",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595754",
+        "title": "런던에 포장마차를 차렸더니 축구선수들이 집착함",
+        "author": "여연餘緣",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
