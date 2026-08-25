@@ -70654,5 +70654,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-26T04:00:45.762169+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 438,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 210,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594240",
+        "title": "방구석 먼치킨",
+        "author": "호종이",
+        "view_count": 108,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591056",
+        "title": "신내림 사이비의 무인도 생존기",
+        "author": "스이베라트콘",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594947",
+        "title": "연예계 무당이 되었습니다",
+        "author": "소수림",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592113",
+        "title": "기적을 쏘는 노룩패스(축구)",
+        "author": "듀잇",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594834",
+        "title": "사도세자가 집착하는 정신과 어의가 되었다",
+        "author": "하마버지",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594135",
+        "title": "빡대가리 스트라이커가 뚝배기를 잘 씀",
+        "author": "볼랑말랑",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596093",
+        "title": "22살로 회귀한 감독이 맨유로 유럽을 씹어먹음",
+        "author": "낙원s",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593863",
+        "title": "시골 감정소에 신화급 헌터들이 집착함",
+        "author": "신입초짜",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
