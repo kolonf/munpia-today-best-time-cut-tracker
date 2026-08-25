@@ -145343,5 +145343,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-25T15:00:40.346577+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590872",
+        "title": "미국 국세청 말단인데, 온갖 거물들이 나를 두려워함",
+        "author": "김옥지",
+        "view_count": 3410,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 1352,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588869",
+        "title": "만년 후보 메이저리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 1020,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 759,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583078",
+        "title": "조국을 위해 군부독재 하겠습니다.",
+        "author": "라면볶음밥",
+        "view_count": 521,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590312",
+        "title": "F급 기억흡수 헌터의 게이트 독식법",
+        "author": "기뮹스",
+        "view_count": 381,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591955",
+        "title": "반려만 했는데 S급들이 줄을 섭니다",
+        "author": "강브로끄",
+        "view_count": 294,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587838",
+        "title": "고장을 보는 눈을 각성하고 업계가 집착함",
+        "author": "시온유",
+        "view_count": 230,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "585279",
+        "title": "날먹수선전",
+        "author": "LunStellar",
+        "view_count": 190,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 150,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
