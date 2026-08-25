@@ -144575,5 +144575,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-25T12:00:39.887379+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 아포칼립스 핵잠수함",
+        "author": "눌프",
+        "view_count": 3379,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 1926,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 1204,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 784,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "582465",
+        "title": "21세기 훈장이 명종 시대에 환생함",
+        "author": "담배맛동산",
+        "view_count": 566,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591308",
+        "title": "은퇴 당한 헌터는 조용히 약초나 캐고 싶다",
+        "author": "글혼",
+        "view_count": 420,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589460",
+        "title": "회귀했더니 500억이 너무 쉽다",
+        "author": "일시불",
+        "view_count": 309,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593148",
+        "title": "100억 물려받고 낭만 만물트럭커",
+        "author": "글거북.",
+        "view_count": 254,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592658",
+        "title": "해고 후 전능의 눈을 얻어 슈퍼볼 당첨됨",
+        "author": "깊은수풀",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595446",
+        "title": "아무도 내가 세계재벌인 줄 모른다",
+        "author": "나나코니",
+        "view_count": 152,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
