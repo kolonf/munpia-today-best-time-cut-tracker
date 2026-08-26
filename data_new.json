@@ -71710,5 +71710,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-26T18:00:40.286056+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 420,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 229,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592086",
+        "title": "바람난 아내에게 살해당하고 금수저로 환생",
+        "author": "신수목",
+        "view_count": 114,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590148",
+        "title": "나 혼자 불사 능력으로 탑 등반",
+        "author": "픤호랑이",
+        "view_count": 85,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593363",
+        "title": "선협에서 EX급 각성을 했는데 아무도 나를 모름",
+        "author": "에루꼬로넬",
+        "view_count": 58,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593824",
+        "title": "자기만 몰랐던 음악천재는 첫사랑 때문에 노래를 시작한다",
+        "author": "mirtail",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595290",
+        "title": "이혼 도장 찍자마자 대박 터짐",
+        "author": "문가문가",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594846",
+        "title": "나를 교회 파괴자라 부르라",
+        "author": "백린(白麟)",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594644",
+        "title": "F급 감정사가 훈수두니 헌터들이 극락감",
+        "author": "애너그램™",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
