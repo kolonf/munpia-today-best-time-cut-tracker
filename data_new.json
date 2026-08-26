@@ -72094,5 +72094,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-26T22:00:43.457715+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 465,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592862",
+        "title": "조선 독립은 1인 특수부대가 합니다",
+        "author": "아사히베리",
+        "view_count": 109,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592979",
+        "title": "거인을 상속받았더니 탑 등반이 너무 쉽다",
+        "author": "부품",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594002",
+        "title": "미국 시골에서 한식했더니 아이들이 너무 극락감",
+        "author": "황금크래커",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595705",
+        "title": "신내림 받은 망한 아이돌이 방송을 너무 잘함",
+        "author": "글과달",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595031",
+        "title": "1,000,000명 배틀로얄 선협게임 속 폭군이 되었다",
+        "author": "노블테라피",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586226",
+        "title": "버려진 신들을 인수했다",
+        "author": "도길복",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595945",
+        "title": "아빠가 염라대왕이라 대통령이 굽신거림",
+        "author": "땡시기",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595686",
+        "title": "연금 로또 맞은 모델 에이전시 대리님",
+        "author": "이정표",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
