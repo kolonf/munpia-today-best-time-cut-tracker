@@ -154175,5 +154175,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T03:30:35.498408+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 3245,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 1592,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 1036,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "579030",
+        "title": "이혼하고 애까지 딸린 작가, 쓰는 것마다 대박행진.",
+        "author": "다복고복",
+        "view_count": 730,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591696",
+        "title": "귀환 후 세계재벌",
+        "author": "김치은",
+        "view_count": 530,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591866",
+        "title": "이혼후 전세계가 내게 집착한다.",
+        "author": "익명(匿名)",
+        "view_count": 420,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590400",
+        "title": "멸망한 길드의 힐러가 먼치킨으로 깨어났다",
+        "author": "치규치규",
+        "view_count": 344,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591498",
+        "title": "귀신 먹고 미국 힐링 명소로 대박남",
+        "author": "크엉컹컹",
+        "view_count": 255,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 201,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "590997",
+        "title": "버림받은 F급 테이머가 시골에서 농장을 차림",
+        "author": "초록코끼리",
+        "view_count": 153,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
