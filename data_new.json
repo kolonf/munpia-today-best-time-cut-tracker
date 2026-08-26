@@ -72286,5 +72286,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-26T23:00:41.837795+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591099",
+        "title": "즉사무기 들고 이세계로",
+        "author": "땅피",
+        "view_count": 398,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591893",
+        "title": "검은머리 천조국 탱크 설계자",
+        "author": "[서평]",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592110",
+        "title": "뒷산에서 구미호를 주웠다",
+        "author": "청라수",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594695",
+        "title": "인생 망했는데, 신령들이 내 몸을 노린다",
+        "author": "태양물고기",
+        "view_count": 47,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592585",
+        "title": "우라까이의 제왕",
+        "author": "서칸더브이",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592183",
+        "title": "클로즈베타 끝내고 유일급 특전으로 미쳐 날뜀",
+        "author": "힛햇핫",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589766",
+        "title": "회귀했더니 사기꾼이 너무 잘 보임",
+        "author": "패스트",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592146",
+        "title": "내가... 내가 야인이라니!",
+        "author": "카이남",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594784",
+        "title": "빌런 스트라이커로 살아남기",
+        "author": "휘휘™",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
