@@ -149855,5 +149855,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-26T09:30:31.675013+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590872",
+        "title": "미국 국세청 말단인데, 온갖 거물들이 나를 두려워함",
+        "author": "김옥지",
+        "view_count": 3431,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1781,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 1202,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 766,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589292",
+        "title": "물리 치트로 재벌 과학자가 되었다",
+        "author": "필드스틱",
+        "view_count": 554,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591810",
+        "title": "만신의 손자는 미국에서 평범하게 살고 싶다",
+        "author": "카피닌자",
+        "view_count": 407,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583801",
+        "title": "삼국지 : 화살 한 발로 난세를 끝낸다",
+        "author": "메이키",
+        "view_count": 323,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591955",
+        "title": "반려만 했는데 S급들이 줄을 섭니다",
+        "author": "강브로끄",
+        "view_count": 258,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 189,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "592510",
+        "title": "삼국지: 환관 아비 버리고 효도하겠습니다.",
+        "author": "박야옹",
+        "view_count": 127,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
