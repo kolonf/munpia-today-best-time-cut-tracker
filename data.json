@@ -151487,5 +151487,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-26T17:00:39.616043+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587721",
+        "title": "나 혼자 마법사인데 마법을 안 숨김",
+        "author": "피짜조아",
+        "view_count": 2837,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592470",
+        "title": "행운 EX 원딜은 탑 등반이 맛있다",
+        "author": "건태양",
+        "view_count": 1680,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591027",
+        "title": "시골 보건소 의사가 힐러로 각성함",
+        "author": "쿠쿠하스",
+        "view_count": 1119,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 829,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 521,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591634",
+        "title": "탑스타의 미래가 보임",
+        "author": "알랜더",
+        "view_count": 402,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 325,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "579030",
+        "title": "이혼하고 애까지 딸린 작가, 쓰는 것마다 대박행진.",
+        "author": "다복고복",
+        "view_count": 260,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585279",
+        "title": "날먹수선전",
+        "author": "LunStellar",
+        "view_count": 202,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "593148",
+        "title": "100억 물려받고 낭만 만물트럭커",
+        "author": "글거북.",
+        "view_count": 153,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
