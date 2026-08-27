@@ -157439,5 +157439,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T19:00:37.896707+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 2653,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587584",
+        "title": "히틀러의 충신으로 착각당했다",
+        "author": "빵먹고싶다",
+        "view_count": 1850,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591099",
+        "title": "즉사무기 들고 이세계로",
+        "author": "땅피",
+        "view_count": 1286,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 869,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 596,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 411,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 321,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592467",
+        "title": "선협 속 거북이는 상고시대부터 살아간다",
+        "author": "호균박",
+        "view_count": 263,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "586217",
+        "title": "은퇴당한 천재가 피지컬이 사기임",
+        "author": "리즐리",
+        "view_count": 192,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사",
+        "author": "아트라",
+        "view_count": 151,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
