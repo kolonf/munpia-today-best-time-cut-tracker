@@ -157727,5 +157727,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T20:30:33.597210+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588701",
+        "title": "미국 깡촌의 천재 약초꾼",
+        "author": "라쿤아재",
+        "view_count": 2783,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587584",
+        "title": "히틀러의 충신으로 착각당했다",
+        "author": "빵먹고싶다",
+        "view_count": 1933,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 1333,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 710,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "581270",
+        "title": "마법 천재 기간트 라이더가 되었다",
+        "author": "남극부엉이",
+        "view_count": 483,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590516",
+        "title": "이혼 후 초월 각성",
+        "author": "이럴수",
+        "view_count": 365,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594564",
+        "title": "파워볼 당첨될 줄 모르고 미국에서 해고당함",
+        "author": "서리안",
+        "view_count": 304,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592916",
+        "title": "F급 마법사가 경험치 10,000,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 238,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590006",
+        "title": "국가가 버린 최강 헌터의 복수",
+        "author": "초록코끼리",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "586368",
+        "title": "회귀한 버거집 사장님은 IMF를 기다린다",
+        "author": "몬도리아",
+        "view_count": 149,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
