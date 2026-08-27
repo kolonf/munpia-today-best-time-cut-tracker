@@ -159455,5 +159455,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-28T05:00:39.968268+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 3083,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 1749,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1062,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589871",
+        "title": "귀환 후 코인 재벌",
+        "author": "시우림",
+        "view_count": 732,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591634",
+        "title": "탑스타의 미래가 보임",
+        "author": "알랜더",
+        "view_count": 541,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "569115",
+        "title": "눈 먼 천재의 강호",
+        "author": "녹색여우",
+        "view_count": 434,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590024",
+        "title": "인생 2회차 공무원이 후삼국시대 견훤의 애착 사위가 됨",
+        "author": "대박터짐",
+        "view_count": 336,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591238",
+        "title": "미국 깡촌해서 한 골동품 사업이 대박남",
+        "author": "환승이직왕",
+        "view_count": 264,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593777",
+        "title": "24시간 뒤 뉴스로 자본 독식",
+        "author": "요거투",
+        "view_count": 197,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 146,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
