@@ -74878,5 +74878,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-28T05:30:33.434075+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 502,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 260,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594096",
+        "title": "노르웨이 깡촌의 검은머리 셰프한테 이웃들이 너무 잘함",
+        "author": "백원만s",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593540",
+        "title": "선협 속 수선자들이 집착하는 천겁 대행자",
+        "author": "칠팔",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592450",
+        "title": "광해군이 조선을 K-방산 강국으로 만듦",
+        "author": "세듀",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592439",
+        "title": "초인기 아이돌이 내 아이를 임신했다",
+        "author": "헤이블",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "587116",
+        "title": "버림받은 특전사가 규격 외 용병이 됨",
+        "author": "무력시위.",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593166",
+        "title": "팀닥터가 치료하면 선수가 월클이 됨",
+        "author": "글바치",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
