@@ -156191,5 +156191,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T12:30:33.676360+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 3824,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 1897,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581270",
+        "title": "마법 천재 기간트 라이더가 되었다",
+        "author": "남극부엉이",
+        "view_count": 1258,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583391",
+        "title": "로또 1등보다 성과급이 더 많음",
+        "author": "카이남",
+        "view_count": 857,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "582465",
+        "title": "21세기 훈장이 명종 시대에 환생함",
+        "author": "담배맛동산",
+        "view_count": 574,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593239",
+        "title": "회귀한 재벌3세는 깡촌에서 힐링합니다",
+        "author": "니은숲",
+        "view_count": 419,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593474",
+        "title": "북한 천재 해커가 비트코인 30000개 들고 튐",
+        "author": "바위너굴이",
+        "view_count": 327,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595562",
+        "title": "1979년, 반란군 머리통에 전차 포신부터 들이민다",
+        "author": "선우선사",
+        "view_count": 252,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "581638",
+        "title": "소현세자, 17세기 위대한 대조선 제국을 열다.",
+        "author": "대붕이날다",
+        "view_count": 186,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 144,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
