@@ -74206,5 +74206,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T23:30:36.737522+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 403,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592159",
+        "title": "스킬 위력 999만배로 시작하는 헌터생활",
+        "author": "김판",
+        "view_count": 221,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594240",
+        "title": "방구석 먼치킨",
+        "author": "호종이",
+        "view_count": 108,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592260",
+        "title": "자산이 매일 30％씩 불어나는 남자",
+        "author": "기훈이",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593307",
+        "title": "무한분신으로 신화급 탑 공략",
+        "author": "재미폭발",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596327",
+        "title": "삼국지, 여포의 네 번째 아비가 되었다",
+        "author": "칠팔",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595521",
+        "title": "이혼 후 EX급 템빨을 각성했다",
+        "author": "김미스",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596093",
+        "title": "검은머리 천재 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "낙원s",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594496",
+        "title": "망한 북부를 공장 능력으로 먹여 살림",
+        "author": "조용한",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592944",
+        "title": "격리픽션 속 회사원이 되었다",
+        "author": "우주강철",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
