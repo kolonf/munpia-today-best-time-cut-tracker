@@ -74110,5 +74110,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T23:00:41.140624+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591099",
+        "title": "즉사무기 들고 이세계로",
+        "author": "땅피",
+        "view_count": 458,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 242,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596207",
+        "title": "던전은 안 돌고 돈이 많았으면 좋겠어요",
+        "author": "산호초",
+        "view_count": 107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591836",
+        "title": "독립운동 따윈 하지 않는 개항기 조선의 변태",
+        "author": "소나카르텔",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595404",
+        "title": "선협에서 영석 광산을 숨김",
+        "author": "비상도",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595295",
+        "title": "이혼당한 날 무신으로 귀환했다",
+        "author": "문가문가",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595338",
+        "title": "즉사기 들고 퓨전펑크 속으로",
+        "author": "글럼프",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593951",
+        "title": "아포칼립스 속 게임 천재",
+        "author": "글쓰는벌레",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596148",
+        "title": "포르투갈에서 해달이 보물을 주워 옴",
+        "author": "무던",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596483",
+        "title": "100레벨이 만렙인데 1000레벨이 됐다",
+        "author": "나니모노",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
