@@ -74014,5 +74014,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T21:00:42.170949+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595018",
+        "title": "4조 재벌인데 아르바이트를 안 그만둠",
+        "author": "기영수",
+        "view_count": 445,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592510",
+        "title": "삼국지: 환관 아비 버리고 효도하겠습니다.",
+        "author": "박야옹",
+        "view_count": 254,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594973",
+        "title": "이혼당한 기러기아빠, 파워볼 당첨 후 미국 대지주가 됨",
+        "author": "탄산수영장",
+        "view_count": 113,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592625",
+        "title": "스택모아 우주최강",
+        "author": "허바",
+        "view_count": 69,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 58,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593307",
+        "title": "무한분신으로 신화급 탑 공략",
+        "author": "재미폭발",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594719",
+        "title": "아이돌 연습생이 음악을 너무 잘함",
+        "author": "공상소년",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595039",
+        "title": "최강 흑마법사의 슬기로운 영지생활",
+        "author": "스타퍼",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594857",
+        "title": "궁예의 책사가 돈을 잘 범",
+        "author": "너굴조아",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595651",
+        "title": "주님, 파문당하니 신점 천재가 되었습니다",
+        "author": "우치뭉치",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
