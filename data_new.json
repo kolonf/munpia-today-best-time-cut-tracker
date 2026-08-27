@@ -74974,5 +74974,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-28T06:30:36.263012+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 483,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594193",
+        "title": "퇴사 후 목장 키웠더니 아메리카가 쩔쩔맴",
+        "author": "한꽃",
+        "view_count": 264,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596207",
+        "title": "던전은 안 돌고 돈이 많았으면 좋겠어요",
+        "author": "산호초",
+        "view_count": 124,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594597",
+        "title": "랭커들이 집착하는 초희귀 소환수가 되었다",
+        "author": "필드스틱",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595295",
+        "title": "이혼당한 날 무신으로 귀환했다",
+        "author": "문가문가",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592364",
+        "title": "삼국지, 회귀한 전풍은 유비의 킹메이커가 된다.",
+        "author": "다작김절필",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592529",
+        "title": "재능 훔치는 말단병사가 너무 강함",
+        "author": "피초",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594106",
+        "title": "전능의 귀를 얻은 피아노 천재",
+        "author": "한룡(浫龍)",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591907",
+        "title": "프로포즈 후 960억이 생겼다.",
+        "author": "켄치",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588091",
+        "title": "아포칼립스인데 무력 치트로 세계 최강",
+        "author": "둠스데이",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
