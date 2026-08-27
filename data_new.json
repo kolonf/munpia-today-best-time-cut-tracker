@@ -74686,5 +74686,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-28T04:30:36.362888+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 486,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594193",
+        "title": "퇴사 후 목장 키웠더니 아메리카가 쩔쩔맴",
+        "author": "한꽃",
+        "view_count": 255,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594096",
+        "title": "노르웨이 깡촌의 검은머리 셰프한테 이웃들이 너무 잘함",
+        "author": "백원만s",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593540",
+        "title": "선협 속 수선자들이 집착하는 천겁 대행자",
+        "author": "칠팔",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594885",
+        "title": "미국 천재 유망주들이 나만 찾는다",
+        "author": "량주",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591569",
+        "title": "임진왜란, EX급 중대가 화력을 퍼붓는다.",
+        "author": "코이너",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596312",
+        "title": "상속받은 미국 유령 호텔에서 30톤 금맥이 터짐",
+        "author": "검은후드",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594806",
+        "title": "미래 40년을 안다면 뭘 할 수 있겠니?",
+        "author": "홈스탠바이",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
