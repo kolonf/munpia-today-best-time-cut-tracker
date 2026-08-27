@@ -155903,5 +155903,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T11:30:31.334666+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 3741,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "586306",
+        "title": "11라운드 포수가 야구를 너무 잘함",
+        "author": "건쇼",
+        "view_count": 1967,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586476",
+        "title": "퓨전펑크로 출근합니다",
+        "author": "sayren",
+        "view_count": 1268,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588313",
+        "title": "내 인벤토리에서 SS급 대본이 쏟아짐",
+        "author": "바람길따라",
+        "view_count": 840,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589456",
+        "title": "신점만 봐줬는데 거물들의 흑막이 되어감",
+        "author": "이창연",
+        "view_count": 597,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585462",
+        "title": "[1997] 멸망까지 40년, 돈부터 벌었다",
+        "author": "팥고당",
+        "view_count": 438,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591893",
+        "title": "검은머리 천조국 탱크 설계자",
+        "author": "[서평]",
+        "view_count": 342,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592565",
+        "title": "단종에 빙의했더니 명군으로 착각당함",
+        "author": "Poket7",
+        "view_count": 257,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 189,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591705",
+        "title": "고점 판독기가 되었다",
+        "author": "북골드",
+        "view_count": 142,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
