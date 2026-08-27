@@ -156479,5 +156479,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-27T14:00:41.014689+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588650",
+        "title": "법이 안 죽이길래 그냥 내가 죽임",
+        "author": "묘엽",
+        "view_count": 3326,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592421",
+        "title": "해고당한 삼촌이 천재 기타리스트라고?",
+        "author": "김불록",
+        "view_count": 1671,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584291",
+        "title": "모텔 옥탑방이 아포칼립스 핵잠수함",
+        "author": "눌프",
+        "view_count": 1079,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 775,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589910",
+        "title": "버림받고 각성한 EX급 헌터가 국가를 심판함",
+        "author": "민족의힘",
+        "view_count": 564,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 403,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589880",
+        "title": "은퇴당한 헌터가 내 힐 한번에 즉시 복귀함",
+        "author": "죽엇푹",
+        "view_count": 299,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586066",
+        "title": "경험치 1,000,000배 들고 선협에 떨어졌다",
+        "author": "노블테라피",
+        "view_count": 232,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 187,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 140,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
