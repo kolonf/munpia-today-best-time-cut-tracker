@@ -158399,5 +158399,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-28T00:00:42.723922+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590872",
+        "title": "미국 국세청 말단인데, 온갖 거물들이 나를 두려워함",
+        "author": "김옥지",
+        "view_count": 3037,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 1754,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 꿀 빤다",
+        "author": "오브더",
+        "view_count": 867,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592038",
+        "title": "아포칼립스에 나 혼자 EX급 미국 비밀 교도소",
+        "author": "딸기베리",
+        "view_count": 591,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586681",
+        "title": "회귀했더니 폭락장 전날이었다",
+        "author": "빡쎔",
+        "view_count": 490,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 397,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "586318",
+        "title": "영국 7부리그 클럽의 구단주가 되었다",
+        "author": "글쓴이H",
+        "view_count": 309,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591238",
+        "title": "미국 깡촌해서 한 골동품 사업이 대박남",
+        "author": "환승이직왕",
+        "view_count": 242,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 180,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594293",
+        "title": "미국이 집착하는 농구 괴물이 되었다",
+        "author": "코다",
+        "view_count": 124,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
