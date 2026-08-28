@@ -77662,5 +77662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-29T04:00:39.550460+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 487,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594293",
+        "title": "미국이 집착하는 농구 괴물이 되었다",
+        "author": "코다",
+        "view_count": 237,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593825",
+        "title": "마왕의 회귀를 가로챈 네크로맨서",
+        "author": "마지막검사",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594093",
+        "title": "잡주만 샀는데 수익률 1000％",
+        "author": "문가문가",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592536",
+        "title": "퇴사 후 파리에서 건물주됩니다",
+        "author": "홍삼더덕",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592260",
+        "title": "자산이 매일 30％씩 불어나는 남자",
+        "author": "기훈이",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595453",
+        "title": "재벌집 망나니 헌터가 회귀함",
+        "author": "페르세르크",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594545",
+        "title": "천마 특성으로 헌터시대를 찢음",
+        "author": "단우(單友)",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593491",
+        "title": "섬에서 낚시만 했는데 세계의 흑막이 되었다",
+        "author": "달달꿀벌",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596035",
+        "title": "조선에 엑셀을 도입했더니 세종이 안 놔줌",
+        "author": "푸른별지구",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
