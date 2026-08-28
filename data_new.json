@@ -78238,5 +78238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-29T07:30:32.777580+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 480,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593825",
+        "title": "마왕의 회귀를 가로챈 네크로맨서",
+        "author": "마지막검사",
+        "view_count": 251,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593035",
+        "title": "삼국지 짭공명이 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594973",
+        "title": "이혼당한 기러기아빠, 파워볼 당첨 후 미국 대지주가 됨",
+        "author": "탄산수영장",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592943",
+        "title": "삼국지, 내가 반골의 상인가?",
+        "author": "윤실",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593951",
+        "title": "아포칼립스 속 게임 천재",
+        "author": "글쓰는벌레",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597030",
+        "title": "이혼직전에 졸부 처가 재산 상속받고 깡촌에 만화방 차림",
+        "author": "백원만s",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596591",
+        "title": "왕따의 전생은 천재 기타리스트",
+        "author": "공중누각",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593116",
+        "title": "삼국지에서 사이비 교주가 되어 수선(修仙)합니다.",
+        "author": "승룡(乘龍)",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
