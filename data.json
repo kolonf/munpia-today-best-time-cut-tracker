@@ -161087,5 +161087,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-28T13:00:39.206992+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587384",
+        "title": "소소한 특전으로 인생 역전",
+        "author": "신림서점",
+        "view_count": 3790,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 1984,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585184",
+        "title": "구조의 신",
+        "author": "담하파",
+        "view_count": 1330,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "569115",
+        "title": "눈 먼 천재의 강호",
+        "author": "녹색여우",
+        "view_count": 867,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587838",
+        "title": "반도체 회사 대리가 결함을 잘봄",
+        "author": "시온유",
+        "view_count": 587,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588493",
+        "title": "전능의 신성력으로 탑 등반하는 신급 사제",
+        "author": "눈에띄네",
+        "view_count": 434,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592658",
+        "title": "해고 후 전능의 눈을 얻어 슈퍼볼 당첨됨",
+        "author": "깊은수풀",
+        "view_count": 338,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594226",
+        "title": "버림받은 에이스가 구속을 되찾음",
+        "author": "그링스",
+        "view_count": 262,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590024",
+        "title": "2회차 공무원이 후삼국시대 견훤의 애착 사위가 됨",
+        "author": "대박터짐",
+        "view_count": 207,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593035",
+        "title": "삼국지 짭공명이 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
