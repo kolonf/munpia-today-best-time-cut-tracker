@@ -76798,5 +76798,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-28T22:00:42.555824+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 418,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594177",
+        "title": "은퇴 당한 각성자가 탑 속에서 힐링함",
+        "author": "땃땃땃쥐",
+        "view_count": 213,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594297",
+        "title": "전출당한 무당경찰이 강력범죄를 모조리 해결함",
+        "author": "서핑보이",
+        "view_count": 110,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591836",
+        "title": "독립운동 따윈 하지 않는 개항기 조선의 변태",
+        "author": "소나카르텔",
+        "view_count": 76,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592943",
+        "title": "삼국지, 내가 반골의 상인가?",
+        "author": "윤실",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593307",
+        "title": "무한분신으로 신화급 탑 공략",
+        "author": "재미폭발",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594812",
+        "title": "쫓겨난 김에 차린 골목식당이 대박 남",
+        "author": "글리버",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596456",
+        "title": "파워볼 당첨금을 미친듯이 써볼련다",
+        "author": "소수림",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596415",
+        "title": "나 혼자 내공 쓴다",
+        "author": "강철민",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595726",
+        "title": "지옥에서 귀환하니 거물들이 집착함",
+        "author": "글먼지",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
