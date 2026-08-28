@@ -77278,5 +77278,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-29T02:00:39.957071+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 456,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 226,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593363",
+        "title": "선협에서 EX급 각성을 했는데 아무도 나를 모름",
+        "author": "에루꼬로넬",
+        "view_count": 122,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595344",
+        "title": "삼국지 : 제갈량과 사마의가 나를 원함",
+        "author": "조작가R",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595551",
+        "title": "상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595338",
+        "title": "즉사기 들고 퓨전펑크 속으로",
+        "author": "글럼프",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592054",
+        "title": "바람난 아내가 죽자 운명이 보임",
+        "author": "깜깜한밤톨",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594540",
+        "title": "검은머리 고물 복원가가 미국을 쥐락펴락함",
+        "author": "[강영]",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594846",
+        "title": "나를 교회 파괴자라 부르라",
+        "author": "백린(白麟)",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595334",
+        "title": "천재 셰프의 따끈따끈 함바집",
+        "author": "종명",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
