@@ -168863,5 +168863,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T03:00:39.140842+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 3266,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 1835,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589315",
+        "title": "위기감지 능력으로 투자했더니 월가가 집착함",
+        "author": "비건두부",
+        "view_count": 995,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595018",
+        "title": "4조 재벌인데 아르바이트를 안 그만둠",
+        "author": "기영수",
+        "view_count": 708,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 507,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593239",
+        "title": "회귀한 재벌3세는 깡촌에서 힐링합니다",
+        "author": "니은숲",
+        "view_count": 381,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 310,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 꿀 빤다",
+        "author": "오브더",
+        "view_count": 249,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588079",
+        "title": "한국을 우승시킨 탈북 투수는 서울이 신기하다",
+        "author": "미친재능",
+        "view_count": 198,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 140,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
