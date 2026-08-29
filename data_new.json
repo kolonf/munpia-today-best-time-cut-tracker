@@ -80062,5 +80062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T02:30:33.144033+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 445,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592616",
+        "title": "베트남전 장교가 되었는데 전쟁을 너무 잘함",
+        "author": "세티리진",
+        "view_count": 274,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 128,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592476",
+        "title": "천재 기타리스트가 군필을 숨김",
+        "author": "이터널",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593307",
+        "title": "무한분신으로 신화급 탑 공략",
+        "author": "재미폭발",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596297",
+        "title": "역대급 만능 천재의 귀환",
+        "author": "이온",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595720",
+        "title": "국가에 버림받은 네크로멘서가 즉사기를 각성함",
+        "author": "제로콜라27",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596415",
+        "title": "나 혼자 내공 쓴다",
+        "author": "강철민",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595390",
+        "title": "퇴직금 대신 차원창고를 받았다",
+        "author": "마로01",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594330",
+        "title": "선택지를 잘 골랐더니 연예계 거물들이 집착함",
+        "author": "말로굿",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
