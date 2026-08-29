@@ -79582,5 +79582,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-29T19:00:35.979523+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 517,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592510",
+        "title": "삼국지: 환관 아비 버리고 효도하겠습니다.",
+        "author": "박야옹",
+        "view_count": 272,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592324",
+        "title": "회귀한 파이터가 슈팅을 너무 잘 막음",
+        "author": "산타클라스",
+        "view_count": 80,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594002",
+        "title": "미국 시골에서 한식했더니 아이들이 너무 극락감",
+        "author": "황금크래커",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594260",
+        "title": "망한 영지의 영주가 화학을 잘함",
+        "author": "최뚝",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595271",
+        "title": "사형 당한 사천당가 한의사의 침에 전세계 재벌들 집착함",
+        "author": "글끌클",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594245",
+        "title": "퓨전펑크 만렙 총잡이",
+        "author": "시르베르",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595650",
+        "title": "안평대군의 두 번째 계유정난",
+        "author": "보명천",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595334",
+        "title": "천재 셰프의 따끈따끈 함바집",
+        "author": "종명",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
