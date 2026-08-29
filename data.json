@@ -167423,5 +167423,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-29T20:06:23.230784+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 2799,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594371",
+        "title": "29살 시장이 도시를 너무 잘 키움",
+        "author": "탄두리치킨",
+        "view_count": 1819,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 1168,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 799,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586217",
+        "title": "은퇴당한 천재가 피지컬이 사기임",
+        "author": "리즐리",
+        "view_count": 538,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 389,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593777",
+        "title": "24시간 뒤 뉴스로 자본 독식",
+        "author": "요거투",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589460",
+        "title": "회귀자의 슬기로운 투자생활",
+        "author": "일시불",
+        "view_count": 232,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594240",
+        "title": "방구석 먼치킨",
+        "author": "호종이",
+        "view_count": 183,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593959",
+        "title": "폐급 무기인줄 알았는데, 내가 쓰면 사기임",
+        "author": "24시수면중",
+        "view_count": 131,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
