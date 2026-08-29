@@ -79870,5 +79870,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T01:30:33.473910+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 435,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 265,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594096",
+        "title": "노르웨이 깡촌의 검은머리 셰프한테 이웃들이 너무 잘함",
+        "author": "백원만s",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593109",
+        "title": "내가 프로이센의 반역자라니?!",
+        "author": "I알자스I",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594496",
+        "title": "망한 북부를 공장 능력으로 먹여 살림",
+        "author": "조용한",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596297",
+        "title": "역대급 만능 천재의 귀환",
+        "author": "이온",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596765",
+        "title": "미국 푸드 트럭커는 할리우드에서 힐링함",
+        "author": "마개조",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592979",
+        "title": "거인을 상속받았더니 탑 등반이 너무 쉽다",
+        "author": "부품",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596020",
+        "title": "은퇴한 짐꾼이 카페를 차렸더니 S급들이 집착함",
+        "author": "전설경",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
