@@ -169535,5 +169535,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T06:00:37.260409+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589755",
+        "title": "드디어 상온 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 3349,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 1947,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585184",
+        "title": "구조의 신",
+        "author": "담하파",
+        "view_count": 1126,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588666",
+        "title": "필수과 의사로 살아남기",
+        "author": "홈스탠바이",
+        "view_count": 747,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 534,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593497",
+        "title": "미국에서 방출 선수만 계약한다",
+        "author": "아아연하게",
+        "view_count": 411,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 332,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589103",
+        "title": "동물들이 집착하는 시골 훈련사",
+        "author": "이구공",
+        "view_count": 276,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 207,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 143,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
