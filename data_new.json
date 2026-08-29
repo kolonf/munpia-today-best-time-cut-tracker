@@ -79390,5 +79390,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-29T17:30:35.388941+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 510,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592402",
+        "title": "퓨전펑크 무당은 외신을 모신다",
+        "author": "범미르",
+        "view_count": 278,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 128,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594036",
+        "title": "쿨타임 없이 탑등반",
+        "author": "구장개",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594476",
+        "title": "한의사, 힐링하러 시골갔더니 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595344",
+        "title": "삼국지 : 제갈량과 사마의가 나를 원함",
+        "author": "조작가R",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596924",
+        "title": "퇴직금으로 무인도를 샀더니 돈이 쏟아짐",
+        "author": "이구공",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592722",
+        "title": "프랑스에서 한옥을 물려받았다.",
+        "author": "가디스트",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597177",
+        "title": "해고 후 미래를 보고 복권부터 당첨, 힐링합니다",
+        "author": "늬파랑",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596669",
+        "title": "닥터 차, 무림에서 천하제일의 명의가 되다.",
+        "author": "닥터KIMDH",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
