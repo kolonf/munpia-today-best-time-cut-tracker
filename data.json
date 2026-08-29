@@ -165215,5 +165215,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-29T09:30:35.023196+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 3495,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 1782,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 1101,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 729,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 551,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 436,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 333,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 255,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590312",
+        "title": "기억흡수 능력으로 무한성장",
+        "author": "기뮹스",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584920",
+        "title": "외계기술로 두번산다",
+        "author": "짜세",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
