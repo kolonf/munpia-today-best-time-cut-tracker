@@ -174815,5 +174815,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-31T06:30:36.141644+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "583629",
+        "title": "환생한 천살성이 헌터들을 나락 보냄",
+        "author": "김현우",
+        "view_count": 3738,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 2099,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1192,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588666",
+        "title": "필수과 의사로 살아남기",
+        "author": "홈스탠바이",
+        "view_count": 862,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589456",
+        "title": "신점만 봐줬는데 거물들의 흑막이 되어감",
+        "author": "이창연",
+        "view_count": 603,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590400",
+        "title": "멸망한 길드의 힐러가 먼치킨으로 깨어났다",
+        "author": "치규치규",
+        "view_count": 445,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 364,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591893",
+        "title": "검은머리 천조국 탱크 설계자",
+        "author": "[서평]",
+        "view_count": 305,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "587477",
+        "title": "재벌가 사모님들이 내 목욕탕에서 패싸움함",
+        "author": "별수수깡",
+        "view_count": 233,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 173,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
