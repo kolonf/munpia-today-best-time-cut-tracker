@@ -80926,5 +80926,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T09:00:42.439616+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 498,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594293",
+        "title": "미국이 집착하는 농구 괴물이 되었다",
+        "author": "코다",
+        "view_count": 293,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594476",
+        "title": "한의사, 힐링하러 시골갔더니 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 133,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594912",
+        "title": "내가 1000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590733",
+        "title": "시골 출신 천재가 거물들을 극락 보냄",
+        "author": "서찬",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594834",
+        "title": "18세기 조선에 정신과 차렸더니 대박남",
+        "author": "하마버지",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594719",
+        "title": "아이돌 연습생이 음악을 너무 잘함",
+        "author": "공상소년",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594820",
+        "title": "너프당한 외신인데 지구에서 대박남",
+        "author": "리턴먀",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595334",
+        "title": "천재 셰프의 따끈따끈 함바집",
+        "author": "종명",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595651",
+        "title": "주님, 파문당하니 신점 천재가 되었습니다",
+        "author": "우치뭉치",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
