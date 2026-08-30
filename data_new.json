@@ -81982,5 +81982,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T22:00:38.113568+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592467",
+        "title": "선협 속 거북이는 상고시대부터 살아간다",
+        "author": "호균박",
+        "view_count": 460,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594293",
+        "title": "미국이 집착하는 농구 괴물이 되었다",
+        "author": "코다",
+        "view_count": 250,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594002",
+        "title": "미국 시골에서 한식했더니 아이들이 너무 극락감",
+        "author": "황금크래커",
+        "view_count": 137,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595344",
+        "title": "삼국지 : 제갈량과 사마의가 나를 원함",
+        "author": "조작가R",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596283",
+        "title": "선협에서 농사를 지었더니, 경지가 오른다",
+        "author": "탄산수영장",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593824",
+        "title": "자기만 몰랐던 음악천재는 첫사랑 때문에 노래를 시작한다",
+        "author": "mirtail",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596090",
+        "title": "미국에서 빈티지 전자기기를 고침",
+        "author": "뜨끈아이스",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596140",
+        "title": "무림맹주는 액션 연기가 너무 쉽다",
+        "author": "송시운",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596668",
+        "title": "국가부도의 날, 원수의 그룹을 샀다.",
+        "author": "별빛z",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595726",
+        "title": "지옥에서 귀환하니 거물들이 집착함",
+        "author": "글먼지",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
