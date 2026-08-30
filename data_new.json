@@ -81214,5 +81214,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T12:00:39.549117+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592974",
+        "title": "미국 시골에서 한식뷔페 열었더니 이웃들이 집착함",
+        "author": "방탄커피",
+        "view_count": 486,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 281,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594173",
+        "title": "헬 난이도에서 날먹을 숨김",
+        "author": "전백",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595551",
+        "title": "상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 85,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596327",
+        "title": "삼국지, 여포의 네 번째 아비가 되었다",
+        "author": "칠팔",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590456",
+        "title": "내 목걸이는 5000BTC를 숨기고 있었다",
+        "author": "나의마을",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595697",
+        "title": "퇴사한 드루이드가 농사를 너무 잘 지음",
+        "author": "기린기린기",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595131",
+        "title": "회귀한 건축학도가 너무 유능함",
+        "author": "반자개",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596460",
+        "title": "애호받는 선협 뉴비가 되었다",
+        "author": "점소이99",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
