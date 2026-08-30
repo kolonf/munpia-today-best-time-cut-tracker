@@ -172031,5 +172031,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T17:30:30.788799+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586734",
+        "title": "회귀한 퇴직공무원이 돈을 쓸어담음",
+        "author": "독산유리알",
+        "view_count": 3015,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592141",
+        "title": "야구를 왜 시작했을까?",
+        "author": "동동구르르",
+        "view_count": 1878,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "584709",
+        "title": "마라도나의 후계자가 되었다",
+        "author": "강성혁",
+        "view_count": 1201,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 804,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591000",
+        "title": "회귀한 0점짜리 남편이 빅테크를 만들었다",
+        "author": "톨킴",
+        "view_count": 569,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 421,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587838",
+        "title": "반도체 회사 대리가 결함을 잘봄",
+        "author": "시온유",
+        "view_count": 334,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592402",
+        "title": "퓨전펑크 무당은 외신을 모신다",
+        "author": "범미르",
+        "view_count": 250,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 175,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 122,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
