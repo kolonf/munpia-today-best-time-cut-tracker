@@ -171167,5 +171167,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T13:30:34.428489+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592421",
+        "title": "해고당한 삼촌이 천재 기타리스트라고?",
+        "author": "김불록",
+        "view_count": 2865,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587705",
+        "title": "재벌가 늦둥이 막내딸의 남편이 되었다",
+        "author": "노란안경",
+        "view_count": 1647,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585375",
+        "title": "은둔 그림천재가 미국을 씹어먹음",
+        "author": "조회수킬러",
+        "view_count": 978,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590312",
+        "title": "기억흡수 능력으로 무한성장",
+        "author": "기뮹스",
+        "view_count": 683,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589315",
+        "title": "위기감지 능력으로 투자했더니 월가가 집착함",
+        "author": "비건두부",
+        "view_count": 500,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 394,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 276,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 216,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 164,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 113,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
