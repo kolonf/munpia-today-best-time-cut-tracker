@@ -172511,5 +172511,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-30T20:00:38.171940+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 2839,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "585405",
+        "title": "EX급 사령술사의 생존 스트리밍",
+        "author": "글러트",
+        "view_count": 1780,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588666",
+        "title": "필수과 의사로 살아남기",
+        "author": "홈스탠바이",
+        "view_count": 1154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593825",
+        "title": "마왕의 회귀를 가로챈 네크로맨서",
+        "author": "마지막검사",
+        "view_count": 789,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592038",
+        "title": "아포칼립스에 나 혼자 EX급 미국 비밀 교도소",
+        "author": "딸기베리",
+        "view_count": 537,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 416,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 295,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 224,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585192",
+        "title": "돈이 없는데 어떻게 수선을 하겠는가?",
+        "author": "웅랑구",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591598",
+        "title": "망하라고 뽑은 감독이 명장이었다",
+        "author": "필로스",
+        "view_count": 126,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
