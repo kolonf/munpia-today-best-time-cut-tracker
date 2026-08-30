@@ -82942,5 +82942,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-31T06:30:33.798661+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593239",
+        "title": "회귀한 재벌3세는 깡촌에서 힐링합니다",
+        "author": "니은숲",
+        "view_count": 525,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594973",
+        "title": "이혼당한 기러기아빠, 파워볼 당첨 후 미국 대지주가 됨",
+        "author": "탄산수영장",
+        "view_count": 166,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594270",
+        "title": "독립군 말단 병사가 패권국을 만든다",
+        "author": "주절주절",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "582075",
+        "title": "회귀한 천재 의사는 대박 횟집 아들",
+        "author": "이도일",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596153",
+        "title": "집을 잃고 게이트 안에서 살기 시작함",
+        "author": "뜨끈아이스",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595544",
+        "title": "전생 대마법사 LAPD 대박신입 되다",
+        "author": "서해강",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595738",
+        "title": "버림받은 회사원에게 부동산 가치가 보인다",
+        "author": "천강(泉剛)",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594857",
+        "title": "궁예의 책사가 돈을 잘 범",
+        "author": "너굴조아",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
