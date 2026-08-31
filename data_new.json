@@ -85246,5 +85246,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-01T00:00:44.273400+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 488,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 270,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 149,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594270",
+        "title": "독립군 말단 병사가 패권국을 만든다",
+        "author": "주절주절",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595720",
+        "title": "국가에 버림받은 네크로멘서가 즉사기를 각성함",
+        "author": "제로콜라27",
+        "view_count": 59,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596090",
+        "title": "미국에서 빈티지 전자기기를 고침",
+        "author": "뜨끈아이스",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596979",
+        "title": "유일급 디버퍼인줄 모르고 국가에게 버림받음",
+        "author": "서태윤",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596153",
+        "title": "집을 잃고 게이트 안에서 살기 시작함",
+        "author": "뜨끈아이스",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595764",
+        "title": "네크로맨서가 사건을 너무 잘 품",
+        "author": "괴인h",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596324",
+        "title": "배가 고팠을 뿐인데 신으로 착각당함",
+        "author": "돌의미",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
