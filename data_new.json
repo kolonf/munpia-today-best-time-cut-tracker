@@ -83806,5 +83806,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-31T15:00:42.362826+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 553,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595705",
+        "title": "신내림 받은 망한 아이돌이 방송을 너무 잘함",
+        "author": "글과달",
+        "view_count": 299,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593957",
+        "title": "번개 맞고 회귀했더니 인생 난이도가 낮아짐",
+        "author": "무성(無聲)",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592364",
+        "title": "삼국지, 회귀한 전풍은 유비의 킹메이커가 된다.",
+        "author": "다작김절필",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594446",
+        "title": "메시 못 넘으면 죽는 병 걸림",
+        "author": "윤범™",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591907",
+        "title": "프로포즈 후 960억이 생겼다.",
+        "author": "켄치",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596668",
+        "title": "국가부도의 날, 원수의 그룹을 샀다.",
+        "author": "별빛z",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595334",
+        "title": "텍사스 노가다 판에서 밥했더니 돈이 쏟아짐",
+        "author": "종명",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596140",
+        "title": "무림맹주는 액션 연기가 너무 쉽다",
+        "author": "송시운",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597461",
+        "title": "아포칼립스에서 나혼자 500가지 생존지침",
+        "author": "아아극락",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
