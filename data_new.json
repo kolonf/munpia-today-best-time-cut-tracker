@@ -84382,5 +84382,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-08-31T18:00:39.954082+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592658",
+        "title": "해고 후 전능의 눈을 얻어 슈퍼볼 당첨됨",
+        "author": "깊은수풀",
+        "view_count": 616,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 291,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594036",
+        "title": "쿨타임 없이 탑등반",
+        "author": "구장개",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594191",
+        "title": "미국 백반집에서 한식 재벌로 대박남",
+        "author": "육개장.",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595484",
+        "title": "천재 검투사가 쓰러지지 않음",
+        "author": "태대비",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596266",
+        "title": "미친 저격수가 국가에게 버림받음",
+        "author": "빌림",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594820",
+        "title": "너프당한 외신인데 지구에서 대박남",
+        "author": "리턴먀",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594330",
+        "title": "선택지를 잘 골랐더니 연예계 거물들이 집착함",
+        "author": "말로굿",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "느느리",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594472",
+        "title": "언데드로 퇴마하는 초월급 박수무당",
+        "author": "아이언강",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
