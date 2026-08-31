@@ -85726,5 +85726,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-01T06:00:40.421676+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595480",
+        "title": "부모님 칠순잔치에 용돈 100억을 드렸다",
+        "author": "김시놉",
+        "view_count": 579,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 342,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 183,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594270",
+        "title": "독립군 말단 병사가 패권국을 만든다",
+        "author": "주절주절",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596786",
+        "title": "뉴욕에 함바집을 차렸는데 너무 잘 됨",
+        "author": "사관(史官)",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594540",
+        "title": "검은머리 고물 복원가가 미국을 쥐락펴락함",
+        "author": "[강영]",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594820",
+        "title": "너프당한 외신인데 지구에서 대박남",
+        "author": "리턴먀",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595684",
+        "title": "퇴사 후 신을 보는 눈으로 떼돈을 범.",
+        "author": "성정민",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593938",
+        "title": "전직 무당에게 신화급 마도서가 너무 집착함",
+        "author": "오징어금값",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597179",
+        "title": "사우디에서 한의원 차렸더니 국왕이 찾아옴",
+        "author": "한룡(浫龍)",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
