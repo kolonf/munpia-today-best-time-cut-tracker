@@ -86110,5 +86110,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-01T16:30:35.189057+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594193",
+        "title": "미국 시골 카우보이에게 거물들이 너무 집착함",
+        "author": "한꽃",
+        "view_count": 598,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594437",
+        "title": "회귀 후 S급 스킬로 탑 등반",
+        "author": "태영(太影)",
+        "view_count": 268,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 141,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594393",
+        "title": "코딩 각성했더니 돈이 쌓인다",
+        "author": "낙필",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595484",
+        "title": "천재 검투사가 쓰러지지 않음",
+        "author": "태대비",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597236",
+        "title": "취업은 안 되는데 돈이 쌓임",
+        "author": "페르세르크",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593166",
+        "title": "팀닥터가 치료하면 선수가 월클이 됨",
+        "author": "글바치",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595904",
+        "title": "최저시급 알바생이 요리로 강남 빌딩을 세움",
+        "author": "풍기킹",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596240",
+        "title": "萬 武 家",
+        "author": "역전승",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597931",
+        "title": "2차 각성했더니 재능이 미쳤다",
+        "author": "계란탁",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
