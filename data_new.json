@@ -85918,5 +85918,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-01T11:30:34.670391+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 615,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594973",
+        "title": "아무도 해고당한 기러기 아빠가 미국의 흑막인 줄 모름",
+        "author": "탄산수영장",
+        "view_count": 322,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594597",
+        "title": "랭커들이 집착하는 초희귀 소환수가 되었다",
+        "author": "필드스틱",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596327",
+        "title": "삼국지, 여포의 네 번째 아비가 되었다",
+        "author": "칠팔",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592979",
+        "title": "거인을 상속받았더니 탑 등반이 너무 쉽다",
+        "author": "부품",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596979",
+        "title": "유일급 디버퍼인줄 모르고 국가에게 버림받음",
+        "author": "서태윤",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596120",
+        "title": "국정원에서 잘렸는데 국가기밀이 다 기억난다",
+        "author": "딸기크레페",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596460",
+        "title": "애호받는 선협 뉴비가 되었다",
+        "author": "점소이99",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595650",
+        "title": "안평대군의 두 번째 계유정난",
+        "author": "보명천",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596398",
+        "title": "오일머니 쓸어담는 검은머리 중동 데릴사위",
+        "author": "일단심편",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
