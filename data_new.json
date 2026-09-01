@@ -87262,5 +87262,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T00:30:36.961224+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593497",
+        "title": "미국에서 방출 선수만 계약한다",
+        "author": "아아연하게",
+        "view_count": 457,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 268,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595551",
+        "title": "상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 121,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596786",
+        "title": "뉴욕에 함바집을 차렸는데 너무 잘 됨",
+        "author": "사관(史官)",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595926",
+        "title": "F급 헌터는 총들고 탑을 오른다",
+        "author": "Primus",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595683",
+        "title": "재앙급 던전으로 탑을 날로 먹음",
+        "author": "세른",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592367",
+        "title": "나라가 망해서 점창파 개파합니다",
+        "author": "글로장생.",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596282",
+        "title": "축구판 숨은 재능이 보이기 시작하자 구단주들이 집착함",
+        "author": "어나인",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595923",
+        "title": "조지 워싱턴의 친구가 되었다",
+        "author": "21대천마",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598133",
+        "title": "김家네 해결사 사무소에 어서오세요!",
+        "author": "서부글잡이",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
