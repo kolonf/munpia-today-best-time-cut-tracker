@@ -87646,5 +87646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T03:30:34.917671+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595480",
+        "title": "부모님 칠순잔치에 용돈 100억을 드렸다",
+        "author": "김시놉",
+        "view_count": 555,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 290,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595551",
+        "title": "상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595524",
+        "title": "EX급 성기사는 초보 힐러로 착각 당했다",
+        "author": "맨발의시인",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592937",
+        "title": "미국 시골 마을 경찰이 되었다.",
+        "author": "이르스",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596765",
+        "title": "미국 푸드 트럭커는 할리우드에서 힐링함",
+        "author": "마개조",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593116",
+        "title": "태평요술(太平要術)을 얻어 수선(修仙)합니다.",
+        "author": "승룡(乘龍)",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595112",
+        "title": "가출한 최종흑막이 힘을 숨김",
+        "author": "진후(眞侯)",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597931",
+        "title": "2차 각성했더니 재능이 미쳤다",
+        "author": "계란탁",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593824",
+        "title": "자기만 몰랐던 음악천재는 첫사랑 때문에 노래를 시작한다",
+        "author": "mirtail",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
