@@ -86686,5 +86686,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-01T21:30:34.500652+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 567,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594297",
+        "title": "전출당한 무당경찰이 강력범죄를 모조리 해결함",
+        "author": "서핑보이",
+        "view_count": 308,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594279",
+        "title": "버려진 대본에 재벌이 집착함",
+        "author": "피자소주",
+        "view_count": 77,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596297",
+        "title": "역대급 만능 천재의 귀환",
+        "author": "이온",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "느느리",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596773",
+        "title": "전직 교관의 슬기로운 헌터생활",
+        "author": "정육면체",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597931",
+        "title": "2차 각성했더니 재능이 미쳤다",
+        "author": "계란탁",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596404",
+        "title": "미국에서 파워볼 당첨되고 택시운전하면서 힐링함",
+        "author": "홍연호",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "590770",
+        "title": "명나라 폭군은 조선을 좋아함",
+        "author": "이세계공학",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
