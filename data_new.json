@@ -90718,5 +90718,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-03T07:00:40.275430+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 589,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593825",
+        "title": "무한의 네크로맨서",
+        "author": "마지막검사",
+        "view_count": 346,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595551",
+        "title": "상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 175,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594260",
+        "title": "망한 영지의 영주가 화학을 잘함",
+        "author": "최뚝",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598514",
+        "title": "퓨전펑크 속 무영창 마법사가 되었다",
+        "author": "마이너전문",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598592",
+        "title": "말단 스페이스 마린에 빙의함",
+        "author": "이나르™",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596120",
+        "title": "국정원에서 잘렸는데 국가기밀이 다 기억난다",
+        "author": "딸기크레페",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595524",
+        "title": "EX급 성기사는 초보 힐러로 착각 당했다",
+        "author": "맨발의시인",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594245",
+        "title": "퓨전펑크 만렙 총잡이",
+        "author": "시르베르",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596617",
+        "title": "코인으로 1010억 벌고 회귀했다",
+        "author": "20260815",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
