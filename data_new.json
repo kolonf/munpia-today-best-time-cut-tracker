@@ -90142,5 +90142,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-03T03:00:40.950919+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 553,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598480",
+        "title": "성간수선전(星間修仙傳)",
+        "author": "멱월",
+        "view_count": 316,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594597",
+        "title": "랭커들이 집착하는 초희귀 소환수가 되었다",
+        "author": "필드스틱",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598472",
+        "title": "미국에서 AI를 임신시켰다",
+        "author": "쓰고또쓰고",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598440",
+        "title": "FFF급이 경험치 100,000배를 숨김",
+        "author": "글병장",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595926",
+        "title": "F급 헌터는 홀로 총을 들고 탑을 오른다",
+        "author": "Primus",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596120",
+        "title": "국정원에서 잘렸는데 국가기밀이 다 기억난다",
+        "author": "딸기크레페",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598577",
+        "title": "2548년, 죽은 우주비행사가 돌아왔다",
+        "author": "휴화산",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597007",
+        "title": "나 혼자만 탑을 독식한다",
+        "author": "limkun",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593938",
+        "title": "전직 무당에게 신화급 마도서가 너무 집착함",
+        "author": "오징어금값",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
