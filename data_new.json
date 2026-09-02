@@ -89086,5 +89086,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T19:00:43.493394+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593148",
+        "title": "100억 물려받고 낭만 만물트럭커",
+        "author": "글거북.",
+        "view_count": 627,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594912",
+        "title": "내가 1000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 327,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594297",
+        "title": "전출당한 무당경찰이 강력범죄를 모조리 해결함",
+        "author": "서핑보이",
+        "view_count": 178,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595334",
+        "title": "텍사스 노가다 판에서 밥했더니 돈이 쏟아짐",
+        "author": "종명",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592674",
+        "title": "미래 후손에게 먹을 걸 보냈더니 무기를 보내왔다",
+        "author": "로켓단단장",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594784",
+        "title": "발롱도르 못 타면 죽는 빌런이 되어버렸다.",
+        "author": "휘휘™",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598472",
+        "title": "미국에서 AI를 임신시켰다",
+        "author": "쓰고또쓰고",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593441",
+        "title": "관우는 이제 은퇴하고 싶다",
+        "author": "백금문",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597603",
+        "title": "재앙급 특성 각성한 줄 모르고 국가에게 버림받음",
+        "author": "뒤랑달",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598559",
+        "title": "XXX급 아공간으로 띵까띵까",
+        "author": "바비용",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
