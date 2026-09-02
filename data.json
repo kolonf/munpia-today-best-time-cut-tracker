@@ -187199,5 +187199,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T18:00:49.458244+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 3703,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 1880,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588313",
+        "title": "내 인벤토리에서 SS급 대본이 쏟아짐",
+        "author": "바람길따라",
+        "view_count": 1162,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585808",
+        "title": "나 혼자 전능 소환으로 꿀 빤다",
+        "author": "오브더",
+        "view_count": 787,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586437",
+        "title": "1억년 경력의 한식 셰프는 미국 정복이 너무 쉽다",
+        "author": "임완",
+        "view_count": 557,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "585462",
+        "title": "[1997] 멸망까지 40년, 돈부터 벌었다",
+        "author": "팥고당",
+        "view_count": 451,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 345,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 275,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "584920",
+        "title": "외계기술로 두번산다",
+        "author": "짜세",
+        "view_count": 221,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594476",
+        "title": "한의사, 힐링하러 시골갔더니 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 167,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
