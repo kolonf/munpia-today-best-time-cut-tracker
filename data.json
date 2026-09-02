@@ -186335,5 +186335,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T13:35:48.580601+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589582",
+        "title": "귀농 후 뒷마당에 온천이 터졌다",
+        "author": "희나리T",
+        "view_count": 3615,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595018",
+        "title": "4조 재벌인데 아르바이트를 안 그만둠",
+        "author": "기영수",
+        "view_count": 1853,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 1058,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 774,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589910",
+        "title": "버림받고 각성한 EX급 헌터가 국가를 심판함",
+        "author": "민족의힘",
+        "view_count": 571,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 414,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590490",
+        "title": "이혼 후 뇌신(雷神)이 되었다.",
+        "author": "쇼텔",
+        "view_count": 333,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598471",
+        "title": "내가 만든 초월급 AI가 문피아를 인수함",
+        "author": "노빠꾸맨",
+        "view_count": 248,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 199,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594934",
+        "title": "삼국지 원가의 적장손이 되었다",
+        "author": "레니sh",
+        "view_count": 145,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
