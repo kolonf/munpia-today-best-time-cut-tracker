@@ -88798,5 +88798,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T17:30:33.115687+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594193",
+        "title": "미국 시골 카우보이에게 거물들이 너무 집착함",
+        "author": "한꽃",
+        "view_count": 651,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 300,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594476",
+        "title": "한의사, 힐링하러 시골갔더니 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 163,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598505",
+        "title": "퇴근길 아포칼립스",
+        "author": "전장범",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598467",
+        "title": "퓨전펑크의 먼치킨",
+        "author": "스테디",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594784",
+        "title": "발롱도르 못 타면 죽는 빌런이 되어버렸다.",
+        "author": "휘휘™",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "김치은",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593441",
+        "title": "관우는 이제 은퇴하고 싶다",
+        "author": "백금문",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597603",
+        "title": "재앙급 특성 각성한 줄 모르고 국가에게 버림받음",
+        "author": "뒤랑달",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596140",
+        "title": "무림맹주는 액션 연기가 너무 쉽다",
+        "author": "송시운",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
