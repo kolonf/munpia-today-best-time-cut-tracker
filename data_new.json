@@ -88414,5 +88414,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T12:30:34.582036+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 661,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 325,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594934",
+        "title": "삼국지 원가의 적장손이 되었다",
+        "author": "레니sh",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592979",
+        "title": "거인을 상속받았더니 탑 등반이 너무 쉽다",
+        "author": "부품",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595484",
+        "title": "천재 검투사가 쓰러지지 않음",
+        "author": "태대비",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596786",
+        "title": "뉴욕에 식당을 차렸는데 너무 잘 됨",
+        "author": "사관(史官)",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592367",
+        "title": "나라가 망해서 점창파 개파합니다",
+        "author": "글로장생.",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598455",
+        "title": "우주에서 별장짓고 킬링합니다",
+        "author": "천강(泉剛)",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593186",
+        "title": "척준경으로 태어나 고려를 씹어먹음",
+        "author": "던전드래곤",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596140",
+        "title": "무림맹주는 액션 연기가 너무 쉽다",
+        "author": "송시운",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
