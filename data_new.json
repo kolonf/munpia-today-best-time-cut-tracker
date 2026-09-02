@@ -90430,5 +90430,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-03T04:30:34.162563+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 575,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598480",
+        "title": "성간수선전(星間修仙傳)",
+        "author": "멱월",
+        "view_count": 329,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595551",
+        "title": "상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598472",
+        "title": "미국에서 AI를 임신시켰다",
+        "author": "쓰고또쓰고",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598514",
+        "title": "퓨전펑크 속 무영창 마법사가 되었다",
+        "author": "마이너전문",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594446",
+        "title": "메시 못 넘으면 죽는 병 걸림",
+        "author": "윤범™",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598441",
+        "title": "탑 1층에 드래곤 레어를 세웠다",
+        "author": "디디다",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598749",
+        "title": "전역한 스타 마린이 상태창을 숨김",
+        "author": "zenaarri",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598780",
+        "title": "겜판을 리부트 정상화할 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597641",
+        "title": "삼국지:초선의 아버지가 되었다",
+        "author": "심우주",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
