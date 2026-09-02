@@ -185951,5 +185951,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T12:00:40.220502+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594337",
+        "title": "국가에게 버림받은 탱커는 재앙급 각성자",
+        "author": "쿨라임",
+        "view_count": 3635,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584331",
+        "title": "선협인데 사회생활을 잘함",
+        "author": "아이씨렉",
+        "view_count": 2190,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 1166,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 749,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 565,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590892",
+        "title": "파워볼 당첨 후 미국 알래스카에서 낚시 합니다",
+        "author": "칠팔",
+        "view_count": 452,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 352,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "579087",
+        "title": "온 무림이 집착하는 현대 한의사",
+        "author": "아트라",
+        "view_count": 284,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591634",
+        "title": "탑스타의 미래가 보임",
+        "author": "알랜더",
+        "view_count": 213,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584542",
+        "title": "내 도자기로 중세유럽에 전쟁난 썰",
+        "author": "치타리아",
+        "view_count": 142,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
