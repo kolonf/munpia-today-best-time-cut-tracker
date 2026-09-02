@@ -88126,5 +88126,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-02T10:00:38.561803+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 608,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595705",
+        "title": "신내림 받은 망한 아이돌이 방송을 너무 잘함",
+        "author": "글과달",
+        "view_count": 327,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594796",
+        "title": "이혼 후 회귀한 소아외과 의사는 천재로 착각당함",
+        "author": "글끌클",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592979",
+        "title": "거인을 상속받았더니 탑 등반이 너무 쉽다",
+        "author": "부품",
+        "view_count": 85,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596283",
+        "title": "농사 시스템을 숨겼더니, 선협 수선계가 내게 집착한다",
+        "author": "탄산수영장",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596153",
+        "title": "나 혼자 등급 외 게이트를 소유함",
+        "author": "뜨끈아이스",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593957",
+        "title": "번개 맞고 회귀했더니 인생 난이도가 낮아짐",
+        "author": "무성(無聲)",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597206",
+        "title": "10000년 걸려 탈옥했더니 세상이 쉽다",
+        "author": "라떼는",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596732",
+        "title": "EX급 각성한 줄 모르고 협회가 방출함",
+        "author": "피어난셈",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595926",
+        "title": "F급 헌터는 홀로 총을 들고 탑을 오른다",
+        "author": "Primus",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
