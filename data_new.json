@@ -91774,5 +91774,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-03T21:30:33.835496+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 581,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594297",
+        "title": "전출당한 무당경찰이 강력범죄를 모조리 해결함",
+        "author": "서핑보이",
+        "view_count": 347,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594597",
+        "title": "랭커들이 집착하는 초희귀 소환수가 되었다",
+        "author": "필드스틱",
+        "view_count": 141,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595404",
+        "title": "선협에서 영석 광산을 숨김",
+        "author": "비상도",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597179",
+        "title": "사우디에서 한의원 차렸더니 국왕이 찾아옴",
+        "author": "한룡(浫龍)",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596177",
+        "title": "회귀한 짐꾼이 별걸 다 기억함",
+        "author": "주먹남",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596120",
+        "title": "국정원에서 잘렸는데 국가기밀이 다 기억난다",
+        "author": "딸기크레페",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595789",
+        "title": "야구장 알바가 타자를 너무 잘함",
+        "author": "테넷",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594125",
+        "title": "전국구 일진으로 오해받는 중입니다",
+        "author": "류해인",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
