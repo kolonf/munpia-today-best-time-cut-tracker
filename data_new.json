@@ -92158,5 +92158,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T00:30:35.196879+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594193",
+        "title": "미국 깡촌의 천재 목장주",
+        "author": "한꽃",
+        "view_count": 527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 279,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594437",
+        "title": "회귀 후 S급 스킬로 탑 등반",
+        "author": "태영(太影)",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593109",
+        "title": "프로이센 사략선 선장이 되었다",
+        "author": "I알자스I",
+        "view_count": 90,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596177",
+        "title": "회귀한 짐꾼이 별걸 다 기억함",
+        "author": "주먹남",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596093",
+        "title": "검은머리 천재 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "낙원s",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593863",
+        "title": "시골 감정소에 신화급 헌터들이 집착함",
+        "author": "신입초짜",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598592",
+        "title": "말단 스페이스 마린이 너무 강함",
+        "author": "이나르™",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592674",
+        "title": "미래 후손에게 먹을 걸 보냈더니 무기를 보내왔다",
+        "author": "로켓단단장",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599482",
+        "title": "하청직원이 우주를 각성했다",
+        "author": "키야문고",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
