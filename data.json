@@ -194495,5 +194495,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T03:40:28.570650+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 3136,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596806",
+        "title": "전업주부인데 재벌보다 돈이 많음",
+        "author": "너구율",
+        "view_count": 1822,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586217",
+        "title": "미국 골키퍼는 공격수를 찢어",
+        "author": "리즐리",
+        "view_count": 1133,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595562",
+        "title": "1979년, 반란군 머리통에 전차 포신부터 들이민다",
+        "author": "선우선사",
+        "view_count": 753,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592402",
+        "title": "퓨전펑크 무당은 외신을 모신다",
+        "author": "범미르",
+        "view_count": 537,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 429,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "591498",
+        "title": "이세계 재능 흡수로 미국 힐링 맛집",
+        "author": "크엉컹컹",
+        "view_count": 346,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589910",
+        "title": "버림받고 각성한 EX급 헌터가 국가를 심판함",
+        "author": "민족의힘",
+        "view_count": 265,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594597",
+        "title": "랭커들이 집착하는 초희귀 소환수가 되었다",
+        "author": "필드스틱",
+        "view_count": 163,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
