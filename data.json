@@ -194975,5 +194975,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T06:01:26.087194+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 3313,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591219",
+        "title": "퇴출당한 복원사가 손대면 국보가 된다",
+        "author": "글삭기",
+        "view_count": 1966,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590104",
+        "title": "나 혼자 차원거래로 신소재 재벌",
+        "author": "plustari",
+        "view_count": 1161,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590516",
+        "title": "이혼 후 초월 각성",
+        "author": "이럴수",
+        "view_count": 772,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 562,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596266",
+        "title": "미친 저격수가 국가에게 버림받음",
+        "author": "빌림",
+        "view_count": 460,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "592510",
+        "title": "삼국지: 환관 아비 통수치고 효자 되기",
+        "author": "박야옹",
+        "view_count": 357,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 271,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589103",
+        "title": "동물들이 집착하는 시골 훈련사",
+        "author": "이구공",
+        "view_count": 217,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594036",
+        "title": "쿨타임 없이 탑등반",
+        "author": "구장개",
+        "view_count": 166,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
