@@ -93022,5 +93022,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T08:00:40.623954+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 633,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 343,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594393",
+        "title": "현실 코딩했더니 돈이 얼마나 생길지 짐작도 안 됨",
+        "author": "낙필",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595684",
+        "title": "퇴사 후 신을 보는 눈으로 떼돈을 범.",
+        "author": "성정민",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596282",
+        "title": "축구판 숨은 재능이 보이기 시작하자 구단주들이 집착함",
+        "author": "어나인",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596463",
+        "title": "자기계발서로 진화하는 천재 경호원",
+        "author": "증류식",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598576",
+        "title": "내 놀이공원에 전 세계가 줄을 선다",
+        "author": "초록코끼리",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597406",
+        "title": "회장님, 발기부전 치료 받으려면 줄부터 서세요",
+        "author": "극복밤송",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
