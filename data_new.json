@@ -92254,5 +92254,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T02:00:39.902622+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594193",
+        "title": "미국 깡촌의 천재 목장주",
+        "author": "한꽃",
+        "view_count": 551,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595720",
+        "title": "국가에 버림받은 네크로멘서가 즉사기를 각성함",
+        "author": "제로콜라27",
+        "view_count": 287,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594036",
+        "title": "쿨타임 없이 탑등반",
+        "author": "구장개",
+        "view_count": 137,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594796",
+        "title": "이혼 후 회귀한 소아외과 의사는 천재로 착각당함",
+        "author": "글끌클",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596177",
+        "title": "회귀한 짐꾼이 별걸 다 기억함",
+        "author": "주먹남",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596153",
+        "title": "나 혼자 등급 외 게이트를 소유함",
+        "author": "뜨끈아이스",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594784",
+        "title": "발롱도르 못 타면 죽는 빌런이 되어버렸다.",
+        "author": "휘휘™",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592674",
+        "title": "미래 후손에게 먹을 걸 보냈더니 무기를 보내왔다",
+        "author": "로켓단단장",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594472",
+        "title": "언데드로 퇴마하는 초월급 박수무당",
+        "author": "아이언강",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598503",
+        "title": "정크 타운",
+        "author": "편곤",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
