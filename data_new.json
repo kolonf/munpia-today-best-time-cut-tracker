@@ -91966,5 +91966,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-03T23:00:43.394125+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594719",
+        "title": "아이돌 연습생이 음악을 너무 잘함",
+        "author": "공상소년",
+        "view_count": 587,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다.",
+        "author": "시간관측자",
+        "view_count": 296,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594393",
+        "title": "현실 코딩했더니 돈이 얼마나 생길지 짐작도 안 됨",
+        "author": "낙필",
+        "view_count": 122,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596415",
+        "title": "나 혼자 내공 쓴다",
+        "author": "강철민",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593109",
+        "title": "프로이센 사략선 선장이 되었다",
+        "author": "I알자스I",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595906",
+        "title": "회귀 후 계약서를 찢었더니 인생이 풀림",
+        "author": "새벽감자",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598467",
+        "title": "퓨전펑크의 먼치킨",
+        "author": "스테디",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598369",
+        "title": "EX급 네크로맨서가 탑을 씹어먹음",
+        "author": "틈새솔",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596765",
+        "title": "미국 푸드 트럭커는 할리우드에서 힐링함",
+        "author": "마개조",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599640",
+        "title": "백수인데 돈이 너무 많음",
+        "author": "러트렐",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
