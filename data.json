@@ -192383,5 +192383,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-03T18:00:42.394008+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "586817",
+        "title": "고아는 잘 먹고 잘 살고 싶다",
+        "author": "2000트럼",
+        "view_count": 3469,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 1887,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590245",
+        "title": "보너스 스탯 무한이라 탑 등반이 너무 쉬움",
+        "author": "아라만",
+        "view_count": 1111,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 798,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594973",
+        "title": "아무도 해고당한 기러기 아빠가 미국의 흑막인 줄 모름",
+        "author": "탄산수영장",
+        "view_count": 574,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 432,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593474",
+        "title": "북한 천재 해커가 비트코인 30000개 들고 튐",
+        "author": "바위너굴이",
+        "view_count": 327,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 264,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "585279",
+        "title": "제물로 죽었더니 자동 수선이 켜졌다",
+        "author": "LunStellar",
+        "view_count": 207,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 140,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
