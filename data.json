@@ -190655,5 +190655,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-03T09:30:31.656199+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 3632,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "584331",
+        "title": "선협인데 사회생활을 잘함",
+        "author": "아이씨렉",
+        "view_count": 2100,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 1139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590490",
+        "title": "이혼 후 뇌신(雷神)이 되었다.",
+        "author": "쇼텔",
+        "view_count": 795,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594193",
+        "title": "미국 시골 카우보이에게 거물들이 너무 집착함",
+        "author": "한꽃",
+        "view_count": 597,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589910",
+        "title": "버림받고 각성한 EX급 헌터가 국가를 심판함",
+        "author": "민족의힘",
+        "view_count": 450,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583023",
+        "title": "내 허락 없이 반도체 못 만듭니다",
+        "author": "듀잇",
+        "view_count": 363,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593997",
+        "title": "한국에서 매장당한 셰프를 미국이 국보 취급함",
+        "author": "귤림(橘林)",
+        "view_count": 302,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 225,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598467",
+        "title": "퓨전펑크의 먼치킨",
+        "author": "스테디",
+        "view_count": 157,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
