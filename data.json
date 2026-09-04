@@ -198047,5 +198047,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T20:00:38.138008+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587309",
+        "title": "EX급 교황님이 헌터들을 씹어 먹음",
+        "author": "동동주스",
+        "view_count": 3684,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590111",
+        "title": "NBA의 폭군이 되었다",
+        "author": "필리포스",
+        "view_count": 1873,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590640",
+        "title": "아포칼립스 지하에 집을 숨김",
+        "author": "세디바",
+        "view_count": 1181,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 802,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 582,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 436,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다.",
+        "author": "시간관측자",
+        "view_count": 324,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 266,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "598471",
+        "title": "내가 만든 초월급 AI가 문피아를 인수함",
+        "author": "노빠꾸맨",
+        "view_count": 224,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595683",
+        "title": "재앙급 던전 얻었더니 국가가 집착함",
+        "author": "세른",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
