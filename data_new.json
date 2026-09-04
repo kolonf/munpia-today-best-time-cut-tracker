@@ -94846,5 +94846,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-05T05:30:33.650110+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594249",
+        "title": "귀환한 드루이드는 호주에서 힐링합니다",
+        "author": "글로운",
+        "view_count": 668,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 362,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598780",
+        "title": "겜판을 리부트 정상화할 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 184,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596312",
+        "title": "미국 사막의 유령 호텔에서 6조 원 노다지가 터짐",
+        "author": "검은후드",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594806",
+        "title": "탑여배우 아들로 빙의했는데 주먹이 너무 셈",
+        "author": "홈스탠바이",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596732",
+        "title": "EX급 각성한 줄 모르고 협회가 방출함",
+        "author": "피어난셈",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598467",
+        "title": "퓨전펑크의 먼치킨",
+        "author": "스테디",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594472",
+        "title": "언데드로 퇴마하는 초월급 박수무당",
+        "author": "아이언강",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596020",
+        "title": "은퇴한 짐꾼의 카페에 세계가 집착함",
+        "author": "전설경",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
