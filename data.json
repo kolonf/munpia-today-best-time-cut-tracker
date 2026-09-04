@@ -199103,5 +199103,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-05T01:00:41.043026+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "581316",
+        "title": "삼국지, 조조의 동생이 되었다",
+        "author": "조경래",
+        "view_count": 3170,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599190",
+        "title": "1926 대한민국",
+        "author": "리첼렌",
+        "view_count": 1691,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "585347",
+        "title": "주식 천재 노총각, 월가를 흔들다",
+        "author": "팥빵맨",
+        "view_count": 1012,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 719,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592625",
+        "title": "차원개척으로 4번째 외계종족이 되었다.",
+        "author": "허바",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다.",
+        "author": "시간관측자",
+        "view_count": 426,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 332,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장합니다",
+        "author": "나낭",
+        "view_count": 251,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580003",
+        "title": "비트코인 10,000개를 가진 유부남",
+        "author": "설선",
+        "view_count": 190,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 145,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
