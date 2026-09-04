@@ -93502,5 +93502,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T18:00:39.751114+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595720",
+        "title": "국가에 버림받은 네크로멘서가 즉사기를 각성함",
+        "author": "제로콜라27",
+        "view_count": 617,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596266",
+        "title": "미친 저격수가 국가에게 버림받음",
+        "author": "빌림",
+        "view_count": 312,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599076",
+        "title": "국가에 버림받고 재앙급 나노머신을 얻었다",
+        "author": "차성",
+        "view_count": 193,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596090",
+        "title": "미국에서 수리점을 열었더니 거물들이 집착함",
+        "author": "뜨끈아이스",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595453",
+        "title": "재벌집 망나니 헌터가 회귀함",
+        "author": "페르세르크",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595926",
+        "title": "F급 헌터는 홀로 총을 들고 탑을 오른다",
+        "author": "Primus",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594634",
+        "title": "실패한 대치키즈, 영조의 아들이 되었습니다.",
+        "author": "건전지C",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597709",
+        "title": "은퇴 당한 버퍼가 유일급 디버프 능력 각성함",
+        "author": "연애재판",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597625",
+        "title": "귀환한 삼촌이 헌터들을 참교육함",
+        "author": "끌떡",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598749",
+        "title": "전역한 스타 마린이 상태창을 숨김",
+        "author": "zenaarri",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
