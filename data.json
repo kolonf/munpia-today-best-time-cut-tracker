@@ -196799,5 +196799,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T14:00:37.718790+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592133",
+        "title": "회귀한 김대리는 속마음이 들린다",
+        "author": "킴총무",
+        "view_count": 3846,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 1920,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588382",
+        "title": "문만 열었는데 전세계가 집착함",
+        "author": "블랙카드",
+        "view_count": 1096,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589467",
+        "title": "호주 깡촌의 천재 드루이드",
+        "author": "진필.",
+        "view_count": 769,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 581,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597475",
+        "title": "이혼 후 아내 비트코인 1조원치를 훔쳤다",
+        "author": "판타지현대",
+        "view_count": 440,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591634",
+        "title": "탑스타의 미래가 보임",
+        "author": "알랜더",
+        "view_count": 328,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594847",
+        "title": "선협에서 사영근도 장생합니다",
+        "author": "글먹는쿠마",
+        "view_count": 251,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594260",
+        "title": "망한 영지의 영주가 화학을 잘함",
+        "author": "최뚝",
+        "view_count": 188,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595683",
+        "title": "재앙급 던전 얻었더니 국가가 집착함",
+        "author": "세른",
+        "view_count": 130,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
