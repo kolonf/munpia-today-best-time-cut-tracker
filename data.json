@@ -195647,5 +195647,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T09:00:40.817072+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589755",
+        "title": "드디어 상온 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 3490,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596806",
+        "title": "전업주부인데 재벌보다 돈이 많음",
+        "author": "너구율",
+        "view_count": 2043,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588573",
+        "title": "은퇴 힐러는 시골에서 힐링합니다",
+        "author": "기린샛별",
+        "view_count": 1255,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 810,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 631,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596266",
+        "title": "미친 저격수가 국가에게 버림받음",
+        "author": "빌림",
+        "view_count": 499,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "592510",
+        "title": "삼국지: 환관 아비 통수치고 효자 되기",
+        "author": "박야옹",
+        "view_count": 392,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 324,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 241,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 165,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
