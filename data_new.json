@@ -94270,5 +94270,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-04T22:30:36.155044+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 638,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599076",
+        "title": "국가에 버림받고 재앙급 나노머신을 얻었다",
+        "author": "차성",
+        "view_count": 313,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594934",
+        "title": "삼국지 원가의 적장손이 되었다",
+        "author": "레니sh",
+        "view_count": 144,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596786",
+        "title": "뉴욕에 식당을 차렸는데 너무 잘 됨",
+        "author": "사관(史官)",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598461",
+        "title": "외계인 식민지에서 나 혼자 EX급 먼치킨 능력 각성",
+        "author": "설흔(說痕)",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598336",
+        "title": "유품에서 재능이 쏟아짐",
+        "author": "누리용",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594820",
+        "title": "너프당한 외신인데 지구에서 흥신소 차림",
+        "author": "리턴먀",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598749",
+        "title": "전역한 스타 마린이 상태창을 숨김",
+        "author": "zenaarri",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595783",
+        "title": "교황님, 애국가 4절까지 부르시면 식혜가 서비스예요",
+        "author": "부팅",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598933",
+        "title": "메 시 아",
+        "author": "성재님",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
