@@ -201791,5 +201791,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-05T13:30:41.040025+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595533",
+        "title": "S급 헌터는 계획대로 잘렸다",
+        "author": "김템포",
+        "view_count": 3720,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 1856,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588382",
+        "title": "문만 열었는데 전세계가 집착함",
+        "author": "블랙카드",
+        "view_count": 1056,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595562",
+        "title": "1979년, 반란군 머리통에 전차 포신부터 들이민다",
+        "author": "선우선사",
+        "view_count": 753,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 573,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592625",
+        "title": "차원개척으로 4번째 외계종족이 되었다.",
+        "author": "허바",
+        "view_count": 421,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592402",
+        "title": "퓨전펑크 무당은 외신을 모신다",
+        "author": "범미르",
+        "view_count": 318,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594510",
+        "title": "19세기 대영제국에서 K-빵집으로 대박남",
+        "author": "글쓰는너겟",
+        "view_count": 254,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다.",
+        "author": "시간관측자",
+        "view_count": 193,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "581595",
+        "title": "단종엄마는 죽지 않는다",
+        "author": "양평시바견",
+        "view_count": 146,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
