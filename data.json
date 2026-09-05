@@ -206111,5 +206111,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-06T08:30:32.650020+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591400",
+        "title": "정보기관이 집착하는 천재해커가 되었다",
+        "author": "에그빵",
+        "view_count": 3505,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 1995,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "587584",
+        "title": "제3제국의 비선실세가 되었다",
+        "author": "빵먹고싶다",
+        "view_count": 1156,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 817,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 656,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 515,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592085",
+        "title": "EX급 소환사는 헬 난이도 탑이 너무 쉽다",
+        "author": "신나타",
+        "view_count": 394,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598480",
+        "title": "성간수선전(星間修仙傳)",
+        "author": "멱월",
+        "view_count": 304,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594597",
+        "title": "거물들이 탐내는 초희귀 엘프가 되었다",
+        "author": "필드스틱",
+        "view_count": 218,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594796",
+        "title": "이혼 후 회귀한 소아외과 의사는 천재로 착각당함",
+        "author": "글끌클",
+        "view_count": 171,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
