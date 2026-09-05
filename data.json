@@ -205631,5 +205631,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-06T06:30:32.380152+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593342",
+        "title": "막노동꾼이 사천당가를 각성하고 재벌 3세 경호원이 됨",
+        "author": "종이노트",
+        "view_count": 3376,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 2004,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "591000",
+        "title": "회귀한 0점짜리 남편이 빅테크를 만들었다",
+        "author": "톨킴",
+        "view_count": 1139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595562",
+        "title": "1979년, 반란군 머리통에 전차 포신부터 들이민다",
+        "author": "선우선사",
+        "view_count": 861,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599076",
+        "title": "국가에 버림받고 재앙급 나노머신을 얻었다",
+        "author": "차성",
+        "view_count": 639,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 506,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593153",
+        "title": "이혼당한 기러기 아빠 파워볼 당첨후 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 381,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596207",
+        "title": "던전은 안 돌고 돈이 많았으면 좋겠어요",
+        "author": "산호초",
+        "view_count": 304,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594934",
+        "title": "삼국지 원가의 적장손이 되었다",
+        "author": "레니sh",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장합니다",
+        "author": "나낭",
+        "view_count": 167,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
