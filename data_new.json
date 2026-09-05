@@ -95134,5 +95134,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-05T09:00:39.041443+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594249",
+        "title": "귀환한 드루이드는 호주에서 힐링합니다",
+        "author": "글로운",
+        "view_count": 685,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594719",
+        "title": "아이돌 연습생이 음악을 너무 잘함",
+        "author": "공상소년",
+        "view_count": 362,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594597",
+        "title": "거물들이 탐내는 초희귀 엘프가 되었다",
+        "author": "필드스틱",
+        "view_count": 187,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595530",
+        "title": "삼국지 무신 여포",
+        "author": "정성우",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598592",
+        "title": "말단 스페이스 마린이 너무 강함",
+        "author": "이나르™",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598654",
+        "title": "9,999조 나노머신으로 탑 등반",
+        "author": "주짓떼로.",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595522",
+        "title": "나무를 심어도 재벌됩니다",
+        "author": "l살별l",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595922",
+        "title": "해고된 회사원, 독점으로 무역왕",
+        "author": "신수목",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595647",
+        "title": "AI 갖고 회귀한 펀드 매니저",
+        "author": "슬리버",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589262",
+        "title": "사나운 달이 뜨는 도시",
+        "author": "어두운글",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
