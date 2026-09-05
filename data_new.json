@@ -97246,5 +97246,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-06T06:00:36.705336+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595621",
+        "title": "12살 고아인데 대문호로 착각당했다",
+        "author": "덤벙",
+        "view_count": 655,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 341,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594496",
+        "title": "망한 북부를 공장 능력으로 먹여 살림",
+        "author": "조용한",
+        "view_count": 187,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594191",
+        "title": "미국 백반집 아들이 음식장사를 너무 잘함",
+        "author": "육개장.",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594806",
+        "title": "탑여배우 아들로 빙의했는데 주먹이 너무 셈",
+        "author": "홈스탠바이",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596492",
+        "title": "선협에서 주운 우주전함 함장이 되었다",
+        "author": "환세아",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "592674",
+        "title": "미래 후손에게 먹을 걸 보냈더니 무기를 보내왔다",
+        "author": "로켓단단장",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598538",
+        "title": "우주수선전(宇宙修仙傳).",
+        "author": "볼트버니",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598015",
+        "title": "이혼 직전 사망한 아내의 재산이 1조다",
+        "author": "배추나무",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
