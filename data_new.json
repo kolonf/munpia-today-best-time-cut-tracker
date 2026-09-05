@@ -95230,5 +95230,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-05T10:00:37.598425+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 637,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 294,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596475",
+        "title": "삼국지: 회귀한 유장이 너무 유능함",
+        "author": "運月",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596546",
+        "title": "이혼 후 5살 딸과 함께 미국 트럭커는 힐링하며 잘산다",
+        "author": "글끌클",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598103",
+        "title": "1000억 벌었는데 오늘도 대리 뜁니다",
+        "author": "도리팍",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595814",
+        "title": "방탕한 도련님이 미국 자동차를 장악함",
+        "author": "역사설계자",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599640",
+        "title": "백수인데 돈이 너무 많음",
+        "author": "러트렐",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595783",
+        "title": "교황님, 애국가 4절까지 부르시면 식혜가 서비스예요",
+        "author": "부팅",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
