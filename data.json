@@ -203039,5 +203039,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-05T19:00:35.556254+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "585812",
+        "title": "퇴사 후 미국에서 공룡 발굴합니다",
+        "author": "힐링이좋다",
+        "view_count": 3758,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 2087,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 1253,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595562",
+        "title": "1979년, 반란군 머리통에 전차 포신부터 들이민다",
+        "author": "선우선사",
+        "view_count": 828,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 606,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "587838",
+        "title": "반도체 회사 대리가 결함을 잘봄",
+        "author": "시온유",
+        "view_count": 441,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597030",
+        "title": "이혼직전에 졸부 처가 재산 상속받고 깡촌에 만화방 차림",
+        "author": "백원만s",
+        "view_count": 369,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596591",
+        "title": "왕따가 천재 뮤지션이었던 전생을 각성함",
+        "author": "공중누각",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596207",
+        "title": "던전은 안 돌고 돈이 많았으면 좋겠어요",
+        "author": "산호초",
+        "view_count": 234,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594532",
+        "title": "회귀한 저니맨이 트레이드를 거부함",
+        "author": "포도맛봉봉",
+        "view_count": 172,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
