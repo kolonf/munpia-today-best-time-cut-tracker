@@ -202079,5 +202079,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-05T14:30:34.827694+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592470",
+        "title": "행운 EX 원딜은 탑 등반이 맛있다",
+        "author": "건태양",
+        "view_count": 3832,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1989,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 1135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594193",
+        "title": "미국 깡촌의 천재 목장주",
+        "author": "한꽃",
+        "view_count": 812,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 557,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593474",
+        "title": "북한 천재 해커가 비트코인 30000개 들고 튐",
+        "author": "바위너굴이",
+        "view_count": 427,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589880",
+        "title": "은퇴당한 헌터가 내 힐 한번에 즉시 복귀함",
+        "author": "죽엇푹",
+        "view_count": 342,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596283",
+        "title": "농사 시스템을 숨겼더니, 선협 수선계가 내게 집착한다",
+        "author": "탄산수영장",
+        "view_count": 262,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594393",
+        "title": "현실 코딩했더니 돈이 얼마나 쌓일지 감도 안 옴",
+        "author": "낙필",
+        "view_count": 165,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
