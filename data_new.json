@@ -99742,5 +99742,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-07T06:00:37.982182+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597475",
+        "title": "이혼 후 아내 비트코인 1조원치를 훔쳤다",
+        "author": "판타지현대",
+        "view_count": 663,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598480",
+        "title": "성간수선전(星間修仙傳)",
+        "author": "멱월",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594912",
+        "title": "내가 1000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 174,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597177",
+        "title": "해고 후 미래를 보고 복권부터 당첨, 힐링합니다",
+        "author": "늬파랑",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598654",
+        "title": "9,999조 나노머신으로 탑 공략",
+        "author": "주짓떼로.",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600214",
+        "title": "충무함, 1941년 전쟁 한복판에 회귀하다.",
+        "author": "닥터KIMDH",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598604",
+        "title": "회귀자는 회귀가 너무 싫다",
+        "author": "잉크서점",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598941",
+        "title": "방출된 육성 선수가 메이저리그를 찢음",
+        "author": "백마장사",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597906",
+        "title": "배신 당한 S급 탱커가 EX급 암살자로 각성함",
+        "author": "원동",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599895",
+        "title": "스탑럴커 아내와 이혼 후 럴커로 각성했다",
+        "author": "나니모노",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
