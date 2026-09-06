@@ -208319,5 +208319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-06T19:00:39.784620+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 3827,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 2239,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 1346,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585322",
+        "title": "중건조선",
+        "author": "보헤미아.",
+        "view_count": 910,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595621",
+        "title": "12살 고아인데 대문호로 착각당했다",
+        "author": "덤벙",
+        "view_count": 614,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591893",
+        "title": "천조국 탱크 메이커가 되었다",
+        "author": "[서평]",
+        "view_count": 454,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596591",
+        "title": "왕따가 천재 뮤지션이었던 전생을 각성함",
+        "author": "공중누각",
+        "view_count": 360,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 277,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594191",
+        "title": "미국 백반집 아들이 음식장사를 너무 잘함",
+        "author": "육개장.",
+        "view_count": 231,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584542",
+        "title": "내 도자기로 중세유럽에 전쟁난 썰",
+        "author": "치타리아",
+        "view_count": 172,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
