@@ -211199,5 +211199,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-07T07:30:33.514533+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 3408,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 2048,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 1174,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588382",
+        "title": "문만 열었는데 전세계가 집착함",
+        "author": "블랙카드",
+        "view_count": 882,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 649,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 514,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 415,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "577908",
+        "title": "삼국지:재능을훔치는자",
+        "author": "효담",
+        "view_count": 318,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593035",
+        "title": "삼국지 짭공명이 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 242,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 193,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
