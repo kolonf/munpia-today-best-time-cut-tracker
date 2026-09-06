@@ -99166,5 +99166,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-06T23:00:38.291262+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다.",
+        "author": "시간관측자",
+        "view_count": 499,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 255,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594834",
+        "title": "18세기 조선에 정신과 차렸더니 산업혁명 시작됨",
+        "author": "하마버지",
+        "view_count": 142,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598749",
+        "title": "전역한 스타 마린이 상태창을 숨김",
+        "author": "zenaarri",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595764",
+        "title": "네크로맨서가 사건을 너무 잘 품",
+        "author": "괴인h",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594820",
+        "title": "너프당한 외신인데 지구에서 흥신소 차림",
+        "author": "리턴먀",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596404",
+        "title": "미국에서 파워볼 당첨되고 택시운전하면서 힐링함",
+        "author": "홍연호",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597206",
+        "title": "10000년 걸려 탈옥했더니 세상이 쉽다",
+        "author": "라떼는",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594125",
+        "title": "전국구 일진으로 오해받는 중입니다",
+        "author": "류해인",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599627",
+        "title": "퓨전펑크수선전",
+        "author": "비상도",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
