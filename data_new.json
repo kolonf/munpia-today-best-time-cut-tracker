@@ -98110,5 +98110,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-06T15:00:36.201585+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595787",
+        "title": "폐업 직전 한의사는 전생에 신의였다",
+        "author": "블럭통통",
+        "view_count": 540,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다.",
+        "author": "시간관측자",
+        "view_count": 274,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596546",
+        "title": "이혼 후 5살 딸과 함께 미국 트럭커는 힐링하며 잘산다",
+        "author": "글끌클",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597179",
+        "title": "사우디에서 천재 한의사로 착각 당하고 있다",
+        "author": "한룡(浫龍)",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597875",
+        "title": "은퇴당한 뒤 재각성한 EX급 소환사는 시골 가서 힐링함",
+        "author": "글끌클",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596645",
+        "title": "노가다 한씨, 주식의 신이 되다.",
+        "author": "타타비",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599931",
+        "title": "삼국지 여자와 돈만 밝혔더니 천하가 내 것이었다",
+        "author": "강그린",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599482",
+        "title": "하청직원이 우주를 각성했다",
+        "author": "키야문고",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
