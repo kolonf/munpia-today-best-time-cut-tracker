@@ -214367,5 +214367,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-07T22:30:31.631953+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588845",
+        "title": "목소리를 들었더니 전설의 유물들이 내게 집착함",
+        "author": "야근의신",
+        "view_count": 3513,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 2101,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586404",
+        "title": "이등병이 주식 투자를 잘함",
+        "author": "지금이니",
+        "view_count": 1115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593148",
+        "title": "100억 물려받고 낭만 만물트럭커",
+        "author": "글거북.",
+        "view_count": 813,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587584",
+        "title": "제3제국의 비선실세가 되었다",
+        "author": "빵먹고싶다",
+        "view_count": 586,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598780",
+        "title": "겜판을 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 450,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590516",
+        "title": "이혼 후 초월 각성",
+        "author": "이럴수",
+        "view_count": 378,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596786",
+        "title": "뉴욕에 식당을 차렸는데 너무 잘 됨",
+        "author": "사관(史官)",
+        "view_count": 292,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589963",
+        "title": "미국의 얼굴 천재가 연기까지 너무 잘함",
+        "author": "송송백",
+        "view_count": 229,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596732",
+        "title": "EX급 각성한 줄 모르고 협회가 방출함",
+        "author": "피어난셈",
+        "view_count": 169,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
