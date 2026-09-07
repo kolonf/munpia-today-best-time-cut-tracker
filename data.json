@@ -213407,5 +213407,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-07T18:00:39.872357+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594760",
+        "title": "모두 탑에 갇혔는데 나만 출퇴근한다",
+        "author": "그랜드잭팟",
+        "view_count": 3563,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "587384",
+        "title": "소소한 특전으로 인생 역전",
+        "author": "신림서점",
+        "view_count": 2071,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 1265,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "583391",
+        "title": "로또 1등보다 성과급이 더 많음",
+        "author": "카이남",
+        "view_count": 887,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 655,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583471",
+        "title": "삼국지: 회귀한 여포가 양아버지를 거부함",
+        "author": "잡탕드래곤",
+        "view_count": 463,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588478",
+        "title": "A급 디버퍼인 줄 알고 이혼 당함",
+        "author": "사천탕슉",
+        "view_count": 364,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594912",
+        "title": "내가 1000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 301,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596475",
+        "title": "삼국지: 회귀한 유장이 너무 유능함",
+        "author": "運月",
+        "view_count": 235,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593035",
+        "title": "삼국지 짭공명이 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 179,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
