@@ -211775,5 +211775,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-07T10:00:37.836674+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595533",
+        "title": "S급 헌터는 계획대로 잘렸다",
+        "author": "김템포",
+        "view_count": 3878,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 2160,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595295",
+        "title": "이혼당한 날 무신으로 귀환했다",
+        "author": "문가문가",
+        "view_count": 1322,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 867,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594297",
+        "title": "전출당한 무당경찰이 강력범죄를 모조리 해결함",
+        "author": "서핑보이",
+        "view_count": 623,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592510",
+        "title": "삼국지: 십상시 아들이라서 튑니다.",
+        "author": "박야옹",
+        "view_count": 505,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594719",
+        "title": "아이돌 연습생이 음악을 너무 잘함",
+        "author": "공상소년",
+        "view_count": 403,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596786",
+        "title": "뉴욕에 식당을 차렸는데 너무 잘 됨",
+        "author": "사관(史官)",
+        "view_count": 283,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 230,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594191",
+        "title": "미국 백반집 아들이 음식장사를 너무 잘함",
+        "author": "육개장.",
+        "view_count": 170,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
