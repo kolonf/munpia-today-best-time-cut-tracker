@@ -214175,5 +214175,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-07T21:30:33.323341+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592487",
+        "title": "억까당한 국가권력급 헌터가 갑질을 시작함",
+        "author": "대문호",
+        "view_count": 3450,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 2058,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 1132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593148",
+        "title": "100억 물려받고 낭만 만물트럭커",
+        "author": "글거북.",
+        "view_count": 798,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 574,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594776",
+        "title": "머리속 양자컴퓨터로 전 세계를 독점함",
+        "author": "런타임",
+        "view_count": 468,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598028",
+        "title": "텔레포트 하나로 현실에서도 쌀먹합니다",
+        "author": "양면거울",
+        "view_count": 372,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 283,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590428",
+        "title": "운송 재벌이 된 배달 기사",
+        "author": "악중선",
+        "view_count": 226,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596093",
+        "title": "검은머리 천재 임시 감독이 유럽 축구를 씹어먹음",
+        "author": "낙원s",
+        "view_count": 169,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
