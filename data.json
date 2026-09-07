@@ -215711,5 +215711,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-08T04:58:16.439771+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596806",
+        "title": "전업주부인데 재벌보다 돈이 많음",
+        "author": "너구율",
+        "view_count": 3790,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599190",
+        "title": "1926 대한민국",
+        "author": "리첼렌",
+        "view_count": 1887,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597475",
+        "title": "이혼 후 아내 비트코인 1조원치를 훔쳤다",
+        "author": "판타지현대",
+        "view_count": 1205,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 919,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587237",
+        "title": "천하는 멀고 영지는 가난했다.",
+        "author": "천수방세옥",
+        "view_count": 634,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594177",
+        "title": "은퇴 당한 각성자가 탑 속에서 힐링함",
+        "author": "땃땃땃쥐",
+        "view_count": 494,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 372,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 309,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594597",
+        "title": "거물들이 탐내는 초희귀 엘프가 되었다",
+        "author": "필드스틱",
+        "view_count": 225,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588930",
+        "title": "이혼하고 호주에서 만능 철물점을 열었다.",
+        "author": "한도현",
+        "view_count": 187,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
