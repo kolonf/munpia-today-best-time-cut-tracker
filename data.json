@@ -218687,5 +218687,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-08T18:30:35.058380+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 3469,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "588666",
+        "title": "K의료에서 필수과 의사로 살아남기",
+        "author": "홈스탠바이",
+        "view_count": 2145,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592598",
+        "title": "협회가 버린 헌터가 EX급을 각성함",
+        "author": "송태섭",
+        "view_count": 1341,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597475",
+        "title": "이혼 후 아내 비트코인 1조원치를 훔쳤다",
+        "author": "판타지현대",
+        "view_count": 911,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 634,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598545",
+        "title": "완벽주의자의 1000조 셸터",
+        "author": "솔도솔도",
+        "view_count": 488,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589103",
+        "title": "귀촌 후 동물들이 집착하는 천재훈련사",
+        "author": "이구공",
+        "view_count": 403,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 308,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594872",
+        "title": "동부 전선의 마법사",
+        "author": "데거스",
+        "view_count": 256,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 198,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
