@@ -218495,5 +218495,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-08T17:30:35.328357+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594760",
+        "title": "모두 탑에 갇혔는데 나만 출퇴근한다",
+        "author": "그랜드잭팟",
+        "view_count": 3797,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 2130,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 1243,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594510",
+        "title": "19세기 대영제국에서 K-빵집으로 대박남",
+        "author": "글쓰는너겟",
+        "view_count": 931,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589910",
+        "title": "버림받고 각성한 EX급 헌터가 국가를 심판함",
+        "author": "민족의힘",
+        "view_count": 674,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590490",
+        "title": "이혼 후 뇌신(雷神)이 되었다.",
+        "author": "쇼텔",
+        "view_count": 488,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589103",
+        "title": "귀촌 후 동물들이 집착하는 천재훈련사",
+        "author": "이구공",
+        "view_count": 392,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596786",
+        "title": "이세계 식재료로 뉴욕 한식당이 대박남",
+        "author": "사관(史官)",
+        "view_count": 305,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593957",
+        "title": "번개 맞고 회귀했더니 인생 난이도가 낮아짐",
+        "author": "무성(無聲)",
+        "view_count": 245,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593035",
+        "title": "삼국지 짭공명이 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 190,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
