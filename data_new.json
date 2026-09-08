@@ -103390,5 +103390,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-08T23:00:41.465870+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597651",
+        "title": "1조 파워볼 당첨 후, 걸그룹을 샀다",
+        "author": "죽엇푹",
+        "view_count": 555,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596432",
+        "title": "선협에서 5억년 버튼을 얻었다",
+        "author": "이찬솔",
+        "view_count": 214,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596312",
+        "title": "미국 사막의 유령 호텔에서 6조 원 노다지가 터짐",
+        "author": "검은후드",
+        "view_count": 122,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598505",
+        "title": "퇴근길 아포칼립스",
+        "author": "전장범",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598526",
+        "title": "검은머리 미군소대장은 괴물이다",
+        "author": "카피닌자",
+        "view_count": 64,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597160",
+        "title": "권고사직당한 부장 IMF 전으로 회귀하다",
+        "author": "만년과장",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600254",
+        "title": "이혼선물로 우주 전함을 받았다",
+        "author": "바삭한푸딩",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593430",
+        "title": "102마일 투수인데 농구 시스템이 너무 잘 맞음",
+        "author": "허칭스",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595390",
+        "title": "퇴직금 대신 차원창고를 받았다",
+        "author": "마로01",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
