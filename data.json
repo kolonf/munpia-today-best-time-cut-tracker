@@ -220703,5 +220703,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T04:00:41.833870+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 3419,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590518",
+        "title": "전능의 침술로 회귀했다",
+        "author": "대작살",
+        "view_count": 1692,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "586404",
+        "title": "이등병이 주식 투자를 잘함",
+        "author": "지금이니",
+        "view_count": 1175,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595295",
+        "title": "이혼당한 날 무신으로 귀환했다",
+        "author": "문가문가",
+        "view_count": 865,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594437",
+        "title": "회귀 후 S급 스킬로 탑 등반",
+        "author": "태영(太影)",
+        "view_count": 646,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596924",
+        "title": "집 대신 무인도를 샀더니 인생 대박",
+        "author": "이구공",
+        "view_count": 468,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589460",
+        "title": "회귀자의 슬기로운 투자생활",
+        "author": "일시불",
+        "view_count": 356,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 282,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594597",
+        "title": "거물들이 탐내는 초희귀 엘프가 되었다",
+        "author": "필드스틱",
+        "view_count": 226,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588930",
+        "title": "이혼하고 호주에서 만능 철물점을 열었다.",
+        "author": "한도현",
+        "view_count": 180,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
