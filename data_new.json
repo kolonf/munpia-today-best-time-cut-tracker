@@ -102142,5 +102142,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-08T13:30:33.020191+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599076",
+        "title": "국가에 버림받고 재앙급 나노머신을 얻었다",
+        "author": "차성",
+        "view_count": 551,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599011",
+        "title": "국가에게 버림받은 언령술사가 미국으로 이민감",
+        "author": "힐링이좋다",
+        "view_count": 286,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595906",
+        "title": "회귀 후 계약서를 찢었더니 인생이 풀림",
+        "author": "새벽감자",
+        "view_count": 156,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597179",
+        "title": "사우디에서 천재 한의사로 착각 당하고 있다",
+        "author": "한룡(浫龍)",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590770",
+        "title": "명나라 폭군은 조선을 좋아함",
+        "author": "이세계공학",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599931",
+        "title": "삼국지 여자와 돈만 밝혔더니 천하가 내 것이었다",
+        "author": "강그린",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597106",
+        "title": "성간문명에서 깨어난 뱀파이어는 헌터합니다",
+        "author": "불꽃축제",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598888",
+        "title": "우주 군벌이 되었다",
+        "author": "빅타이거",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599106",
+        "title": "전능의 유전자를 얻었더니 거물들한테 집착당함",
+        "author": "솔리프1",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597160",
+        "title": "권고사직당한 부장 IMF 전으로 회귀하다",
+        "author": "만년과장",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
