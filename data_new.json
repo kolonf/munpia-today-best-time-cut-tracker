@@ -103582,5 +103582,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T00:00:44.720774+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595787",
+        "title": "폐업 직전 한의사는 전생에 신의였다",
+        "author": "블럭통통",
+        "view_count": 586,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 229,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598655",
+        "title": "초월급 우주선 상속받고 천재 과학자",
+        "author": "coldpig",
+        "view_count": 128,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600197",
+        "title": "이세계에 환생했더니 신들이 권능을 퍼줌",
+        "author": "두파치타파",
+        "view_count": 81,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598526",
+        "title": "검은머리 미군소대장은 괴물이다",
+        "author": "카피닌자",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600682",
+        "title": "망가진 장난감 우주선을 주웠는데 이게 미쳤음",
+        "author": "백원만s",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598467",
+        "title": "퓨전펑크의 먼치킨",
+        "author": "스테디",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596240",
+        "title": "萬 武 家",
+        "author": "역전승",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600929",
+        "title": "빤쓰 색깔까지 맞히는 라디오 상담",
+        "author": "바람빛",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599002",
+        "title": "SF급 스페이스 마린의 탑 공략법",
+        "author": "수리부엉이™",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
