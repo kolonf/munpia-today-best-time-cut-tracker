@@ -103678,5 +103678,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T00:30:36.728868+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595720",
+        "title": "국가에 버림받은 네크로맨서가 즉사기를 각성함",
+        "author": "제로콜라27",
+        "view_count": 569,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598369",
+        "title": "EX급 네크로맨서가 탑을 씹어먹음",
+        "author": "틈새솔",
+        "view_count": 223,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599899",
+        "title": "아뇨? 흑마법사 아니고 법사인데요?",
+        "author": "알랜더",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598644",
+        "title": "학폭 피해자였던 내가 행성급 AI를 주웠다",
+        "author": "재묘[才猫]",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595764",
+        "title": "네크로맨서가 사건을 너무 잘 품",
+        "author": "괴인h",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599895",
+        "title": "스탑럴커 아내와 이혼 후 럴커로 각성했다",
+        "author": "나니모노",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598461",
+        "title": "에일리언 아포칼립스의 유일한 각성자가 되었다",
+        "author": "설흔(說痕)",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600572",
+        "title": "미국 텍사스 대농장의 주인이 되었다",
+        "author": "설탕공장",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600317",
+        "title": "세종대왕님이 집착하는 소설가가 되었다",
+        "author": "박치기공룡",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
