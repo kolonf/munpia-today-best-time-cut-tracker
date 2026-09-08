@@ -220799,5 +220799,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T04:30:36.319941+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 3448,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590518",
+        "title": "전능의 침술로 회귀했다",
+        "author": "대작살",
+        "view_count": 1753,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "581270",
+        "title": "마법 천재 기간트 라이더가 되었다",
+        "author": "남극부엉이",
+        "view_count": 1233,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595295",
+        "title": "이혼당한 날 무신으로 귀환했다",
+        "author": "문가문가",
+        "view_count": 906,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 650,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593062",
+        "title": "국가가 집착하는 헌터가 되었다",
+        "author": "소래담",
+        "view_count": 481,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593153",
+        "title": "이혼당한 기러기 아빠 파워볼 당첨후 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 355,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601189",
+        "title": "나 혼자 서버관리자인데 퇴사당함",
+        "author": "까막커",
+        "view_count": 287,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595705",
+        "title": "신내림 받은 망한 아이돌이 방송을 너무 잘함",
+        "author": "글과달",
+        "view_count": 232,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588613",
+        "title": "부동산 천재는 여우냄새가 난다",
+        "author": "경우勁雨",
+        "view_count": 188,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
