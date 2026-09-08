@@ -217631,5 +217631,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-08T13:30:34.590148+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592470",
+        "title": "행운 EX 원딜은 탑 등반이 맛있다",
+        "author": "건태양",
+        "view_count": 3883,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1962,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592974",
+        "title": "미국 시골에서 한식뷔페 열었더니 이웃들이 집착함",
+        "author": "방탄커피",
+        "view_count": 1197,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595562",
+        "title": "1979 장포스, 반란군 뚝배기 깨고 대한민국 캐리한다",
+        "author": "선우선사",
+        "view_count": 851,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590640",
+        "title": "아포칼립스 지하에 집을 숨김",
+        "author": "세디바",
+        "view_count": 650,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 515,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 358,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596475",
+        "title": "삼국지: 회귀한 유장이 너무 유능함",
+        "author": "運月",
+        "view_count": 285,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593474",
+        "title": "북한 천재 해커가 비트코인 30000개 들고 튐",
+        "author": "바위너굴이",
+        "view_count": 222,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597177",
+        "title": "해고 후 미래를 보고 복권부터 당첨, 힐링합니다",
+        "author": "늬파랑",
+        "view_count": 177,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
