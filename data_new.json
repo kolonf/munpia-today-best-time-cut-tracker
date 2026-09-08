@@ -103870,5 +103870,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T01:30:38.891874+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595720",
+        "title": "국가에 버림받은 네크로맨서가 즉사기를 각성함",
+        "author": "제로콜라27",
+        "view_count": 597,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596475",
+        "title": "삼국지: 회귀한 유장이 너무 유능함",
+        "author": "運月",
+        "view_count": 218,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599899",
+        "title": "아뇨? 흑마법사 아니고 법사인데요?",
+        "author": "알랜더",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597810",
+        "title": "제명 당한 헌터가 구세주였다",
+        "author": "태국리",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599228",
+        "title": "지구 멸망 후 2500년, 나는 멸망한 지구를 복원한다",
+        "author": "강그린",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598772",
+        "title": "아틀란티스를 다시 위대하게",
+        "author": "그레이c",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595390",
+        "title": "퇴직금 대신 차원창고를 받았다",
+        "author": "마로01",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598604",
+        "title": "회귀자는 회귀가 너무 싫다",
+        "author": "잉크서점",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598917",
+        "title": "불시착한 김에 행성 개발자가 되었다.",
+        "author": "레드풋",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
