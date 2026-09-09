@@ -107134,5 +107134,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-10T08:00:39.521223+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598858",
+        "title": "우주로 가려면 대전에서 환승하세요.",
+        "author": "닥터KIMDH",
+        "view_count": 770,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596415",
+        "title": "나 혼자 내공 쓴다",
+        "author": "강철민",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598043",
+        "title": "각성 첫날 EX급 스킬을 샀다",
+        "author": "폭스테일",
+        "view_count": 148,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598576",
+        "title": "내 놀이공원에 전 세계가 줄을 선다",
+        "author": "초록코끼리",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598510",
+        "title": "우주 해병 아니고 스페이스 마린인데요",
+        "author": "글고블린",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598452",
+        "title": "아우터림 행성 제독의 미친 데릴사위",
+        "author": "서칸더브이",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597106",
+        "title": "성간문명에서 깨어난 뱀파이어는 헌터합니다",
+        "author": "불꽃축제",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600257",
+        "title": "로빈슨 크루소인데 외계 무인도임",
+        "author": "구소재",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598994",
+        "title": "은하제국 망나니 대공자가 되었다",
+        "author": "라가불린",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
