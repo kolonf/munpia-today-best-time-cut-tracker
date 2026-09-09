@@ -105790,5 +105790,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T16:30:34.743605+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595705",
+        "title": "신내림 받은 망한 아이돌이 방송을 너무 잘함",
+        "author": "글과달",
+        "view_count": 594,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596786",
+        "title": "뉴욕에 식당을 차렸는데 너무 잘 됨.",
+        "author": "사관(史官)",
+        "view_count": 368,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595530",
+        "title": "삼국지 무신 여포가 되었다",
+        "author": "정성우",
+        "view_count": 145,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596223",
+        "title": "신내림 받았는데 저주만 잘함",
+        "author": "사쇼",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595651",
+        "title": "주님, 파문당하니 신점 천재가 되었습니다",
+        "author": "우치뭉치",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598998",
+        "title": "퓨전펑크 만렙 네크로맨서가 기연을 독식함",
+        "author": "노랑™",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598888",
+        "title": "우주 군벌이 되었다",
+        "author": "빅타이거",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600875",
+        "title": "천마신교 서고지기는 재벌가 막둥이로 힐링 합니다",
+        "author": "배소리",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601850",
+        "title": "의사 아내와 재혼 후, 전업 작가합니다.",
+        "author": "사관(史官)",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
