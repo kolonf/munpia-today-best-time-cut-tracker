@@ -105694,5 +105694,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T15:30:33.095516+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595705",
+        "title": "신내림 받은 망한 아이돌이 방송을 너무 잘함",
+        "author": "글과달",
+        "view_count": 576,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596786",
+        "title": "뉴욕에 식당을 차렸는데 너무 잘 됨.",
+        "author": "사관(史官)",
+        "view_count": 356,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596327",
+        "title": "삼국지, 여포의 네 번째 아비가 되었다",
+        "author": "칠팔",
+        "view_count": 141,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595684",
+        "title": "퇴사 후 신을 보는 눈으로 떼돈을 범.",
+        "author": "성정민",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596432",
+        "title": "선협에서 5억년 버튼을 얻었다",
+        "author": "이찬솔",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595904",
+        "title": "최저시급 알바생이 요리로 강남 빌딩을 세움",
+        "author": "풍기킹",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598662",
+        "title": "패망한 한국에 스타 테란 문명을 세웠다",
+        "author": "MD92",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598510",
+        "title": "우주 해병 아니고 스페이스 마린인데요",
+        "author": "글고블린",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601611",
+        "title": "검은머리 프랑스 선비가 혁명을 잘함",
+        "author": "트럭운전사",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598467",
+        "title": "종결급 신체로 각성함",
+        "author": "스테디",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
