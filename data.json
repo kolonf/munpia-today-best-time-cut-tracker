@@ -225407,5 +225407,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-10T01:39:13.060401+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "587384",
+        "title": "소소한 특전으로 인생 역전",
+        "author": "신림서점",
+        "view_count": 3279,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 1613,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598028",
+        "title": "텔레포트 하나로 현실에서도 쌀먹합니다",
+        "author": "양면거울",
+        "view_count": 1104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 812,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594249",
+        "title": "귀환한 드루이드는 호주에서 힐링합니다",
+        "author": "글로운",
+        "view_count": 608,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594476",
+        "title": "초월급 의서 각성으로 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 445,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596732",
+        "title": "EX급 각성한 줄 모르고 협회가 방출함",
+        "author": "피어난셈",
+        "view_count": 335,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594719",
+        "title": "데뷔도 안 했는데 빌보드부터 찍음",
+        "author": "공상소년",
+        "view_count": 264,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594495",
+        "title": "격투 천재는 궤적이 다 보임",
+        "author": "콜레오",
+        "view_count": 212,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588930",
+        "title": "이혼하고 호주에서 만능 철물점을 열었다.",
+        "author": "한도현",
+        "view_count": 152,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
