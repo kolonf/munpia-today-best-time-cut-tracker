@@ -105022,5 +105022,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-09T09:00:40.694981+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594437",
+        "title": "회귀 후 S급 스킬로 탑 등반",
+        "author": "태영(太影)",
+        "view_count": 722,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594260",
+        "title": "망한 영지의 영주가 화학을 잘함",
+        "author": "최뚝",
+        "view_count": 294,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595684",
+        "title": "퇴사 후 신을 보는 눈으로 떼돈을 범.",
+        "author": "성정민",
+        "view_count": 141,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597939",
+        "title": "영초를 심었더니 수선이 너무 쉽다",
+        "author": "정예",
+        "view_count": 95,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598655",
+        "title": "초월급 우주선 상속받고 천재 과학자",
+        "author": "coldpig",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596492",
+        "title": "선협에서 주운 우주전함 함장이 되었다",
+        "author": "환세아",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598452",
+        "title": "아우터림 행성 제독의 미친 데릴사위",
+        "author": "서칸더브이",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598306",
+        "title": "EX급 군단 소환으로 탑등반",
+        "author": "김한영",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600814",
+        "title": "나 혼자 EX급이라 전 세계에 갑질함",
+        "author": "정적",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
