@@ -108574,5 +108574,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-10T21:30:36.995752+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593825",
+        "title": "무한의 네크로맨서",
+        "author": "마지막검사",
+        "view_count": 746,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 264,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595816",
+        "title": "내 운동 훈수에 아이돌마저 고질병이 고쳐짐",
+        "author": "화유(華喩)",
+        "view_count": 112,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598559",
+        "title": "SSS급 아공간으로 아포칼립스에서 살아남기.",
+        "author": "바비용",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598772",
+        "title": "아틀란티스를 다시 위대하게",
+        "author": "그레이c",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599540",
+        "title": "북부에서 함선을 주움",
+        "author": "가늴",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598034",
+        "title": "조선에서 쉬었음 청년이 무공으로 휩쓸고 다님",
+        "author": "단군하부지",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600325",
+        "title": "이세계에서 한식당을 열었더니 거물들이 힐링함",
+        "author": "가지(GAZI)",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
