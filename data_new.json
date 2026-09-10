@@ -109054,5 +109054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T00:30:34.806909+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597030",
+        "title": "강남 졸부 막내 사위가 이혼 직전에 처가 재산 상속받음",
+        "author": "백원만s",
+        "view_count": 481,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597177",
+        "title": "해고 후 미래를 보고 복권부터 당첨, 힐링합니다",
+        "author": "늬파랑",
+        "view_count": 231,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "김치은",
+        "view_count": 122,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595697",
+        "title": "퇴사 후 시골 깡촌에서 농사짓자 이웃들이 너무 집착한더",
+        "author": "기린기린기",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595484",
+        "title": "즉사기 맞아도 안 죽는 국가권력급 검투사",
+        "author": "태대비",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598941",
+        "title": "방출된 육성 선수가 메이저리그를 찢음",
+        "author": "백마장사",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596888",
+        "title": "나 혼자 직업선택으로 올마스터",
+        "author": "남도화",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598840",
+        "title": "내가 수선 안하면 지구 망함",
+        "author": "맛소금타로",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600257",
+        "title": "로빈슨 크루소인데 외계 무인도임",
+        "author": "구소재",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601198",
+        "title": "재벌 3세가 버린 AI로 꿀 빱니다",
+        "author": "레드초콜릿",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
