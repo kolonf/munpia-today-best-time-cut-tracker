@@ -228287,5 +228287,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-10T14:59:15.031356+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590338",
+        "title": "톱여배우의 속마음이 들려",
+        "author": "박굘",
+        "view_count": 3202,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 1897,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 1238,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 876,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "586404",
+        "title": "이등병이 주식 투자를 잘함",
+        "author": "지금이니",
+        "view_count": 631,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594847",
+        "title": "선협에서 사영근도 장생합니다",
+        "author": "글먹는쿠마",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592402",
+        "title": "퓨전펑크 무당은 외신을 모신다",
+        "author": "범미르",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "597030",
+        "title": "강남 졸부 막내 사위가 이혼 직전에 처가 재산 상속받음",
+        "author": "백원만s",
+        "view_count": 272,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593109",
+        "title": "프로이센 사략선 선장이 되었다",
+        "author": "I알자스I",
+        "view_count": 213,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594476",
+        "title": "초월급 의서 각성으로 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 162,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
