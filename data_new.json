@@ -108766,5 +108766,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-10T23:00:42.309085+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598780",
+        "title": "겜판을 리부트 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 697,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598514",
+        "title": "퓨전펑크 속 마법의 신이 되었다",
+        "author": "마이너전문",
+        "view_count": 269,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600113",
+        "title": "나 혼자 탑 밖으로 능력쓰니 전 세계가 벌벌 떰",
+        "author": "고락",
+        "view_count": 130,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595814",
+        "title": "방탕한 도련님이 미국 자동차를 장악함",
+        "author": "역사설계자",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600568",
+        "title": "저주템인 줄 모르고 협회가 압수함",
+        "author": "사초™",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596765",
+        "title": "미국 푸드 트럭커에게 할리우드가 집착함",
+        "author": "마개조",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598601",
+        "title": "퓨전펑크 씹어먹는 포식마법사",
+        "author": "장상사",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601397",
+        "title": "퓨전펑크에서 주술사로 살아남기",
+        "author": "포더엠",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600325",
+        "title": "이세계에서 한식당을 열었더니 거물들이 힐링함",
+        "author": "가지(GAZI)",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
