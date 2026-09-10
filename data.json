@@ -230495,5 +230495,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T01:25:04.092652+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 3158,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 1616,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 1092,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 849,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 610,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599043",
+        "title": "역대급 스페이스 마린은 환생한 소드마스터",
+        "author": "베라파밀",
+        "view_count": 440,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596148",
+        "title": "포르투갈 서퍼에게 해달이 보물을 주워 옴",
+        "author": "무던",
+        "view_count": 339,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597806",
+        "title": "미국에서 온 삼촌이 3스타 셰프라고?",
+        "author": "상한가",
+        "view_count": 267,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594847",
+        "title": "선협에서 사영근도 장생합니다",
+        "author": "글먹는쿠마",
+        "view_count": 205,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 155,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
