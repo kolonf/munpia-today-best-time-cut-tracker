@@ -107518,5 +107518,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-10T12:00:43.633291+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601189",
+        "title": "나 혼자 서버관리자인데 퇴사당함",
+        "author": "까막커",
+        "view_count": 611,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598471",
+        "title": "회사에서 버림받고 초월급 AI로 1000조 빅테크 재벌",
+        "author": "노빠꾸맨",
+        "view_count": 326,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598655",
+        "title": "초월급 우주선 상속받고 천재 과학자",
+        "author": "coldpig",
+        "view_count": 171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597906",
+        "title": "배신 당한 S급 탱커가 EX급 암살자로 각성함",
+        "author": "원동",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596888",
+        "title": "나 혼자 직업선택으로 올마스터",
+        "author": "남도화",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598523",
+        "title": "데이터로 미래 예언했더니 백악관에서 찾아옴",
+        "author": "차세나",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597406",
+        "title": "회장님, 발기부전 치료 받으려면 줄부터 서세요",
+        "author": "극복밤송",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600471",
+        "title": "선협 괴뢰가 쉽다",
+        "author": "탄산수영장",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598639",
+        "title": "망한 세상, 나노 슈트를 훔쳐 입었다",
+        "author": "마음의음식",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598886",
+        "title": "EX급 정신 면역이라 탑등반이 너무 쉬움",
+        "author": "이슬같은",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
