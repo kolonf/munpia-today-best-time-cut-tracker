@@ -107614,5 +107614,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-10T12:30:32.613270+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 648,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598471",
+        "title": "회사에서 버림받고 초월급 AI로 1000조 빅테크 재벌",
+        "author": "노빠꾸맨",
+        "view_count": 336,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597939",
+        "title": "영초를 심었더니 수선이 너무 쉽다",
+        "author": "정예",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 111,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598917",
+        "title": "불시착한 김에 행성 개발자가 되었다.",
+        "author": "레드풋",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598194",
+        "title": "은퇴 후 귀농했더니, 헌터들이 집착한다?",
+        "author": "밀가루중독",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598606",
+        "title": "우주 고물상이 전함을 복사함",
+        "author": "날없는창",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598559",
+        "title": "SSS급 아공간으로 아포칼립스에서 살아남기.",
+        "author": "바비용",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
