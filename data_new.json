@@ -111070,5 +111070,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T03:30:36.053240+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599040",
+        "title": "물에 잠긴 세상에서 내 배만 레벨업",
+        "author": "송탄",
+        "view_count": 714,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596432",
+        "title": "선협에서 5억년 버튼을 얻었다",
+        "author": "이찬솔",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595647",
+        "title": "AI 갖고 회귀한 펀드 매니저",
+        "author": "슬리버",
+        "view_count": 139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597906",
+        "title": "배신 당한 S급 탱커가 EX급 암살자로 각성함",
+        "author": "원동",
+        "view_count": 114,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595651",
+        "title": "주님, 파문당하니 신점 천재가 되었습니다",
+        "author": "우치뭉치",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596888",
+        "title": "나 혼자 직업선택으로 올마스터",
+        "author": "남도화",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598503",
+        "title": "정크 타운",
+        "author": "편곤",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598772",
+        "title": "아틀란티스를 다시 위대하게",
+        "author": "그레이c",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602273",
+        "title": "스마트폰에 우주 생명체가 들어왔다",
+        "author": "연함™",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599805",
+        "title": "내 저그여왕이 새끼를 너무 잘까서 탑 등반이 너무 쉽다",
+        "author": "무장광부",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
