@@ -110590,5 +110590,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T23:00:42.446501+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595720",
+        "title": "국가에 버림받은 네크로맨서가 즉사기를 각성함",
+        "author": "제로콜라27",
+        "view_count": 555,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596415",
+        "title": "나 혼자 내공 쓴다",
+        "author": "강철민",
+        "view_count": 304,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602592",
+        "title": "로또 1등 당첨 후 주작기 돌리고 헬스합니다",
+        "author": "칙칙폭폭땡",
+        "view_count": 151,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595530",
+        "title": "삼국지 무신 여포가 되었다",
+        "author": "정성우",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601850",
+        "title": "의사 아내와 재혼 후, 전업 작가합니다.",
+        "author": "사관(史官)",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598194",
+        "title": "은퇴 후 귀농했더니, 헌터들이 집착한다?",
+        "author": "밀가루중독",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599488",
+        "title": "EX조각 먹었더니 규격 외 스테로이드맨이 되었다",
+        "author": "석굴암",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601906",
+        "title": "멸망한 세상, 나만 보급품이 무한대",
+        "author": "krpx",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599282",
+        "title": "즉사기 검 하나 들고 먼치킨 헌터",
+        "author": "녹차티",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600929",
+        "title": "운명을 뒤엎는 라디오 상담",
+        "author": "바람빛",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
