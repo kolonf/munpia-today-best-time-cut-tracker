@@ -233087,5 +233087,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T13:00:40.004318+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "593497",
+        "title": "미국에서 방출 선수만 계약한다",
+        "author": "아아연하게",
+        "view_count": 3791,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594722",
+        "title": "전능의 투자 능력을 얻은 날 해고 당했다",
+        "author": "제3소년",
+        "view_count": 2027,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 1407,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 961,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 646,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 476,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596432",
+        "title": "선협에서 5억년 버튼을 얻었다",
+        "author": "이찬솔",
+        "view_count": 394,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590892",
+        "title": "파워볼 당첨 후 미국 알래스카에서 낚시 합니다",
+        "author": "칠팔",
+        "view_count": 298,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "592402",
+        "title": "퓨전펑크 무당은 외신을 모신다",
+        "author": "범미르",
+        "view_count": 235,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597939",
+        "title": "영초를 심었더니 수선이 너무 쉽다",
+        "author": "정예",
+        "view_count": 165,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
