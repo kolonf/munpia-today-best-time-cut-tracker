@@ -234239,5 +234239,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T18:30:38.700074+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 3248,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 2134,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 1286,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590640",
+        "title": "극열기 아포칼립스의 기관사",
+        "author": "세디바",
+        "view_count": 901,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598780",
+        "title": "겜판을 리부트 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 630,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597030",
+        "title": "이혼 직전에 졸부 처가 재산 다 먹음",
+        "author": "백원만s",
+        "view_count": 452,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "590892",
+        "title": "파워볼 당첨 후 미국 알래스카에서 낚시 합니다",
+        "author": "칠팔",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597645",
+        "title": "국가권력급 킬러가 삼촌을 잘함",
+        "author": "지곡.",
+        "view_count": 284,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장합니다",
+        "author": "나낭",
+        "view_count": 231,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594597",
+        "title": "거물들이 탐내는 초희귀 엘프가 되었다",
+        "author": "필드스틱",
+        "view_count": 176,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
