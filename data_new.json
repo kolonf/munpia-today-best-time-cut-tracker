@@ -109534,5 +109534,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T14:30:32.865425+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599640",
+        "title": "백수인데 돈이 너무 많음",
+        "author": "러트렐",
+        "view_count": 532,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598780",
+        "title": "겜판을 리부트 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 335,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601421",
+        "title": "힐만 해도 성자로 숭배함",
+        "author": "글맛",
+        "view_count": 133,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596888",
+        "title": "나 혼자 직업선택으로 올마스터",
+        "author": "남도화",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598194",
+        "title": "은퇴 후 귀농했더니, 헌터들이 집착한다?",
+        "author": "밀가루중독",
+        "view_count": 64,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598662",
+        "title": "패망한 한국에 스타 테란 문명을 세웠다",
+        "author": "MD92",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601906",
+        "title": "멸망한 세상, 나만 보급품이 무한대",
+        "author": "krpx",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598452",
+        "title": "아우터림 행성 제독의 미친 데릴사위",
+        "author": "서칸더브이",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600644",
+        "title": "그리스 신화를 정상화하는 태양신이 되었다.",
+        "author": "코삼이",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
