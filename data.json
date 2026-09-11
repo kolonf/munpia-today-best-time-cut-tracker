@@ -233663,5 +233663,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T15:30:33.439857+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589871",
+        "title": "귀환 용사가 살아가는 법",
+        "author": "시우림",
+        "view_count": 3219,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 1923,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595787",
+        "title": "폐업 직전 한의사는 전생에 신의였다",
+        "author": "블럭통통",
+        "view_count": 1340,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594249",
+        "title": "귀환한 드루이드는 호주에서 힐링합니다",
+        "author": "글로운",
+        "view_count": 891,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 638,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "590024",
+        "title": "2회차 공무원이 고려를 멸망시킴",
+        "author": "대박터짐",
+        "view_count": 470,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597030",
+        "title": "이혼 직전에 졸부 처가 재산 다 먹음",
+        "author": "백원만s",
+        "view_count": 368,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594834",
+        "title": "사도세자 고쳤더니 정조가 산업혁명 일으킴",
+        "author": "하마버지",
+        "view_count": 277,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594776",
+        "title": "머리속 양자컴퓨터로 전 세계를 독점함",
+        "author": "런타임",
+        "view_count": 227,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585279",
+        "title": "죽었다 살아나서 신선 사냥한다",
+        "author": "LunStellar",
+        "view_count": 175,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
