@@ -233471,5 +233471,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T15:00:43.042714+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589871",
+        "title": "귀환 용사가 살아가는 법",
+        "author": "시우림",
+        "view_count": 3179,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 1892,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595621",
+        "title": "12살 고아인데 대문호로 착각당했다",
+        "author": "덤벙",
+        "view_count": 1287,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599076",
+        "title": "국가에 버림받고 재앙급 나노머신을 얻었다",
+        "author": "차성",
+        "view_count": 851,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592467",
+        "title": "선협 속 거북이는 상고시대부터 살아간다",
+        "author": "호균박",
+        "view_count": 635,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598545",
+        "title": "한 달 안에 1,000조를 다 써야함",
+        "author": "솔도솔도",
+        "view_count": 456,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 359,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "느느리",
+        "view_count": 272,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591498",
+        "title": "이세계 초능력으로 전세계 거물들이 집착함",
+        "author": "크엉컹컹",
+        "view_count": 213,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585279",
+        "title": "죽었다 살아나서 신선 사냥한다",
+        "author": "LunStellar",
+        "view_count": 169,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
