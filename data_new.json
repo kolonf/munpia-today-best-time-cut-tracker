@@ -110398,5 +110398,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T21:30:34.802603+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 589,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598514",
+        "title": "퓨전펑크 속 마법의 신이 되었다",
+        "author": "마이너전문",
+        "view_count": 285,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596223",
+        "title": "신내림 받았는데 저주만 잘함",
+        "author": "사쇼",
+        "view_count": 137,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598505",
+        "title": "아포칼립스에 아빠가 너무 강함",
+        "author": "전장범",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597872",
+        "title": "전역 후, 유럽에서 축구 선수가 되었다",
+        "author": "현진현우",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600782",
+        "title": "국정원 꼴통 신입이 전능의 AI를 얻음",
+        "author": "아이언강",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602421",
+        "title": "AI로 고민상담 들어주니 돈이 미쳤다",
+        "author": "설흔(說痕)",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601323",
+        "title": "핵전쟁 아포칼립스에 땅굴을 숨김",
+        "author": "신선의길",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
