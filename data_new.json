@@ -110014,5 +110014,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T18:00:39.412654+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599856",
+        "title": "퓨전펑크에서 폐지 줍는 마법사",
+        "author": "글럼프",
+        "view_count": 668,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596090",
+        "title": "미국에서 수리점을 열었더니 거물들이 집착함",
+        "author": "뜨끈아이스",
+        "view_count": 295,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598494",
+        "title": "나 혼자 우주 요새 등반",
+        "author": "산호초",
+        "view_count": 155,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598103",
+        "title": "1000억 벌었는데 오늘도 대리 뜁니다",
+        "author": "도리팍",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595650",
+        "title": "안평대군의 두 번째 계유정난",
+        "author": "보명천",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595904",
+        "title": "최저시급 알바생이 요리로 강남 빌딩을 세움",
+        "author": "풍기킹",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598569",
+        "title": "나 혼자 새틀라이트 빔을 각성함",
+        "author": "현판한우물",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597160",
+        "title": "권고사직당한 부장 IMF 전으로 회귀하다",
+        "author": "만년과장",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598604",
+        "title": "회귀자는 회귀가 너무 싫다",
+        "author": "잉크서점",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599147",
+        "title": "외계벽돌 복수선전",
+        "author": "우주병따개",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
