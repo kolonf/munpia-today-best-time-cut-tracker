@@ -110302,5 +110302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-11T20:30:34.201701+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595787",
+        "title": "폐업 직전 한의사는 전생에 신의였다",
+        "author": "블럭통통",
+        "view_count": 743,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596090",
+        "title": "미국에서 수리점을 열었더니 거물들이 집착함",
+        "author": "뜨끈아이스",
+        "view_count": 327,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598749",
+        "title": "은퇴당한 EX급 마린이 각성을 숨김",
+        "author": "라이라차차",
+        "view_count": 167,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597406",
+        "title": "회장님, 발기부전 치료 받으려면 줄부터 서세요",
+        "author": "극복밤송",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600929",
+        "title": "운명을 뒤엎는 라디오 상담",
+        "author": "바람빛",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597160",
+        "title": "권고사직당한 부장 IMF 전으로 회귀하다",
+        "author": "만년과장",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602365",
+        "title": "삼국지 : 관평전",
+        "author": "토토리묵",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
