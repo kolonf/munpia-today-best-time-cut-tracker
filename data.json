@@ -237311,5 +237311,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T08:30:33.865040+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 3478,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 1889,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592565",
+        "title": "단종에 빙의했더니 명군으로 착각당함",
+        "author": "Poket7",
+        "view_count": 1255,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 929,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592510",
+        "title": "삼국지: 십상시 아들이라서 튑니다.",
+        "author": "박야옹",
+        "view_count": 654,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 473,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595684",
+        "title": "퇴사 후 신을 보는 눈으로 떼돈을 범.",
+        "author": "성정민",
+        "view_count": 380,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 309,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 230,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597939",
+        "title": "영초를 심었더니 수선이 너무 쉽다",
+        "author": "정예",
+        "view_count": 195,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
