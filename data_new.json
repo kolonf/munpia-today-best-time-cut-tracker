@@ -112990,5 +112990,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T21:00:42.045318+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 686,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장합니다",
+        "author": "나낭",
+        "view_count": 284,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596223",
+        "title": "신내림 받았는데 저주만 잘함",
+        "author": "사쇼",
+        "view_count": 139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599940",
+        "title": "은퇴당한 네크로맨서에게 국가가 집착함",
+        "author": "진강™",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599523",
+        "title": "지구 독립을 위해 은하 제국의 귀족이 되기로 했다",
+        "author": "시인단테",
+        "view_count": 64,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598941",
+        "title": "방출된 육성 선수가 메이저리그를 찢음",
+        "author": "백마장사",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598183",
+        "title": "부산에서 다시 시작하는 MLB 명전 투수",
+        "author": "비가싫어",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600029",
+        "title": "50조의 사나이",
+        "author": "김동휘",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598517",
+        "title": "퀘스트만 깨는데 축구가 너무 쉬움",
+        "author": "글먹다템",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598466",
+        "title": "국가권력급 헌터인줄 모르고 국가에게 버림받음",
+        "author": "나린미르",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
