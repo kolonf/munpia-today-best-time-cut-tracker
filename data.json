@@ -240191,5 +240191,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T22:00:46.240444+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594371",
+        "title": "29살 시장이 도시를 너무 잘 키움",
+        "author": "탄두리치킨",
+        "view_count": 3120,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 2029,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590070",
+        "title": "파리에서 기사식당으로 대박남",
+        "author": "우운(雨雲)",
+        "view_count": 1144,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590024",
+        "title": "2회차 공무원이 고려를 멸망시킴",
+        "author": "대박터짐",
+        "view_count": 776,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594193",
+        "title": "미국 깡촌의 천재 목장주",
+        "author": "한꽃",
+        "view_count": 587,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 119,
+        "novel_id": "589456",
+        "title": "취준생인데 전능한 신빨로 인생 역전",
+        "author": "이창연",
+        "view_count": 446,
+        "substituted": true
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587356",
+        "title": "선협에서 상태도를 얻다",
+        "author": "죽골",
+        "view_count": 336,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599043",
+        "title": "역대급 스페이스 마린은 환생한 소드마스터",
+        "author": "베라파밀",
+        "view_count": 271,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 206,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589856",
+        "title": "조선의 산업혁명이 너무 쉽다",
+        "author": "사관(史官)",
+        "view_count": 148,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
