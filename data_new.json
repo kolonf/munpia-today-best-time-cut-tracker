@@ -111646,5 +111646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T10:30:33.567098+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596773",
+        "title": "전직 교관의 슬기로운 헌터생활",
+        "author": "정육면체",
+        "view_count": 572,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598471",
+        "title": "미국 빅테크 압살하는 우주문명급 AI 와이프로 재벌되기",
+        "author": "노빠꾸맨",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595647",
+        "title": "AI 갖고 회귀한 펀드 매니저",
+        "author": "슬리버",
+        "view_count": 155,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600682",
+        "title": "고장난 우주선을 주웠는데 능력이 미쳤음",
+        "author": "백원만s",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598994",
+        "title": "은하제국 개망나니가 빙의를 숨김",
+        "author": "라가불린",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600317",
+        "title": "세종대왕님이 집착하는 소설가가 되었다",
+        "author": "박치기공룡",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595650",
+        "title": "안평대군의 두 번째 계유정난",
+        "author": "보명천",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599215",
+        "title": "쇼츠만 올려서 인생 역전",
+        "author": "셀레포",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 을사늑약을 찢음",
+        "author": "듀이문",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600379",
+        "title": "미안한데, 내 잠수함은 오하이오급이야 Part2",
+        "author": "blue27",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
