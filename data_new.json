@@ -112606,5 +112606,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T18:30:32.372715+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다",
+        "author": "시간관측자",
+        "view_count": 657,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599602",
+        "title": "우주 게임에서 나만 만렙이다",
+        "author": "통풍왔음",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600130",
+        "title": "외계 문명에 라면 팔았더니 오버테크 장비가 쏟아짐",
+        "author": "땡시기",
+        "view_count": 144,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595484",
+        "title": "즉사기 맞아도 안 죽는 국가권력급 검투사",
+        "author": "태대비",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600317",
+        "title": "세종대왕님이 집착하는 소설가가 되었다",
+        "author": "박치기공룡",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599147",
+        "title": "외계벽돌 복수선전",
+        "author": "우주병따개",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601323",
+        "title": "핵전쟁 아포칼립스에 땅굴을 숨김",
+        "author": "신선의길",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599106",
+        "title": "전능의 유전자를 얻었더니 거물들한테 집착당함",
+        "author": "솔리프1",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
