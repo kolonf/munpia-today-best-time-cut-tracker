@@ -112702,5 +112702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T19:30:34.817814+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다",
+        "author": "시간관측자",
+        "view_count": 682,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 284,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596223",
+        "title": "신내림 받았는데 저주만 잘함",
+        "author": "사쇼",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594784",
+        "title": "발롱도르 못 타면 죽는 빌런이 되어버렸다.",
+        "author": "휘휘™",
+        "view_count": 81,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599523",
+        "title": "지구 독립을 위해 은하 제국의 귀족이 되기로 했다",
+        "author": "시인단테",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597160",
+        "title": "권고사직당한 부장 IMF 전으로 회귀하다",
+        "author": "만년과장",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601232",
+        "title": "텍사스에 마사지샵 차렸더니 스타들이 내게 집착한다",
+        "author": "볼랑말랑",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599282",
+        "title": "즉사기 검 하나 들고 먼치킨 헌터",
+        "author": "녹차티",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598461",
+        "title": "에일리언 아포칼립스의 유일한 각성자가 되었다",
+        "author": "설흔(說痕)",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
