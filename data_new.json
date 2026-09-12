@@ -113950,5 +113950,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T04:00:41.655094+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597812",
+        "title": "전능 AI를 쓰니 미 특수부대가 집착한다.",
+        "author": "총골드",
+        "view_count": 528,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599011",
+        "title": "국가에게 버림받은 언령술사가 미국으로 이민감",
+        "author": "힐링이좋다",
+        "view_count": 270,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 142,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598441",
+        "title": "탑 1층에 드래곤 레어를 지었다",
+        "author": "디디다",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595250",
+        "title": "파워볼 당첨 후 미국에 산후조리원 차리자 산모들 극락감",
+        "author": "서담™",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599682",
+        "title": "우주전함 단군함을 주웠다",
+        "author": "서림SeoRim",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601164",
+        "title": "시작부터 EX급인데 성장이 멈추질 않음",
+        "author": "김판",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600257",
+        "title": "로빈슨 크루소인데 외계 무인도임",
+        "author": "구소재",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598787",
+        "title": "BANAN : 바난",
+        "author": "CreatorNow",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
