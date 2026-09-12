@@ -111934,5 +111934,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T14:00:42.203211+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 596,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598545",
+        "title": "한 달 안에 1,000조를 다 써야함",
+        "author": "솔도솔도",
+        "view_count": 267,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599043",
+        "title": "역대급 스페이스 마린은 환생한 소드마스터",
+        "author": "베라파밀",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598194",
+        "title": "은퇴 후 귀농했더니, 헌터들이 집착한다?",
+        "author": "밀가루중독",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601198",
+        "title": "재벌 3세가 버린 AI로 꿀 빱니다",
+        "author": "레드초콜릿",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601906",
+        "title": "멸망한 세상, 나만 보급품이 무한대",
+        "author": "krpx",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599653",
+        "title": "F급 영지는 묻혀있던 우주선이었다",
+        "author": "글쓰는너겟",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599482",
+        "title": "나 혼자 재앙급 눈을 얻었다",
+        "author": "키야문고",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599308",
+        "title": "회귀병사가 외계무기를 각성함.",
+        "author": "엘르.",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599282",
+        "title": "즉사기 검 하나 들고 먼치킨 헌터",
+        "author": "녹차티",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
