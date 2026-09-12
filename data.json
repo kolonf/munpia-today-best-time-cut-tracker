@@ -240767,5 +240767,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T00:30:33.793031+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "588326",
+        "title": "10서클 대마법사의 탑등반법",
+        "author": "포참",
+        "view_count": 3206,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591219",
+        "title": "퇴출당한 복원사가 손대면 국보가 된다",
+        "author": "글삭기",
+        "view_count": 1480,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 1066,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 794,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587237",
+        "title": "천하는 멀고 영지는 가난했다.",
+        "author": "천수방세옥",
+        "view_count": 561,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "583391",
+        "title": "로또 1등보다 성과급이 더 많음",
+        "author": "카이남",
+        "view_count": 418,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594393",
+        "title": "현실 코딩했더니 돈이 얼마나 쌓일지 감도 안 옴",
+        "author": "낙필",
+        "view_count": 339,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586318",
+        "title": "7부리그 클럽의 구단주가 되어 EPL까지 가봤습니다",
+        "author": "글쓴이H",
+        "view_count": 277,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598494",
+        "title": "나 혼자 우주 요새 등반",
+        "author": "산호초",
+        "view_count": 195,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 151,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
