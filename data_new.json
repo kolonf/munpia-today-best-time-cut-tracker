@@ -113278,5 +113278,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-12T23:00:40.907123+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598655",
+        "title": "초월급 우주선 상속받고 천재 과학자",
+        "author": "coldpig",
+        "view_count": 484,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599076",
+        "title": "국가에 버림받고 재앙급 나노머신을 얻었다",
+        "author": "차성",
+        "view_count": 245,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598441",
+        "title": "탑 1층에 드래곤 레어를 지었다",
+        "author": "디디다",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598922",
+        "title": "500만 유튜버가 되다. 그리고 오버테크놀로지를 얻었다",
+        "author": "카이남",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595651",
+        "title": "주님, 파문당하니 신점 천재가 되었습니다",
+        "author": "우치뭉치",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602556",
+        "title": "국가에 버림받은 은퇴당한 헌터가 돈만 쓸어담음",
+        "author": "카오카오카",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598573",
+        "title": "AI 믿었다가 사채업자 둘과 함께 무림을 정복했다",
+        "author": "비오케",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598306",
+        "title": "EX급 군단 소환으로 탑등반",
+        "author": "김한영",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598461",
+        "title": "에일리언 아포칼립스의 유일한 각성자가 되었다",
+        "author": "설흔(說痕)",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601553",
+        "title": "미궁도시의 천재 마법사",
+        "author": "유정문",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
