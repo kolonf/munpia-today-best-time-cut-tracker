@@ -114238,5 +114238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T06:00:41.925938+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599478",
+        "title": "재벌 서자의 연구소가 너무 강함",
+        "author": "이도윤",
+        "view_count": 558,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 286,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600197",
+        "title": "이세계에 환생했더니 신들이 권능을 퍼줌",
+        "author": "두파치타파",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598467",
+        "title": "퓨전펑크 종결급 신체를 얻었다",
+        "author": "매력재미",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597734",
+        "title": "미국 거물들이 내 점괘에 집착한다",
+        "author": "몹시바람",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598523",
+        "title": "층간소음 해결했더니 백악관에서 찾아옴",
+        "author": "차세나",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598573",
+        "title": "AI 믿었다가 사채업자 둘과 함께 무림을 정복했다",
+        "author": "비오케",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599805",
+        "title": "내 저그여왕이 새끼를 너무 잘까서 탑 등반이 너무 쉽다",
+        "author": "무장광부",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600568",
+        "title": "저주템인 줄 모르고 협회가 압수함",
+        "author": "사초™",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602365",
+        "title": "삼국지 : 관평전",
+        "author": "토토리묵",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
