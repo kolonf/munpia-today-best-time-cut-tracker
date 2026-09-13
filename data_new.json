@@ -114526,5 +114526,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T09:30:32.798236+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 505,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598480",
+        "title": "성간수선전(星間修仙傳)",
+        "author": "멱월",
+        "view_count": 269,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598488",
+        "title": "버림받은 일꾼이 거대 전함을 주웠다",
+        "author": "Stay.",
+        "view_count": 154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598510",
+        "title": "우주 해병 아니고 스페이스 마린인데요",
+        "author": "글고블린",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595789",
+        "title": "야구장 알바가 타자를 너무 잘함",
+        "author": "테넷",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602105",
+        "title": "S급 각성자는 미국에 1조로 영입됐다",
+        "author": "노랑™",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599991",
+        "title": "양자 AI와 싸우라고? 나 혼자?",
+        "author": "펀토크",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600333",
+        "title": "아리 1편 : 지구에 뿌려진 씨앗",
+        "author": "미카엘Arno",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601643",
+        "title": "은퇴당한 전생 당가 미국 시골로 귀농하니 우주선 주움",
+        "author": "깊은수풀",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
