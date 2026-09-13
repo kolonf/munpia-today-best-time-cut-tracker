@@ -247679,5 +247679,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T08:10:45.684706+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594760",
+        "title": "모두 탑에 갇혔는데 나만 출퇴근한다",
+        "author": "그랜드잭팟",
+        "view_count": 3636,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 2009,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592133",
+        "title": "회귀한 김대리는 속마음이 들린다",
+        "author": "킴총무",
+        "view_count": 1519,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599076",
+        "title": "국가에 버림받고 재앙급 나노머신을 얻었다",
+        "author": "차성",
+        "view_count": 1025,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 768,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594476",
+        "title": "힐링하려던 깡촌 한의사, 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 534,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596463",
+        "title": "자기계발서로 진화하는 천재 경호원",
+        "author": "증류식",
+        "view_count": 414,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601421",
+        "title": "힐만 해도 성자로 숭배함",
+        "author": "글맛",
+        "view_count": 339,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598998",
+        "title": "퓨전펑크 만렙 네크로맨서가 기연을 독식함",
+        "author": "노랑™",
+        "view_count": 255,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 204,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
