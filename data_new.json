@@ -115198,5 +115198,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T17:30:34.829042+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598780",
+        "title": "겜판을 리부트 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 643,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598514",
+        "title": "기업에게 버림받고 마법의 신이 되었다",
+        "author": "마이너전문",
+        "view_count": 265,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597872",
+        "title": "전역 후, 유럽에서 축구 선수가 되었다",
+        "author": "현진현우",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600568",
+        "title": "저주템인 줄 모르고 협회가 압수함",
+        "author": "사초™",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600214",
+        "title": "충무함, 1941년 전쟁 한복판에 회귀하다.",
+        "author": "닥터KIMDH",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600500",
+        "title": "형의 유작에 출연했다가 탑스타가 되었다",
+        "author": "버드와칭",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600483",
+        "title": "폐영석과 폐영초와 약재 찌꺼기",
+        "author": "수목담",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599535",
+        "title": "3800억 실화. 전설의 코인트레이더 워뇨띠 방법서",
+        "author": "달빛나라",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
