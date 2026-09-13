@@ -319,32 +319,37 @@ function renderWeekdayLowTable() {
   });
 
   const rows = weekdayNames.map((name, dow) => {
-    let bestHour = null;
-    let bestAvg = null;
-    let bestMin = null;
+    let lowHour = null, lowAvg = null, lowMin = null;
+    let highHour = null, highAvg = null, highMax = null;
+
     for (let h = 0; h < 24; h++) {
       const vals = buckets[dow][h];
       if (vals.length === 0) continue;
       const avg = vals.reduce((a, b) => a + b, 0) / vals.length;
-      if (bestAvg === null || avg < bestAvg) {
-        bestAvg = avg;
-        bestHour = h;
-        bestMin = Math.min(...vals);
+
+      if (lowAvg === null || avg < lowAvg) {
+        lowAvg = avg; lowHour = h; lowMin = Math.min(...vals);
+      }
+      if (highAvg === null || avg > highAvg) {
+        highAvg = avg; highHour = h; highMax = Math.max(...vals);
       }
     }
-    const cell = bestHour === null
-      ? '<span style="color:var(--muted);">데이터 부족</span>'
-      : `${bestHour}시경 (최저 ${bestMin.toLocaleString()})`;
+
+    const noData = '<span style="color:var(--muted);">데이터 부족</span>';
+    const lowCell = lowHour === null ? noData : `최저 ${lowHour}시 (${lowMin.toLocaleString()})`;
+    const highCell = highHour === null ? noData : `최고 ${highHour}시 (${highMax.toLocaleString()})`;
+
     return `
       <tr>
         <td>${name}요일</td>
-        <td class="num-cell">${cell}</td>
+        <td class="num-cell">${lowCell}</td>
+        <td class="num-cell">${highCell}</td>
       </tr>
     `;
   }).join('');
 
   table.innerHTML = `
-    <tr><th>요일</th><th style="text-align:right;">최저 조회수 시간대</th></tr>
+    <tr><th>요일</th><th style="text-align:right;">최저</th><th style="text-align:right;">최고</th></tr>
     ${rows}
   `;
 }
