@@ -114718,5 +114718,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T11:00:39.625812+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 538,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597875",
+        "title": "은퇴당한 뒤 재각성한 EX급 소환사는 시골 가서 힐링함",
+        "author": "글끌클",
+        "view_count": 284,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 156,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601676",
+        "title": "EX급 힐러인줄 모르고 국가에게 버림받음",
+        "author": "백수천",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599211",
+        "title": "선협 게임인데 시대가 다름",
+        "author": "글호떡",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598888",
+        "title": "우주 군벌이 되었다",
+        "author": "빅타이거",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601754",
+        "title": "해고당한 만년 차장은 업계 최고임",
+        "author": "타타비",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599482",
+        "title": "나 혼자 재앙급 눈을 얻었다",
+        "author": "키야문고",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600500",
+        "title": "형의 유작에 출연했다가 탑스타가 되었다",
+        "author": "버드와칭",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599282",
+        "title": "즉사기 검 하나 들고 먼치킨 헌터",
+        "author": "녹차티",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
