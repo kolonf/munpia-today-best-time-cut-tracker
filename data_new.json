@@ -116734,5 +116734,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T05:30:32.618050+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596773",
+        "title": "전직 교관의 슬기로운 헌터생활",
+        "author": "정육면체",
+        "view_count": 516,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 258,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "김치은",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601850",
+        "title": "의사 아내와 재혼 후, 전업 작가합니다.",
+        "author": "사관(史官)",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598523",
+        "title": "층간소음 해결했더니 백악관에서 찾아옴",
+        "author": "차세나",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594807",
+        "title": "대박 레시피 있는 줄 모르고 퇴사당함",
+        "author": "프로필",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599523",
+        "title": "스페이스 마린은 은하 제국의 귀족이 되기로 했다",
+        "author": "시인단테",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600162",
+        "title": "외문 제자 수선기",
+        "author": "내집말연",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602063",
+        "title": "이탈리아에서 올드카 복원으로 대박남",
+        "author": "량주",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600333",
+        "title": "아리 1편 : 지구에 뿌려진 씨앗",
+        "author": "미카엘Arno",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
