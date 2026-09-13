@@ -114910,5 +114910,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T14:00:41.333555+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장합니다",
+        "author": "나낭",
+        "view_count": 502,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598998",
+        "title": "퓨전펑크 만렙 네크로맨서가 기연을 독식함",
+        "author": "노랑™",
+        "view_count": 248,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601676",
+        "title": "EX급 힐러인줄 모르고 국가에게 버림받음",
+        "author": "백수천",
+        "view_count": 109,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599627",
+        "title": "우리 집 지하실에 선협을 숨김",
+        "author": "비상도",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599653",
+        "title": "F급 영지는 묻혀있던 우주선이었다",
+        "author": "글쓰는너겟",
+        "view_count": 58,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601164",
+        "title": "시작부터 EX급인데 성장이 멈추질 않음",
+        "author": "김판",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599345",
+        "title": "퓨전펑크 네크로맨서가 야스봇을 되살림",
+        "author": "재즈소울",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602286",
+        "title": "버려진 야산을 샀더니 영약이 쏟아짐",
+        "author": "소수림",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598626",
+        "title": "나혼자 각성함대로 4만km 돌파",
+        "author": "관우(觀雨)",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602501",
+        "title": "강속구 투수인줄 모르고 타자시킴",
+        "author": "정시연",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
