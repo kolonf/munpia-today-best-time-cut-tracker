@@ -244415,5 +244415,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T17:00:41.217364+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590518",
+        "title": "전능의 침술로 회귀했다",
+        "author": "대작살",
+        "view_count": 3080,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 2167,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589755",
+        "title": "드디어 상온 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 1487,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597806",
+        "title": "미국에서 온 삼촌이 3스타 셰프라고?",
+        "author": "상한가",
+        "view_count": 1001,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 712,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599856",
+        "title": "퓨전펑크에서 폐지 줍는 마법사",
+        "author": "글럼프",
+        "view_count": 505,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597875",
+        "title": "은퇴당한 뒤 재각성한 EX급 소환사는 시골 가서 힐링함",
+        "author": "글끌클",
+        "view_count": 415,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589456",
+        "title": "취준생인데 전능한 신빨로 인생 역전",
+        "author": "이창연",
+        "view_count": 328,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 240,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596327",
+        "title": "삼국지, 여포의 네 번째 아비가 되었다",
+        "author": "칠팔",
+        "view_count": 183,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
