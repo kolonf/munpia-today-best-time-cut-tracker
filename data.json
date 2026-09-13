@@ -243071,5 +243071,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-13T11:00:49.042710+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 3708,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 1873,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595295",
+        "title": "이혼당한 날 무신으로 귀환했다",
+        "author": "문가문가",
+        "view_count": 1366,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588713",
+        "title": "소설 속 광마가 되었다",
+        "author": "글카인",
+        "view_count": 935,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597651",
+        "title": "1조 파워볼 당첨 후, 걸그룹을 샀다",
+        "author": "죽엇푹",
+        "view_count": 662,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594177",
+        "title": "은퇴 당한 각성자가 탑 속에서 힐링함",
+        "author": "땃땃땃쥐",
+        "view_count": 489,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "587804",
+        "title": "삼국지, 말단 관리는 위촉오를 찢어",
+        "author": "쓰고또쓰고",
+        "view_count": 401,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593096",
+        "title": "퇴사하니 전세계 거물들이 집착함",
+        "author": "연함™",
+        "view_count": 319,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597939",
+        "title": "영초를 심었더니 수선이 너무 쉽다",
+        "author": "정예",
+        "view_count": 248,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594191",
+        "title": "미국 백반집 아들이 음식장사를 너무 잘함",
+        "author": "육개장.",
+        "view_count": 200,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
