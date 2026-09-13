@@ -116158,5 +116158,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T02:30:33.143242+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 495,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597810",
+        "title": "제명 당한 헌터가 구세주였다",
+        "author": "태국리",
+        "view_count": 234,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "김치은",
+        "view_count": 144,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601850",
+        "title": "의사 아내와 재혼 후, 전업 작가합니다.",
+        "author": "사관(史官)",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598523",
+        "title": "층간소음 해결했더니 백악관에서 찾아옴",
+        "author": "차세나",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601754",
+        "title": "해고당한 만년 차장은 업계 최고임",
+        "author": "타타비",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597106",
+        "title": "성간문명에서 깨어난 뱀파이어는 헌터합니다",
+        "author": "불꽃축제",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598604",
+        "title": "회귀자는 회귀가 너무 싫다",
+        "author": "잉크서점",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598466",
+        "title": "국가권력급 헌터인줄 모르고 국가에게 버림받음",
+        "author": "나린미르",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597182",
+        "title": "EX급 헌터는 더럽고 치사해서 은퇴합니다",
+        "author": "허석",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
