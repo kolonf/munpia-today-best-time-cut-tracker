@@ -251903,5 +251903,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T04:00:44.292128+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594760",
+        "title": "모두 탑에 갇혔는데 나만 출퇴근한다",
+        "author": "그랜드잭팟",
+        "view_count": 3350,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598545",
+        "title": "한 달 안에 1,000조를 다 써야함",
+        "author": "솔도솔도",
+        "view_count": 1787,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592565",
+        "title": "단종에 빙의했더니 명군으로 착각당함",
+        "author": "Poket7",
+        "view_count": 1291,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 928,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 647,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597813",
+        "title": "국가에게 버림받은 헌터가 재평가되었다",
+        "author": "찹쌀빵",
+        "view_count": 469,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594532",
+        "title": "회귀한 저니맨이 트레이드를 거부함",
+        "author": "포도맛봉봉",
+        "view_count": 376,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598471",
+        "title": "미국 빅테크 압살하는 우주문명급 AI 와이프로 재벌되기",
+        "author": "노빠꾸맨",
+        "view_count": 305,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600197",
+        "title": "이세계에 환생했더니 신들이 권능을 퍼줌",
+        "author": "두파치타파",
+        "view_count": 242,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592625",
+        "title": "차원개척으로 4번째 외계종족이 되었다.",
+        "author": "허바",
+        "view_count": 186,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
