@@ -118174,5 +118174,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T18:00:46.085706+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599040",
+        "title": "물에 잠긴 세상에서 내 배만 레벨업",
+        "author": "송탄",
+        "view_count": 657,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 316,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 140,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597906",
+        "title": "회귀 한 EX급 암살자는 탑 등반이 너무 쉽다",
+        "author": "원동",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598606",
+        "title": "우주 고물상이 전함을 복사함",
+        "author": "날없는창",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598183",
+        "title": "전직 메이저리거는 빠르게 부산을 탈출한다",
+        "author": "비가싫어",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599548",
+        "title": "마흔 살 삼류무사, 절대검신이 되다",
+        "author": "로자",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600644",
+        "title": "그리스 신화를 정상화하는 태양신이 되었다.",
+        "author": "코삼이",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603032",
+        "title": "삼국지 : 사마의의 막내 아들이 되었다.",
+        "author": "푸른뱀99",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
