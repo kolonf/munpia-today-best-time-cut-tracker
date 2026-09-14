@@ -119326,5 +119326,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T02:00:43.557052+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598514",
+        "title": "기업에게 버림받고 마법의 신이 되었다",
+        "author": "마이너전문",
+        "view_count": 448,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 224,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601676",
+        "title": "EX급 힐러인줄 모르고 국가에게 버림받음",
+        "author": "백수천",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598538",
+        "title": "우주수선전(宇宙修仙傳).",
+        "author": "볼트버니",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599438",
+        "title": "1994년, 죽은 형의 몸으로 회귀했다",
+        "author": "카이남",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601884",
+        "title": "8살에 삼체 문제 풀었더니 후원이 쏟아짐",
+        "author": "김만덕2",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598556",
+        "title": "우주 복권에 당첨되었다",
+        "author": "노다이",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598759",
+        "title": "유토피아의 누락자",
+        "author": "현주인",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602063",
+        "title": "이탈리아 올드카 복원 업계의 대부가 되었다",
+        "author": "량주",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599052",
+        "title": "게임 마일리지로 운영하는 영주님",
+        "author": "허바",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
