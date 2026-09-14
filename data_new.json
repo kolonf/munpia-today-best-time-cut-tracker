@@ -118750,5 +118750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T21:30:34.149956+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598655",
+        "title": "초월급 우주선 상속받고 천재 과학자",
+        "author": "coldpig",
+        "view_count": 598,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595647",
+        "title": "AI 갖고 회귀한 펀드 매니저",
+        "author": "슬리버",
+        "view_count": 219,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598523",
+        "title": "층간소음 해결했더니 백악관에서 찾아옴",
+        "author": "차세나",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599653",
+        "title": "F급 영지는 묻혀있던 우주선이었다",
+        "author": "글쓰는너겟",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595250",
+        "title": "파워볼 당첨 후 미국에 산후조리원 차리자 산모들 극락감",
+        "author": "서담™",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598799",
+        "title": "용사는 출근이 너무 좋다",
+        "author": "달해량",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597843",
+        "title": "만년 백업이 해적선 천재 포수가 되어 돌아왔다",
+        "author": "맥스.",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601172",
+        "title": "빙의한 천재 대군이 방송국을 씹어먹음",
+        "author": "몬도리아",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600257",
+        "title": "로빈슨 크루소인데 외계 무인도임",
+        "author": "구소재",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
