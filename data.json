@@ -249023,5 +249023,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T14:30:34.673520+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591219",
+        "title": "퇴출당한 복원사가 손대면 국보가 된다",
+        "author": "글삭기",
+        "view_count": 3038,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 2026,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594249",
+        "title": "귀환한 드루이드는 호주에서 힐링합니다",
+        "author": "글로운",
+        "view_count": 1438,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585322",
+        "title": "성종, 조선을 바로 세우다",
+        "author": "보헤미아.",
+        "view_count": 1020,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599478",
+        "title": "재벌 서자의 연구소가 너무 강함",
+        "author": "이도윤",
+        "view_count": 696,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 517,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597030",
+        "title": "깡촌 만화방 사장인데 재벌보다 돈이 더 많음",
+        "author": "백원만s",
+        "view_count": 410,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594796",
+        "title": "이혼 후 회귀한 소아외과 의사는 천재로 착각당함",
+        "author": "글끌클",
+        "view_count": 307,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600844",
+        "title": "고철값에 산 우주정거장이 문명급이었다",
+        "author": "시소조각",
+        "view_count": 223,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "느느리",
+        "view_count": 173,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
