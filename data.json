@@ -248063,5 +248063,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T10:00:39.800457+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589755",
+        "title": "드디어 상온 초전도체를 만들었다",
+        "author": "크로노크",
+        "view_count": 3724,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 2012,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590104",
+        "title": "나 혼자 차원거래로 신소재 재벌",
+        "author": "plustari",
+        "view_count": 1433,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "593937",
+        "title": "삼국지, 유비 아들 유선이 되었다",
+        "author": "신유(愼惟)",
+        "view_count": 963,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597813",
+        "title": "국가에게 버림받은 헌터가 재평가되었다",
+        "author": "찹쌀빵",
+        "view_count": 625,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 468,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595683",
+        "title": "재앙급 던전 얻었더니 국가가 집착함",
+        "author": "세른",
+        "view_count": 387,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597030",
+        "title": "깡촌 만화방 사장인데 재벌보다 돈이 더 많음",
+        "author": "백원만s",
+        "view_count": 316,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 249,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591955",
+        "title": "반려만 했는데 S급들이 줄을 섭니다",
+        "author": "강브로끄",
+        "view_count": 203,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
