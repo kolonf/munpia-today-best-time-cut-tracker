@@ -118366,5 +118366,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T19:00:42.896510+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다",
+        "author": "시간관측자",
+        "view_count": 701,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 345,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595814",
+        "title": "방탕한 도련님이 미국 자동차를 장악함",
+        "author": "역사설계자",
+        "view_count": 140,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597206",
+        "title": "조작당한 무기수는 10000년 만에 탈옥한다",
+        "author": "라떼는",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603175",
+        "title": "삼국지: 검신, 배원소가 되다",
+        "author": "지나가는쥐",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603164",
+        "title": "해고당한 연구원이 300년 뒤 미래 기술을 독점함",
+        "author": "강그린",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601451",
+        "title": "EX-은하급 우주 전함의 주인이 되었다",
+        "author": "Primus",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602574",
+        "title": "계약 만료후 로또 당첨되어 아이슬란드에서 농장경영합니다",
+        "author": "이그드라시",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598747",
+        "title": "광해군 세자가 UFO를 숨김",
+        "author": "이소파",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
