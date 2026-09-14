@@ -120190,5 +120190,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T08:30:34.253205+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599871",
+        "title": "사천당가 독마 삼촌에게 거물급이 몰려든다",
+        "author": "우르스.",
+        "view_count": 456,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 263,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602556",
+        "title": "국가에 버림받은 은퇴당한 헌터가 돈만 쓸어담음",
+        "author": "카오카오카",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598043",
+        "title": "각성 첫날 EX급 스킬을 샀다",
+        "author": "폭스테일",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602380",
+        "title": "국가에게 버림 받은 헌터가 돌아왔다.",
+        "author": "탄뽀",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598799",
+        "title": "용사는 출근이 너무 좋아",
+        "author": "달해량",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600325",
+        "title": "한식당을 차렸더니 거물들이 힐링함",
+        "author": "가지(GAZI)",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603214",
+        "title": "장모를 먹고 있는데 장인한테 걸림",
+        "author": "아니르바",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600029",
+        "title": "50조의 사나이",
+        "author": "김동휘",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602273",
+        "title": "스마트폰에 우주 생명체가 들어왔다",
+        "author": "연함™",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
