@@ -117694,5 +117694,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-14T14:30:32.792064+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599602",
+        "title": "우주 게임에서 나만 만렙이다",
+        "author": "통풍왔음",
+        "view_count": 584,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597812",
+        "title": "전능 AI를 쓰니 미 특수부대가 집착한다.",
+        "author": "총골드",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599627",
+        "title": "회사에게 버림받은 김대리가 수선자들을 다 패버림",
+        "author": "비상도",
+        "view_count": 130,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597939",
+        "title": "영초를 심었더니 수선이 너무 쉽다",
+        "author": "정예",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601850",
+        "title": "의사 아내와 재혼 후, 전업 작가합니다.",
+        "author": "사관(史官)",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601902",
+        "title": "회귀한 줄 모르고 국가가 배신함",
+        "author": "바바루",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600325",
+        "title": "한식당을 차렸더니 거물들이 힐링함",
+        "author": "가지(GAZI)",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599227",
+        "title": "피지컬 최강 모산파 도사가 퇴마합니다",
+        "author": "네딸아빠",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601204",
+        "title": "제명당한 한의사가 미국에서 대박남",
+        "author": "시래클",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
