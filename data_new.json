@@ -121438,5 +121438,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T16:00:42.766543+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597177",
+        "title": "해고 후 미래를 보고 복권부터 당첨, 힐링합니다",
+        "author": "늬파랑",
+        "view_count": 504,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602556",
+        "title": "국가에 버림받은 은퇴당한 헌터가 돈만 쓸어담음",
+        "author": "카오카오카",
+        "view_count": 241,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597906",
+        "title": "배신 당한 탱커가 EX급 각성함",
+        "author": "원동",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600910",
+        "title": "포션수선전",
+        "author": "오구진",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589262",
+        "title": "사나운 달이 뜨는 도시",
+        "author": "어두운글",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600644",
+        "title": "그리스 신화를 정상화하는 태양신이 되었다.",
+        "author": "코삼이",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598626",
+        "title": "낚시배 선장에게 인공지능 각성함이 생김",
+        "author": "관우(觀雨)",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601884",
+        "title": "8살에 삼체 문제 풀었더니 후원이 쏟아짐",
+        "author": "김만덕2",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
