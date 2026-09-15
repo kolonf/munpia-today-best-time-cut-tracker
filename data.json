@@ -257759,5 +257759,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T08:00:39.386273+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589315",
+        "title": "위기감지 능력으로 투자했더니 흑막으로 착각당했다",
+        "author": "비건두부",
+        "view_count": 3067,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599856",
+        "title": "퓨전펑크에서 폐지 줍는 마법사",
+        "author": "글럼프",
+        "view_count": 1792,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592051",
+        "title": "미국 3천억 파워볼 당첨자인데 빈 통장으로 회귀함",
+        "author": "기신",
+        "view_count": 1284,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595562",
+        "title": "1979 장포스, 반란군 뚝배기 깨고 대한민국 캐리한다",
+        "author": "선우선사",
+        "view_count": 849,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596773",
+        "title": "전직 교관의 슬기로운 헌터생활",
+        "author": "정육면체",
+        "view_count": 635,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596909",
+        "title": "천대받던 사생아가 IMF로 회귀해버림",
+        "author": "타타비",
+        "view_count": 502,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594532",
+        "title": "회귀한 저니맨이 트레이드를 거부함",
+        "author": "포도맛봉봉",
+        "view_count": 386,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "김치은",
+        "view_count": 319,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 254,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597709",
+        "title": "은퇴 당한 버퍼가 유일급 디버프 능력 각성함",
+        "author": "연애재판",
+        "view_count": 192,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
