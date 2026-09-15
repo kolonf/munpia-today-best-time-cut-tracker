@@ -120574,5 +120574,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T11:00:38.960256+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 471,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598488",
+        "title": "버림받은 일꾼이 행성 설계 능력을 각성했다",
+        "author": "Stay.",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598922",
+        "title": "500만 유튜버가 되다. 그리고 오버테크놀로지를 얻었다",
+        "author": "카이남",
+        "view_count": 136,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596404",
+        "title": "미국에서 파워볼 당첨되고 택시운전하면서 힐링함",
+        "author": "홍연호",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602105",
+        "title": "S급 각성자는 미국에 1조로 영입됐다",
+        "author": "노랑™",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601884",
+        "title": "8살에 삼체 문제 풀었더니 후원이 쏟아짐",
+        "author": "김만덕2",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601010",
+        "title": "이토록 고요한 종말을",
+        "author": "이고종",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598034",
+        "title": "조선에서 쉬었음 청년이 무공으로 휩쓸고 다님",
+        "author": "단군하부지",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599986",
+        "title": "eX급 우주모함으로 탑 등반!",
+        "author": "참새친구",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
