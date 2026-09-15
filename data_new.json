@@ -123454,5 +123454,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T06:00:39.593449+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장합니다",
+        "author": "나낭",
+        "view_count": 538,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598998",
+        "title": "퓨전펑크 만렙 네크로맨서가 기연을 독식함",
+        "author": "노랑™",
+        "view_count": 256,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598576",
+        "title": "폐업 직전 놀이공원이 초월급 기술을 독점함",
+        "author": "초록코끼리",
+        "view_count": 116,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601676",
+        "title": "EX급 힐러인줄 모르고 국가에게 버림받음",
+        "author": "백수천",
+        "view_count": 95,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598662",
+        "title": "패망한 한국의 테란 사령관이 되었다",
+        "author": "MD92",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601164",
+        "title": "시작부터 EX급 천재 마법사는 탑 독식이 달달하다",
+        "author": "김판",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598917",
+        "title": "불시착한 김에 행성 개발자가 되었다.",
+        "author": "레드풋",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598604",
+        "title": "회귀자는 회귀가 너무 싫다",
+        "author": "잉크서점",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599537",
+        "title": "망돌 동생을 역주행시키는 중입니다",
+        "author": "건휘연",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598700",
+        "title": "쉘터 AI가 됐지만 갤질이 더 급함",
+        "author": "모짜초코",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
