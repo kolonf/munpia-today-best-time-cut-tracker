@@ -123646,5 +123646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T07:00:41.418864+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 519,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 269,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600242",
+        "title": "과학 기술로만 리그 등반",
+        "author": "05林",
+        "view_count": 123,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601676",
+        "title": "EX급 힐러인줄 모르고 국가에게 버림받음",
+        "author": "백수천",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597406",
+        "title": "회장님, 발기부전 치료 받으려면 줄부터 서세요",
+        "author": "극복밤송",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601164",
+        "title": "시작부터 EX급 천재 마법사는 탑 독식이 달달하다",
+        "author": "김판",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600325",
+        "title": "이세계에 한식당을 차렸더니 거물들이 힐링함",
+        "author": "가지(GAZI)",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600257",
+        "title": "로빈슨 크루소인데 외계 무인도임",
+        "author": "구소재",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599537",
+        "title": "망돌 동생을 역주행시키는 중입니다",
+        "author": "건휘연",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595501",
+        "title": "나혼자 고대무공을 계승함",
+        "author": "묭묭거사",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
