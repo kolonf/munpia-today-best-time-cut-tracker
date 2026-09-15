@@ -253439,5 +253439,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T11:30:33.441388+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 3485,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598545",
+        "title": "한 달 안에 1,000조를 다 써야함",
+        "author": "솔도솔도",
+        "view_count": 2129,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588685",
+        "title": "동물병원 열었더니 환자들이 내게 집착함",
+        "author": "점핑까치",
+        "view_count": 1525,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585322",
+        "title": "성종, 조선을 바로 세우다",
+        "author": "보헤미아.",
+        "view_count": 970,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600130",
+        "title": "외계 문명에 라면 팔았더니 오버테크 장비가 쏟아짐",
+        "author": "땡시기",
+        "view_count": 679,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 493,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597645",
+        "title": "국가권력급 킬러가 삼촌을 잘함",
+        "author": "지곡.",
+        "view_count": 417,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 340,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597709",
+        "title": "은퇴 당한 버퍼가 유일급 디버프 능력 각성함",
+        "author": "연애재판",
+        "view_count": 261,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592476",
+        "title": "군필 여고생은 밴드가 너무 쉽다",
+        "author": "이터널",
+        "view_count": 186,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
