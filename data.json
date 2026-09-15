@@ -254783,5 +254783,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T18:00:39.827445+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 3128,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589315",
+        "title": "위기감지 능력으로 투자했더니 흑막으로 착각당했다",
+        "author": "비건두부",
+        "view_count": 2071,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598545",
+        "title": "한 달 안에 1,000조를 다 써야함",
+        "author": "솔도솔도",
+        "view_count": 1222,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599856",
+        "title": "퓨전펑크에서 폐지 줍는 마법사",
+        "author": "글럼프",
+        "view_count": 851,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593148",
+        "title": "100억 물려받고 낭만 만물트럭커",
+        "author": "글거북.",
+        "view_count": 614,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597030",
+        "title": "졸부집 막내사위가 이혼 직전에 처가 재산 다 먹음",
+        "author": "백원만s",
+        "view_count": 495,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장합니다",
+        "author": "나낭",
+        "view_count": 380,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600875",
+        "title": "천마신교 서고지기는 재벌가 막둥이로 힐링 합니다",
+        "author": "배소리",
+        "view_count": 284,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599899",
+        "title": "아뇨? 흑마법사 아니고 법사인데요?",
+        "author": "알랜더",
+        "view_count": 218,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "599627",
+        "title": "회사에게 버림받은 김대리가 수선자들을 다 패버림",
+        "author": "비상도",
+        "view_count": 172,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
