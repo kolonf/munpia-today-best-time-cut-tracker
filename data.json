@@ -255455,5 +255455,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T21:30:38.935636+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596924",
+        "title": "퇴직금으로 산 무인도에서 취미로 돈 법니다",
+        "author": "이구공",
+        "view_count": 3305,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590312",
+        "title": "기억흡수 헌터의 게이트 독식법",
+        "author": "기뮹스",
+        "view_count": 2130,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599040",
+        "title": "물에 잠긴 세상에서 내 배만 레벨업",
+        "author": "송탄",
+        "view_count": 1237,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598459",
+        "title": "과거를 송출하는 스트리머가 되었다",
+        "author": "시간관측자",
+        "view_count": 790,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597806",
+        "title": "미국에서 온 삼촌이 3스타 셰프라고?",
+        "author": "상한가",
+        "view_count": 589,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 458,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597030",
+        "title": "졸부집 막내사위가 이혼 직전에 처가 재산 다 먹음",
+        "author": "백원만s",
+        "view_count": 349,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593109",
+        "title": "프로이센 사략선 선장이 되었다",
+        "author": "I알자스I",
+        "view_count": 269,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596327",
+        "title": "삼국지, 여포의 네 번째 아비가 되었다",
+        "author": "칠팔",
+        "view_count": 223,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 177,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
