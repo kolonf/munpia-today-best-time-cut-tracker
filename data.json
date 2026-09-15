@@ -254879,5 +254879,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T18:30:35.023696+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592487",
+        "title": "국가권력급 헌터",
+        "author": "대문호",
+        "view_count": 3147,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 2164,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597651",
+        "title": "1조 파워볼 당첨 후, 걸그룹을 샀다",
+        "author": "죽엇푹",
+        "view_count": 1379,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599478",
+        "title": "재벌 서자의 연구소가 너무 강함",
+        "author": "이도윤",
+        "view_count": 919,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597810",
+        "title": "제명 당한 헌터가 구세주였다",
+        "author": "태국리",
+        "view_count": 636,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592402",
+        "title": "퓨전펑크 무당은 외신을 모신다",
+        "author": "범미르",
+        "view_count": 509,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589456",
+        "title": "취준생인데 전능한 신빨로 인생 역전",
+        "author": "이창연",
+        "view_count": 384,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "594393",
+        "title": "현실 코딩했더니 돈이 얼마나 쌓일지 감도 안 옴",
+        "author": "낙필",
+        "view_count": 306,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595614",
+        "title": "뉴욕 헌책방의 천재 복원사",
+        "author": "꼬노네",
+        "view_count": 236,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589164",
+        "title": "빙하기 아포칼립스에서 찜질방을 운영함",
+        "author": "차재현",
+        "view_count": 187,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
