@@ -257183,5 +257183,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T05:30:34.661205+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 3170,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599856",
+        "title": "퓨전펑크에서 폐지 줍는 마법사",
+        "author": "글럼프",
+        "view_count": 1739,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594193",
+        "title": "미국 깡촌의 천재 목장주",
+        "author": "한꽃",
+        "view_count": 1159,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596806",
+        "title": "전업주부인데 재벌보다 돈이 많음",
+        "author": "너구율",
+        "view_count": 845,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597651",
+        "title": "1조 파워볼 당첨 후, 걸그룹을 샀다",
+        "author": "죽엇푹",
+        "view_count": 637,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601421",
+        "title": "힐만 해도 성자로 숭배함",
+        "author": "글맛",
+        "view_count": 482,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593035",
+        "title": "삼국지 공명을 대신하게 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 369,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589963",
+        "title": "전생을 각성했더니 할리우드가 집착한다",
+        "author": "송송백",
+        "view_count": 300,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598221",
+        "title": "세종의 농사 노예가 되었다",
+        "author": "으힛",
+        "view_count": 238,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597709",
+        "title": "은퇴 당한 버퍼가 유일급 디버프 능력 각성함",
+        "author": "연애재판",
+        "view_count": 165,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
