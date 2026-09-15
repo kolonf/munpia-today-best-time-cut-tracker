@@ -252959,5 +252959,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-15T09:30:36.795665+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 3517,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 1976,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592565",
+        "title": "단종에 빙의했더니 명군으로 착각당함",
+        "author": "Poket7",
+        "view_count": 1435,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585322",
+        "title": "성종, 조선을 바로 세우다",
+        "author": "보헤미아.",
+        "view_count": 908,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595480",
+        "title": "부모님 칠순잔치에 용돈 100억을 드렸다",
+        "author": "김시놉",
+        "view_count": 644,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 462,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596148",
+        "title": "유럽에서 망한 가게를 물려받았는데 해달이 보물을 주워옴",
+        "author": "무던",
+        "view_count": 391,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598480",
+        "title": "성간수선전(星間修仙傳)",
+        "author": "멱월",
+        "view_count": 315,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598998",
+        "title": "퓨전펑크 만렙 네크로맨서가 기연을 독식함",
+        "author": "노랑™",
+        "view_count": 259,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "595814",
+        "title": "방탕한 도련님이 미국 자동차를 장악함",
+        "author": "역사설계자",
+        "view_count": 197,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
