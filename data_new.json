@@ -124606,5 +124606,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T15:30:34.665262+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600113",
+        "title": "나 혼자 탑 밖으로 능력쓰니 전 세계가 벌벌 떰",
+        "author": "고락",
+        "view_count": 504,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600568",
+        "title": "저주템인 줄 모르고 협회가 압수함",
+        "author": "사초™",
+        "view_count": 311,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597939",
+        "title": "영초를 심었더니 수선이 너무 쉽다",
+        "author": "정예",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601264",
+        "title": "귀환한 대마법사는 지구가 너무 쉽다",
+        "author": "눈에띄네",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601881",
+        "title": "힐러로 각성했는데 암살이 너무 쉬움",
+        "author": "글GPT",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598556",
+        "title": "우주 복권에 당첨되었다",
+        "author": "노다이",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600271",
+        "title": "아내 모습을 훔친 외계인이랑 같이 살게 됐다",
+        "author": "안신아",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
