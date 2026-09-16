@@ -260831,5 +260831,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T22:00:43.284529+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592470",
+        "title": "행운 EX 원딜은 탑 등반이 맛있다",
+        "author": "건태양",
+        "view_count": 3292,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591653",
+        "title": "무림에서 돌아왔더니 연예계가 집착함",
+        "author": "소공동",
+        "view_count": 2165,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594760",
+        "title": "모두 탑에 갇혔는데 나만 출퇴근한다",
+        "author": "그랜드잭팟",
+        "view_count": 1280,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590104",
+        "title": "나 혼자 차원거래로 신소재 재벌",
+        "author": "plustari",
+        "view_count": 725,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583471",
+        "title": "삼국지: 회귀한 여포가 양아버지를 거부함",
+        "author": "잡탕드래곤",
+        "view_count": 588,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598514",
+        "title": "퓨전펑크 기업에게 버림받고 마법의 신이 되었다",
+        "author": "마이너전문",
+        "view_count": 449,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 332,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600814",
+        "title": "나 혼자 EX급 각성자라 전 세계를 쥐고 흔듬",
+        "author": "정적",
+        "view_count": 214,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601421",
+        "title": "힐만 해도 성자로 숭배함",
+        "author": "글맛",
+        "view_count": 167,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
