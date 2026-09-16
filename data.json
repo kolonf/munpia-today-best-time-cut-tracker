@@ -257951,5 +257951,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T09:00:40.651815+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 3180,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594510",
+        "title": "19세기 대영제국에서 K-빵집으로 대박남",
+        "author": "글쓰는너겟",
+        "view_count": 1873,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "588313",
+        "title": "내 인벤토리에서 SS급 대본이 쏟아짐",
+        "author": "바람길따라",
+        "view_count": 1261,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "585322",
+        "title": "성종, 조선을 바로 세우다",
+        "author": "보헤미아.",
+        "view_count": 866,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 631,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599871",
+        "title": "사천당가 독마 삼촌에게 거물급이 몰려든다",
+        "author": "우르스.",
+        "view_count": 483,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596283",
+        "title": "선협 농사가 쉽다",
+        "author": "탄산수영장",
+        "view_count": 387,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589963",
+        "title": "전생을 각성했더니 할리우드가 집착한다",
+        "author": "송송백",
+        "view_count": 320,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598221",
+        "title": "세종의 농사 노예가 되었다",
+        "author": "으힛",
+        "view_count": 245,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592121",
+        "title": "F급 힐러가 몬스터를 너무 잘 고침",
+        "author": "능소",
+        "view_count": 186,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
