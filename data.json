@@ -258143,5 +258143,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-16T09:30:32.509878+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589315",
+        "title": "위기감지 능력으로 투자했더니 흑막으로 착각당했다",
+        "author": "비건두부",
+        "view_count": 3170,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 1978,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "589923",
+        "title": "로또 당첨되고 힐링이나 하며 살랍니다",
+        "author": "염주",
+        "view_count": 1342,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 852,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598858",
+        "title": "우주로 가려면 대전에서 환승하세요.",
+        "author": "닥터KIMDH",
+        "view_count": 645,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598994",
+        "title": "은하제국 개망나니가 빙의를 숨김",
+        "author": "라가불린",
+        "view_count": 480,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593035",
+        "title": "삼국지 공명을 대신하게 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 383,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 292,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "573591",
+        "title": "칼 맞은 변호사인데 거짓말이 다 보임",
+        "author": "기신",
+        "view_count": 231,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594191",
+        "title": "미국 백반집 아들이 음식장사를 너무 잘함",
+        "author": "육개장.",
+        "view_count": 170,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
