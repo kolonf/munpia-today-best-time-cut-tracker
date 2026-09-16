@@ -263135,5 +263135,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-17T08:30:36.274843+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590467",
+        "title": "먼치킨 검성의 탑 등반",
+        "author": "별끝작가",
+        "view_count": 3208,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 1956,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 1210,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596824",
+        "title": "회귀한 아들이 부모님에게 땅부터 사라고 했다",
+        "author": "강그린",
+        "view_count": 844,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592510",
+        "title": "삼국지: 십상시 아들이라서 튑니다.",
+        "author": "박야옹",
+        "view_count": 643,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600519",
+        "title": "초과학 문명으로 세계 정복",
+        "author": "yespro",
+        "view_count": 535,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592150",
+        "title": "회귀한 도축 업자는 몬스터가 너무 쉽다",
+        "author": "리얼제로",
+        "view_count": 390,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600814",
+        "title": "나 혼자 EX급 각성자라 전 세계를 쥐고 흔듬",
+        "author": "정적",
+        "view_count": 328,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 254,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 188,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
