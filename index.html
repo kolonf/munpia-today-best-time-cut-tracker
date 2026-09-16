@@ -66,7 +66,6 @@
   .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
   .tab:hover:not(.active) { color: var(--ink); }
 
-  /* 달력 */
   .cal-header {
     display: flex;
     align-items: center;
@@ -119,6 +118,26 @@
   .cal-day.empty-cell { visibility: hidden; }
   .day-detail-title { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
   .cutline-title { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
+
+  .time-select-wrap {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .time-select-wrap select {
+    background: var(--line);
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+  }
+  .time-select-wrap select:focus { border-color: var(--accent); }
 </style>
 </head>
 <body>
@@ -141,7 +160,7 @@
           <canvas id="dayChart"></canvas>
         </div>
         <div class="panel">
-          <h2>요일별 최저,최고 조회수 시간대</h2>
+          <h2>요일별 조회수 시간대</h2>
           <div class="cutline-title">최근 7일 데이터 기준 (200위)</div>
           <table id="weekdayLowTable"></table>
         </div>
@@ -155,6 +174,10 @@
             <button id="nextMonth">다음 ›</button>
           </div>
           <div class="cal-grid" id="calGrid"></div>
+          <div class="time-select-wrap" id="timeSelectWrap" style="display:none;">
+            <span>시각 선택:</span>
+            <select id="timeSelect"></select>
+          </div>
         </div>
         <div class="panel">
           <h2>페이지별 커트라인</h2>
@@ -180,7 +203,7 @@ async function load() {
   allData = data.filter(d => d && d.ranks);
 
   renderCurrent();
-  renderCutlineTable();
+  renderCutlineTable(null);
   renderWeekdayLowTable();
 
   const nowParts = kstNowParts();
@@ -189,21 +212,17 @@ async function load() {
   selectedKey = `${nowParts.year}-${pad2(nowParts.month)}-${pad2(nowParts.day)}`;
   renderCalendar();
   renderDayChart(selectedKey);
+  updateTimeSelect(selectedKey);
 }
 
-function pad2(n) {
-  return String(n).padStart(2, '0');
-}
+function pad2(n) { return String(n).padStart(2, '0'); }
 
 function kstParts(isoString) {
   const m = isoString.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);
   if (!m) return null;
   return {
-    year: parseInt(m[1], 10),
-    month: parseInt(m[2], 10),
-    day: parseInt(m[3], 10),
-    hour: parseInt(m[4], 10),
-    minute: parseInt(m[5], 10),
+    year: parseInt(m[1], 10), month: parseInt(m[2], 10),
+    day: parseInt(m[3], 10), hour: parseInt(m[4], 10), minute: parseInt(m[5], 10),
   };
 }
 
@@ -211,12 +230,7 @@ function kstNowParts() {
   const now = new Date();
   const utcMs = now.getTime() + now.getTimezoneOffset() * 60000;
   const kst = new Date(utcMs + 9 * 60 * 60000);
-  return {
-    year: kst.getFullYear(),
-    month: kst.getMonth() + 1,
-    day: kst.getDate(),
-    hour: kst.getHours(),
-  };
+  return { year: kst.getFullYear(), month: kst.getMonth() + 1, day: kst.getDate(), hour: kst.getHours() };
 }
 
 function kstWeekday(year, month, day) {
@@ -227,14 +241,17 @@ function formatKst(isoString) {
   return new Date(isoString).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
 }
 
+function formatKstShort(isoString) {
+  const p = kstParts(isoString);
+  return `${pad2(p.hour)}:${pad2(p.minute)}`;
+}
+
 function dateKey(record) {
   const p = kstParts(record.timestamp);
   return `${p.year}-${pad2(p.month)}-${pad2(p.day)}`;
 }
 
-function novelUrl(novelId) {
-  return `https://www.munpia.com/novel/detail/${novelId}`;
-}
+function novelUrl(novelId) { return `https://www.munpia.com/novel/detail/${novelId}`; }
 
 function titleHtml(title, novelId) {
   const safeTitle = title ? title : '(제목 미확인)';
@@ -259,8 +276,7 @@ function renderCurrent() {
   }
   const r200 = latest.ranks['200'];
   const subNote = r200.substituted
-    ? ` <span style="color:var(--muted);font-size:12px;">(200위 감지 실패 — ${r200.actual_rank}위로 대체)</span>`
-    : '';
+    ? ` <span style="color:var(--muted);font-size:12px;">(200위 감지 실패 — ${r200.actual_rank}위로 대체)</span>` : '';
   currentPanel.innerHTML = `
     <div class="current">
       <div class="num">${r200.view_count.toLocaleString()}</div>
@@ -270,22 +286,21 @@ function renderCurrent() {
   `;
 }
 
-function renderCutlineTable() {
+function renderCutlineTable(record) {
   const table = document.getElementById('cutlineTable');
   const titleEl = document.getElementById('cutlineTitle');
-  const latest = latestValidRecord();
-  if (!latest) { table.innerHTML = ''; titleEl.textContent = ''; return; }
+  const r = record || latestValidRecord();
+  if (!r) { table.innerHTML = ''; titleEl.textContent = ''; return; }
 
-  titleEl.textContent = `${formatKst(latest.timestamp)} 기준`;
+  titleEl.textContent = `${formatKst(r.timestamp)} 기준`;
 
   const rows = PAGE_RANKS.map((rank, idx) => {
     const page = idx + 1;
-    const entry = latest.ranks[String(rank)];
+    const entry = r.ranks[String(rank)];
     const views = entry && entry.view_count !== null ? entry.view_count.toLocaleString() : '-';
     const titleLink = entry ? titleHtml(entry.title, entry.novel_id) : '(제목 미확인)';
     const subNote = entry && entry.substituted
-      ? ` <span style="color:var(--muted);">(${entry.actual_rank}위로 대체)</span>`
-      : '';
+      ? ` <span style="color:var(--muted);">(${entry.actual_rank}위로 대체)</span>` : '';
     return `
       <tr>
         <td>${titleLink} - ${page}페이지 커트 (${rank}위)${subNote}</td>
@@ -311,7 +326,6 @@ function renderWeekdayLowTable() {
   });
 
   const buckets = Array.from({ length: 7 }, () => Array.from({ length: 24 }, () => []));
-
   recent.forEach(r => {
     const p = kstParts(r.timestamp);
     const dow = kstWeekday(p.year, p.month, p.day);
@@ -321,24 +335,16 @@ function renderWeekdayLowTable() {
   const rows = weekdayNames.map((name, dow) => {
     let lowHour = null, lowAvg = null, lowMin = null;
     let highHour = null, highAvg = null, highMax = null;
-
     for (let h = 0; h < 24; h++) {
       const vals = buckets[dow][h];
       if (vals.length === 0) continue;
       const avg = vals.reduce((a, b) => a + b, 0) / vals.length;
-
-      if (lowAvg === null || avg < lowAvg) {
-        lowAvg = avg; lowHour = h; lowMin = Math.min(...vals);
-      }
-      if (highAvg === null || avg > highAvg) {
-        highAvg = avg; highHour = h; highMax = Math.max(...vals);
-      }
+      if (lowAvg === null || avg < lowAvg) { lowAvg = avg; lowHour = h; lowMin = Math.min(...vals); }
+      if (highAvg === null || avg > highAvg) { highAvg = avg; highHour = h; highMax = Math.max(...vals); }
     }
-
     const noData = '<span style="color:var(--muted);">데이터 부족</span>';
     const lowCell = lowHour === null ? noData : `최저 ${lowHour}시 (${lowMin.toLocaleString()})`;
     const highCell = highHour === null ? noData : `최고 ${highHour}시 (${highMax.toLocaleString()})`;
-
     return `
       <tr>
         <td>${name}요일</td>
@@ -354,13 +360,34 @@ function renderWeekdayLowTable() {
   `;
 }
 
+function updateTimeSelect(key) {
+  const wrap = document.getElementById('timeSelectWrap');
+  const select = document.getElementById('timeSelect');
+  const dayRecords = allData.filter(d =>
+    dateKey(d) === key && d.ranks && d.ranks['200'] && d.ranks['200'].view_count !== null
+  );
+
+  if (dayRecords.length === 0) { wrap.style.display = 'none'; return; }
+
+  wrap.style.display = 'flex';
+  select.innerHTML = dayRecords.map((r, i) =>
+    `<option value="${i}">${formatKstShort(r.timestamp)} — ${r.ranks['200'].view_count.toLocaleString()}</option>`
+  ).join('');
+
+  select.selectedIndex = dayRecords.length - 1;
+  renderCutlineTable(dayRecords[dayRecords.length - 1]);
+
+  select.onchange = () => {
+    renderCutlineTable(dayRecords[parseInt(select.value)]);
+  };
+}
+
 function renderCalendar() {
   const calTitle = document.getElementById('calTitle');
   const calGrid = document.getElementById('calGrid');
   calTitle.textContent = `${calYear}년 ${calMonth + 1}월`;
 
   const datesWithData = new Set(allData.map(dateKey));
-
   const dowNames = ['일', '월', '화', '수', '목', '금', '토'];
   let html = dowNames.map(d => `<div class="cal-dow">${d}</div>`).join('');
 
@@ -368,9 +395,7 @@ function renderCalendar() {
   const startWeekday = firstDay.getDay();
   const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
 
-  for (let i = 0; i < startWeekday; i++) {
-    html += `<div class="cal-day empty-cell"></div>`;
-  }
+  for (let i = 0; i < startWeekday; i++) html += `<div class="cal-day empty-cell"></div>`;
 
   for (let day = 1; day <= daysInMonth; day++) {
     const m = String(calMonth + 1).padStart(2, '0');
@@ -388,6 +413,7 @@ function renderCalendar() {
       selectedKey = el.getAttribute('data-key');
       renderCalendar();
       renderDayChart(selectedKey);
+      updateTimeSelect(selectedKey);
     });
   });
 }
@@ -395,7 +421,6 @@ function renderCalendar() {
 function renderDayChart(key) {
   const dayDetailTitle = document.getElementById('dayDetailTitle');
   const dayRecords = allData.filter(d => dateKey(d) === key);
-
   const [y, m, d] = key.split('-').map(Number);
 
   const hourly = new Array(24).fill(null);
@@ -410,28 +435,19 @@ function renderDayChart(key) {
 
   const validValues = hourly.filter(v => v !== null);
   const dayAvgText = validValues.length > 0
-    ? ` — 하루 평균 ${Math.round(validValues.reduce((a, b) => a + b, 0) / validValues.length).toLocaleString()}`
-    : '';
+    ? ` — 하루 평균 ${Math.round(validValues.reduce((a, b) => a + b, 0) / validValues.length).toLocaleString()}` : '';
   dayDetailTitle.textContent = `${y}년 ${m}월 ${d}일 — 0시부터 24시까지 시간대별 조회수 (200위)${dayAvgText}`;
 
   const labels = Array.from({ length: 24 }, (_, h) => `${h}시`);
-
-  if (dayChartInstance) {
-    dayChartInstance.destroy();
-  }
+  if (dayChartInstance) dayChartInstance.destroy();
   dayChartInstance = new Chart(document.getElementById('dayChart'), {
     type: 'line',
     data: {
       labels,
       datasets: [{
-        label: '조회수',
-        data: hourly,
-        borderColor: '#6ee7c8',
-        backgroundColor: 'rgba(110,231,200,0.12)',
-        fill: true,
-        tension: 0.3,
-        spanGaps: true,
-        pointRadius: 3,
+        label: '조회수', data: hourly,
+        borderColor: '#6ee7c8', backgroundColor: 'rgba(110,231,200,0.12)',
+        fill: true, tension: 0.3, spanGaps: true, pointRadius: 3,
       }]
     },
     options: {
