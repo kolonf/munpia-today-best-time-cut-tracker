@@ -265055,5 +265055,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-17T17:30:34.751916+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596924",
+        "title": "퇴직금으로 산 무인도에서 취미로 돈 법니다",
+        "author": "이구공",
+        "view_count": 3540,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 2064,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595787",
+        "title": "폐업 직전 한의사는 전생에 신의였다",
+        "author": "블럭통통",
+        "view_count": 1261,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 849,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592625",
+        "title": "차원개척으로 4번째 외계종족이 되었다.",
+        "author": "허바",
+        "view_count": 609,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594437",
+        "title": "회귀 후 S급 스킬로 탑 등반",
+        "author": "태영(太影)",
+        "view_count": 465,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594847",
+        "title": "선협에서 사영근도 장생합니다",
+        "author": "글먹는쿠마",
+        "view_count": 358,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "김치은",
+        "view_count": 263,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599899",
+        "title": "힐링 안하면 죽는 병걸림",
+        "author": "알랜더",
+        "view_count": 215,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "597645",
+        "title": "국가권력급 킬러가 삼촌을 잘함",
+        "author": "지곡.",
+        "view_count": 166,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
