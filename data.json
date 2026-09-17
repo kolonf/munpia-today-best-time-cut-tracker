@@ -263999,5 +263999,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-17T12:30:35.065739+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 3371,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599856",
+        "title": "퓨전펑크에서 폐지 줍는 마법사",
+        "author": "글럼프",
+        "view_count": 2179,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596591",
+        "title": "천재 뮤지션이었던 전생을 각성함",
+        "author": "공중누각",
+        "view_count": 1419,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 907,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 606,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594240",
+        "title": "방구석 먼치킨",
+        "author": "호종이",
+        "view_count": 461,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 373,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598103",
+        "title": "1000억 벌었는데 오늘도 대리 뜁니다",
+        "author": "도리팍",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "593109",
+        "title": "프로이센 사략선 선장이 되었다",
+        "author": "I알자스I",
+        "view_count": 236,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "585279",
+        "title": "자동수선전",
+        "author": "LunStellar",
+        "view_count": 163,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
