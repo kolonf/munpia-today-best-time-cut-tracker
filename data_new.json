@@ -128638,5 +128638,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-17T20:00:40.382007+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 721,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597709",
+        "title": "은퇴 당한 버퍼가 유일급 디버프 능력 각성함",
+        "author": "연애재판",
+        "view_count": 354,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600929",
+        "title": "운명을 뒤엎는 라디오 상담",
+        "author": "바람빛",
+        "view_count": 149,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598662",
+        "title": "패망한 한국의 테란 사령관이 되었다",
+        "author": "MD92",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598510",
+        "title": "우주 해병 아니고 스페이스 마린인데요",
+        "author": "글고블린",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601451",
+        "title": "EX-은하급 우주 전함의 주인이 되었다",
+        "author": "Primus",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601470",
+        "title": "EX급 눈으로 탑 등반 날먹하겠습니다",
+        "author": "마교졸개",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604025",
+        "title": "이혼 다음날 파워볼 당첨됨",
+        "author": "필봉팔",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598700",
+        "title": "종말 쉘터의 미친 AI가 되었다",
+        "author": "모짜초코",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
