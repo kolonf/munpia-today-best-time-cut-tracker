@@ -266975,5 +266975,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-18T03:00:42.606123+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594722",
+        "title": "전능의 투자 능력을 얻은 날 해고 당했다",
+        "author": "제3소년",
+        "view_count": 2891,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592974",
+        "title": "미국에서 한식 풀었더니 이웃들이 너무 집착함",
+        "author": "방탄커피",
+        "view_count": 1834,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594495",
+        "title": "격투 천재는 궤적이 다 보임",
+        "author": "콜레오",
+        "view_count": 1020,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "587838",
+        "title": "반도체 회사 대리가 결함을 잘 봄",
+        "author": "시온유",
+        "view_count": 746,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595684",
+        "title": "퇴사 후 신을 보는 눈으로 떼돈을 범.",
+        "author": "성정민",
+        "view_count": 561,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 119,
+        "novel_id": "600875",
+        "title": "천마신교 서고지기는 재벌가 막둥이로 힐링 합니다",
+        "author": "배소리",
+        "view_count": 437,
+        "substituted": true
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589460",
+        "title": "회귀자의 슬기로운 투자생활",
+        "author": "일시불",
+        "view_count": 342,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597872",
+        "title": "전역 후, 유럽에서 축구 선수가 되었다",
+        "author": "현진현우",
+        "view_count": 249,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591598",
+        "title": "한국인 초짜 감독이 폐급 구단을 살림",
+        "author": "필로스",
+        "view_count": 184,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599211",
+        "title": "선협 게임인데 시대가 다름",
+        "author": "글호떡",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
