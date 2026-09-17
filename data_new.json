@@ -127870,5 +127870,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-17T13:30:35.568499+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600875",
+        "title": "천마신교 서고지기는 재벌가 막둥이로 힐링 합니다",
+        "author": "배소리",
+        "view_count": 542,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598514",
+        "title": "퓨전펑크 기업에게 버림받고 마법의 신이 되었다",
+        "author": "마이너전문",
+        "view_count": 280,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599501",
+        "title": "본 상담은 기억 소거 대상입니다",
+        "author": "첨G",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 90,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598183",
+        "title": "전직 메이저리거는 빠르게 부산을 탈출한다",
+        "author": "비가싫어",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600242",
+        "title": "과학 기술로만 리그 등반",
+        "author": "05林",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598452",
+        "title": "아우터림 행성 총독의 불가항적 데릴사위",
+        "author": "서칸더브이",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603165",
+        "title": "국가에게 버림받고 재앙급 특전을 얻었다",
+        "author": "글먹왕",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604229",
+        "title": "미국한인마트사장인데, 주변의 집착이 심함",
+        "author": "찐우",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599053",
+        "title": "어디까지 올라가는 거예요",
+        "author": "가짜과학자",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
