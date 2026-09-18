@@ -269375,5 +269375,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-18T14:00:38.364262+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590518",
+        "title": "전능의 침술로 회귀했다",
+        "author": "대작살",
+        "view_count": 3266,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 2016,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597813",
+        "title": "국가에게 버림받은 헌터가 재평가되었다",
+        "author": "찹쌀빵",
+        "view_count": 1142,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599478",
+        "title": "재벌 서자의 연구소가 너무 강함",
+        "author": "이도윤",
+        "view_count": 824,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597810",
+        "title": "제명 당한 헌터가 구세주였다",
+        "author": "태국리",
+        "view_count": 576,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598780",
+        "title": "전능의 AI를 가진 게임 디렉터",
+        "author": "라구.B.P",
+        "view_count": 441,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "594437",
+        "title": "회귀 후 S급 스킬로 탑 등반",
+        "author": "태영(太影)",
+        "view_count": 335,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588930",
+        "title": "호주 깡촌 철물점이 이세계랑 연결됨",
+        "author": "한도현",
+        "view_count": 245,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "596079",
+        "title": "유령이라 불리는 검은 머리 저격수",
+        "author": "조가치",
+        "view_count": 165,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600929",
+        "title": "빤쓰 색깔까지 맞히는 라디오 상담",
+        "author": "바람빛",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
