@@ -132862,5 +132862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-19T00:00:41.067811+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603164",
+        "title": "해고당한 연구원이 300년 뒤 미래 기술을 독점함",
+        "author": "강그린",
+        "view_count": 579,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600197",
+        "title": "이세계에 환생했더니 신들이 권능을 퍼줌",
+        "author": "두파치타파",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598941",
+        "title": "방출된 육성 선수가 메이저리그를 찢음",
+        "author": "백마장사",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597843",
+        "title": "만년 백업이 해적선 천재 포수가 되어 돌아왔다",
+        "author": "맥스.",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600229",
+        "title": "국부(國父) 안중근이 일본에 핵폭탄을 날림",
+        "author": "드림판다",
+        "view_count": 59,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601881",
+        "title": "힐러로 각성했는데 암살이 너무 쉬움",
+        "author": "글GPT",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603078",
+        "title": "귀환한 삼촌은 EX급이었다.",
+        "author": "김치은",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598700",
+        "title": "종말 쉘터의 미친 AI가 되었다",
+        "author": "모짜초코",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604025",
+        "title": "이혼 다음날 파워볼 당첨됨",
+        "author": "필봉팔",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597785",
+        "title": "국가가 버린 특수요원은 일용직으로 산다.",
+        "author": "킬러반장",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
