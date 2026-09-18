@@ -133246,5 +133246,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-19T02:30:32.003010+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600519",
+        "title": "초과학 문명으로 세계 정복",
+        "author": "yespro",
+        "view_count": 618,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 317,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 159,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603368",
+        "title": "일곱개의 탑",
+        "author": "경우勁雨",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599940",
+        "title": "은퇴당한 네크로맨서에게 국가가 집착함",
+        "author": "진강™",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601881",
+        "title": "힐러로 각성했는데 암살이 너무 쉬움",
+        "author": "글GPT",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601786",
+        "title": "우주선을 주워 국부 은하 대공이 됐다",
+        "author": "구웃",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603759",
+        "title": "펜션 예약이 로또 1등보다 어려움",
+        "author": "갓타",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598627",
+        "title": "사망처리된 폐급이 EX급으로 부활했다",
+        "author": "머라노다",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602978",
+        "title": "방어력 무시 특성으로 탑 등반하러 갑니다",
+        "author": "이쏭",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
