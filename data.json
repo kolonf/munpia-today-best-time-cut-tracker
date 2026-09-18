@@ -271679,5 +271679,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-19T00:30:35.354476+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 2973,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597812",
+        "title": "전능 AI를 쓰니 미 특수부대가 집착한다.",
+        "author": "총골드",
+        "view_count": 1684,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 951,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 651,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 535,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598221",
+        "title": "세종의 농사 노예가 되었다",
+        "author": "으힛",
+        "view_count": 411,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602643",
+        "title": "미군기지에서 아포칼립스 꿀빱니다",
+        "author": "참숯닭구이",
+        "view_count": 335,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599899",
+        "title": "힐링 안하면 죽는 병걸림",
+        "author": "알랜더",
+        "view_count": 240,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 171,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 128,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
