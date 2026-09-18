@@ -133630,5 +133630,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-19T05:00:39.535552+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600519",
+        "title": "초과학 문명으로 세계 정복",
+        "author": "yespro",
+        "view_count": 635,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 325,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 176,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601553",
+        "title": "미궁도시의 천재 마법사",
+        "author": "유정문",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600407",
+        "title": "고물상 청년이 외계 문명을 주웠다",
+        "author": "달달꿀벌",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "589262",
+        "title": "사나운 달이 뜨는 도시",
+        "author": "어두운글",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603842",
+        "title": "미국으로 귀화했더니 탑이 나를 복제한다",
+        "author": "만슬라",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598627",
+        "title": "사망처리된 폐급이 EX급으로 부활했다",
+        "author": "머라노다",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602978",
+        "title": "방어력 무시 특성으로 탑 등반하러 갑니다",
+        "author": "이쏭",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
