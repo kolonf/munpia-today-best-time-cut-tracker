@@ -278207,5 +278207,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-20T07:00:40.976964+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 3184,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592974",
+        "title": "미국에서 한식 풀었더니 이웃들이 너무 집착함",
+        "author": "방탄커피",
+        "view_count": 1731,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594495",
+        "title": "격투 천재는 궤적이 다 보임",
+        "author": "콜레오",
+        "view_count": 1059,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600519",
+        "title": "초과학 문명으로 세계 정복",
+        "author": "yespro",
+        "view_count": 777,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598570",
+        "title": "퇴사 후 배틀크루저 함장이 되었다",
+        "author": "나낭",
+        "view_count": 590,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 452,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593035",
+        "title": "삼국지 공명을 대신하게 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 352,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597645",
+        "title": "국가권력급 킬러가 삼촌을 잘함",
+        "author": "지곡.",
+        "view_count": 290,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599211",
+        "title": "선협 게임인데 시대가 다름",
+        "author": "글호떡",
+        "view_count": 211,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597709",
+        "title": "은퇴 당한 버퍼가 유일급 디버프 능력 각성함",
+        "author": "연애재판",
+        "view_count": 136,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
