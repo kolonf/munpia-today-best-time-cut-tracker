@@ -135358,5 +135358,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-19T17:00:39.111563+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 655,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598514",
+        "title": "퓨전펑크 기업에게 버림받고 마법의 신이 되었다",
+        "author": "마이너전문",
+        "view_count": 322,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 158,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600407",
+        "title": "고물상 청년이 외계 문명을 주웠다",
+        "author": "달달꿀벌",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603868",
+        "title": "할리우드 여배우가 나도 모르게 내 아이를 잉태함",
+        "author": "서칸더브이",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598772",
+        "title": "아틀란티스를 다시 위대하게",
+        "author": "그레이c",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604775",
+        "title": "배낭여행갔다가 세계재벌 된 썰 푼다",
+        "author": "서핑보이",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603960",
+        "title": "삼국지: 최강 빌런 동탁으로 살아남기",
+        "author": "chowoe",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598627",
+        "title": "사망처리된 폐급이 EX급으로 부활했다",
+        "author": "머라노다",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
