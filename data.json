@@ -275327,5 +275327,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-19T17:30:36.058100+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "590518",
+        "title": "전능의 침술로 회귀했다",
+        "author": "대작살",
+        "view_count": 3525,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595446",
+        "title": "아무도 내가 세계재벌인 줄 모른다",
+        "author": "나나코니",
+        "view_count": 1869,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598646",
+        "title": "내 오픈톡에 생명공학의 신이 산다",
+        "author": "Zeta.",
+        "view_count": 1255,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595480",
+        "title": "부모님 칠순잔치에 용돈 100억을 드렸다",
+        "author": "김시놉",
+        "view_count": 849,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598459",
+        "title": "미래인들이 후원하니 재벌 되기가 너무 쉽다",
+        "author": "시간관측자",
+        "view_count": 618,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596475",
+        "title": "삼국지: 회귀한 유장이 너무 유능함",
+        "author": "運月",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594847",
+        "title": "선협에서 사영근도 장생합니다",
+        "author": "글먹는쿠마",
+        "view_count": 337,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596732",
+        "title": "EX급 각성한 줄 모르고 협회가 방출함",
+        "author": "피어난셈",
+        "view_count": 241,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589649",
+        "title": "대왕 연산군?",
+        "author": "진모",
+        "view_count": 192,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596327",
+        "title": "삼국지, 여포의 네 번째 아비가 되었다",
+        "author": "칠팔",
+        "view_count": 151,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
