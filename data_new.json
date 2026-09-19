@@ -134302,5 +134302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-19T09:00:40.195158+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599602",
+        "title": "우주 게임에서 나만 만렙이다",
+        "author": "통풍왔음",
+        "view_count": 688,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600113",
+        "title": "나 혼자 탑 밖으로 능력쓰니 전 세계가 벌벌 떰",
+        "author": "고락",
+        "view_count": 360,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 181,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603368",
+        "title": "일곱개의 탑",
+        "author": "경우勁雨",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599548",
+        "title": "마흔 살 삼류무사, 절대검신이 되다",
+        "author": "로자",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602365",
+        "title": "삼국지 : 관평전",
+        "author": "토토리묵",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595501",
+        "title": "나혼자 고대무공을 계승함",
+        "author": "묭묭거사",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598466",
+        "title": "국가권력급 헌터인줄 모르고 국가에게 버림받음",
+        "author": "나린미르",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598966",
+        "title": "국가에게 버림받은 사형수가 기갑천재였다",
+        "author": "부로뎅",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
