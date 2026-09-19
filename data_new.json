@@ -136414,5 +136414,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-20T01:00:38.517257+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600844",
+        "title": "고철값에 산 우주정거장이 문명급이었다",
+        "author": "시소조각",
+        "view_count": 558,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598946",
+        "title": "게이트에서 주운 열쇠로 우주 전함의 함장이 되었다",
+        "author": "헬뮤티",
+        "view_count": 315,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603082",
+        "title": "나 혼자 전산담당인데 퇴사당함",
+        "author": "시래클",
+        "view_count": 122,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 을사늑약을 찢음",
+        "author": "듀이문",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601164",
+        "title": "시작부터 EX급 천재 마법사는 탑 독식이 달달하다",
+        "author": "김판",
+        "view_count": 56,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599940",
+        "title": "은퇴당한 네크로맨서에게 국가가 집착함",
+        "author": "진강™",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "596460",
+        "title": "애호받는 선협 뉴비가 되었다",
+        "author": "점소이99",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604430",
+        "title": "내가 딸친 휴지 들고 백악관에서 찾아왔다",
+        "author": "30센치작가",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602404",
+        "title": "국가에게 버림받은 헌터가 EX급 전능의 눈을 얻음",
+        "author": "테를",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603025",
+        "title": "국가에 버림받고 재앙급 창고 각성해서 빌런 됨",
+        "author": "깊은수풀",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
