@@ -279647,5 +279647,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-20T13:30:32.360016+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 3453,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 1699,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598028",
+        "title": "텔레포트 하나로 현실에서도 쌀먹합니다",
+        "author": "양면거울",
+        "view_count": 1115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592510",
+        "title": "삼국지: 십상시 아들이라서 튑니다.",
+        "author": "박야옹",
+        "view_count": 794,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 557,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "591893",
+        "title": "천조국 탱크 메이커가 되었다",
+        "author": "[서평]",
+        "view_count": 426,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598858",
+        "title": "우주로 가려면 대전에서 환승하세요.",
+        "author": "닥터KIMDH",
+        "view_count": 319,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597709",
+        "title": "은퇴 당한 버퍼가 유일급 디버프 능력 각성함",
+        "author": "연애재판",
+        "view_count": 220,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 160,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 112,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
