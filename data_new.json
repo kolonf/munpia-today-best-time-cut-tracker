@@ -139678,5 +139678,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T01:30:32.998314+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601232",
+        "title": "몸 좀 만져줬을 뿐인데 스타들이 내게 집착한다",
+        "author": "볼랑말랑",
+        "view_count": 547,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600242",
+        "title": "무시받던 과학기술로 차원최강까지",
+        "author": "05林",
+        "view_count": 234,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604025",
+        "title": "이혼 다음날 파워볼 당첨됨",
+        "author": "필봉팔",
+        "view_count": 108,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600229",
+        "title": "안중근에 빙의한 엔지니어가 대한제국을 하드캐리함",
+        "author": "드림판다",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599548",
+        "title": "마흔 살 삼류무사, 절대검신이 되다",
+        "author": "로자",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597402",
+        "title": "그리스 제일 콩가루 집안의 아들이 되었다",
+        "author": "구오(句汚)",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605247",
+        "title": "쫓겨난 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604147",
+        "title": "의신 강점기",
+        "author": "가프",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604472",
+        "title": "선협 속 뱀이 됐다만 조용히 살기엔 너무 크다",
+        "author": "붕어밥샹크",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
