@@ -138334,5 +138334,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-20T18:00:36.720563+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 727,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602477",
+        "title": "천재에게 세상은 너무 쉽다",
+        "author": "글카인",
+        "view_count": 315,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599940",
+        "title": "은퇴당한 네크로맨서에게 국가가 집착함",
+        "author": "진강™",
+        "view_count": 121,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601625",
+        "title": "북부 대공 막내는 메카닉 테크를 올립니다",
+        "author": "아레직",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604653",
+        "title": "종결급 신체로 각성함",
+        "author": "블루티풀",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604870",
+        "title": "100억 있는데 아내한테는 비밀입니다",
+        "author": "칠팔",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604094",
+        "title": "1000원 시드로 1000억 까지",
+        "author": "녹차티",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604238",
+        "title": "부당해고 후 이세계 부농이 되었다.",
+        "author": "젖은건빵",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
