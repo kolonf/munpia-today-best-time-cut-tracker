@@ -139966,5 +139966,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T03:00:37.798757+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601232",
+        "title": "몸 좀 만져줬을 뿐인데 스타들이 내게 집착한다",
+        "author": "볼랑말랑",
+        "view_count": 569,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 242,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 117,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602229",
+        "title": "방사능 피폭력 999Lv 사천당가의 소문주가 귀환했다",
+        "author": "노블테라피",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599293",
+        "title": "폐업 전날 외계인이 창고를 맡김",
+        "author": "후회는없어",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603229",
+        "title": "국가에 버림받은 탱커가 EX급으로 재각성함",
+        "author": "피초",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603628",
+        "title": "해고 후 바다에서 돈이 계속 쏟아져 거물들이 집착함",
+        "author": "늬파랑",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604389",
+        "title": "귀환자는 아포칼립스에 건물주 대신 탑주가 되기로 했다",
+        "author": "크엉컹컹",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602130",
+        "title": "쫓겨난 용접공 아저씨가 강화를 너무 잘함",
+        "author": "mirtail",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
