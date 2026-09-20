@@ -139390,5 +139390,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-20T23:30:32.341194+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 609,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 250,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600113",
+        "title": "나 혼자 탑 밖으로 능력쓰니 전 세계가 벌벌 떰",
+        "author": "고락",
+        "view_count": 113,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602717",
+        "title": "EX급 거대로봇을 주웠더니 전세계가 내게 집착함",
+        "author": "활자오락",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600162",
+        "title": "외문 제자 수선기",
+        "author": "내집말연",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602751",
+        "title": "주인공만 묻고 떠블로 성장함",
+        "author": "스키리",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603420",
+        "title": "퇴사 후 전당포하니 행운이 쏟아짐",
+        "author": "아침호수",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598627",
+        "title": "사망처리된 폐급이 EX급으로 부활했다",
+        "author": "머라노다",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602852",
+        "title": "재벌집 망나니가 반도체로 AGI 만듬",
+        "author": "백수원",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
