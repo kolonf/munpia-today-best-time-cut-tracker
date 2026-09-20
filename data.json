@@ -282911,5 +282911,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T04:30:32.941930+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598545",
+        "title": "1000조 셸터의 주인이 되었다.",
+        "author": "솔도솔도",
+        "view_count": 3276,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 1971,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 1137,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 799,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600844",
+        "title": "고철값에 산 우주정거장이 문명급이었다",
+        "author": "시소조각",
+        "view_count": 601,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592467",
+        "title": "선협 속 거북이는 상고시대부터 살아간다",
+        "author": "호균박",
+        "view_count": 479,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597645",
+        "title": "국가권력급 킬러가 삼촌을 잘함",
+        "author": "지곡.",
+        "view_count": 360,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598480",
+        "title": "성간수선전(星間修仙傳)",
+        "author": "멱월",
+        "view_count": 296,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594934",
+        "title": "삼국지 원가의 적장손이 되었다",
+        "author": "레니sh",
+        "view_count": 222,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600929",
+        "title": "빤쓰 색깔까지 맞히는 라디오 상담",
+        "author": "바람빛",
+        "view_count": 151,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
