@@ -138622,5 +138622,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-20T19:30:32.037288+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600130",
+        "title": "퇴사 후 초월급 외계 기술력으로 탑 농락",
+        "author": "땡시기",
+        "view_count": 709,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599438",
+        "title": "1994년, 죽은 형의 몸으로 회귀했다",
+        "author": "카이남",
+        "view_count": 308,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604025",
+        "title": "이혼 다음날 파워볼 당첨됨",
+        "author": "필봉팔",
+        "view_count": 120,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598538",
+        "title": "무한회귀자의 우주수선전(宇宙修仙傳).",
+        "author": "볼트버니",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598647",
+        "title": "거물들이 집착하는 정비병이 되었다",
+        "author": "Hiran히란",
+        "view_count": 54,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603967",
+        "title": "협회에서 버림받고 초월급 마법사로 각성함",
+        "author": "922",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603731",
+        "title": "이름 하나 바꿔줬더니 인생 대박",
+        "author": "광별",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603842",
+        "title": "미국으로 귀화했더니 탑이 나를 복제한다",
+        "author": "만슬라",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605247",
+        "title": "쫓겨난 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599804",
+        "title": "문과 외계인이 너무 강함",
+        "author": "서석",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
