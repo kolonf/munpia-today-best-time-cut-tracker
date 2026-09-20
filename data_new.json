@@ -140062,5 +140062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T03:30:33.356775+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600844",
+        "title": "고철값에 산 우주정거장이 문명급이었다",
+        "author": "시소조각",
+        "view_count": 592,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 266,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601451",
+        "title": "EX-은하급 우주 전함의 주인이 되었다",
+        "author": "Primus",
+        "view_count": 73,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600260",
+        "title": "멸망 막으러 우주로 갔다가 1947년으로 돌아옴",
+        "author": "엠씨조",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603229",
+        "title": "국가에 버림받은 탱커가 EX급으로 재각성함",
+        "author": "피초",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603628",
+        "title": "해고 후 바다에서 돈이 계속 쏟아져 거물들이 집착함",
+        "author": "늬파랑",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604389",
+        "title": "귀환자는 아포칼립스에 건물주 대신 탑주가 되기로 했다",
+        "author": "크엉컹컹",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599823",
+        "title": "SF공모전에 SF가 없음",
+        "author": "김한영",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599540",
+        "title": "북부에서 함선을 주움",
+        "author": "가늴",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
