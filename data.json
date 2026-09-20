@@ -282431,5 +282431,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T02:30:33.135828+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595446",
+        "title": "아무도 내가 세계재벌인 줄 모른다",
+        "author": "나나코니",
+        "view_count": 3215,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 1915,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 1065,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594177",
+        "title": "은퇴 당한 각성자가 탑 속에서 힐링함",
+        "author": "땃땃땃쥐",
+        "view_count": 766,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596148",
+        "title": "유럽에서 망한 가게를 물려받았는데 해달이 보물을 주워옴",
+        "author": "무던",
+        "view_count": 574,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602105",
+        "title": "S급 각성자는 미국에 1조로 영입됐다",
+        "author": "노랑™",
+        "view_count": 465,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 344,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 280,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602556",
+        "title": "국가에 버림받은 은퇴당한 헌터가 돈만 쓸어담음",
+        "author": "카오카오카",
+        "view_count": 214,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596079",
+        "title": "유령이라 불리는 검은 머리 저격수",
+        "author": "조가치",
+        "view_count": 147,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
