@@ -282047,5 +282047,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T01:00:43.169956+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 3199,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592974",
+        "title": "미국에서 한식 풀었더니 이웃들이 너무 집착함",
+        "author": "방탄커피",
+        "view_count": 1677,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 1054,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599871",
+        "title": "사천당가 독마 삼촌에게 거물급이 몰려든다",
+        "author": "우르스.",
+        "view_count": 708,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601232",
+        "title": "몸 좀 만져줬을 뿐인데 스타들이 내게 집착한다",
+        "author": "볼랑말랑",
+        "view_count": 533,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592467",
+        "title": "선협 속 거북이는 상고시대부터 살아간다",
+        "author": "호균박",
+        "view_count": 419,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 333,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598194",
+        "title": "은퇴 후 귀농했더니, 헌터들이 집착한다?",
+        "author": "밀가루중독",
+        "view_count": 257,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 189,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596079",
+        "title": "유령이라 불리는 검은 머리 저격수",
+        "author": "조가치",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
