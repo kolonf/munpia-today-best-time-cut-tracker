@@ -282239,5 +282239,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T01:30:33.304127+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "589911",
+        "title": "전 재산을 쓰레기 코인에 박았다.",
+        "author": "매니보보",
+        "view_count": 3275,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 1877,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592710",
+        "title": "국가에 버림받고, 종말급 각성자가 됐다",
+        "author": "쩡킴",
+        "view_count": 1032,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 744,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596148",
+        "title": "유럽에서 망한 가게를 물려받았는데 해달이 보물을 주워옴",
+        "author": "무던",
+        "view_count": 557,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "592467",
+        "title": "선협 속 거북이는 상고시대부터 살아간다",
+        "author": "호균박",
+        "view_count": 444,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 339,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 266,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590871",
+        "title": "텍사스로 이주했더니 동물들이 나에게 말을 건다",
+        "author": "신우리",
+        "view_count": 195,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602477",
+        "title": "천재에게 세상은 너무 쉽다",
+        "author": "글카인",
+        "view_count": 138,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
