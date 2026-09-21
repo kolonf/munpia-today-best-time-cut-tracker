@@ -284543,5 +284543,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T12:00:44.361651+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594220",
+        "title": "천재 투수코치가 회귀했다",
+        "author": "밤카다",
+        "view_count": 3629,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591880",
+        "title": "환생 드워프가 미국에서 수리를 잘함",
+        "author": "안전사랑",
+        "view_count": 2143,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601189",
+        "title": "나 혼자 서버관리자인데 퇴사당함",
+        "author": "까막커",
+        "view_count": 1248,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 879,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 661,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593153",
+        "title": "이혼당한 기러기 아빠 파워볼 당첨후 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 488,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595551",
+        "title": "상간남 뚝배기 깨고 타격의 신이 되었다",
+        "author": "미친재능",
+        "view_count": 374,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601676",
+        "title": "EX급 힐러인줄 모르고 국가에게 버림받음",
+        "author": "백수천",
+        "view_count": 283,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595684",
+        "title": "퇴사 후 무당들이 집착하는 사장님이 되었다.",
+        "author": "성정민",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602610",
+        "title": "로판 대역 드라마 속 악역이 되었다.",
+        "author": "슈타인호프",
+        "view_count": 156,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
