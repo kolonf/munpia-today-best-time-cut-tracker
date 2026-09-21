@@ -287423,5 +287423,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T02:00:44.261473+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 2959,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594495",
+        "title": "격투 천재는 궤적이 다 보임",
+        "author": "콜레오",
+        "view_count": 1533,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 889,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "588713",
+        "title": "소설 속 광마가 되었다",
+        "author": "글카인",
+        "view_count": 697,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 512,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599478",
+        "title": "재벌 서자의 연구소가 너무 강함",
+        "author": "이도윤",
+        "view_count": 408,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "591893",
+        "title": "천조국 탱크 메이커가 되었다",
+        "author": "[서평]",
+        "view_count": 309,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588509",
+        "title": "여의도산 중종대왕",
+        "author": "탈닌",
+        "view_count": 248,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 171,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 127,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
