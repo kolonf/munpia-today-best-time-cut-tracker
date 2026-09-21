@@ -143998,5 +143998,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T08:00:38.494061+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602643",
+        "title": "미군기지에서 UFO를 주웠더니 아포칼립스가 너무쉬움",
+        "author": "참숯닭구이",
+        "view_count": 574,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 174,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600910",
+        "title": "포션수선전",
+        "author": "오구진",
+        "view_count": 104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600644",
+        "title": "그리스 신화를 정상화하는 태양신이 되었다.",
+        "author": "코삼이",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600316",
+        "title": "배신당했는데 국가권력급 정령사로 각성했다",
+        "author": "아이언",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604082",
+        "title": "퇴물 선수를 고쳤더니 돈이 쏟아짐",
+        "author": "옆집고래",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605485",
+        "title": "해고당하고 미국 폐가를 샀는데 돈벼락이 쏟아짐",
+        "author": "노랑™",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604737",
+        "title": "나 혼자 테이머인데 방출당함",
+        "author": "페르세르크",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599823",
+        "title": "SF공모전에 SF가 없음",
+        "author": "김한영",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599820",
+        "title": "사진을 찍었더니 스타들이 나한테 매달림",
+        "author": "위버멘",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
