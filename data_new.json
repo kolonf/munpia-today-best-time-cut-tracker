@@ -143710,5 +143710,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T06:00:43.295068+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602643",
+        "title": "미군기지에서 UFO를 주웠더니 아포칼립스가 너무쉬움",
+        "author": "참숯닭구이",
+        "view_count": 559,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603437",
+        "title": "나 혼자 전산실인데 퇴사당함",
+        "author": "필봉팔",
+        "view_count": 199,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602574",
+        "title": "쫒겨났는데 로또 당첨되어 아이슬란드에서 농장경영합니다",
+        "author": "이그드라시",
+        "view_count": 100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600644",
+        "title": "그리스 신화를 정상화하는 태양신이 되었다.",
+        "author": "코삼이",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605222",
+        "title": "헌터가 너무 강해 미국이 놓아주질 않음",
+        "author": "만슬라",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589262",
+        "title": "사나운 달이 뜨는 도시",
+        "author": "어두운글",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604895",
+        "title": "국가에 버림받고 탑에 집을 차렸는데 아포칼립스",
+        "author": "라면스프밥",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604548",
+        "title": "망한 재벌가의 천재 사생아",
+        "author": "홈스탠바이",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592909",
+        "title": "거물들이 집착하는 조선 제일 닭요리사",
+        "author": "치킨마스터",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
