@@ -142462,5 +142462,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T21:00:41.872638+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 564,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "601580",
+        "title": "국가가 버린 B급 헌터가 SSS급 엄마를 찾음",
+        "author": "대박터짐",
+        "view_count": 238,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599907",
+        "title": "딸깍으로 만능 천재",
+        "author": "도파민쉐프",
+        "view_count": 96,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603175",
+        "title": "삼국지: 검신, 배원소가 되다",
+        "author": "지나가는쥐",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600260",
+        "title": "멸망 막으러 우주로 갔다가 1947년으로 돌아옴",
+        "author": "엠씨조",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604051",
+        "title": "구한말 핵잠이 일본에 핵을 떨굼",
+        "author": "정사부",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604277",
+        "title": "천하제일가 막내공자",
+        "author": "우진하",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604775",
+        "title": "배낭여행갔다가 세계재벌 된 썰 푼다",
+        "author": "서핑보이",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604962",
+        "title": "아포칼립스에서 우주전함을 주웠다",
+        "author": "한소™",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
