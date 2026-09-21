@@ -140926,5 +140926,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T10:00:38.469194+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600814",
+        "title": "나 혼자 EX급 각성자라 전 세계를 쥐고 흔듬",
+        "author": "정적",
+        "view_count": 599,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602477",
+        "title": "천재에게 세상은 너무 쉽다",
+        "author": "글카인",
+        "view_count": 247,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603375",
+        "title": "EX급 수복 스킬로 다 고침",
+        "author": "긍정론적",
+        "view_count": 100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601553",
+        "title": "미궁도시의 천재 마법사",
+        "author": "유정문",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600316",
+        "title": "배신당했는데 국가권력급 정령사로 각성했다",
+        "author": "아이언",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599227",
+        "title": "피지컬 최강 모산파 도사가 퇴마합니다",
+        "author": "네딸아빠",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604895",
+        "title": "국가에 버림받고 탑에 집을 차렸는데 아포칼립스",
+        "author": "라면스프밥",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604409",
+        "title": "국가에게 버림받은 S급 헌터는 미국으로 갈아탑니다",
+        "author": "지코바치킨",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600337",
+        "title": "아리 2편 : 기억의 각성",
+        "author": "미카엘Arno",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599662",
+        "title": "아포칼립스 외신 소환사로 착각당했다",
+        "author": "휘휘™",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
