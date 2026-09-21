@@ -142558,5 +142558,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T21:30:35.675486+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604025",
+        "title": "이혼 다음날 파워볼 당첨됨",
+        "author": "필봉팔",
+        "view_count": 503,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600407",
+        "title": "고물상 청년이 외계 문명을 주웠다",
+        "author": "달달꿀벌",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600782",
+        "title": "신입 요원이 뉴욕에서 생체융합 AI를 얻음",
+        "author": "아이언강",
+        "view_count": 94,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599548",
+        "title": "마흔 살 삼류무사, 절대검신이 되다",
+        "author": "로자",
+        "view_count": 47,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602978",
+        "title": "방어력 무시 특성으로 탑 등반하러 갑니다",
+        "author": "이쏭",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604802",
+        "title": "버림받은 사진작가가 사실은 천재였다",
+        "author": "더페이서",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602444",
+        "title": "신빨 날리는 재앙급 신입사원이 되었다",
+        "author": "이공이공",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602852",
+        "title": "재벌집 망나니가 반도체로 AGI 만듬",
+        "author": "백수원",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600685",
+        "title": "SF게임 속에 떨어졌는데 나만 총알이 무한.",
+        "author": "성정민",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
