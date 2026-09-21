@@ -141310,5 +141310,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T12:00:42.748587+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603411",
+        "title": "퇴사당하자 거래처가 전부 따라옴",
+        "author": "시래클",
+        "view_count": 562,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598221",
+        "title": "세종의 농사 노예가 되었다",
+        "author": "으힛",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601580",
+        "title": "국가가 버린 B급 헌터가 SSS급 엄마를 찾음",
+        "author": "대박터짐",
+        "view_count": 104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600644",
+        "title": "그리스 신화를 정상화하는 태양신이 되었다.",
+        "author": "코삼이",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603762",
+        "title": "외신의 전뇌칩을 주웠다",
+        "author": "범미르",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605222",
+        "title": "헌터가 너무 강해 미국이 놓아주질 않음",
+        "author": "만슬라",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604548",
+        "title": "망한 재벌가의 천재 사생아",
+        "author": "홈스탠바이",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604653",
+        "title": "종결급 신체로 각성함",
+        "author": "블루티풀",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604512",
+        "title": "냉동인간인데 우주 전쟁 공략법이 보임",
+        "author": "킹메이커",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
