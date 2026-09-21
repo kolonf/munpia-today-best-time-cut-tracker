@@ -141790,5 +141790,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T17:00:39.852773+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601232",
+        "title": "몸 좀 만져줬을 뿐인데 스타들이 내게 집착한다",
+        "author": "볼랑말랑",
+        "view_count": 455,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599899",
+        "title": "전능의 눈을 얻었더니 천재무당으로 착각당함",
+        "author": "알랜더",
+        "view_count": 222,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602130",
+        "title": "쫓겨난 용접공 아저씨가 강화를 너무 잘함",
+        "author": "mirtail",
+        "view_count": 96,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603165",
+        "title": "SSS급으로 재각성 한 줄 모르고 국가에게 버려짐",
+        "author": "글먹킹",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598331",
+        "title": "국가에 버림받고 미국이 집착하는 대장장이가 되었다",
+        "author": "전설용용",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603193",
+        "title": "무제한 레벨업으로 탑 등반",
+        "author": "광산김가",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599396",
+        "title": "헤라 여신이 안드로메다 은하의 총독이 되었다",
+        "author": "한탕주의자",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602964",
+        "title": "평양 증발시킨 UFO의 주인이 되었다",
+        "author": "I좋은날U",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
