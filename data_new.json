@@ -142270,5 +142270,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-21T20:00:39.808521+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 531,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600029",
+        "title": "50조의 사나이",
+        "author": "김동휘",
+        "view_count": 219,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599907",
+        "title": "딸깍으로 만능 천재",
+        "author": "도파민쉐프",
+        "view_count": 93,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604916",
+        "title": "해고 당했는데 코인이 대박났다",
+        "author": "[성덕]",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599548",
+        "title": "마흔 살 삼류무사, 절대검신이 되다",
+        "author": "로자",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604574",
+        "title": "5만원짜리 땅 샀더니 8920억이 입금됐다",
+        "author": "그믐에",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604802",
+        "title": "버림받은 사진작가가 사실은 천재였다",
+        "author": "더페이서",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605247",
+        "title": "쫓겨난 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600271",
+        "title": "아내 모습을 훔친 외계인이랑 같이 살게 됐다",
+        "author": "안신아",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
