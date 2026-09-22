@@ -145054,5 +145054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T16:00:52.804146+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600592",
+        "title": "백수가 S급 즉사기로 신화급 탑 공략",
+        "author": "윤어파",
+        "view_count": 380,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603003",
+        "title": "해고 후 식물에서 돈이 계속 쏟아져 거물들이 집착함",
+        "author": "늬파랑",
+        "view_count": 175,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605583",
+        "title": "파혼 후 무림이 나만 찾는다",
+        "author": "글럼프",
+        "view_count": 101,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603175",
+        "title": "삼국지: 검신, 배원소가 되다",
+        "author": "지나가는쥐",
+        "view_count": 69,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601547",
+        "title": "팔 잘린 탱커가 EX급 힐러로 각성했다",
+        "author": "검은솥",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601313",
+        "title": "남극에서 초문명 관문망을 독점했다",
+        "author": "서예준",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604548",
+        "title": "망한 재벌가의 천재 사생아",
+        "author": "홈스탠바이",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598517",
+        "title": "10살부터 시작하는 축구스타",
+        "author": "글먹다템",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603474",
+        "title": "영화만 봐도 강해진다",
+        "author": "옆동네형",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601363",
+        "title": "배드엔딩 게임의 고인물은 포식으로 성장한다",
+        "author": "키위맛사과",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
