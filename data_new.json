@@ -144958,5 +144958,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T15:00:43.353218+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603437",
+        "title": "나 혼자 전산실인데 퇴사당함",
+        "author": "필봉팔",
+        "view_count": 360,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599501",
+        "title": "본 상담은 기억 소거 대상입니다",
+        "author": "첨G",
+        "view_count": 172,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601846",
+        "title": "반강제적 재벌 총수",
+        "author": "페르세르크",
+        "view_count": 100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602574",
+        "title": "쫒겨났는데 로또 당첨되어 아이슬란드에서 농장경영합니다",
+        "author": "이그드라시",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598799",
+        "title": "용사 공채에 괴물 신입이 들어왔다",
+        "author": "달해량",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603731",
+        "title": "해고 첫날에 전생을 떠올림",
+        "author": "광별",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600833",
+        "title": "망해가는 고구려의 외교 천재가 되었다",
+        "author": "푸른뱀99",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605262",
+        "title": "무인도를 샀더니, 반도체 광산이 터졌다",
+        "author": "또녜",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602545",
+        "title": "미친 사거리 저격총으로 우주를 정복한다",
+        "author": "고무수갑",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
