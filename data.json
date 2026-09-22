@@ -292319,5 +292319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T00:30:36.299926+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 2919,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603082",
+        "title": "나 혼자 전산담당인데 퇴사당함",
+        "author": "시래클",
+        "view_count": 1343,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596924",
+        "title": "퇴직금으로 산 무인도에서 취미로 돈 법니다",
+        "author": "이구공",
+        "view_count": 844,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598459",
+        "title": "미래인들이 후원하니 재벌 되기가 너무 쉽다",
+        "author": "시간관측자",
+        "view_count": 641,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595614",
+        "title": "뉴욕에서 헌책복원으로 대박남",
+        "author": "꼬노네",
+        "view_count": 517,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 393,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593957",
+        "title": "번개 맞고 회귀했더니 인생 난이도가 낮아짐",
+        "author": "무성(無聲)",
+        "view_count": 295,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 219,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603782",
+        "title": "배신당한 형사가 마공으로 때려죽임",
+        "author": "단팥빵소년",
+        "view_count": 171,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600325",
+        "title": "퓨전펑크에서 나 혼자만 K푸드로 대박남",
+        "author": "가지(GAZI)",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
