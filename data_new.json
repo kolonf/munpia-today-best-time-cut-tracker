@@ -146590,5 +146590,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T01:30:34.501102+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604025",
+        "title": "이혼 다음날 파워볼 당첨됨",
+        "author": "필봉팔",
+        "view_count": 555,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598331",
+        "title": "국가에 버림받고 미국이 집착하는 대장장이가 되었다",
+        "author": "전설용용",
+        "view_count": 217,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605629",
+        "title": "나 혼자 만능 서포터인데 퇴사당함",
+        "author": "백수천",
+        "view_count": 91,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603881",
+        "title": "재벌가 서자는 기업가치가 보인다",
+        "author": "정현공원",
+        "view_count": 63,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603759",
+        "title": "펜션 예약이 로또 1등보다 어려움",
+        "author": "갓타",
+        "view_count": 46,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601909",
+        "title": "선협에서 우주선을 숨김",
+        "author": "신시우",
+        "view_count": 37,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604686",
+        "title": "막내 동생이 미친 음악 천재였다",
+        "author": "공상소년",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597994",
+        "title": "사마의가 걸그룹 리더로 데뷔해서 천하통일함",
+        "author": "뉘네",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598503",
+        "title": "정크 타운",
+        "author": "편곤",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602944",
+        "title": "기계 들이 자꾸 말을 걸어옵니다",
+        "author": "글쓰는뮬란",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
