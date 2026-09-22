@@ -293279,5 +293279,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T05:00:43.604807+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595787",
+        "title": "폐업 직전 한의사는 전생에 신의였다",
+        "author": "블럭통통",
+        "view_count": 3072,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603082",
+        "title": "나 혼자 전산담당인데 퇴사당함",
+        "author": "시래클",
+        "view_count": 1615,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 1008,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597651",
+        "title": "1조 파워볼 당첨 후, 걸그룹을 샀다",
+        "author": "죽엇푹",
+        "view_count": 756,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598570",
+        "title": "퇴사 후 배틀크루저 함장이 되었다",
+        "author": "우정호",
+        "view_count": 577,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 119,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 421,
+        "substituted": true
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602774",
+        "title": "국정원 말단인데 전생이 좀 흉악함",
+        "author": "김컬리",
+        "view_count": 330,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 262,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598922",
+        "title": "500만 유튜버가 되다. 그리고 오버테크놀로지를 얻었다",
+        "author": "카이남",
+        "view_count": 184,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "zoee",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
