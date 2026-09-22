@@ -146110,5 +146110,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T22:00:43.509269+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602106",
+        "title": "파워볼 당첨 후, 미국 휴게소를 키웠다",
+        "author": "쉬팽",
+        "view_count": 517,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602774",
+        "title": "국정원 말단인데 전생이 좀 흉악함",
+        "author": "김컬리",
+        "view_count": 218,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600782",
+        "title": "신입 요원이 뉴욕에서 생체융합 AI를 얻음",
+        "author": "아이언강",
+        "view_count": 102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603462",
+        "title": "무한 강화로 국가권력급 네크로맨서",
+        "author": "지점장",
+        "view_count": 63,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602751",
+        "title": "주인공만 묻고 떠블로 성장함",
+        "author": "스키리",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601869",
+        "title": "좌천 된 만년 과장이 일제시대 보물을 얻음",
+        "author": "얄랼랼랴",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603207",
+        "title": "국가 버림 받은 영웅의 아들이 전능한 힘을 각성함",
+        "author": "화운(話云)",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604271",
+        "title": "초월급 우주선 삼키고 탑등반",
+        "author": "단정한니트",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599387",
+        "title": "사이버펑크 검은머리 FBI 요원이 되었다",
+        "author": "픤호랑이",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602657",
+        "title": "우주 괴수를 씹어먹는 고인물",
+        "author": "재활용자",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
