@@ -290399,5 +290399,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T15:30:35.551714+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 3158,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598646",
+        "title": "내 오픈톡에 생명공학의 신이 산다",
+        "author": "Zeta.",
+        "view_count": 1749,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596266",
+        "title": "초월급 헌터가 국가에게 버림받음",
+        "author": "빌림",
+        "view_count": 1217,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590024",
+        "title": "견훤의 사위가 고려를 멸망시킴",
+        "author": "대박터짐",
+        "view_count": 853,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 581,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594270",
+        "title": "독립군 말단 병사가 패권국을 만든다",
+        "author": "주절주절",
+        "view_count": 423,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596079",
+        "title": "유령이라 불리는 검은 머리 저격수",
+        "author": "조가치",
+        "view_count": 240,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594532",
+        "title": "회귀한 저니맨이 트레이드를 거부함",
+        "author": "포도맛봉봉",
+        "view_count": 191,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598576",
+        "title": "내 놀이공원은 물리법칙을 무시한다",
+        "author": "초록코끼리",
+        "view_count": 138,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
