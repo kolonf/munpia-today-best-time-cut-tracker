@@ -144766,5 +144766,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-22T14:00:42.001613+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598221",
+        "title": "세종의 농사 노예가 되었다",
+        "author": "으힛",
+        "view_count": 374,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "601676",
+        "title": "EX급 힐러인줄 모르고 국가에게 버림받음",
+        "author": "백수천",
+        "view_count": 164,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603984",
+        "title": "플로리다에 땅을 샀더니 이세계 포탈이 열렸다",
+        "author": "연함™",
+        "view_count": 92,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603175",
+        "title": "삼국지: 검신, 배원소가 되다",
+        "author": "지나가는쥐",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601786",
+        "title": "우주선을 주워 국부 은하 대공이 됐다",
+        "author": "구웃",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604574",
+        "title": "5만원짜리 땅 샀더니 8920억이 입금됐다",
+        "author": "그믐에",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601709",
+        "title": "회귀한 도굴꾼이 기연을 싹쓸이",
+        "author": "독산유리알",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601598",
+        "title": "전능의 천재 물리학자가 우주의 비밀을 풀었다",
+        "author": "GoSt™",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603333",
+        "title": "온 우주가 내게 집착함",
+        "author": "몬도리아",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597994",
+        "title": "사마의가 걸그룹 리더로 데뷔해서 천하통일함",
+        "author": "뉘네",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
