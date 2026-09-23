@@ -148126,5 +148126,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T13:30:33.958403+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598523",
+        "title": "재벌들 죽는 순서 맞혔더니 살려달라고 줄을 섬",
+        "author": "차세나",
+        "view_count": 259,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603984",
+        "title": "플로리다에 땅을 샀더니 이세계 포탈이 열렸다",
+        "author": "연함™",
+        "view_count": 124,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604916",
+        "title": "해고 당했는데 코인이 대박났다",
+        "author": "[성덕]",
+        "view_count": 81,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603881",
+        "title": "재벌가 서자는 기업가치가 보인다",
+        "author": "정현공원",
+        "view_count": 60,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598799",
+        "title": "용사 공채에 괴물 신입이 들어왔다",
+        "author": "달해량",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604775",
+        "title": "배낭여행갔다가 세계재벌 된 썰 푼다",
+        "author": "서핑보이",
+        "view_count": 35,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603474",
+        "title": "영화만 봐도 강해진다",
+        "author": "옆동네형",
+        "view_count": 27,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605386",
+        "title": "E급 마법사가 재앙급 즉사능력으로 탑 등반",
+        "author": "진독자",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 멍게가 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605928",
+        "title": "내 50조 금광에 광산 회사들이 집착함",
+        "author": "진필.",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
