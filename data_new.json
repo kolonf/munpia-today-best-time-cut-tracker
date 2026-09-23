@@ -148990,5 +148990,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T20:00:40.478606+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598523",
+        "title": "재벌들 죽는 순서 맞혔더니 살려달라고 줄을 섬",
+        "author": "차세나",
+        "view_count": 320,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603782",
+        "title": "배신당한 형사가 마공으로 때려죽임",
+        "author": "단팥빵소년",
+        "view_count": 181,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 83,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602421",
+        "title": "전능의 AI로 세계 최초 흑자전환",
+        "author": "설흔(說痕)",
+        "view_count": 57,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603901",
+        "title": "스탯 포인트 생산으로 탑을 날먹함",
+        "author": "신비공",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602852",
+        "title": "재벌집 망나니가 반도체로 AGI 만듬",
+        "author": "백수원",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605894",
+        "title": "해고당한 엔터팀장이 신점을 너무 잘 봄",
+        "author": "간딴",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600833",
+        "title": "망해가는 고구려의 외교 천재가 되었다",
+        "author": "푸른뱀99",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604710",
+        "title": "뉴욕 할렘가에서 치킨팔아 살아남기",
+        "author": "하나넬",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
