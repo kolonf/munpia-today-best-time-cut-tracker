@@ -149950,5 +149950,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T03:00:43.461486+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 381,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600929",
+        "title": "미래를 보는 라디오 DJ한테 세계인이 집착함",
+        "author": "바람빛",
+        "view_count": 150,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602063",
+        "title": "이탈리아에서 올드카 복원으로 떼돈 벎",
+        "author": "량주",
+        "view_count": 81,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603025",
+        "title": "국가에 버림받고 재앙급 창고 각성해서 빌런 됨",
+        "author": "깊은수풀",
+        "view_count": 60,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603811",
+        "title": "철종, 제국의 시대",
+        "author": "박명의하늘",
+        "view_count": 46,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604271",
+        "title": "초월급 우주선 삼키고 탑등반",
+        "author": "단정한니트",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604789",
+        "title": "1조 재벌인데 시골에서 힐링합니다",
+        "author": "재미진글",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605016",
+        "title": "B급 헌터인데 보상이 1 플러스 1",
+        "author": "배소리",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600685",
+        "title": "SF게임 속에 떨어졌는데 나만 총알 무한.",
+        "author": "성정민",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605026",
+        "title": "올 운스탯 마법사의 탑 등반법",
+        "author": "시르베르",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
