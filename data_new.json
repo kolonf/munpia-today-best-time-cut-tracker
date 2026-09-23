@@ -150238,5 +150238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T05:00:37.385721+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 377,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603207",
+        "title": "국가 버림 받은 영웅의 아들이 전능한 힘을 각성함",
+        "author": "화운(話云)",
+        "view_count": 164,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 82,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601511",
+        "title": "글 좀 봐줬더니 내 값이 1000억까지 뜀",
+        "author": "글로또",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603401",
+        "title": "궤적이 보이는 EX급이 싸움을 잘함",
+        "author": "데드오크",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604409",
+        "title": "국가에게 버림받은 S급 헌터는 미국으로 갈아탑니다",
+        "author": "지코바치킨",
+        "view_count": 32,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605016",
+        "title": "B급 헌터인데 보상이 1 플러스 1",
+        "author": "배소리",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603575",
+        "title": "꿈만 꿨는데 뉴월드, 코팡, 아마존이 무릎꿇었다",
+        "author": "테드K",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601363",
+        "title": "배드엔딩 게임의 고인물은 포식으로 성장한다",
+        "author": "키위맛사과",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
