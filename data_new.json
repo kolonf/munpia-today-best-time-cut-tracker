@@ -148414,5 +148414,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T16:00:42.508424+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603003",
+        "title": "해고 후 식물에서 돈이 계속 쏟아져 거물들이 집착함",
+        "author": "늬파랑",
+        "view_count": 275,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602610",
+        "title": "로판 대역 드라마 속 악역이 되었다.",
+        "author": "슈타인호프",
+        "view_count": 152,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605222",
+        "title": "헌터가 너무 강해 미국이 놓아주질 않음",
+        "author": "만슬라",
+        "view_count": 93,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 61,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604472",
+        "title": "선협 속 뱀이 됐다만 조용히 살기엔 너무 크다",
+        "author": "붕어밥샹크",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600162",
+        "title": "외문 제자 수선기",
+        "author": "내집말연",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603474",
+        "title": "영화만 봐도 강해진다",
+        "author": "옆동네형",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603796",
+        "title": "1999년에 나 혼자 미래 AI 씀",
+        "author": "냉동작가",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601922",
+        "title": "삼국지, 미래를 보는 강유가 되었다",
+        "author": "고비류",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602061",
+        "title": "국가가 정신병원에 가둔 해병은 상태창이 보임",
+        "author": "싸리또리",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
