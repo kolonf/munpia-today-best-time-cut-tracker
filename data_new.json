@@ -149566,5 +149566,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T00:30:33.545324+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602380",
+        "title": "국가에게 버림 받은 헌터가 천마가 되어 돌아왔다.",
+        "author": "탄뽀",
+        "view_count": 396,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602690",
+        "title": "사이비 교주가 전능함",
+        "author": "필빛",
+        "view_count": 144,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602063",
+        "title": "이탈리아에서 올드카 복원으로 떼돈 벎",
+        "author": "량주",
+        "view_count": 76,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603229",
+        "title": "국가에 버림받은 탱커가 EX급으로 재각성함",
+        "author": "피초",
+        "view_count": 60,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604082",
+        "title": "퇴물 선수를 고치는 천재 의사",
+        "author": "옆집고래",
+        "view_count": 46,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603175",
+        "title": "삼국지: 검신, 배원소가 되다",
+        "author": "지나가는쥐",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601313",
+        "title": "남극에서 초문명 관문망을 독점했다",
+        "author": "서예준",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599662",
+        "title": "아포칼립스 외신 소환사로 착각당했다",
+        "author": "휘휘™",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603575",
+        "title": "꿈만 꿨는데 뉴월드, 코팡, 아마존이 무릎꿇었다",
+        "author": "테드K",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604132",
+        "title": "흉부외과 교수는 재벌이 되기로 결심했다",
+        "author": "칠박",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
