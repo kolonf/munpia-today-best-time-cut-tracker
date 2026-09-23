@@ -296255,5 +296255,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T19:00:41.934470+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596591",
+        "title": "천재 뮤지션이었던 전생을 각성함",
+        "author": "공중누각",
+        "view_count": 3371,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592051",
+        "title": "미국 3천억 파워볼 당첨자인데 빈 통장으로 회귀함",
+        "author": "기신",
+        "view_count": 1887,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 SSS랭크 탑등반해서 국위선양함",
+        "author": "틈새솔",
+        "view_count": 1183,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597810",
+        "title": "제명 당한 헌터가 구세주였다",
+        "author": "태국리",
+        "view_count": 750,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594177",
+        "title": "은퇴 당한 각성자가 탑 속에서 힐링함",
+        "author": "땃땃땃쥐",
+        "view_count": 546,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "589456",
+        "title": "취준생인데 전능한 신빨로 인생 역전",
+        "author": "이창연",
+        "view_count": 387,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "593035",
+        "title": "삼국지 공명을 대신하게 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 290,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 236,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602404",
+        "title": "국가에게 버림받은 헌터가 EX급 전능의 눈을 얻음",
+        "author": "테를",
+        "view_count": 197,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "588713",
+        "title": "광마빙의",
+        "author": "글카인",
+        "view_count": 141,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
