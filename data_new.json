@@ -149470,5 +149470,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T00:00:39.257231+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603357",
+        "title": "이번 생은 KBO 거르고 미국에서 던집니다",
+        "author": "치규치규",
+        "view_count": 395,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602477",
+        "title": "천재에게 세상은 너무 쉽다",
+        "author": "글카인",
+        "view_count": 130,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602229",
+        "title": "방사능 피폭력 999Lv 사천당가의 소문주가 귀환했다",
+        "author": "노블테라피",
+        "view_count": 74,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 58,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604094",
+        "title": "1000원 시드로 1000억 까지",
+        "author": "녹차티",
+        "view_count": 45,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603657",
+        "title": "퇴사 후 S급 헌터 매니지먼트 차립니다",
+        "author": "로수",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605136",
+        "title": "버림받은 헌터가 룬 스펠을 각성함",
+        "author": "남호원",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604409",
+        "title": "국가에게 버림받은 S급 헌터는 미국으로 갈아탑니다",
+        "author": "지코바치킨",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603575",
+        "title": "꿈만 꿨는데 뉴월드, 코팡, 아마존이 무릎꿇었다",
+        "author": "테드K",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602555",
+        "title": "재벌집 서자는 게르으고 싶다",
+        "author": "하루빛",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
