@@ -148702,5 +148702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T17:30:33.110922+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 304,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 178,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 96,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602229",
+        "title": "방사능 피폭력 999Lv 사천당가의 소문주가 귀환했다",
+        "author": "노블테라피",
+        "view_count": 60,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601313",
+        "title": "남극에서 초문명 관문망을 독점했다",
+        "author": "서예준",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604277",
+        "title": "천하제일가 막내공자",
+        "author": "우진하",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604646",
+        "title": "미래의 나와 채팅했더니 재벌이 됐다",
+        "author": "오모로이",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603383",
+        "title": "금의위로 각성했더니 국가가 버림받기 싫어함",
+        "author": "착한소",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604147",
+        "title": "일제강점기에서 빌드업하는 현대한의사",
+        "author": "가프",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605386",
+        "title": "E급 마법사가 재앙급 즉사능력으로 탑 등반",
+        "author": "진독자",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
