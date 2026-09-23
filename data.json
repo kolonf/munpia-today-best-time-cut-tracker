@@ -298367,5 +298367,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T05:22:39.685871+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594510",
+        "title": "19세기 대영제국에서 K-빵집으로 대박남",
+        "author": "글쓰는너겟",
+        "view_count": 2718,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592974",
+        "title": "미국에서 한식 풀었더니 이웃들이 너무 집착함",
+        "author": "방탄커피",
+        "view_count": 1603,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596806",
+        "title": "전업주부인데 재벌보다 돈이 많음",
+        "author": "너구율",
+        "view_count": 970,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602643",
+        "title": "아포칼립스 미군기지를 외계 기술로 강화해서 최강쉘터로",
+        "author": "참숯닭구이",
+        "view_count": 707,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 569,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 403,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598941",
+        "title": "방출된 육성 선수가 메이저리그를 찢음",
+        "author": "백마장사",
+        "view_count": 323,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 261,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600929",
+        "title": "미래를 보는 라디오 DJ한테 세계인이 집착함",
+        "author": "바람빛",
+        "view_count": 171,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 128,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
