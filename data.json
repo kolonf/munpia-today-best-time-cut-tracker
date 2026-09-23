@@ -294815,5 +294815,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T12:00:42.783673+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596806",
+        "title": "전업주부인데 재벌보다 돈이 많음",
+        "author": "너구율",
+        "view_count": 3342,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 1878,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 1070,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 776,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 593,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603357",
+        "title": "이번 생은 KBO 거르고 미국에서 던집니다",
+        "author": "치규치규",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595530",
+        "title": "삼국지 무신 여포가 되었다",
+        "author": "정성우",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603003",
+        "title": "해고 후 식물에서 돈이 계속 쏟아져 거물들이 집착함",
+        "author": "늬파랑",
+        "view_count": 238,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589561",
+        "title": "탑 등반하는데 나만 수선자",
+        "author": "히버",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605629",
+        "title": "나 혼자 만능 서포터인데 퇴사당함",
+        "author": "백수천",
+        "view_count": 121,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
