@@ -148318,5 +148318,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-23T15:00:39.489449+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603003",
+        "title": "해고 후 식물에서 돈이 계속 쏟아져 거물들이 집착함",
+        "author": "늬파랑",
+        "view_count": 263,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 134,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602410",
+        "title": "내가 만든 AI에 전세계가 집착함",
+        "author": "요리리",
+        "view_count": 87,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603999",
+        "title": "나 혼자 7000경으로 은하제국 건설",
+        "author": "글난타",
+        "view_count": 62,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596460",
+        "title": "애호받는 선협 뉴비가 되었다",
+        "author": "점소이99",
+        "view_count": 46,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604271",
+        "title": "초월급 우주선 삼키고 탑등반",
+        "author": "단정한니트",
+        "view_count": 36,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604502",
+        "title": "은퇴한 무신은 객잔에서 조용히 살고 싶다",
+        "author": "홀스카초",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601598",
+        "title": "전능의 천재 물리학자가 우주의 비밀을 풀었다",
+        "author": "GoSt™",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603759",
+        "title": "펜션에 이세계 물건 들였더니 예약이 폭주함",
+        "author": "갓타",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604389",
+        "title": "귀환자는 아포칼립스에 건물주 대신 탑주가 되기로 했다",
+        "author": "크엉컹컹",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
