@@ -151966,5 +151966,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T14:00:37.379149+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 284,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 148,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602365",
+        "title": "삼국지 : 관평전",
+        "author": "토토리묵",
+        "view_count": 90,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597402",
+        "title": "그리스 제일 콩가루 집안의 아들이 되었다",
+        "author": "구오(句汚)",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602421",
+        "title": "전능의 AI로 세계 최초 흑자전환",
+        "author": "설흔(說痕)",
+        "view_count": 48,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602346",
+        "title": "해고당한 매니저가 미국 톱스타들을 잘 키움",
+        "author": "기린기린기",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603467",
+        "title": "1892, 독일 제국 황녀는 살아남고 싶다.",
+        "author": "치오.",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 멍게가 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 22,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605386",
+        "title": "국가가 집착하는 아공간 능력자로 각성했다",
+        "author": "진독자",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605946",
+        "title": "유품에서 재능이 쏟아짐.",
+        "author": "누리용",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
