@@ -151294,5 +151294,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T10:30:32.293349+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 351,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 을사늑약을 찢음",
+        "author": "듀이문",
+        "view_count": 137,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604024",
+        "title": "국가에 버림받고, 골렘마스터가 됐다",
+        "author": "참새친구",
+        "view_count": 85,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603999",
+        "title": "나 혼자 7000경으로 은하제국 건설",
+        "author": "글난타",
+        "view_count": 66,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603762",
+        "title": "퓨전펑크 속 외신의 힘을 얻었다",
+        "author": "범미르",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599662",
+        "title": "아포칼립스 외신 소환사로 착각당했다",
+        "author": "휘휘™",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603772",
+        "title": "수명은 무한, 모든 능력치는 최대",
+        "author": "태양진",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604464",
+        "title": "흉가 샀더니 마피아가 찾아옴",
+        "author": "글쓰는문어",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601709",
+        "title": "회귀한 도굴꾼이 기연을 싹쓸이",
+        "author": "독산유리알",
+        "view_count": 18,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601869",
+        "title": "좌천 된 만년 과장이 일제시대 보물을 얻음",
+        "author": "얄랼랼랴",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
