@@ -154558,5 +154558,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T06:00:40.586935+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 459,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603207",
+        "title": "국가 버림 받은 영웅의 아들이 전능한 힘을 각성함",
+        "author": "화운(話云)",
+        "view_count": 233,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603025",
+        "title": "국가에 버림받고 재앙급 창고 각성해서 빌런 됨",
+        "author": "깊은수풀",
+        "view_count": 96,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602751",
+        "title": "주인공만 묻고 떠블로 성장함",
+        "author": "스키리",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601172",
+        "title": "사약 원샷한 대군이 드라마를 너무 잘 씀",
+        "author": "몬도리아",
+        "view_count": 52,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604082",
+        "title": "퇴물 선수를 고치는 천재 의사",
+        "author": "옆집고래",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602346",
+        "title": "해고당한 매니저가 미국 톱스타들을 잘 키움",
+        "author": "기린기린기",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604225",
+        "title": "해고당한 후 베트남로또 당첨, 구원하며 힐링합니다.",
+        "author": "복라봉",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604885",
+        "title": "카이스트 나온 노가다 달인, 세상을 구하다",
+        "author": "달빛나라",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602545",
+        "title": "미친 사거리 저격총으로 우주를 정복한다",
+        "author": "고무수갑",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
