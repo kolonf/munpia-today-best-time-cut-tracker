@@ -152830,5 +152830,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T19:30:34.706255+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 403,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 221,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602574",
+        "title": "쫒겨났는데 로또 당첨되어 아이슬란드에서 농장경영합니다",
+        "author": "이그드라시",
+        "view_count": 96,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 61,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606451",
+        "title": "최약체 부족이 세상을 제패함",
+        "author": "요시v",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603657",
+        "title": "퇴사 후 S급 헌터 매니지먼트 차립니다",
+        "author": "로수",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601869",
+        "title": "좌천 된 만년 과장이 일제시대 보물을 얻음",
+        "author": "얄랼랼랴",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597994",
+        "title": "사마의가 걸그룹 리더로 데뷔해서 천하통일함",
+        "author": "뉘네",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606096",
+        "title": "섭종당한 내 게임이 현실이 되었다",
+        "author": "마지막검사",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603135",
+        "title": "CEO 롬니가 미국을 살려냄",
+        "author": "해밀터니안",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
