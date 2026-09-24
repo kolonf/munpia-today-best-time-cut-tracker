@@ -151582,5 +151582,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T12:00:37.339748+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601232",
+        "title": "몸 좀 만져줬을 뿐인데 스타들이 내게 집착한다",
+        "author": "볼랑말랑",
+        "view_count": 361,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 을사늑약을 찢음",
+        "author": "듀이문",
+        "view_count": 145,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 89,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604368",
+        "title": "외계어를 나만 알아듣자 전 세계가 집착함",
+        "author": "마리골드14",
+        "view_count": 65,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604708",
+        "title": "고블린 상대로 가우스 소총은 반칙 아닙니까?",
+        "author": "산타클라스",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604507",
+        "title": "국가권력급 헌터가 해고당함",
+        "author": "루나티카",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605156",
+        "title": "1조 당첨 후 4부 꼴찌 구단을 샀다",
+        "author": "여연",
+        "view_count": 29,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598002",
+        "title": "CIA를 홀린 무림제일신투",
+        "author": "hey준",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603796",
+        "title": "미래 AI로 1000조 재벌",
+        "author": "냉동작가",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604737",
+        "title": "방출당한 헌터의 농장에 몬스터가 산다",
+        "author": "페르세르크",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
