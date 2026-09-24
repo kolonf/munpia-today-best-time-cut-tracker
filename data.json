@@ -299615,5 +299615,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T11:00:41.341773+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603082",
+        "title": "나 혼자 전산담당인데 퇴사당함",
+        "author": "시래클",
+        "view_count": 2861,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 1634,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592756",
+        "title": "적폐 감독 들이박은 악동 투수가 미국을 제패함.",
+        "author": "맥스.",
+        "view_count": 1010,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596148",
+        "title": "유럽에서 망한 가게를 물려받았는데 해달이 보물을 주워옴",
+        "author": "무던",
+        "view_count": 688,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603357",
+        "title": "이번 생은 KBO 거르고 미국에서 던집니다",
+        "author": "치규치규",
+        "view_count": 516,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 395,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 286,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "588930",
+        "title": "호주 깡촌 만능 철물점으로 재벌합니다.",
+        "author": "한도현",
+        "view_count": 227,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595684",
+        "title": "퇴사 후 무당들이 집착하는 사장님이 되었다.",
+        "author": "성정민",
+        "view_count": 169,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605893",
+        "title": "해고 당한 과장이 업계를 뒤집어 놓음.",
+        "author": "글과달",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
