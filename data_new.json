@@ -151006,5 +151006,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T09:00:40.464638+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 436,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600029",
+        "title": "50조의 사나이",
+        "author": "김동휘",
+        "view_count": 184,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600260",
+        "title": "멸망 막으러 우주로 갔다가 1947년으로 돌아옴",
+        "author": "엠씨조",
+        "view_count": 88,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603731",
+        "title": "팔자를 너무 잘 고침",
+        "author": "광별",
+        "view_count": 71,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604737",
+        "title": "방출당한 헌터의 농장에 몬스터가 산다",
+        "author": "페르세르크",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605254",
+        "title": "아포칼립스 무한 증식하는 벙커로 꿀 빱니다",
+        "author": "켈린더",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604409",
+        "title": "국가에게 버림받은 S급 헌터는 미국으로 갈아탑니다",
+        "author": "지코바치킨",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603467",
+        "title": "1892, 독일 제국 황녀는 살아남고 싶다.",
+        "author": "치오.",
+        "view_count": 27,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604860",
+        "title": "선협에 영석광산을 숨김",
+        "author": "비상도",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603627",
+        "title": "천금상단 막내아들은 천하를 산다",
+        "author": "검무사랑이",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
