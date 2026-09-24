@@ -152926,5 +152926,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T20:30:34.390792+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 403,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 237,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603003",
+        "title": "해고 후 식물에서 돈이 계속 쏟아져 거물들이 집착함",
+        "author": "늬파랑",
+        "view_count": 93,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599501",
+        "title": "본 상담은 기억 소거 대상입니다",
+        "author": "첨G",
+        "view_count": 63,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604916",
+        "title": "해고 당했는데 코인이 대박났다",
+        "author": "[성덕]",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603556",
+        "title": "조선의 대마왕이 되었다",
+        "author": "와우리을리",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604009",
+        "title": "[나세진] 나는 세계의 진실을 알고 있다",
+        "author": "독요",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606266",
+        "title": "탑이 내 적응 속도를 감당 못함",
+        "author": "86호",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603135",
+        "title": "CEO 롬니가 미국을 살려냄",
+        "author": "해밀터니안",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
