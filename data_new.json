@@ -153790,5 +153790,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T01:30:34.530259+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 424,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 203,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602410",
+        "title": "내가 만든 AI에 전세계가 집착함",
+        "author": "요리리",
+        "view_count": 90,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602751",
+        "title": "주인공만 묻고 떠블로 성장함",
+        "author": "스키리",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604686",
+        "title": "막내 동생이 미친 음악 천재였다",
+        "author": "공상소년",
+        "view_count": 47,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602061",
+        "title": "국가가 정신병원에 가둔 해병은 상태창이 보임",
+        "author": "싸리또리",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601922",
+        "title": "삼국지, 미래를 보는 강유가 되었다",
+        "author": "고비류",
+        "view_count": 33,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604727",
+        "title": "퇴사당했더니 무당이 되었다",
+        "author": "여우팡이",
+        "view_count": 26,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601073",
+        "title": "나노수트로 무협에서 깽판침",
+        "author": "라쿤캣",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603793",
+        "title": "목숨걸고 탈옥했더니 세상이 망했다",
+        "author": "호흡불가",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
