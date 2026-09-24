@@ -154366,5 +154366,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T05:00:38.179294+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 482,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 237,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602410",
+        "title": "내가 만든 AI에 전세계가 집착함",
+        "author": "요리리",
+        "view_count": 95,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603166",
+        "title": "F급 마법사가 경험치 10,000,000만배로 탑 등반",
+        "author": "진독자",
+        "view_count": 67,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "596460",
+        "title": "애호받는 선협 뉴비가 되었다",
+        "author": "점소이99",
+        "view_count": 51,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603193",
+        "title": "무제한 레벨업으로 탑 등반",
+        "author": "광산김가",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601786",
+        "title": "우주선을 주워 국부 은하 대공이 됐다",
+        "author": "구웃",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603627",
+        "title": "천금상단 막내아들은 천하를 산다",
+        "author": "검무사랑이",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598002",
+        "title": "CIA를 홀린 무림제일신투",
+        "author": "hey준",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604860",
+        "title": "선협에 영석광산을 숨김",
+        "author": "비상도",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
