@@ -299711,5 +299711,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-24T11:30:37.333145+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596806",
+        "title": "전업주부인데 재벌보다 돈이 많음",
+        "author": "너구율",
+        "view_count": 3128,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 1674,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602106",
+        "title": "파워볼 당첨 후, 미국 휴게소를 키웠다",
+        "author": "쉬팽",
+        "view_count": 1017,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "592974",
+        "title": "미국에서 한식 풀었더니 이웃들이 너무 집착함",
+        "author": "방탄커피",
+        "view_count": 734,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 547,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593104",
+        "title": "미국에서 버린 물건 가격표가 내 눈에만 보임",
+        "author": "양작과",
+        "view_count": 398,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 304,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 232,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "589561",
+        "title": "탑 등반하는데 나만 수선자",
+        "author": "히버",
+        "view_count": 177,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600229",
+        "title": "천재 재벌은 부국강병이 너무 쉽다",
+        "author": "드림판다",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
