@@ -304223,5 +304223,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T08:30:33.644590+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 2626,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599250",
+        "title": "이혼하고 천재 신입사원",
+        "author": "현우(炫宇)",
+        "view_count": 1621,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594846",
+        "title": "무당 아니라고.......",
+        "author": "백린(白麟)",
+        "view_count": 1081,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597645",
+        "title": "국가권력급 킬러가 삼촌을 잘함",
+        "author": "지곡.",
+        "view_count": 780,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595614",
+        "title": "뉴욕에서 헌책복원으로 대박남",
+        "author": "꼬노네",
+        "view_count": 570,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594532",
+        "title": "회귀한 저니맨이 트레이드를 거부함",
+        "author": "포도맛봉봉",
+        "view_count": 445,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606203",
+        "title": "좌천당한 김 과장이 너무 유능하다",
+        "author": "후추발바닥",
+        "view_count": 351,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604230",
+        "title": "은퇴당한 탱커가 초월급 딜 능력을 각성함",
+        "author": "페페리안",
+        "view_count": 270,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605256",
+        "title": "아포칼립스에 동네를 숨김",
+        "author": "로드워리어",
+        "view_count": 137,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
