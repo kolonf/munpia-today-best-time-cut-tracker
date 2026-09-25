@@ -305279,5 +305279,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T13:30:36.898172+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592487",
+        "title": "국가권력급 헌터",
+        "author": "대문호",
+        "view_count": 3068,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594834",
+        "title": "사도세자 고쳤더니 정조가 산업혁명 일으킴",
+        "author": "하마버지",
+        "view_count": 1483,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 946,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "590024",
+        "title": "견훤의 사위가 고려를 멸망시킴",
+        "author": "대박터짐",
+        "view_count": 720,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598183",
+        "title": "전직 메이저리거는 빠르게 부산을 탈출한다",
+        "author": "비가싫어",
+        "view_count": 485,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 341,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605451",
+        "title": "해고당한 김 과장 미국에서 인생 역전",
+        "author": "이구공",
+        "view_count": 252,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603984",
+        "title": "플로리다에 땅을 샀더니 이세계 포탈이 열렸다",
+        "author": "연함™",
+        "view_count": 194,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600407",
+        "title": "고물상 청년이 외계 문명을 주웠다",
+        "author": "달달꿀벌",
+        "view_count": 153,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594476",
+        "title": "힐링하려던 깡촌 한의사, 월클들이 집착함",
+        "author": "네오소울",
+        "view_count": 107,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
