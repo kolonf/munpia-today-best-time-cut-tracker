@@ -307775,5 +307775,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T01:30:40.656323+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 2995,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 1392,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602105",
+        "title": "S급 각성자는 미국에 1조로 영입됐다",
+        "author": "노랑™",
+        "view_count": 864,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597651",
+        "title": "1조 파워볼 당첨 후, 걸그룹을 샀다",
+        "author": "죽엇푹",
+        "view_count": 653,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605629",
+        "title": "나 혼자 만능 서포터인데 퇴사당함",
+        "author": "백수천",
+        "view_count": 508,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594393",
+        "title": "현실 코딩했더니 돈이 얼마나 쌓일지 감도 안 옴",
+        "author": "낙필",
+        "view_count": 400,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598941",
+        "title": "방출된 육성 선수가 메이저리그를 찢음",
+        "author": "백마장사",
+        "view_count": 312,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 216,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600929",
+        "title": "운명을 보는 라디오 DJ한테 세계인이 애원함",
+        "author": "바람빛",
+        "view_count": 158,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "589561",
+        "title": "탑 등반하는데 나만 수선자",
+        "author": "히버",
+        "view_count": 115,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
