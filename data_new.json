@@ -158014,5 +158014,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T01:30:36.730773+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605893",
+        "title": "해고 당한 과장이 업계를 뒤집어 놓음.",
+        "author": "글과달",
+        "view_count": 473,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 180,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604024",
+        "title": "국가에 버림받고, 골렘마스터가 됐다",
+        "author": "참새친구",
+        "view_count": 91,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604082",
+        "title": "퇴물 선수를 고치는 천재 의사",
+        "author": "옆집고래",
+        "view_count": 63,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603401",
+        "title": "궤적이 보이는 EX급이 싸움을 잘함",
+        "author": "데드오크",
+        "view_count": 50,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601313",
+        "title": "남극에서 초문명 관문망을 독점했다",
+        "author": "서예준",
+        "view_count": 39,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604147",
+        "title": "일제강점기에서 빌드업하는 현대한의사",
+        "author": "가프",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602058",
+        "title": "사이버펑크 막장드라마 속 (물리)변호사",
+        "author": "녹색여우",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601886",
+        "title": "사이버펑크에서 만렙 검술로 싹 다 베어버림.",
+        "author": "별바람",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604047",
+        "title": "회장님, 액막이는 회사 업무가 아닌데요",
+        "author": "신줏단지",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
