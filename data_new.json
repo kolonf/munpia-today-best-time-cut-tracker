@@ -156958,5 +156958,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T19:30:33.321623+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602380",
+        "title": "국가에게 버림 받은 헌터가 천마가 되어 돌아왔다.",
+        "author": "탄뽀",
+        "view_count": 376,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605256",
+        "title": "아포칼립스에 동네를 숨김",
+        "author": "로드워리어",
+        "view_count": 231,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601625",
+        "title": "북부 대공 막내가 메카닉으로 자동사냥",
+        "author": "아레직",
+        "view_count": 85,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602346",
+        "title": "해고당한 매니저가 미국 톱스타들을 잘 키움",
+        "author": "기린기린기",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601313",
+        "title": "남극에서 초문명 관문망을 독점했다",
+        "author": "서예준",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 41,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605247",
+        "title": "쫓겨난 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "599220",
+        "title": "AI가 내 목숨에 100％를 베팅했다",
+        "author": "프레이즈",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603467",
+        "title": "1892, 독일 제국 황녀는 살아남고 싶다.",
+        "author": "치오.",
+        "view_count": 20,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604885",
+        "title": "카이스트 나온 노가다 달인, 세상을 구하다",
+        "author": "달빛나라",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
