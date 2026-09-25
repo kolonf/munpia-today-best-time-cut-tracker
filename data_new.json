@@ -157534,5 +157534,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T23:00:40.785631+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 411,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603999",
+        "title": "나 혼자 7000경으로 은하제국 건설",
+        "author": "글난타",
+        "view_count": 197,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604368",
+        "title": "외계어를 나만 알아듣자 전 세계가 집착함",
+        "author": "마리골드14",
+        "view_count": 91,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605256",
+        "title": "아포칼립스에 동네를 숨김",
+        "author": "로드워리어",
+        "view_count": 60,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601511",
+        "title": "글 좀 봐줬더니 내 값이 1000억까지 뜀",
+        "author": "글로또",
+        "view_count": 49,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604523",
+        "title": "재앙 각성한 줄 모르고 국가로부터 퇴출 당함",
+        "author": "노랑커피",
+        "view_count": 38,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606477",
+        "title": "이혼 후 내 자산4조, 근데 아무도 그걸 모름",
+        "author": "이문성",
+        "view_count": 30,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604727",
+        "title": "퇴사당했더니 무당이 되었다",
+        "author": "여우팡이",
+        "view_count": 24,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606058",
+        "title": "헤드헌터 업계 최고인데 해고당함",
+        "author": "쓰고또쓰고",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601886",
+        "title": "사이버펑크에서 만렙 검술로 싹 다 베어버림.",
+        "author": "별바람",
+        "view_count": 17,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
