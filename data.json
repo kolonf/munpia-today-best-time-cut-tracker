@@ -309119,5 +309119,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T07:30:52.133506+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594220",
+        "title": "회귀한 투수 코치가 공을 너무 잘 던짐",
+        "author": "밤카다",
+        "view_count": 2673,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598646",
+        "title": "내 오픈톡에 생명공학의 신이 산다",
+        "author": "Zeta.",
+        "view_count": 1498,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592051",
+        "title": "미국 3천억 파워볼 당첨자인데 빈 통장으로 회귀함",
+        "author": "기신",
+        "view_count": 991,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599602",
+        "title": "우주 게임에서 나만 만렙이다",
+        "author": "통풍왔음",
+        "view_count": 726,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 570,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600814",
+        "title": "나 혼자 EX급 각성자라 전 세계를 쥐고 흔듬",
+        "author": "정적",
+        "view_count": 459,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603868",
+        "title": "할리우드 여배우가 나도 모르게 내 아이를 잉태함",
+        "author": "서칸더브이",
+        "view_count": 368,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "586318",
+        "title": "7부리그 클럽의 구단주가 되어 EPL까지 가봤습니다",
+        "author": "글쓴이H",
+        "view_count": 275,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598523",
+        "title": "재벌들 죽는 순서 맞혔더니 살려달라고 줄을 섬",
+        "author": "차세나",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "603368",
+        "title": "일곱개의 탑",
+        "author": "경우勁雨",
+        "view_count": 152,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
