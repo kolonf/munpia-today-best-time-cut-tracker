@@ -307103,5 +307103,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T22:30:37.221369+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594760",
+        "title": "모두 탑에 갇혔는데 나만 출퇴근한다",
+        "author": "그랜드잭팟",
+        "view_count": 2824,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "591112",
+        "title": "버림받은 짐꾼이 EX급 각성함",
+        "author": "농구광™",
+        "view_count": 1564,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598655",
+        "title": "낭만 과학자가 초월급 우주선 상속 받음",
+        "author": "coldpig",
+        "view_count": 880,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599871",
+        "title": "사천당가 독마 삼촌에게 거물급이 몰려든다",
+        "author": "우르스.",
+        "view_count": 660,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 472,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602717",
+        "title": "EX급 거대로봇을 주웠더니 전세계가 내게 집착함",
+        "author": "활자오락",
+        "view_count": 395,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 307,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598194",
+        "title": "은퇴 후 귀농했더니, 헌터들이 집착한다?",
+        "author": "밀가루중독",
+        "view_count": 232,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "591598",
+        "title": "한국인 초짜 감독이 폐급 구단을 살림",
+        "author": "필로스",
+        "view_count": 147,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "603193",
+        "title": "무제한 레벨업으로 탑 등반",
+        "author": "광산김가",
+        "view_count": 111,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
