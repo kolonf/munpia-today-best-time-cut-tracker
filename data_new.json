@@ -155806,5 +155806,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T13:00:38.479489+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602643",
+        "title": "아포칼립스 미군기지를 외계 기술로 강화해서 최강쉘터로",
+        "author": "참숯닭구이",
+        "view_count": 397,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603984",
+        "title": "플로리다에 땅을 샀더니 이세계 포탈이 열렸다",
+        "author": "연함™",
+        "view_count": 175,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598517",
+        "title": "10살부터 시작하는 축구스타",
+        "author": "글먹다템",
+        "view_count": 97,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601909",
+        "title": "선협에서 우주선을 숨김",
+        "author": "신시우",
+        "view_count": 70,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603992",
+        "title": "나만 읽는 탑 공략으로 히든 보상 독식",
+        "author": "개박사",
+        "view_count": 55,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606560",
+        "title": "회장님 비밀계좌가 내 건데 퇴사당하고 전생을 떠올림",
+        "author": "광별",
+        "view_count": 42,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601172",
+        "title": "사약 원샷한 대군이 드라마를 너무 잘 씀",
+        "author": "몬도리아",
+        "view_count": 31,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602960",
+        "title": "회귀한 S급 각성자는 은하계 고물상으로 좌천당했다",
+        "author": "할프",
+        "view_count": 25,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599220",
+        "title": "AI가 내 목숨에 100％를 베팅했다",
+        "author": "프레이즈",
+        "view_count": 21,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604132",
+        "title": "흉부외과 교수는 재벌이 되기로 결심했다",
+        "author": "칠박",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
