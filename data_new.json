@@ -155038,5 +155038,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-25T09:00:40.312950+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602717",
+        "title": "EX급 거대로봇을 주웠더니 전세계가 내게 집착함",
+        "author": "활자오락",
+        "view_count": 469,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 233,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603462",
+        "title": "무한 강화로 국가권력급 네크로맨서",
+        "author": "지점장",
+        "view_count": 104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604051",
+        "title": "구한말 핵잠이 일본에 핵을 떨굼",
+        "author": "정사부",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601625",
+        "title": "북부 대공 막내가 영지를 메카닉 요새화함",
+        "author": "아레직",
+        "view_count": 58,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606477",
+        "title": "이혼 후 내 자산4조, 근데 아무도 그걸 모름",
+        "author": "이문성",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604502",
+        "title": "은퇴한 무신은 객잔에서 조용히 살고 싶다",
+        "author": "홀스카초",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606560",
+        "title": "회장님 비밀계좌가 내 건데 퇴사당하고 전생을 떠올림",
+        "author": "광별",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602444",
+        "title": "신빨 날리는 재앙급 신입사원이 되었다",
+        "author": "이공이공",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604768",
+        "title": "재앙급 마도서에게 간택당했다",
+        "author": "언도",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
