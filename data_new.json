@@ -162430,5 +162430,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-27T02:30:32.258250+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 464,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606436",
+        "title": "파워볼 당첨 후, 전산 담당 직원이 퇴사당함",
+        "author": "86호",
+        "view_count": 235,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602365",
+        "title": "삼국지 : 관평전",
+        "author": "토토리묵",
+        "view_count": 99,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603166",
+        "title": "F급 마법사가 경험치 10,000,000만배로 탑 등반",
+        "author": "진독자",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604472",
+        "title": "선협 속 뱀이 됐다만 조용히 살기엔 너무 크다",
+        "author": "붕어밥샹크",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601786",
+        "title": "우주선을 주워 국부 은하 대공이 됐다",
+        "author": "구웃",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601902",
+        "title": "회귀한 줄 모르고 국가가 배신함",
+        "author": "바바루",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606127",
+        "title": "아카데미 스파이 교수가 살아남는 법",
+        "author": "폭파중",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
