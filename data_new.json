@@ -159550,5 +159550,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T10:00:36.400562+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603782",
+        "title": "배신당한 형사가 마공으로 때려죽임",
+        "author": "단팥빵소년",
+        "view_count": 391,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603984",
+        "title": "플로리다에 땅을 샀더니 이세계 포탈이 열렸다",
+        "author": "연함™",
+        "view_count": 158,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601198",
+        "title": "재벌 3세가 버린 AI로 돈벼락 맞음",
+        "author": "레드초콜릿",
+        "view_count": 88,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601625",
+        "title": "북부 대공 막내가 메카닉으로 자동사냥",
+        "author": "아레직",
+        "view_count": 64,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603731",
+        "title": "팔자를 너무 잘 고침",
+        "author": "광별",
+        "view_count": 53,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604099",
+        "title": "로또 1등 금융 치료받고 병원 안 관둠",
+        "author": "백원만s",
+        "view_count": 40,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602451",
+        "title": "EX급 뽑기 능력으로 신화급 탑 공략",
+        "author": "알비노펭귄",
+        "view_count": 28,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603420",
+        "title": "퇴사 후 전당포하니 행운이 쏟아짐",
+        "author": "아침호수",
+        "view_count": 23,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606776",
+        "title": "물려받은 폐선박이 무적인데 돈도 벌어옴",
+        "author": "글삭기",
+        "view_count": 19,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603770",
+        "title": "머스크, 외계인 커밍아웃. ㅈ됐다.",
+        "author": "달빛나라",
+        "view_count": 16,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
