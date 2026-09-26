@@ -161758,5 +161758,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T22:30:34.278096+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605451",
+        "title": "해고당한 김 과장 미국에서 인생 역전",
+        "author": "이구공",
+        "view_count": 452,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604507",
+        "title": "국가권력급 헌터가 해고당함",
+        "author": "루나티카",
+        "view_count": 224,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606250",
+        "title": "하와이에서 보물선 탐사로 대박남",
+        "author": "지나83",
+        "view_count": 98,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606355",
+        "title": "퇴사당한 미국 트럭커가 아공간을 숨김",
+        "author": "임부키",
+        "view_count": 68,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602451",
+        "title": "EX급 뽑기 능력으로 신화급 탑 공략",
+        "author": "알비노펭귄",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603556",
+        "title": "조선의 대마왕이 되었다",
+        "author": "와우리을리",
+        "view_count": 45,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604021",
+        "title": "성형외과도 메디컬이다!",
+        "author": "김우진1101",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "601786",
+        "title": "우주선을 주워 국부 은하 대공이 됐다",
+        "author": "구웃",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603333",
+        "title": "하운드 지망생들을 위한 실전 안내서",
+        "author": "몬도리아",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605606",
+        "title": "마탑에 와플집을 오픈했더니, 헌터들이 줄을 선다",
+        "author": "예스안",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
