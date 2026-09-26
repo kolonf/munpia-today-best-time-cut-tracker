@@ -310271,5 +310271,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T13:00:40.463094+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603082",
+        "title": "나 혼자 전산담당인데 퇴사당함",
+        "author": "시래클",
+        "view_count": 3734,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 2043,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 SSS랭크 탑등반해서 국위선양함",
+        "author": "틈새솔",
+        "view_count": 1118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603357",
+        "title": "이번 생은 KBO 거르고 미국에서 던집니다",
+        "author": "치규치규",
+        "view_count": 756,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 582,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593035",
+        "title": "삼국지 공명을 대신하게 되었다.",
+        "author": "글못쓰는놈",
+        "view_count": 404,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 291,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 224,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594125",
+        "title": "전설의 일진으로 오해받는 중입니다",
+        "author": "류해인",
+        "view_count": 185,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "600325",
+        "title": "은퇴당한 특전사 이세계에서 한식으로 인생 역전",
+        "author": "가지(GAZI)",
+        "view_count": 128,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
