@@ -161662,5 +161662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T22:00:37.756296+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605451",
+        "title": "해고당한 김 과장 미국에서 인생 역전",
+        "author": "이구공",
+        "view_count": 428,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603193",
+        "title": "무제한 레벨업으로 탑 등반",
+        "author": "광산김가",
+        "view_count": 228,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605373",
+        "title": "미래 악플 보는 매니저는 파워볼 3000억을 숨김",
+        "author": "우운(雨雲)",
+        "view_count": 103,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602346",
+        "title": "해고당한 매니저가 미국 톱스타들을 잘 키움",
+        "author": "기린기린기",
+        "view_count": 72,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604156",
+        "title": "회귀 회계사는 돈복사가 너무 쉽다",
+        "author": "살채",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605254",
+        "title": "아포칼립스 무한 증식하는 벙커로 꿀 빱니다",
+        "author": "켈린더",
+        "view_count": 34,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605171",
+        "title": "해고당한 날 사천당가 향독사의 비전을 얻었다",
+        "author": "어나인",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606248",
+        "title": "삼국지 손권의 술상무가 되었다",
+        "author": "은수랑",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604789",
+        "title": "1조 재벌인데 시골에서 힐링합니다",
+        "author": "재미진글",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
