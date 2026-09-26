@@ -310463,5 +310463,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T14:00:47.139556+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592487",
+        "title": "국가권력급 헌터",
+        "author": "대문호",
+        "view_count": 3303,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605957",
+        "title": "회장님 비자금 가진 줄 모르고 해고당함",
+        "author": "사초™",
+        "view_count": 1744,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596283",
+        "title": "선협 농사가 쉽다",
+        "author": "탄산수영장",
+        "view_count": 1091,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596475",
+        "title": "삼국지: 회귀한 유장이 너무 유능함",
+        "author": "運月",
+        "view_count": 754,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 521,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594177",
+        "title": "은퇴 당한 각성자가 탑 속에서 힐링함",
+        "author": "땃땃땃쥐",
+        "view_count": 355,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600929",
+        "title": "운명을 바꾸고 싶어? 그럼 들어와!",
+        "author": "바람빛",
+        "view_count": 273,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "593613",
+        "title": "미국에서 농사지으며 소소하게 힐링함",
+        "author": "신선의길",
+        "view_count": 220,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600407",
+        "title": "고물상 청년이 외계 문명을 주웠다",
+        "author": "달달꿀벌",
+        "view_count": 164,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 126,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
