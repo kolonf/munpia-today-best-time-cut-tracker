@@ -163486,5 +163486,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-27T08:00:37.215433+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602643",
+        "title": "아포칼립스 미군기지를 외계 기술로 강화해서 최강쉘터로",
+        "author": "참숯닭구이",
+        "view_count": 514,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605233",
+        "title": "국가에게 버림받은 헌터들을 내가 다 버렸다",
+        "author": "30센치작가",
+        "view_count": 275,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603759",
+        "title": "펜션에 이세계 물건 들였더니 예약이 폭주함",
+        "author": "갓타",
+        "view_count": 115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604502",
+        "title": "은퇴한 무신은 객잔에서 조용히 살고 싶다",
+        "author": "홀스카초",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606500",
+        "title": "깡촌 이발사인데 재벌보다 돈이 많음",
+        "author": "백원만s",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604147",
+        "title": "일제강점기에서 빌드업하는 현대한의사",
+        "author": "가프",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606959",
+        "title": "해고 후 SSS급 광신도 각성",
+        "author": "달토끼13호",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604188",
+        "title": "망한 조선소를 샀더니 미 해군이 줄을 선다",
+        "author": "이천냥",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
