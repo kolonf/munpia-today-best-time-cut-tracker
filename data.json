@@ -311615,5 +311615,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-26T19:30:34.056794+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596591",
+        "title": "천재 뮤지션이었던 전생을 각성함",
+        "author": "공중누각",
+        "view_count": 3668,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594495",
+        "title": "격투 천재는 궤적이 다 보임",
+        "author": "콜레오",
+        "view_count": 1765,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599250",
+        "title": "이혼하고 천재 신입사원",
+        "author": "현우(炫宇)",
+        "view_count": 1127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598780",
+        "title": "겜판을 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 781,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598570",
+        "title": "퇴사 후 배틀크루저 함장이 되었다",
+        "author": "우정호",
+        "view_count": 508,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 405,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595684",
+        "title": "퇴사 후 무당들이 집착하는 사장님이 되었다.",
+        "author": "성정민",
+        "view_count": 323,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "선비의붓",
+        "view_count": 286,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600910",
+        "title": "포션수선전",
+        "author": "오구진",
+        "view_count": 232,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601198",
+        "title": "재벌 3세가 버린 AI로 돈벼락 맞음",
+        "author": "레드초콜릿",
+        "view_count": 143,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
