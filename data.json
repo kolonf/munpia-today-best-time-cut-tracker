@@ -317279,5 +317279,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-27T22:00:40.743083+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 3603,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597812",
+        "title": "전능 AI를 쓰니 미 특수부대가 집착한다.",
+        "author": "총골드",
+        "view_count": 1868,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 1230,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594754",
+        "title": "혈교 교주였던 경찰이 너무 유능함",
+        "author": "범탈",
+        "view_count": 780,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603357",
+        "title": "이번 생은 KBO 거르고 미국에서 던집니다",
+        "author": "치규치규",
+        "view_count": 599,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 457,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 376,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600814",
+        "title": "나 혼자 EX급 각성자라 전 세계를 쥐고 흔듬",
+        "author": "정적",
+        "view_count": 318,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605233",
+        "title": "국가에게 버림받은 헌터들을 내가 다 버렸다",
+        "author": "30센치작가",
+        "view_count": 209,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "592767",
+        "title": "선협에서 잠이 곧 기연이다",
+        "author": "베베이",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
