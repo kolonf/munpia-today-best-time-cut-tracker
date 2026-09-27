@@ -166462,5 +166462,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-28T01:30:34.024115+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606767",
+        "title": "히트곡 다 써줬더니 해고당했다",
+        "author": "더페이서",
+        "view_count": 542,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602574",
+        "title": "쫒겨났는데 로또 당첨되어 아이슬란드에서 농장경영합니다",
+        "author": "이그드라시",
+        "view_count": 229,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603025",
+        "title": "국가에 버림받고 재앙급 창고 각성해서 빌런 됨",
+        "author": "깊은수풀",
+        "view_count": 107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602751",
+        "title": "주인공만 묻고 떠블로 성장함",
+        "author": "스키리",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604472",
+        "title": "선협 속 뱀이 됐다만 조용히 살기엔 너무 크다",
+        "author": "붕어밥샹크",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606500",
+        "title": "깡촌 이발사인데 재벌보다 돈이 많음",
+        "author": "백원만s",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602346",
+        "title": "해고당한 매니저가 미국 톱스타들을 잘 키움",
+        "author": "기린기린기",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605552",
+        "title": "무명배우인데 예능신이 도와줌",
+        "author": "에바트리체",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605493",
+        "title": "공모전 AI에 한국이 집착함",
+        "author": "가짜공학자",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605685",
+        "title": "나 빼고 전부 우주로 떠남",
+        "author": "생물학생",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
