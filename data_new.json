@@ -166366,5 +166366,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-28T01:00:37.161280+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 577,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602130",
+        "title": "쫓겨난 용접공 아저씨가 강화를 너무 잘함",
+        "author": "mirtail",
+        "view_count": 288,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606250",
+        "title": "하와이에서 보물선 탐사로 대박남",
+        "author": "지나83",
+        "view_count": 102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 81,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603474",
+        "title": "영화만 봐도 강해진다",
+        "author": "옆동네형",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604439",
+        "title": "5만원짜리 노트북으로 대한민국을 먹여 살림",
+        "author": "열무우",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602421",
+        "title": "해고 후 소환수를 AI로 만들었더니 빅테크 씹어먹음",
+        "author": "설흔(說痕)",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605894",
+        "title": "해고당한 엔터팀장이 신점을 너무 잘 봄",
+        "author": "간딴",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605166",
+        "title": "마왕군 소환으로 탑 등반합니다.",
+        "author": "asbaldr",
+        "view_count": 22,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606959",
+        "title": "해고 후 SSS급 광신도 각성",
+        "author": "달토끼13호",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
