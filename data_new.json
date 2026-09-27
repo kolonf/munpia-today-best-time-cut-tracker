@@ -166174,5 +166174,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-28T00:00:40.156722+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 552,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 273,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603383",
+        "title": "금의위로 각성했더니 국가가 버림받기 싫어함",
+        "author": "착한소",
+        "view_count": 107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604646",
+        "title": "미래의 나와 채팅했더니 재벌이 됐다",
+        "author": "오모로이",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602061",
+        "title": "버림받은 EX급이 스킬뽑기로 우주 자원 독점함",
+        "author": "싸리또리",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604277",
+        "title": "천하제일가 막내공자",
+        "author": "우진하",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605367",
+        "title": "내 인벤토리가 전세계에 생중계됨",
+        "author": "바바루",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602421",
+        "title": "해고 후 소환수를 AI로 만들었더니 빅테크 씹어먹음",
+        "author": "설흔(說痕)",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606058",
+        "title": "헤드헌터 업계 최고인데 해고당함",
+        "author": "쓰고또쓰고",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605707",
+        "title": "귀환자 퇴사하고 갓생합니다",
+        "author": "케이브",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
