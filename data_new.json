@@ -165406,5 +165406,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-27T19:30:32.499158+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605451",
+        "title": "해고당한 김 과장 미국에서 인생 역전",
+        "author": "이구공",
+        "view_count": 482,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604230",
+        "title": "은퇴당한 탱커가 초월급 딜 능력을 각성함",
+        "author": "페페리안",
+        "view_count": 308,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601902",
+        "title": "회귀한 줄 모르고 국가가 배신함",
+        "author": "바바루",
+        "view_count": 114,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606451",
+        "title": "최약체 부족이 세상을 제패함",
+        "author": "요시v",
+        "view_count": 77,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605418",
+        "title": "해고당한 헌터분석관은 세계최고",
+        "author": "카피닌자",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606891",
+        "title": "해고당한 팀장은 업계 에이스임",
+        "author": "콜라아이스",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603401",
+        "title": "궤적이 보이는 EX급이 싸움을 잘함",
+        "author": "데드오크",
+        "view_count": 36,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605136",
+        "title": "버림받은 헌터가 룬 스펠을 각성함",
+        "author": "남호원",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605552",
+        "title": "무명배우인데 예능신이 도와줌",
+        "author": "에바트리체",
+        "view_count": 18,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
