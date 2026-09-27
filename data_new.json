@@ -164542,5 +164542,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-27T14:30:30.795349+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606436",
+        "title": "파워볼 당첨 후, 전산 담당 직원이 퇴사당함",
+        "author": "86호",
+        "view_count": 384,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 을사늑약을 찢음",
+        "author": "듀이문",
+        "view_count": 230,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604252",
+        "title": "자고 일어났더니 유튜브 1,000만 구독자가 되었다",
+        "author": "김전기",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605016",
+        "title": "B급 헌터인데 보상이 1 플러스 1",
+        "author": "배소리",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605707",
+        "title": "귀환자 퇴사하고 갓생합니다",
+        "author": "케이브",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605373",
+        "title": "미래 악플 보는 매니저는 파워볼 3000억을 숨김",
+        "author": "우운(雨雲)",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606891",
+        "title": "해고당한 팀장은 업계 에이스임",
+        "author": "콜라아이스",
+        "view_count": 28,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606347",
+        "title": "EX급 테이머로 재각성했는데 관리국에서 방출됨",
+        "author": "포도수",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599929",
+        "title": "독도는 우리 깡치가 지킨다",
+        "author": "하나빛",
+        "view_count": 19,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
