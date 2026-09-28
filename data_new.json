@@ -168670,5 +168670,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-28T15:00:37.016427+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606767",
+        "title": "히트곡 다 써줬더니 해고당했다",
+        "author": "더페이서",
+        "view_count": 420,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602380",
+        "title": "국가에게 버림 받은 헌터가 천마가 되어 돌아왔다.",
+        "author": "탄뽀",
+        "view_count": 247,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606662",
+        "title": "해고당한 김과장이 미국에서 대박났다",
+        "author": "미친재능",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602545",
+        "title": "미친 사거리 저격총으로 우주를 정복한다",
+        "author": "고무수갑",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604646",
+        "title": "미래의 나와 채팅했더니 재벌이 됐다",
+        "author": "오모로이",
+        "view_count": 44,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "591238",
+        "title": "미국 깡촌해서 한 골동품 사업이 대박남",
+        "author": "환승이직왕",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602058",
+        "title": "사이버펑크 막장드라마 속 (물리)변호사",
+        "author": "녹색여우",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602937",
+        "title": "측정불가 F급 힐러는 조용히 살고 싶다",
+        "author": "맨발의시인",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
