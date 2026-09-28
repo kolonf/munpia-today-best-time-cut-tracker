@@ -320735,5 +320735,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-28T14:00:42.010484+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "592487",
+        "title": "국가권력급 헌터",
+        "author": "대문호",
+        "view_count": 3452,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 1803,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595562",
+        "title": "1979 장포스, 대한민국 하드 캐리 모드",
+        "author": "선우선사",
+        "view_count": 1258,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "595446",
+        "title": "아무도 내가 세계재벌인 줄 모른다",
+        "author": "나나코니",
+        "view_count": 890,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "591171",
+        "title": "500억 자산가 교사인데 학부모가 고소함",
+        "author": "파르랑",
+        "view_count": 629,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597631",
+        "title": "국가에 버림받고 마탑을 세움",
+        "author": "글쓰는벌레",
+        "view_count": 437,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599871",
+        "title": "사천당가 독마 삼촌에게 거물급이 몰려든다",
+        "author": "우르스.",
+        "view_count": 335,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 251,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599899",
+        "title": "귀환 후 소소하게 힐링함",
+        "author": "알랜더",
+        "view_count": 190,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603795",
+        "title": "나만 오르는 주식이 보임",
+        "author": "백우랑",
+        "view_count": 145,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
