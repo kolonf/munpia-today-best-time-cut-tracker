@@ -171934,5 +171934,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-29T08:30:33.985294+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 659,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605373",
+        "title": "미래 악플 보는 매니저는 파워볼 3000억을 숨김",
+        "author": "우운(雨雲)",
+        "view_count": 281,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604252",
+        "title": "자고 일어났더니 유튜브 1,000만 구독자가 되었다",
+        "author": "김전기",
+        "view_count": 151,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604916",
+        "title": "해고 당했는데 코인이 대박났다",
+        "author": "[성덕]",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606979",
+        "title": "딸깍 한의사",
+        "author": "해물조림",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607344",
+        "title": "이혼당한 데릴사위가 초국가적 재벌 후계자",
+        "author": "라쿤캣",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604302",
+        "title": "외계인이 나를 너무 세게 개조했다",
+        "author": "뚜야",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
