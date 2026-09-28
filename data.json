@@ -322175,5 +322175,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-28T21:00:48.434851+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594988",
+        "title": "미국 시골 경주마 목장이 잠재력 S급만 골라서 키움.",
+        "author": "탄뽀",
+        "view_count": 3522,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 1973,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 1321,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 792,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "587838",
+        "title": "반도체 회사 대리가 결함을 잘 봄",
+        "author": "시온유",
+        "view_count": 627,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606436",
+        "title": "파워볼 당첨 후, 전산 담당 직원이 퇴사당함",
+        "author": "86호",
+        "view_count": 460,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605583",
+        "title": "파혼 후 무림이 나만 찾는다",
+        "author": "글럼프",
+        "view_count": 376,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 307,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602574",
+        "title": "쫒겨났는데 로또 당첨되어 아이슬란드에서 농장경영합니다",
+        "author": "이그드라시",
+        "view_count": 203,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593777",
+        "title": "24시간 뒤 뉴스로 자본 독식",
+        "author": "요거투",
+        "view_count": 146,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
