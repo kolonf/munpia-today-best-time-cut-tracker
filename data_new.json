@@ -169342,5 +169342,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-28T19:00:37.624506+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603375",
+        "title": "EX급 수복 스킬로 다 고침",
+        "author": "긍정론적",
+        "view_count": 593,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605583",
+        "title": "파혼 후 무림이 나만 찾는다",
+        "author": "글럼프",
+        "view_count": 337,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 148,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602852",
+        "title": "재벌집 망나니가 반도체로 AGI 만듬",
+        "author": "백수원",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602751",
+        "title": "주인공만 묻고 떠블로 성장함",
+        "author": "스키리",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606799",
+        "title": "퇴사당하자 돈 버는 능력이 생김",
+        "author": "소수림",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604302",
+        "title": "외계인이 나를 너무 세게 개조했다",
+        "author": "뚜야",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602657",
+        "title": "우주 괴수를 씹어먹는 고인물",
+        "author": "재활용자",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606470",
+        "title": "캐나다 이민 후 광산 재벌",
+        "author": "테리빈스",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607330",
+        "title": "한국에서 EX급 유전이 터졌는데 내 땅임.",
+        "author": "글맛국밥",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
