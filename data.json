@@ -328031,5 +328031,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-30T01:00:45.596553+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595446",
+        "title": "아무도 내가 세계재벌인 줄 모른다",
+        "author": "나나코니",
+        "view_count": 3244,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597806",
+        "title": "미국에서 온 삼촌이 3스타 셰프라고?",
+        "author": "상한가",
+        "view_count": 1616,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590104",
+        "title": "나 혼자 차원거래로 신소재 재벌",
+        "author": "plustari",
+        "view_count": 957,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596266",
+        "title": "초월급 헌터가 국가에게 버림받음",
+        "author": "빌림",
+        "view_count": 720,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597813",
+        "title": "국가에게 버림받은 헌터가 재평가되었다",
+        "author": "찹쌀빵",
+        "view_count": 520,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603207",
+        "title": "국가 버림 받은 영웅의 아들이 전능한 힘을 각성함",
+        "author": "화운(話云)",
+        "view_count": 410,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 362,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 258,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 200,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603420",
+        "title": "퇴사 후 전당포하니 돈이 계속 쌓임",
+        "author": "아침호수",
+        "view_count": 150,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
