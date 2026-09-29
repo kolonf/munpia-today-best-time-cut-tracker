@@ -176350,5 +176350,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-30T08:30:32.060191+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601846",
+        "title": "반강제적 재벌 총수",
+        "author": "페르세르크",
+        "view_count": 652,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606477",
+        "title": "이혼 후, 자산 4조 사채왕의 유일한 손자가 됐다",
+        "author": "이문성",
+        "view_count": 322,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605256",
+        "title": "아포칼립스에 동네를 숨김",
+        "author": "로드워리어",
+        "view_count": 145,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606891",
+        "title": "해고당한 뒤로 미래가 보임",
+        "author": "콜라아이스",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604472",
+        "title": "선협 속 뱀이 됐다만 조용히 살기엔 너무 크다",
+        "author": "붕어밥샹크",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605156",
+        "title": "퇴사 당한 후 구단을 사버렸다",
+        "author": "여연",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605552",
+        "title": "무명배우인데 예능신이 도와줌",
+        "author": "에바트리체",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606673",
+        "title": "미 교통부가 집착하는 천재 조사관이 되었다",
+        "author": "귤잠꾼",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606127",
+        "title": "스파이 교수의 무협식 제자육성법",
+        "author": "폭파중",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602058",
+        "title": "사이버펑크 막장드라마 속 (물리)변호사",
+        "author": "녹색여우",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
