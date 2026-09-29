@@ -327167,5 +327167,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-29T21:00:47.267883+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601189",
+        "title": "나 혼자 서버관리자인데 퇴사당함",
+        "author": "까막커",
+        "view_count": 3748,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605957",
+        "title": "회장님 비자금 가진 줄 모르고 해고당함",
+        "author": "사초™",
+        "view_count": 2048,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 1371,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598780",
+        "title": "겜판을 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 800,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603462",
+        "title": "무한 강화로 국가권력급 네크로맨서",
+        "author": "지점장",
+        "view_count": 587,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604507",
+        "title": "나 혼자 EX급인데 퇴사당함",
+        "author": "루나티카",
+        "view_count": 439,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600519",
+        "title": "초과학 문명으로 세계 정복",
+        "author": "yespro",
+        "view_count": 370,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "589561",
+        "title": "탑 등반하는데 나만 수선자",
+        "author": "히버",
+        "view_count": 297,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "zoee",
+        "view_count": 203,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591598",
+        "title": "한국인 초짜 감독이 폐급 구단을 살림",
+        "author": "필로스",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
