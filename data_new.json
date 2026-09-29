@@ -172894,5 +172894,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-29T13:30:37.202368+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 458,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604230",
+        "title": "은퇴당한 탱커가 초월급 딜 능력을 각성함",
+        "author": "페페리안",
+        "view_count": 203,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605254",
+        "title": "아포칼립스 무한 증식하는 벙커로 꿀 빱니다",
+        "author": "켈린더",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605016",
+        "title": "B급 헌터인데 보상이 1 플러스 1",
+        "author": "배소리",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604464",
+        "title": "흉가 샀더니 마피아가 찾아옴",
+        "author": "글쓰는문어",
+        "view_count": 57,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604646",
+        "title": "미래의 나와 채팅했더니 재벌이 됐다",
+        "author": "오모로이",
+        "view_count": 43,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606370",
+        "title": "국가에게 버림받은 각성자가 사실 웨펀마스터였다",
+        "author": "한생한사",
+        "view_count": 35,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606347",
+        "title": "EX급 테이머로 재각성했는데 관리국에서 방출됨",
+        "author": "포도수",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605522",
+        "title": "좋소 엔지니어인데 재벌 총수들이 집착함",
+        "author": "아이오니스",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606521",
+        "title": "천재 작가로 착각당했다",
+        "author": "짱원영",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
