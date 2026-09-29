@@ -173182,5 +173182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-29T15:00:36.674764+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603462",
+        "title": "무한 강화로 국가권력급 네크로맨서",
+        "author": "지점장",
+        "view_count": 472,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604252",
+        "title": "자고 일어났더니 유튜브 1,000만 구독자가 되었다",
+        "author": "김전기",
+        "view_count": 251,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603992",
+        "title": "규격 외 특성 쌓아서 신화급 탑 등반",
+        "author": "개박사",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605418",
+        "title": "해고당한 헌터분석관은 세계최고",
+        "author": "카피닌자",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603762",
+        "title": "퓨전펑크 속 외신의 힘을 얻었다",
+        "author": "범미르",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603967",
+        "title": "버림받은 헌터가 초월급 마법사로 각성함",
+        "author": "922",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607282",
+        "title": "사표내고 나간 차장이 너무 유능함",
+        "author": "되새김질",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605138",
+        "title": "삼국지 최악의 폭군 곽사로 살아남기",
+        "author": "운암선생",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605820",
+        "title": "버림받은 내가 미래 좀 봤더니 재벌들이 집착한다",
+        "author": "돌킴",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598002",
+        "title": "CIA를 홀린 무림제일신투",
+        "author": "hey준",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
