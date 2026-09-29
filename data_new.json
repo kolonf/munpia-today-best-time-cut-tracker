@@ -173374,5 +173374,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-29T16:00:35.856795+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 525,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604024",
+        "title": "국가에 버림받고, 골렘마스터가 됐다",
+        "author": "참새친구",
+        "view_count": 254,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603383",
+        "title": "금의위로 각성했더니 국가가 버림받기 싫어함",
+        "author": "착한소",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602852",
+        "title": "재벌집 망나니가 반도체로 AGI 만듬",
+        "author": "백수원",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604464",
+        "title": "흉가 샀더니 마피아가 찾아옴",
+        "author": "글쓰는문어",
+        "view_count": 59,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604646",
+        "title": "미래의 나와 채팅했더니 재벌이 됐다",
+        "author": "오모로이",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605552",
+        "title": "무명배우인데 예능신이 도와줌",
+        "author": "에바트리체",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605138",
+        "title": "삼국지 최악의 폭군 곽사로 살아남기",
+        "author": "운암선생",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607226",
+        "title": "9,999렙 EX급 해고 퇴사자는 탑 등반이 너무 쉽다",
+        "author": "바바루",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606959",
+        "title": "해고 후 SSS급 광신도 각성",
+        "author": "달토끼13호",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
