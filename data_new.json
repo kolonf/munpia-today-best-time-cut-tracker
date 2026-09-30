@@ -178078,5 +178078,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-30T18:30:30.850423+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603357",
+        "title": "방출 투수가 미국에서 보란 듯이 잘 던짐",
+        "author": "치규치규",
+        "view_count": 668,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606481",
+        "title": "해고당한 엔지니어가 실리콘밸리를 뒤집어놓음.",
+        "author": "대작박가",
+        "view_count": 375,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605233",
+        "title": "국가에게 버림받은 헌터들을 내가 다 버렸다",
+        "author": "30센치작가",
+        "view_count": 164,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607365",
+        "title": "퇴사당한 과장 삼촌이 미국 파워볼에 당첨되고 미래를 봄",
+        "author": "늬파랑",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596423",
+        "title": "무림맹 말단무사",
+        "author": "chobojakga",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사가 너무 유능함",
+        "author": "자몽라임",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604523",
+        "title": "재앙 각성한 줄 모르고 국가로부터 퇴출 당함",
+        "author": "노랑커피",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606522",
+        "title": "폐기된 성인용 로봇이 최종병기였다",
+        "author": "뽈보",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607182",
+        "title": "삼국지, 문추 천하를 얻다.",
+        "author": "두리둥",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
