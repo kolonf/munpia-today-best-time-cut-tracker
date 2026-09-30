@@ -332255,5 +332255,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-30T21:30:36.101652+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598994",
+        "title": "은하제국 개망나니가 빙의를 숨김",
+        "author": "라가불린",
+        "view_count": 3434,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 SSS랭크 탑등반해서 국위선양함",
+        "author": "틈새솔",
+        "view_count": 1841,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 1200,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 811,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 588,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600910",
+        "title": "포션수선전",
+        "author": "오구진",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604234",
+        "title": "은퇴했는데 반로환동",
+        "author": "김태평",
+        "view_count": 324,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605373",
+        "title": "미래 악플 보는 매니저는 파워볼 3000억을 숨김",
+        "author": "우운(雨雲)",
+        "view_count": 230,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606644",
+        "title": "회장님 막내딸 임신시킨 줄 모르고 퇴사당함",
+        "author": "남호원",
+        "view_count": 177,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600325",
+        "title": "SF에서도 한식은 잘 먹힌다",
+        "author": "가지(GAZI)",
+        "view_count": 141,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
