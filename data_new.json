@@ -178750,5 +178750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-30T22:30:35.733407+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605583",
+        "title": "파혼 후 무림이 나만 찾는다",
+        "author": "글럼프",
+        "view_count": 591,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 285,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603462",
+        "title": "무한 강화로 국가권력급 네크로맨서",
+        "author": "지점장",
+        "view_count": 148,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604727",
+        "title": "퇴사당했더니 무당이 되었다",
+        "author": "여우팡이",
+        "view_count": 95,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606573",
+        "title": "해고당한 서 팀장이 거래처를 다 뺏어먹음",
+        "author": "정현공원",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604439",
+        "title": "해고 위기인데 내일 주가가 보인다",
+        "author": "열무우",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605367",
+        "title": "내 인벤토리가 전세계에 생중계됨",
+        "author": "바바루",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607026",
+        "title": "중년 배우 박강호를 해고한 사람들이 매달림",
+        "author": "크로노크",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606673",
+        "title": "미국이 집착하는 천재 조사관이 되었다",
+        "author": "귤잠꾼",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606547",
+        "title": "삼국지, 동탁의 책사가 되었다",
+        "author": "푸른뱀99",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
