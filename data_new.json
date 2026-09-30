@@ -179614,5 +179614,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-01T04:00:46.673593+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605583",
+        "title": "파혼 후 무림이 나만 찾는다",
+        "author": "글럼프",
+        "view_count": 693,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603759",
+        "title": "호텔에서 잘렸더니 VIP들이 내 펜션으로 옴",
+        "author": "갓타",
+        "view_count": 297,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 165,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603967",
+        "title": "버림받은 헌터가 초월급 마법사로 각성함",
+        "author": "922",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603772",
+        "title": "수명은 무한, 모든 능력치는 최대",
+        "author": "태양진",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607182",
+        "title": "삼국지, 문추 천하를 얻다.",
+        "author": "두리둥",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604156",
+        "title": "회귀 회계사는 돈복사가 너무 쉽다",
+        "author": "살채",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606370",
+        "title": "국가에게 버림받은 각성자가 사실 웨펀마스터였다",
+        "author": "한생한사",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607785",
+        "title": "퇴사 당한 과장을 경쟁사에서 모셔감",
+        "author": "홍사과",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
