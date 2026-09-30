@@ -179134,5 +179134,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-01T01:30:31.371063+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605583",
+        "title": "파혼 후 무림이 나만 찾는다",
+        "author": "글럼프",
+        "view_count": 657,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603759",
+        "title": "호텔에서 잘렸더니 VIP들이 내 펜션으로 옴",
+        "author": "갓타",
+        "view_count": 285,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605509",
+        "title": "한의사가 운기조식을 깨우침",
+        "author": "마늘생강",
+        "view_count": 151,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605839",
+        "title": "재각성한 줄 모르고 국가에 버림받음",
+        "author": "김미스",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607635",
+        "title": "해고당한 샌드백이 역대급 천재라고?",
+        "author": "블루티풀",
+        "view_count": 37,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602742",
+        "title": "좀비가 터지니까 회사가 살 만해졌다",
+        "author": "야근중독",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604870",
+        "title": "100억 있는데 아내한테는 비밀입니다",
+        "author": "칠팔",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
