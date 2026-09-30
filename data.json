@@ -329951,5 +329951,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-30T10:00:43.337702+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 3377,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597475",
+        "title": "이혼 후 아내 비트코인 1조원치를 훔쳤다",
+        "author": "판타지현대",
+        "view_count": 1978,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 1258,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596283",
+        "title": "선협 농사가 쉽다",
+        "author": "탄산수영장",
+        "view_count": 890,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "468559",
+        "title": "대한제국, 항모 살리기",
+        "author": "텔냐",
+        "view_count": 588,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606481",
+        "title": "해고당한 엔지니어가 실리콘밸리를 뒤집어놓음.",
+        "author": "대작박가",
+        "view_count": 487,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598941",
+        "title": "방출된 육성 선수가 메이저리그를 찢음",
+        "author": "백마장사",
+        "view_count": 378,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604789",
+        "title": "1조 재벌인데 시골에서 힐링합니다",
+        "author": "재미진글",
+        "view_count": 282,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "588695",
+        "title": "청동기 시대 강대국에 떨어졌다",
+        "author": "havoc",
+        "view_count": 223,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "594679",
+        "title": "EX급 힐링 스킬로 딸깍하자 불치병이 완치됨",
+        "author": "진필.",
+        "view_count": 159,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
