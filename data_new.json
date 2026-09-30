@@ -177022,5 +177022,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-09-30T12:30:31.655848+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 519,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605583",
+        "title": "파혼 후 무림이 나만 찾는다",
+        "author": "글럼프",
+        "view_count": 298,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604523",
+        "title": "재앙 각성한 줄 모르고 국가로부터 퇴출 당함",
+        "author": "노랑커피",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599662",
+        "title": "아포칼립스의 외신 소환사로 착각당했다",
+        "author": "휘휘™",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600069",
+        "title": "탑 공략이 너무 쉬움",
+        "author": "기성아님",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607635",
+        "title": "회귀자가 너무 강함",
+        "author": "블루티풀",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605720",
+        "title": "부처님을 화나게 하면 : 오래된 비밀의 증인이 되어",
+        "author": "빅이슈",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605300",
+        "title": "이세계 공돌이는 무기개발이 너무 쉽다",
+        "author": "재즈소울",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
