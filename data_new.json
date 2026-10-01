@@ -184510,5 +184510,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-02T08:00:36.265337+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 766,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605418",
+        "title": "해고당한 헌터분석관은 세계최고",
+        "author": "카피닌자",
+        "view_count": 322,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607359",
+        "title": "퇴사했더니 업계 사람들이 전부 나만 찾는다.",
+        "author": "글과달",
+        "view_count": 171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597717",
+        "title": "국정원 블랙요원은 사천당가",
+        "author": "아트라",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607385",
+        "title": "해고당한 F급 남궁가주는 업계 최고임",
+        "author": "ZZ1존",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608074",
+        "title": "대체불가능한 아카데미 SSS급 주임이 해고 당함",
+        "author": "[쥬시]",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608006",
+        "title": "해고당한 단장에게 러브콜이 쏟아짐",
+        "author": "밀렵",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605144",
+        "title": "선협 속 하급제자는 설정을 다 안다",
+        "author": "한판만두",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604188",
+        "title": "망한 조선소를 샀더니 미 해군이 줄을 선다",
+        "author": "이천냥",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606379",
+        "title": "해고당한 만년 과장이 업계를 독점함",
+        "author": "고락",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
