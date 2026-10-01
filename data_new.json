@@ -182302,5 +182302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-01T20:00:40.038674+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 731,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603868",
+        "title": "할리우드 여배우가 나도 모르게 내 아이를 잉태함",
+        "author": "서칸더브이",
+        "view_count": 338,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604686",
+        "title": "막내 동생이 규격 외 음악 천재였다",
+        "author": "공상소년",
+        "view_count": 165,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605262",
+        "title": "버려진 무인도를 샀더니, 강대국들이 줄을 선다",
+        "author": "또녜",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604502",
+        "title": "은퇴한 무신은 객잔에서 조용히 살고 싶다",
+        "author": "홀스카초",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607903",
+        "title": "비자금을 슈킹했는데 회사에서 짤림!",
+        "author": "오렌지깡",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606357",
+        "title": "삼국지: 망해버린 가문의 가주가 되었다",
+        "author": "지돌띠",
+        "view_count": 29,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605300",
+        "title": "기사잡는 총 만들었더니 황녀가 집착한다",
+        "author": "재즈소울",
+        "view_count": 23,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607039",
+        "title": "초월자들에게 애호받는 뉴비가 되었다",
+        "author": "서휘영",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
