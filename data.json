@@ -337823,5 +337823,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-02T00:00:56.411442+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 2810,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602106",
+        "title": "파워볼 당첨 후, 미국 휴게소를 키웠다",
+        "author": "쉬팽",
+        "view_count": 1685,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603357",
+        "title": "방출 투수가 미국에서 보란 듯이 잘 던짐",
+        "author": "치규치규",
+        "view_count": 929,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597645",
+        "title": "국가권력급 킬러가 삼촌을 잘함",
+        "author": "지곡.",
+        "view_count": 705,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603984",
+        "title": "플로리다에 땅을 샀더니 이세계 포탈이 열렸다",
+        "author": "연함™",
+        "view_count": 503,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600782",
+        "title": "신입 요원이 뉴욕에서 생체융합 AI를 얻음",
+        "author": "아이언강",
+        "view_count": 373,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602477",
+        "title": "천재에게 세상은 너무 쉽다",
+        "author": "글카인",
+        "view_count": 293,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "zoee",
+        "view_count": 230,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600229",
+        "title": "19세기 천재 재벌은 부국강병이 너무 쉽다",
+        "author": "드림판다",
+        "view_count": 178,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599438",
+        "title": "1994년, 죽은 형의 몸으로 회귀했다",
+        "author": "카이남",
+        "view_count": 135,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
