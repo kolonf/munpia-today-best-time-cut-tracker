@@ -181342,5 +181342,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-01T14:00:41.907707+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605509",
+        "title": "한의사가 운기조식을 깨우침",
+        "author": "마늘생강",
+        "view_count": 492,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603383",
+        "title": "금의위로 각성했더니 국가가 버림받기 싫어함",
+        "author": "착한소",
+        "view_count": 258,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604507",
+        "title": "나혼자 EX급 헌터인데 해고당함",
+        "author": "루나티카",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607385",
+        "title": "해고당한 F급 남궁가주는 업계 최고임",
+        "author": "ZZ1존",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606338",
+        "title": "미국 시골의 한식 잘하는 천재 작곡가",
+        "author": "배추나무",
+        "view_count": 59,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604021",
+        "title": "성형외과도 메디컬이다!",
+        "author": "김우진1101",
+        "view_count": 46,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608074",
+        "title": "대체불가능한 아카데미 SSS급 주임이 해고 당함",
+        "author": "[쥬시]",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608221",
+        "title": "나혼자 원양어선에서 해고 당함",
+        "author": "갓생",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604631",
+        "title": "우주급 스킬을 얻었다.",
+        "author": "운100",
+        "view_count": 24,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604271",
+        "title": "초월급 우주선 삼키고 탑등반",
+        "author": "단정한니트",
+        "view_count": 20,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
