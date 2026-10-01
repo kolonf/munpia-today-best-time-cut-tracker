@@ -183166,5 +183166,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-02T01:00:45.522621+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605957",
+        "title": "회장님 비자금 가진 줄 모르고 해고당함",
+        "author": "사초™",
+        "view_count": 657,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603420",
+        "title": "퇴사 후 전당포하니 돈이 계속 쌓임",
+        "author": "아침호수",
+        "view_count": 304,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606571",
+        "title": "해고당한 강 팀장을 업계에서 집착함",
+        "author": "정현공원",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605016",
+        "title": "B급 헌터인데 보상이 1 플러스 1",
+        "author": "배소리",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606889",
+        "title": "해고당한 후에 천재인 걸 알았다",
+        "author": "오천자",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608630",
+        "title": "해고 후 미친 칼잡이가 되었다.",
+        "author": "지곡.",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605461",
+        "title": "막내 스태프가 연기를 너무 잘함.",
+        "author": "올럭표도",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605138",
+        "title": "삼국지 최악의 폭군 곽사로 살아남기",
+        "author": "운암선생",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
