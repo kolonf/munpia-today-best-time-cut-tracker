@@ -181534,5 +181534,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-01T15:30:32.675505+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602690",
+        "title": "퇴사 후 사이비 교주가 되었더니 전지전능함",
+        "author": "필빛",
+        "view_count": 593,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605254",
+        "title": "아포칼립스 무한 증식하는 벙커로 꿀 빱니다",
+        "author": "켈린더",
+        "view_count": 290,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602610",
+        "title": "로판 대역 드라마 속 악역이 되었다.",
+        "author": "슈타인호프",
+        "view_count": 148,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603474",
+        "title": "영화만 봐도 강해진다",
+        "author": "옆동네형",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599662",
+        "title": "아포칼립스의 외신 소환사로 착각당했다",
+        "author": "휘휘™",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607104",
+        "title": "사천당가 살수는 범죄자를 잘 죽임",
+        "author": "섬월(纖月)",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605138",
+        "title": "삼국지 최악의 폭군 곽사로 살아남기",
+        "author": "운암선생",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605444",
+        "title": "뱀파이어 마법사는 오늘도 사망회귀한다",
+        "author": "태양물고기",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608012",
+        "title": "해고당한 아빠가 천재 강화사였다.",
+        "author": "루체른",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
