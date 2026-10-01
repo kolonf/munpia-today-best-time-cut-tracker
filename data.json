@@ -339167,5 +339167,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-02T06:30:35.421151+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594220",
+        "title": "회귀한 투수 코치가 공을 너무 잘 던짐",
+        "author": "밤카다",
+        "view_count": 3235,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594988",
+        "title": "미국 시골 목장이 S급 경주마만 골라 키움",
+        "author": "탄뽀",
+        "view_count": 1942,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601232",
+        "title": "천재 물리치료사가 미국에서 환자를 너무 잘 만짐",
+        "author": "볼랑말랑",
+        "view_count": 1171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602105",
+        "title": "S급 각성자는 미국에 1조로 영입됐다",
+        "author": "노랑™",
+        "view_count": 834,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600442",
+        "title": "우주에서 나만 즉시건설",
+        "author": "한하™",
+        "view_count": 566,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598331",
+        "title": "해고당한 대장장이가 업계 최고임",
+        "author": "전설용용",
+        "view_count": 438,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605509",
+        "title": "한의사가 운기조식을 깨우침",
+        "author": "마늘생강",
+        "view_count": 327,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604686",
+        "title": "막내 동생이 규격 외 음악 천재였다",
+        "author": "공상소년",
+        "view_count": 260,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599550",
+        "title": "SF 마린으로 살아남기",
+        "author": "몽랑괴행",
+        "view_count": 207,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596079",
+        "title": "유령이라 불리는 검은 머리 저격수",
+        "author": "조가치",
+        "view_count": 148,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
