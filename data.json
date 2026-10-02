@@ -342431,5 +342431,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-02T22:00:46.343806+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597812",
+        "title": "전능 AI를 쓰니 미 특수부대가 집착한다.",
+        "author": "총골드",
+        "view_count": 3417,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 1672,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598858",
+        "title": "우주로 가려면 대전에서 환승하세요.",
+        "author": "닥터KIMDH",
+        "view_count": 1108,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606481",
+        "title": "해고당한 엔지니어가 실리콘밸리를 뒤집어놓음.",
+        "author": "대작박가",
+        "view_count": 754,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 493,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "선비의붓",
+        "view_count": 359,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603759",
+        "title": "망한 펜션을 이세계 템으로 고쳤더니 재벌들이 줄 섬",
+        "author": "갓타",
+        "view_count": 257,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605373",
+        "title": "미래 악플 보는 매니저는 파워볼 3000억을 숨김",
+        "author": "우운(雨雲)",
+        "view_count": 204,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606234",
+        "title": "행운복권 시골 똥개 입양하고 인생역전",
+        "author": "박석",
+        "view_count": 160,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 117,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
