@@ -343295,5 +343295,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T02:00:47.449672+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605893",
+        "title": "해고 당한 과장이 업계를 뒤집어 놓음.",
+        "author": "글과달",
+        "view_count": 3034,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 SSS랭크 탑등반해서 국위선양함",
+        "author": "틈새솔",
+        "view_count": 1695,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598079",
+        "title": "망한 캠핑장을 샀더니 손님들이 미친듯이 몰려옴",
+        "author": "마로01",
+        "view_count": 955,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596063",
+        "title": "버려진 섬을 샀더니 보물이 쏟아짐",
+        "author": "치킨순애보",
+        "view_count": 657,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599211",
+        "title": "선협 게임인데 시대가 다름",
+        "author": "글호떡",
+        "view_count": 462,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598570",
+        "title": "퇴사 후 배틀크루저 함장이 되었다",
+        "author": "우정호",
+        "view_count": 350,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598480",
+        "title": "선협에서 전생 각성후 우주문명을 씹어먹음",
+        "author": "멱월",
+        "view_count": 292,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606644",
+        "title": "회장님 막내딸 임신시킨 줄 모르고 퇴사당함",
+        "author": "남호원",
+        "view_count": 227,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605256",
+        "title": "아포칼립스에 동네를 숨김",
+        "author": "로드워리어",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602365",
+        "title": "삼국지 관평전 : 반격의 서막",
+        "author": "토토리묵",
+        "view_count": 124,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
