@@ -343679,5 +343679,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T04:00:47.573312+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605893",
+        "title": "해고 당한 과장이 업계를 뒤집어 놓음.",
+        "author": "글과달",
+        "view_count": 3143,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 SSS랭크 탑등반해서 국위선양함",
+        "author": "틈새솔",
+        "view_count": 1756,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "590104",
+        "title": "나 혼자 차원거래로 신소재 재벌",
+        "author": "plustari",
+        "view_count": 1032,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605509",
+        "title": "한의사가 운기조식을 깨우침",
+        "author": "마늘생강",
+        "view_count": 724,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599211",
+        "title": "선협 게임인데 시대가 다름",
+        "author": "글호떡",
+        "view_count": 485,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603992",
+        "title": "고대문자 자동번역으로 탑의 히든피스 독식",
+        "author": "개박사",
+        "view_count": 386,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598459",
+        "title": "미래인들이 후원하니 재벌 되기가 너무 쉽다",
+        "author": "시간관측자",
+        "view_count": 305,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606644",
+        "title": "회장님 막내딸 임신시킨 줄 모르고 퇴사당함",
+        "author": "남호원",
+        "view_count": 240,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600910",
+        "title": "포션수선전",
+        "author": "오구진",
+        "view_count": 187,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "596079",
+        "title": "유령이라 불리는 검은 머리 저격수",
+        "author": "조가치",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
