@@ -185470,5 +185470,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-02T13:00:35.400130+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605418",
+        "title": "해고당한 헌터분석관은 세계최고",
+        "author": "카피닌자",
+        "view_count": 571,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 337,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603782",
+        "title": "법으로는 안 될 것 같아 마공으로 때려죽임",
+        "author": "단팥빵소년",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604708",
+        "title": "고블린 상대로 가우스 소총은 반칙 아닙니까?",
+        "author": "산타클라스",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600069",
+        "title": "탑 공략이 너무 쉬움",
+        "author": "기성아님",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608006",
+        "title": "해고당한 단장에게 러브콜이 쏟아짐",
+        "author": "밀렵",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607570",
+        "title": "고1로 회귀한 18년 차 개미",
+        "author": "딸과함께",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604302",
+        "title": "외계인이 나를 너무 세게 개조했다",
+        "author": "뚜야",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607730",
+        "title": "퇴사하고 차린 함바집에 연예인들이 몰려옴",
+        "author": "땃땃땃쥐",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
