@@ -344543,5 +344543,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T08:00:45.114604+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607392",
+        "title": "핵심 특허가 내 건 줄 모르고 해고당함",
+        "author": "탄산수영장",
+        "view_count": 3309,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 1767,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596148",
+        "title": "유럽에서 망한 가게를 물려받았는데 해달이 보물을 주워옴",
+        "author": "무던",
+        "view_count": 1127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599478",
+        "title": "재벌 서자가 대한민국을 먹여살림",
+        "author": "이도윤",
+        "view_count": 809,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 561,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604548",
+        "title": "망한 재벌가의 천재 사생아",
+        "author": "홈스탠바이",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598946",
+        "title": "게이트에서 주운 열쇠로 우주 전함의 함장이 되었다",
+        "author": "헬뮤티",
+        "view_count": 329,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603368",
+        "title": "일곱개의 탑",
+        "author": "경우勁雨",
+        "view_count": 268,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598958",
+        "title": "이세계에 우주전함을 숨겼다",
+        "author": "환세아",
+        "view_count": 217,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "601617",
+        "title": "신통",
+        "author": "보소팡",
+        "view_count": 155,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
