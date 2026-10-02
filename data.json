@@ -340319,5 +340319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-02T11:30:36.141879+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "601421",
+        "title": "힐만 해도 레벨업",
+        "author": "글맛",
+        "view_count": 3182,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 SSS랭크 탑등반해서 국위선양함",
+        "author": "틈새솔",
+        "view_count": 2005,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599478",
+        "title": "재벌 서자가 대한민국을 먹여살림",
+        "author": "이도윤",
+        "view_count": 1099,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603207",
+        "title": "국가 버림 받은 영웅의 아들이 전능한 힘을 각성함",
+        "author": "화운(話云)",
+        "view_count": 847,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595647",
+        "title": "AI 갖고 회귀한 펀드 매니저",
+        "author": "슬리버",
+        "view_count": 569,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601232",
+        "title": "천재 물리치료사가 미국에서 환자를 너무 잘 만짐",
+        "author": "볼랑말랑",
+        "view_count": 449,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606571",
+        "title": "해고당한 강 팀장을 업계에서 집착함",
+        "author": "정현공원",
+        "view_count": 331,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "605254",
+        "title": "아포칼립스 벙커로 무한 성장함",
+        "author": "켈린더",
+        "view_count": 281,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605256",
+        "title": "아포칼립스에 동네를 숨김",
+        "author": "로드워리어",
+        "view_count": 219,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "564614",
+        "title": "희망퇴직 후 세계 최고의 재벌이 되었다",
+        "author": "빛나는구름",
+        "view_count": 140,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
