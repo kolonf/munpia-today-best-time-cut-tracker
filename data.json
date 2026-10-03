@@ -346751,5 +346751,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T18:30:33.567848+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605629",
+        "title": "나 혼자 만능 서포터인데 퇴사당함",
+        "author": "백수천",
+        "view_count": 3361,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "590104",
+        "title": "나 혼자 차원거래로 신소재 재벌",
+        "author": "plustari",
+        "view_count": 1659,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 1213,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603782",
+        "title": "법으로는 안 될 것 같아 마공으로 때려죽임",
+        "author": "단팥빵소년",
+        "view_count": 764,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603229",
+        "title": "국가에 버림받은 탱커가 EX급으로 재각성함",
+        "author": "피초",
+        "view_count": 599,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607344",
+        "title": "이혼당한 데릴사위가 초국가적 재벌 후계자",
+        "author": "라쿤캣",
+        "view_count": 428,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600782",
+        "title": "신입 요원이 뉴욕에서 생체융합 AI를 얻음",
+        "author": "아이언강",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603164",
+        "title": "해고당한 연구원이 300년 뒤 미래 기술을 독점함",
+        "author": "강그린",
+        "view_count": 240,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598523",
+        "title": "재벌들 죽는 순서 맞혔더니 살려달라고 줄을 섬",
+        "author": "차세나",
+        "view_count": 189,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608530",
+        "title": "해고당한 의사가 업계 최고임",
+        "author": "오두리리",
+        "view_count": 135,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
