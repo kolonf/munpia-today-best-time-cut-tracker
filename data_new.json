@@ -191230,5 +191230,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T20:00:34.050276+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 630,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606906",
+        "title": "아포칼립스에 초대형 원양어선을 건조했다",
+        "author": "웨스트월드",
+        "view_count": 297,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608016",
+        "title": "나 혼자 EX급 힐러인데 퇴사당함",
+        "author": "임부키",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603556",
+        "title": "조선의 대마왕이 되었다",
+        "author": "와우리을리",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606627",
+        "title": "좌천된 주무관 눈에만 가짜 서류가 보임",
+        "author": "후유알",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607785",
+        "title": "퇴사 당한 과장을 경쟁사에서 모셔감",
+        "author": "홍사과",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608312",
+        "title": "해고당하고 국밥집 차렸더니 거물들이 몰려옴",
+        "author": "비누향",
+        "view_count": 30,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605594",
+        "title": "돌아온 천마의 탑 등반법",
+        "author": "담백하",
+        "view_count": 25,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609133",
+        "title": "나 혼자 천재 마법사인데 퇴사당함",
+        "author": "임부키",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
