@@ -346463,5 +346463,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T17:00:44.700046+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606767",
+        "title": "히트곡 다 써줬더니 해고당했다",
+        "author": "더페이서",
+        "view_count": 3087,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600130",
+        "title": "외계 문명에 라면 팔았더니 오버테크 장비가 쏟아짐",
+        "author": "땡시기",
+        "view_count": 1563,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 1120,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601232",
+        "title": "천재 물리치료사가 미국에서 환자를 너무 잘 만짐",
+        "author": "볼랑말랑",
+        "view_count": 704,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603229",
+        "title": "국가에 버림받은 탱커가 EX급으로 재각성함",
+        "author": "피초",
+        "view_count": 556,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595530",
+        "title": "삼국지 무신 여포가 되었다",
+        "author": "정성우",
+        "view_count": 394,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599438",
+        "title": "1994년, 죽은 형의 몸으로 회귀했다",
+        "author": "카이남",
+        "view_count": 309,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "선비의붓",
+        "view_count": 230,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강(泉剛)",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593777",
+        "title": "24시간 뒤 뉴스로 자본 독식",
+        "author": "요거투",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
