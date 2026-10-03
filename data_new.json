@@ -191902,5 +191902,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T23:30:33.329177+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604507",
+        "title": "나혼자 EX급 헌터인데 해고당함",
+        "author": "루나티카",
+        "view_count": 462,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605373",
+        "title": "미래 악플 보는 매니저는 파워볼 3000억을 숨김",
+        "author": "우운(雨雲)",
+        "view_count": 257,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604727",
+        "title": "퇴사당했더니 무당이 되었다",
+        "author": "여우팡이",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 81,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604024",
+        "title": "국가에 버림받고, 골렘마스터가 됐다",
+        "author": "참새친구",
+        "view_count": 61,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607243",
+        "title": "국가에게 버림받은 말년 병장의 몸값이 너무 비쌈",
+        "author": "찌끄려",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606146",
+        "title": "1597, 이순신이 2026년을 보고 돌아왔다.",
+        "author": "패관서생",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608549",
+        "title": "재벌가 사위 되어 전업주부 합니다",
+        "author": "영원한계시",
+        "view_count": 31,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609133",
+        "title": "나 혼자 천재 마법사인데 퇴사당함",
+        "author": "임부키",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607888",
+        "title": "나까지 귀화할까 봐 5천만이 집착함",
+        "author": "최강이",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
