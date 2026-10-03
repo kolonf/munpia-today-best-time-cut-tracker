@@ -191806,5 +191806,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T23:00:36.169960+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605957",
+        "title": "회장님 비자금 가진 줄 모르고 해고당함",
+        "author": "사초™",
+        "view_count": 456,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605373",
+        "title": "미래 악플 보는 매니저는 파워볼 3000억을 숨김",
+        "author": "우운(雨雲)",
+        "view_count": 244,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606891",
+        "title": "미래 댓글 보이는 팀장이 권고사직 당함",
+        "author": "콜라아이스",
+        "view_count": 120,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 79,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607470",
+        "title": "상위호환을 듣는 음악천재",
+        "author": "쏘하이",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607481",
+        "title": "회귀한 천재 투수는 금강불괴",
+        "author": "Zorba",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604512",
+        "title": "냉동인간인데 우주 전쟁 공략법이 보임",
+        "author": "킹메이커",
+        "view_count": 38,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606870",
+        "title": "순간이동 보물창고로 나만 기연 독식한다",
+        "author": "글로또",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609133",
+        "title": "나 혼자 천재 마법사인데 퇴사당함",
+        "author": "임부키",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605757",
+        "title": "살인용의자인데 이세계에 떨어졌다.",
+        "author": "수뿔",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
