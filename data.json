@@ -348095,5 +348095,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-04T01:00:45.563579+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594722",
+        "title": "전능의 투자 능력을 얻은 날 해고 당했다",
+        "author": "제3소년",
+        "view_count": 3070,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 1524,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 945,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "596475",
+        "title": "삼국지: 회귀한 유장이 너무 유능함",
+        "author": "運月",
+        "view_count": 590,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597813",
+        "title": "국가에게 버림받은 헌터가 재평가되었다",
+        "author": "찹쌀빵",
+        "view_count": 420,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604789",
+        "title": "1조 재벌인데 시골에서 힐링합니다",
+        "author": "재미진글",
+        "view_count": 322,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598946",
+        "title": "게이트에서 주운 열쇠로 우주 전함의 함장이 되었다",
+        "author": "헬뮤티",
+        "view_count": 269,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603762",
+        "title": "퓨전펑크에서 외신들린 칩을 주웠다",
+        "author": "범미르",
+        "view_count": 217,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601240",
+        "title": "육사출신 전술천재, 만주패왕이 되다",
+        "author": "백십칠",
+        "view_count": 161,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604147",
+        "title": "일제강점기에서 빌드업하는 현대한의사",
+        "author": "가프",
+        "view_count": 122,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
