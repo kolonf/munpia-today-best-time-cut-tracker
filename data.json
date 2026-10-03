@@ -345215,5 +345215,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-03T11:00:40.814198+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605893",
+        "title": "해고 당한 과장이 업계를 뒤집어 놓음.",
+        "author": "글과달",
+        "view_count": 3523,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 1692,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606481",
+        "title": "해고당한 엔지니어가 실리콘밸리를 뒤집어놓음.",
+        "author": "대작박가",
+        "view_count": 1091,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 696,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 492,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594125",
+        "title": "전설의 일진으로 오해받는 중입니다",
+        "author": "류해인",
+        "view_count": 369,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600910",
+        "title": "포션수선전",
+        "author": "오구진",
+        "view_count": 307,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600229",
+        "title": "19세기 천재 재벌은 부국강병이 너무 쉽다",
+        "author": "드림판다",
+        "view_count": 253,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 194,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604727",
+        "title": "퇴사당했더니 무당이 되었다",
+        "author": "여우팡이",
+        "view_count": 124,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
