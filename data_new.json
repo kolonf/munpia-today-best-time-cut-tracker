@@ -195262,5 +195262,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-04T17:30:34.791926+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604252",
+        "title": "자고 일어났더니 유튜브 1,000만 구독자가 되었다",
+        "author": "김전기",
+        "view_count": 614,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608074",
+        "title": "대체불가능한 아카데미 SSS급 주임이 해고 당함",
+        "author": "[쥬시]",
+        "view_count": 330,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사가 너무 유능함",
+        "author": "자몽라임",
+        "view_count": 157,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607365",
+        "title": "퇴사당한 과장 삼촌이 미국 파워볼에 당첨되고 미래를 봄",
+        "author": "늬파랑",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607389",
+        "title": "나 혼자 탑 문지기인데 해고당함",
+        "author": "우르스.",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607026",
+        "title": "해고당한 중년 배우를 전 직장들이 재평가함",
+        "author": "크로노크",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606127",
+        "title": "절대 들키지 않는 아카데미 간첩 교수",
+        "author": "폭파중",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604439",
+        "title": "해고 위기인데 내일 주가가 보인다",
+        "author": "열무우",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609105",
+        "title": "각성했는데 패시브가 너무 사기임",
+        "author": "네르키",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
