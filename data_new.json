@@ -194014,5 +194014,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-04T11:00:34.676753+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604548",
+        "title": "망한 재벌가의 천재 사생아",
+        "author": "홈스탠바이",
+        "view_count": 560,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608386",
+        "title": "빌보드 1위 저작권자인데, 해고당함",
+        "author": "꿈가득남",
+        "view_count": 356,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607365",
+        "title": "퇴사당한 과장 삼촌이 미국 파워볼에 당첨되고 미래를 봄",
+        "author": "늬파랑",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607083",
+        "title": "해고당한 김과장을 업계가 집착함",
+        "author": "방탄커피",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "592618",
+        "title": "폐급이었는데 알고보니 8서클 대마법사",
+        "author": "조선생님",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605799",
+        "title": "선협에서 주인공을 죽이고 시작한다",
+        "author": "한판만두",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607888",
+        "title": "나까지 귀화할까 봐 5천만이 집착함",
+        "author": "최강이",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607698",
+        "title": "방어율 0점대 미국 천재 투수가 돌아왔다",
+        "author": "기린기린기",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
