@@ -350495,5 +350495,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-04T11:40:27.601840+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 3246,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "596591",
+        "title": "천재 뮤지션이었던 전생을 각성함",
+        "author": "공중누각",
+        "view_count": 1825,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광으로 빙하기를 준비함",
+        "author": "과묵한구리",
+        "view_count": 1185,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603999",
+        "title": "우주에서 나 홀로 제국 건설",
+        "author": "글난타",
+        "view_count": 763,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599211",
+        "title": "선협 게임인데 시대가 다름",
+        "author": "글호떡",
+        "view_count": 571,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "597872",
+        "title": "전역 후, 유럽에서 축구 선수가 되었다",
+        "author": "현진현우",
+        "view_count": 439,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605256",
+        "title": "아포칼립스에 동네를 숨김",
+        "author": "로드워리어",
+        "view_count": 355,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604523",
+        "title": "재앙 각성한 줄 모르고 국가로부터 퇴출 당함",
+        "author": "노랑커피",
+        "view_count": 266,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598946",
+        "title": "게이트에서 주운 열쇠로 우주 전함의 함장이 되었다",
+        "author": "헬뮤티",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
