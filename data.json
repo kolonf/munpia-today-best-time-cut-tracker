@@ -351647,5 +351647,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-04T18:00:48.821853+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595787",
+        "title": "폐업 직전 한의사는 전생에 신의였다",
+        "author": "블럭통통",
+        "view_count": 3116,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602690",
+        "title": "퇴사 후 사이비 교주가 되었더니 전지전능함",
+        "author": "필빛",
+        "view_count": 1798,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 1285,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604548",
+        "title": "망한 재벌가의 천재 사생아",
+        "author": "홈스탠바이",
+        "view_count": 748,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605281",
+        "title": "해고당한 김대리는 업계 최고 에이스다",
+        "author": "임부키",
+        "view_count": 583,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 430,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609200",
+        "title": "내가 핵심 설계자인 줄 모르고 해고당함",
+        "author": "임부키",
+        "view_count": 332,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606662",
+        "title": "나 혼자 시설담당인데 퇴사당함",
+        "author": "미친재능",
+        "view_count": 268,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605707",
+        "title": "귀환자 퇴사하고 갓생합니다",
+        "author": "케이브",
+        "view_count": 205,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601198",
+        "title": "재벌 3세가 버린 AI로 돈벼락 맞음",
+        "author": "레드초콜릿",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
