@@ -354815,5 +354815,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-05T08:30:34.231869+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594010",
+        "title": "튜토리얼에 조난당했다",
+        "author": "빈수박",
+        "view_count": 3710,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599602",
+        "title": "우주 게임에서 나만 만렙이다",
+        "author": "통풍왔음",
+        "view_count": 1949,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600130",
+        "title": "외계 문명에 라면 팔았더니 오버테크 장비가 쏟아짐",
+        "author": "땡시기",
+        "view_count": 1231,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 870,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "597813",
+        "title": "국가에게 버림받은 헌터가 재평가되었다",
+        "author": "찹쌀빵",
+        "view_count": 592,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장이 되었다",
+        "author": "우정호",
+        "view_count": 488,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606661",
+        "title": "파워볼 당첨되고 미국 목장을 샀더니 자꾸 대박남",
+        "author": "양작과",
+        "view_count": 401,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598459",
+        "title": "미래인들이 후원하니 재벌 되기가 너무 쉽다",
+        "author": "시간관측자",
+        "view_count": 308,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599438",
+        "title": "1994년, 죽은 형의 몸으로 회귀했다",
+        "author": "카이남",
+        "view_count": 242,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "591598",
+        "title": "한국인 초짜 감독이 폐급 구단을 살림",
+        "author": "필로스",
+        "view_count": 170,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
