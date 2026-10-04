@@ -350015,5 +350015,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-04T09:30:38.586950+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 3052,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597806",
+        "title": "미국에서 온 삼촌이 3스타 셰프라고?",
+        "author": "상한가",
+        "view_count": 1737,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603357",
+        "title": "방출 투수가 미국에서 보란 듯이 잘 던짐",
+        "author": "치규치규",
+        "view_count": 1188,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 820,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604842",
+        "title": "장자상속 재벌가의 장자가 되었다!",
+        "author": "초보글장인",
+        "view_count": 547,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606571",
+        "title": "해고당한 강 팀장을 업계에서 집착함",
+        "author": "정현공원",
+        "view_count": 420,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 339,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606234",
+        "title": "행운복권 시골 똥개 입양하고 인생역전",
+        "author": "박석",
+        "view_count": 249,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "564614",
+        "title": "희망퇴직 후 세계 최고의 재벌이 되었다",
+        "author": "빛나는구름",
+        "view_count": 195,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602610",
+        "title": "로판 대역 드라마 속 악역이 되었다.",
+        "author": "슈타인호프",
+        "view_count": 125,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
