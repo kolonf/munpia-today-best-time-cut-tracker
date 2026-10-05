@@ -357503,5 +357503,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-05T21:30:39.119898+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 3237,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 1978,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 1177,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "594247",
+        "title": "범죄자를 조지면 돈과 무기가 쏟아져",
+        "author": "가죽갑옷",
+        "view_count": 853,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604234",
+        "title": "은퇴했는데 반로환동",
+        "author": "김태평",
+        "view_count": 599,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608530",
+        "title": "해고당한 의사가 업계 최고임",
+        "author": "오두리리",
+        "view_count": 451,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606250",
+        "title": "하와이에서 보물선 탐사로 대박남",
+        "author": "지나83",
+        "view_count": 354,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607785",
+        "title": "퇴사 당한 과장을 경쟁사에서 모셔감",
+        "author": "홍사과",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
