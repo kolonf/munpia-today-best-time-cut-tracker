@@ -198910,5 +198910,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-05T13:30:35.951083+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607344",
+        "title": "이혼당한 데릴사위가 초국가적 재벌 후계자",
+        "author": "라쿤캣",
+        "view_count": 607,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604024",
+        "title": "국가에 버림받고, 골렘마스터가 됐다",
+        "author": "참새친구",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606891",
+        "title": "미래 댓글 보이는 팀장이 권고사직 당함",
+        "author": "콜라아이스",
+        "view_count": 155,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606250",
+        "title": "하와이에서 보물선 탐사로 대박남",
+        "author": "지나83",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604439",
+        "title": "해고 위기인데 내일 주가가 보인다",
+        "author": "열무우",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608012",
+        "title": "해고당한 아빠가 천재 강화사였다.",
+        "author": "루체른",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607888",
+        "title": "나까지 귀화할까 봐 5천만이 집착함",
+        "author": "최강이",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608401",
+        "title": "국가에게 버려진 마법사를 전세계가 집착함",
+        "author": "글써랑",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608991",
+        "title": "나는 1층인데 분신들은 탑랭커",
+        "author": "피터.Pen",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
