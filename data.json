@@ -359135,5 +359135,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-06T06:30:45.845868+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607392",
+        "title": "핵심 특허가 내 건 줄 모르고 해고당함",
+        "author": "탄산수영장",
+        "view_count": 3527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605629",
+        "title": "나 혼자 만능 서포터인데 퇴사당함",
+        "author": "백수천",
+        "view_count": 1980,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605418",
+        "title": "해고당한 헌터분석관은 세계최고",
+        "author": "카피닌자",
+        "view_count": 1146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598780",
+        "title": "겜판을 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 933,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609024",
+        "title": "낙하산인 줄 모르고 좌천당함",
+        "author": "왕십리글쟁이",
+        "view_count": 625,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608074",
+        "title": "대체불가능한 아카데미 SSS급 주임이 해고 당함",
+        "author": "[쥬시]",
+        "view_count": 487,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607282",
+        "title": "사표내고 나간 차장이 너무 유능함",
+        "author": "되새김질",
+        "view_count": 411,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603410",
+        "title": "강남청약 포기했더니 행운이 계속된다",
+        "author": "월만",
+        "view_count": 343,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600229",
+        "title": "제국주의 열강이 집착하는 천재가 되었다",
+        "author": "드림판다",
+        "view_count": 256,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 191,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
