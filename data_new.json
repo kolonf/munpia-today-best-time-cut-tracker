@@ -198430,5 +198430,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-05T11:00:39.323134+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607359",
+        "title": "퇴사했더니 업계 사람들이 전부 나만 찾는다.",
+        "author": "글과달",
+        "view_count": 575,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608172",
+        "title": "EX급 제약 스킬을 얻었더니 해고당함",
+        "author": "흑전",
+        "view_count": 334,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607530",
+        "title": "방출당한 고교 최대어가 170 던짐",
+        "author": "배추나무",
+        "view_count": 136,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608907",
+        "title": "권고사직 명단에 올랐는데 최고 에이스임",
+        "author": "연함™",
+        "view_count": 90,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603556",
+        "title": "조선의 대마왕이 되었다",
+        "author": "와우리을리",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608012",
+        "title": "해고당한 아빠가 천재 강화사였다.",
+        "author": "루체른",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608484",
+        "title": "동물과 대화하는 능력으로 동물원에서 힐링합니다",
+        "author": "냥재",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608560",
+        "title": "측정 불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
