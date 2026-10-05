@@ -358751,5 +358751,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-06T03:30:38.779825+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594722",
+        "title": "전능의 투자 능력을 얻은 날 해고 당했다",
+        "author": "제3소년",
+        "view_count": 3401,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듦",
+        "author": "한혜주",
+        "view_count": 1984,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "595612",
+        "title": "회귀한 헌터가 가족만 챙김",
+        "author": "구백만",
+        "view_count": 1145,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 882,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609024",
+        "title": "낙하산인 줄 모르고 좌천당함",
+        "author": "왕십리글쟁이",
+        "view_count": 573,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607359",
+        "title": "퇴사했더니 업계 사람들이 전부 나만 찾는다.",
+        "author": "글과달",
+        "view_count": 456,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608386",
+        "title": "세계급 빌보드 1위 저작권 들고 해고당함",
+        "author": "꿈가득남",
+        "view_count": 379,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604708",
+        "title": "고블린 상대로 가우스 소총은 반칙 아닙니까?",
+        "author": "산타클라스",
+        "view_count": 320,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 241,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598922",
+        "title": "500만 유튜버가 되다. 그리고 오버테크놀로지를 얻었다",
+        "author": "카이남",
+        "view_count": 176,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
