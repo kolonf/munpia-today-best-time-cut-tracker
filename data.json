@@ -355391,5 +355391,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-05T11:01:52.570146+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595621",
+        "title": "12살 소년공인데 대문호로 착각당했다",
+        "author": "덤벙",
+        "view_count": 3732,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606767",
+        "title": "히트곡 다 써줬더니 해고당했다",
+        "author": "더페이서",
+        "view_count": 1671,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605509",
+        "title": "한의사가 운기조식을 깨우침",
+        "author": "마늘생강",
+        "view_count": 1232,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 802,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "593153",
+        "title": "이혼당한 기러기 아빠 파워볼 당첨후 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 574,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603795",
+        "title": "나만 오르는 주식이 보임",
+        "author": "백우랑",
+        "view_count": 456,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601625",
+        "title": "혼자 메카닉 테크 타는 북부 대공 막내아들",
+        "author": "아레직",
+        "view_count": 350,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604727",
+        "title": "퇴사당했더니 무당이 되었다",
+        "author": "여우팡이",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606573",
+        "title": "해고당한 서 팀장이 거래처를 다 뺏어먹음",
+        "author": "정현공원",
+        "view_count": 226,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609200",
+        "title": "내가 핵심 설계자인 줄 모르고 해고당함",
+        "author": "임부키",
+        "view_count": 141,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
