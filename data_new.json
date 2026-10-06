@@ -205630,5 +205630,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T03:00:37.593670+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605957",
+        "title": "회장님 비자금 가진 줄 모르고 해고당함",
+        "author": "사초™",
+        "view_count": 730,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 406,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606891",
+        "title": "미래 댓글 보는 팀장이 너무 유능한데 해고당함",
+        "author": "콜라아이스",
+        "view_count": 192,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605606",
+        "title": "마탑에 와플집을 오픈했더니, 헌터들이 줄을 선다",
+        "author": "예스안",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607389",
+        "title": "해고당한 협회 직원이 각성 후 국가에 헌신을 안함",
+        "author": "우르스.",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604722",
+        "title": "국가에게 버림받았는데 국민이 날 안 버림",
+        "author": "유조리",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607688",
+        "title": "이혼 앞두고 자산이 미친듯이 늘어남",
+        "author": "차원의방",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610251",
+        "title": "히든 특허 17개 들고 퇴사함",
+        "author": "백원만s",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608528",
+        "title": "특전사가 을미사변 4일 전에 빙의했다.",
+        "author": "패관서생",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
