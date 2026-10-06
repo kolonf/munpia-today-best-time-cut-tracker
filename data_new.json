@@ -204094,5 +204094,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-06T18:00:45.648713+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604252",
+        "title": "자고 일어났더니 유튜브 1,000만 구독자가 되었다",
+        "author": "김전기",
+        "view_count": 733,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606130",
+        "title": "국가에게 버림받은 초감각 CIA 요원",
+        "author": "최뚝",
+        "view_count": 376,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606573",
+        "title": "해고당한 서 팀장이 거래처를 다 뺏어먹음",
+        "author": "정현공원",
+        "view_count": 202,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607730",
+        "title": "퇴사하고 차린 함바집에 연예인들이 몰려옴",
+        "author": "땃땃땃쥐",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608826",
+        "title": "핵심 여배우가 내 여잔 줄 모르고 해고당함",
+        "author": "정시연",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607634",
+        "title": "해고 당하고 CIA가 집착하는 관상 천재가 되었다.",
+        "author": "녹수(淥水)",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607225",
+        "title": "망가진 천재 피아니스트에게 연기는 너무 쉽다",
+        "author": "오징어금값",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608703",
+        "title": "해고당한 영업 과장이 재벌집 사위가 됨",
+        "author": "사입삼촌",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609167",
+        "title": "사이버대학 나온 알바생이 해고당함",
+        "author": "미친재능",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608224",
+        "title": "종말에서 산소를 독점했다",
+        "author": "청수림",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
