@@ -361535,5 +361535,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-06T18:00:48.617934+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "596591",
+        "title": "천재 뮤지션이었던 전생을 각성함",
+        "author": "공중누각",
+        "view_count": 3187,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "600130",
+        "title": "외계 문명에 라면 팔았더니 오버테크 장비가 쏟아짐",
+        "author": "땡시기",
+        "view_count": 1879,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600875",
+        "title": "천마신교 서고지기는 재벌가 막둥이로 힐링 합니다",
+        "author": "배소리",
+        "view_count": 1360,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 842,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 684,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604962",
+        "title": "아포칼립스에서 우주전함을 주웠다",
+        "author": "한소™",
+        "view_count": 503,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606130",
+        "title": "국가에게 버림받은 초감각 CIA 요원",
+        "author": "최뚝",
+        "view_count": 376,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 315,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606234",
+        "title": "행운복권 시골 똥개 입양하고 인생역전",
+        "author": "박석",
+        "view_count": 262,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "597592",
+        "title": "소모품이 무한이다",
+        "author": "zoee",
+        "view_count": 187,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
