@@ -207550,5 +207550,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T13:30:31.211485+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 808,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 375,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 169,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605606",
+        "title": "마탑에 와플집을 오픈했더니, 헌터들이 줄을 선다",
+        "author": "예스안",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608653",
+        "title": "퇴사당한 부주방장이 요리를 너무 잘함",
+        "author": "마우스프롭",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608010",
+        "title": "농대 나온 왕이 경신 대기근을 찢어버림",
+        "author": "브루마블",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608484",
+        "title": "사육사로 각성했더니 망해가던 동물원이 살아남",
+        "author": "냥재",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609923",
+        "title": "돈지랄 했더니 챔스 우승 개쉽노",
+        "author": "여연",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
