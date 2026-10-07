@@ -210238,5 +210238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-08T05:30:35.031649+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604686",
+        "title": "막내 동생이 규격 외 음악 천재였다",
+        "author": "공상소년",
+        "view_count": 741,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605254",
+        "title": "아포칼립스 벙커가 무한 성장함",
+        "author": "켈린더",
+        "view_count": 402,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607026",
+        "title": "해고당한 덕분에 대배우가 되었다",
+        "author": "크로노크",
+        "view_count": 228,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605839",
+        "title": "재각성한 줄 모르고 국가에 버림받음",
+        "author": "김미스",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605552",
+        "title": "무명배우인데 예능신이 도와줌",
+        "author": "에바트리체",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607888",
+        "title": "나까지 귀화할까 봐 5천만이 집착함",
+        "author": "최강이",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605172",
+        "title": "선협에서 신점 봐주니 세계가 집착함",
+        "author": "이찬솔",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608043",
+        "title": "아포칼립스 내 영지에 사람들이 집착한다",
+        "author": "산책중독",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607183",
+        "title": "재벌가 버린 자식이 너무 유능함",
+        "author": "흰이음",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607739",
+        "title": "나 혼자 히든 클래스로 헌터시대를 찢음",
+        "author": "단우(單友)",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
