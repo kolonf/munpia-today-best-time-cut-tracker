@@ -208222,5 +208222,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T17:00:36.727135+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604686",
+        "title": "막내 동생이 규격 외 음악 천재였다",
+        "author": "공상소년",
+        "view_count": 750,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608131",
+        "title": "예술고 천재가 빌보드 1위를 숨김",
+        "author": "누리용",
+        "view_count": 367,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 215,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606673",
+        "title": "검은머리 조사관이 사고 원인을 전부 맞힘",
+        "author": "귤잠꾼",
+        "view_count": 117,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607226",
+        "title": "9,999렙 EX급 해고당한 나만 탑 등반이 너무 쉽다",
+        "author": "바바루",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605839",
+        "title": "재각성한 줄 모르고 국가에 버림받음",
+        "author": "김미스",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607385",
+        "title": "해고당한 F급 남궁가주는 업계 최고임",
+        "author": "ZZ1존",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608703",
+        "title": "해고당한 영업 과장이 재벌집 사위가 됨",
+        "author": "사입삼촌",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610284",
+        "title": "해고 후 퇴직금으로 SS급 능력을 받았다",
+        "author": "기획자K",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610273",
+        "title": "해고 후 미국 깡촌 휴게소를 물려 받았다",
+        "author": "임플로이",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
