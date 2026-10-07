@@ -367103,5 +367103,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T21:00:46.113772+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 3318,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 SSS랭크 탑등반해서 국위선양함",
+        "author": "틈새솔",
+        "view_count": 1748,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592510",
+        "title": "삼국지: 십상시 아들이라서 튑니다.",
+        "author": "박야옹",
+        "view_count": 1105,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598858",
+        "title": "우주로 가려면 대전에서 환승하세요.",
+        "author": "닥터KIMDH",
+        "view_count": 828,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608172",
+        "title": "EX급 제약 스킬을 얻었더니 해고당함",
+        "author": "흑전",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607530",
+        "title": "방출당한 고교 최대어가 170 던짐",
+        "author": "배추나무",
+        "view_count": 436,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605707",
+        "title": "귀환자 퇴사하고 갓생합니다",
+        "author": "케이브",
+        "view_count": 328,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605254",
+        "title": "아포칼립스 벙커가 무한 성장함",
+        "author": "켈린더",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609253",
+        "title": "잘렸더니 회사가 매일 전화함",
+        "author": "귤까는곰",
+        "view_count": 194,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "584920",
+        "title": "외계기술로 두번산다",
+        "author": "짜세",
+        "view_count": 138,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
