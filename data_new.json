@@ -210814,5 +210814,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-08T08:30:31.848883+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 808,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606662",
+        "title": "핵심 직원인 줄 모르고 해고당함",
+        "author": "미친재능",
+        "view_count": 431,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607026",
+        "title": "해고당한 덕분에 대배우가 되었다",
+        "author": "크로노크",
+        "view_count": 242,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606347",
+        "title": "EX급 테이머로 재각성했는데 관리국에서 방출됨",
+        "author": "포도수",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610495",
+        "title": "내 기술 3,000억 회사만 모름",
+        "author": "만슬라",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605894",
+        "title": "해고당한 매니저가 신들리더니 톱스타들이 집착함",
+        "author": "간딴",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607445",
+        "title": "욕망의 짬뽕핑, K-해장 열풍의 주역이 되다!",
+        "author": "랑글러",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607948",
+        "title": "집나간 알바가 정규직 거절하고 싸돌아 다님",
+        "author": "엠버그리스",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607698",
+        "title": "방어율 0점대 미국 천재 투수가 돌아왔다",
+        "author": "기린기린기",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
