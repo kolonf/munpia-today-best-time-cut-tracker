@@ -209182,5 +209182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T23:00:37.992158+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 832,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604789",
+        "title": "1조 재벌인데 시골에서 힐링합니다",
+        "author": "재미진글",
+        "view_count": 355,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607308",
+        "title": "회장님 비자금으로 1경 재벌!",
+        "author": "흑곰작가",
+        "view_count": 195,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607389",
+        "title": "해고당한 협회 직원이 각성 후 국가에 헌신을 안함",
+        "author": "우르스.",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606831",
+        "title": "F급 헌터는 탑 폐기물로 무한 성장함",
+        "author": "멍글멍글",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605461",
+        "title": "막내 스태프가 연기를 너무 잘함.",
+        "author": "丶예세",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607259",
+        "title": "회귀한 삼촌의 스킬이 특별하다",
+        "author": "베어구미스",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609116",
+        "title": "해고당한 만년 부장이 회귀함",
+        "author": "복면작가",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608696",
+        "title": "해고당했더니 공장이 안 돌아감",
+        "author": "진주냉면",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609105",
+        "title": "각성했는데 패시브가 너무 사기임",
+        "author": "네르키",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
