@@ -366047,5 +366047,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T16:00:50.625425+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 3096,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 1732,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 1163,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598480",
+        "title": "선협에서 전생 각성후 우주문명을 씹어먹음",
+        "author": "멱월",
+        "view_count": 782,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "592123",
+        "title": "검투수선劍鬪修仙",
+        "author": "쿠우울",
+        "view_count": 621,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594125",
+        "title": "전설의 일진으로 오해받는 중입니다",
+        "author": "류해인",
+        "view_count": 453,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603420",
+        "title": "내 담보물에서 돈 되는 재능이 쏟아짐",
+        "author": "아침호수",
+        "view_count": 355,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604024",
+        "title": "국가에 버림받고, 골렘마스터가 됐다",
+        "author": "참새친구",
+        "view_count": 295,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603467",
+        "title": "1892, 독일 제국 황녀는 살아남고 싶다.",
+        "author": "치오.",
+        "view_count": 226,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601240",
+        "title": "육사출신 전술천재, 만주패왕이 되다",
+        "author": "백십칠",
+        "view_count": 159,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
