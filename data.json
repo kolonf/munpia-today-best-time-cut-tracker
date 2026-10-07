@@ -366911,5 +366911,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T20:00:49.219080+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594510",
+        "title": "19세기 대영제국에서 K-빵집으로 대박남",
+        "author": "글쓰는너겟",
+        "view_count": 3650,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597812",
+        "title": "전능 AI를 쓰니 미 특수부대가 집착한다.",
+        "author": "총골드",
+        "view_count": 1810,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603229",
+        "title": "국가에 버림받은 탱커가 EX급으로 재각성함",
+        "author": "피초",
+        "view_count": 1183,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 818,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듦",
+        "author": "한혜주",
+        "view_count": 613,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594934",
+        "title": "삼국지 원가의 적장손이 되었다",
+        "author": "레니sh",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605122",
+        "title": "국가에게 버림받은 S급 힐러는 재앙급 무신이었다",
+        "author": "글술술술술",
+        "view_count": 346,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 277,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607903",
+        "title": "비자금을 슈킹했는데 회사에서 짤림!",
+        "author": "오렌지깡",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "593434",
+        "title": "무신의 서를 얻었다",
+        "author": "몽랑괴행",
+        "view_count": 143,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
