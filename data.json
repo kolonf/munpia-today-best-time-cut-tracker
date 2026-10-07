@@ -368351,5 +368351,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-08T03:30:39.276421+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 2898,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "594941",
+        "title": "CIA가 집착하는 검은머리 남미경찰",
+        "author": "안재인",
+        "view_count": 1685,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606710",
+        "title": "해고되기 직전 회장님 덕분에 벼락부자됨",
+        "author": "꿈가득남",
+        "view_count": 1042,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 748,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607282",
+        "title": "사표내고 나간 차장이 너무 유능함",
+        "author": "되새김질",
+        "view_count": 529,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593153",
+        "title": "이혼당한 기러기 아빠 파워볼 당첨후 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 423,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597872",
+        "title": "전역 후, 유럽에서 축구 선수가 되었다",
+        "author": "현진현우",
+        "view_count": 353,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608131",
+        "title": "예술고 천재가 빌보드 1위를 숨김",
+        "author": "누리용",
+        "view_count": 275,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 214,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607530",
+        "title": "방출당한 고교 최대어가 170 던짐",
+        "author": "배추나무",
+        "view_count": 153,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
