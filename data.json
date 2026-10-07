@@ -364799,5 +364799,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-07T09:43:21.694729+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594495",
+        "title": "격투 피지컬 천재는 궤적이 다 보임",
+        "author": "콜레오",
+        "view_count": 3315,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605418",
+        "title": "해고당한 헌터분석관은 세계최고",
+        "author": "카피닌자",
+        "view_count": 1825,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608907",
+        "title": "권고사직 명단에 올랐는데 최고 에이스임",
+        "author": "연함™",
+        "view_count": 1230,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598809",
+        "title": "제국의 사냥개는 우주해적이 되었다",
+        "author": "오동환",
+        "view_count": 875,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605522",
+        "title": "좋소 엔지니어인데 재벌 총수들이 집착함",
+        "author": "아이오니스",
+        "view_count": 642,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593153",
+        "title": "이혼당한 기러기 아빠 파워볼 당첨후 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 493,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 377,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608131",
+        "title": "예술고 천재가 빌보드 1위를 숨김",
+        "author": "누리용",
+        "view_count": 295,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606891",
+        "title": "미래 댓글 보는 팀장이 너무 유능한데 해고당함",
+        "author": "콜라아이스",
+        "view_count": 244,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "607730",
+        "title": "퇴사하고 차린 함바집에 연예인들이 몰려옴",
+        "author": "땃땃땃쥐",
+        "view_count": 174,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
