@@ -215230,5 +215230,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T07:30:35.712741+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608297",
+        "title": "유일한 지구 출신 대군주가 되었다.",
+        "author": "플라워링",
+        "view_count": 826,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606644",
+        "title": "회장님 막내딸 임신시킨 줄 모르고 퇴사당함",
+        "author": "남호원",
+        "view_count": 419,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607104",
+        "title": "사천당가 살수는 범죄자를 잘 죽임",
+        "author": "섬월(纖月)",
+        "view_count": 240,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607688",
+        "title": "이혼 앞두고 자산이 미친듯이 늘어남",
+        "author": "차원의방",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607888",
+        "title": "나까지 귀화할까 봐 5천만이 집착함",
+        "author": "최강이",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607591",
+        "title": "신부 그만두고 무당했더니 여배우가 집착함",
+        "author": "검은후드",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610672",
+        "title": "회장님 차명자산 관리하다 파혼당함",
+        "author": "글로또",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607704",
+        "title": "해고한 만년 과장이 S급이었다",
+        "author": "연애재판",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609224",
+        "title": "우리 집 마당 아래 외계 제국의 시스템이 잠들어 있었다",
+        "author": "강그린",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604752",
+        "title": "국가에게 버림받은 EX급 대장장이가 되었다",
+        "author": "강철의심장",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
