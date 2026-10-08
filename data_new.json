@@ -213694,5 +213694,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-08T23:30:32.343962+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 774,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607657",
+        "title": "적폐축협 버리고, 스페인 국대로 갑니다",
+        "author": "쿨라임",
+        "view_count": 368,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607369",
+        "title": "퇴사 후 능력 흡수로 만능이 됨",
+        "author": "초씽",
+        "view_count": 199,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605594",
+        "title": "돌아온 천마의 탑 등반법",
+        "author": "담백하",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 64,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606183",
+        "title": "삼국지, 유선은 두번 망하지 않는다.",
+        "author": "윤실",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606347",
+        "title": "EX급 테이머로 재각성했는데 관리국에서 방출됨",
+        "author": "포도수",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607698",
+        "title": "방어율 0점대 미국 천재 투수가 돌아왔다",
+        "author": "기린기린기",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605287",
+        "title": "무당 아이돌이 신끼를 숨김",
+        "author": "글로배당",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608485",
+        "title": "제작 천재는 선협을 씹어먹는다",
+        "author": "미속",
+        "view_count": 22,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
