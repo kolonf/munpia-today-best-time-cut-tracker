@@ -213598,5 +213598,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-08T23:00:40.433974+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609200",
+        "title": "내가 핵심 설계자인 줄 모르고 해고당함",
+        "author": "임부키",
+        "view_count": 801,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609617",
+        "title": "즉사기가 핵심인 줄 모르고 해고당함",
+        "author": "백수천",
+        "view_count": 398,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607688",
+        "title": "이혼 앞두고 자산이 미친듯이 늘어남",
+        "author": "차원의방",
+        "view_count": 209,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607481",
+        "title": "회귀한 천재 투수는 금강불괴",
+        "author": "Zorba",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608221",
+        "title": "나혼자 원양어선에서 해고 당함",
+        "author": "갓생",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606602",
+        "title": "EX급 스킬을 얻은 날 해고당함",
+        "author": "곽탁타",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609809",
+        "title": "소련이 무너질 때 모스크바에 있었다",
+        "author": "맛김",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607272",
+        "title": "삼국지 : 해고 당한 인사팀장이 여포에 빙의함",
+        "author": "진주냉면",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609741",
+        "title": "해고당한 대테러팀장이 말도 안 되게 유능함",
+        "author": "더비트",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604752",
+        "title": "국가에게 버림받은 EX급 대장장이가 되었다",
+        "author": "강철의심장",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
