@@ -214750,5 +214750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T05:00:38.709031+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608006",
+        "title": "해고당한 단장에게 러브콜이 쏟아짐",
+        "author": "밀렵",
+        "view_count": 689,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605254",
+        "title": "아포칼립스 벙커가 무한 성장함",
+        "author": "켈린더",
+        "view_count": 394,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 210,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605839",
+        "title": "재각성한 줄 모르고 국가에 버림받음",
+        "author": "김미스",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609821",
+        "title": "해고당한 김 과장이 너무 유능함",
+        "author": "나없고",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605799",
+        "title": "선협에서 주인공을 죽이고 시작한다",
+        "author": "한판만두",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610672",
+        "title": "회장님 차명자산 관리하다 파혼당함",
+        "author": "글로또",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605461",
+        "title": "막내 스태프가 연기를 너무 잘함.",
+        "author": "丶예세",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610100",
+        "title": "삼국지 : 조 씨네 천재 아들",
+        "author": "잠룡.",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606790",
+        "title": "선협 세계의 무한 환생자",
+        "author": "최고재벌",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
