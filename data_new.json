@@ -211294,5 +211294,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-08T11:00:38.851889+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607359",
+        "title": "퇴사했더니 업계 사람들이 전부 나만 찾는다.",
+        "author": "글과달",
+        "view_count": 768,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608131",
+        "title": "예술고 천재가 빌보드 1위를 숨김",
+        "author": "누리용",
+        "view_count": 341,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608297",
+        "title": "유일한 지구 출신 대군주가 되었다.",
+        "author": "플라워링",
+        "view_count": 177,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606262",
+        "title": "흑도 칼잡이가 장원급제함!",
+        "author": "오렌지깡",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607809",
+        "title": "퇴물인 줄 알고 버렸는데 유일한 EX급이었다",
+        "author": "홍삼더덕",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607445",
+        "title": "욕망의 짬뽕핑, K-해장 열풍의 주역이 되다!",
+        "author": "랑글러",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607563",
+        "title": "퇴사당한 미국 천재 감정사에게 거물들이 몰려옴",
+        "author": "원일더",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606183",
+        "title": "삼국지, 유선은 두번 망하지 않는다.",
+        "author": "윤실",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
