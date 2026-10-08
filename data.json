@@ -371615,5 +371615,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-08T19:31:17.637081+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 3157,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598646",
+        "title": "내 오픈톡에 생명공학의 신이 산다",
+        "author": "Zeta.",
+        "view_count": 1729,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "592510",
+        "title": "삼국지: 십상시 아들이라서 튑니다.",
+        "author": "박야옹",
+        "view_count": 1105,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606481",
+        "title": "해고당한 엔지니어가 실리콘밸리를 뒤집어놓음.",
+        "author": "대작박가",
+        "view_count": 820,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603078",
+        "title": "귀환한 삼촌은 EX급이었다.",
+        "author": "선비의붓",
+        "view_count": 600,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595647",
+        "title": "AI 갖고 회귀한 펀드 매니저",
+        "author": "슬리버",
+        "view_count": 430,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 340,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "596826",
+        "title": "귀환한 네크로맨서는 조용히 살고 싶다",
+        "author": "선비의붓",
+        "view_count": 282,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603368",
+        "title": "일곱개의 탑",
+        "author": "경우勁雨",
+        "view_count": 203,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "607634",
+        "title": "해고 당하고 CIA가 집착하는 관상 천재가 되었다.",
+        "author": "녹수(淥水)",
+        "view_count": 143,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
