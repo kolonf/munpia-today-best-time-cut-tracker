@@ -216286,5 +216286,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T13:00:34.970850+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607657",
+        "title": "적폐축협 버리고, 스페인 국대로 갑니다",
+        "author": "쿨라임",
+        "view_count": 612,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607026",
+        "title": "해고당한 덕분에 대배우가 되었다",
+        "author": "크로노크",
+        "view_count": 353,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 188,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608703",
+        "title": "해고당한 영업 과장이 재벌집 사위가 됨",
+        "author": "사입삼촌",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607259",
+        "title": "회귀한 삼촌의 스킬이 특별하다",
+        "author": "베어구미스",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607243",
+        "title": "국가에게 버림받은 말년 병장이 전투를 너무 잘함.",
+        "author": "찌끄려",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609343",
+        "title": "해고당한 천재 공학자가 나노 머신을 얻음",
+        "author": "이나르™",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610672",
+        "title": "회장님 차명자산 관리하다 파혼당함",
+        "author": "글로또",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609431",
+        "title": "유실물 센터에서 초월급 아이템을 주웠다",
+        "author": "limkun",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
