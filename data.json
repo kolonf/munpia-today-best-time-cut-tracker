@@ -375263,5 +375263,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T13:00:43.942631+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 2884,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602717",
+        "title": "타이탄 파일럿 된 줄 모르고 무시당함",
+        "author": "활자오락",
+        "view_count": 1429,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602643",
+        "title": "멸망한 세상에서 미군기지를 주웠다",
+        "author": "참숯닭구이",
+        "view_count": 1005,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604252",
+        "title": "자고 일어났더니 유튜브 1,000만 구독자가 되었다",
+        "author": "김전기",
+        "view_count": 735,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609253",
+        "title": "잘렸더니 회사가 매일 전화함",
+        "author": "귤까는곰",
+        "view_count": 489,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 381,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "580186",
+        "title": "전생 무림고수 비공식 CIA 요원",
+        "author": "샘마루",
+        "view_count": 301,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602590",
+        "title": "빙하기 아포칼립스인데 내 캠핑장만 안전함",
+        "author": "백야진",
+        "view_count": 242,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604708",
+        "title": "고블린 상대로 가우스 소총은 반칙 아닙니까?",
+        "author": "산타클라스",
+        "view_count": 186,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598523",
+        "title": "재벌들 죽는 순서 맞혔더니 살려달라고 줄을 섬",
+        "author": "차세나",
+        "view_count": 130,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
