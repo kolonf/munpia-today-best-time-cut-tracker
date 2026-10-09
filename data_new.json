@@ -219262,5 +219262,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-10T04:30:31.982100+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사가 너무 유능함",
+        "author": "자몽라임",
+        "view_count": 702,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607026",
+        "title": "해고당한 덕분에 대배우가 되었다",
+        "author": "크로노크",
+        "view_count": 349,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 194,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607039",
+        "title": "초월자들에게 애호받는 뉴비가 되었다",
+        "author": "서휘영",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608304",
+        "title": "해고당한 이 과장이 1000조 짜리 회사를 만듬",
+        "author": "테드K",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608475",
+        "title": "해고당하고 시골에서 힐링하려는데 신빨 터짐",
+        "author": "박자까",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608528",
+        "title": "특전사가 을미사변 4일 전에 빙의했다.",
+        "author": "패관서생",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607704",
+        "title": "해고한 만년 과장이 S급이었다",
+        "author": "연애재판",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606790",
+        "title": "선협 세계의 무한 환생자",
+        "author": "최고재벌",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
