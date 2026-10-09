@@ -376223,5 +376223,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T18:00:47.114845+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 2801,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595562",
+        "title": "1979 장포스, 대한민국 하드 캐리 모드",
+        "author": "선우선사",
+        "view_count": 1603,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 1047,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "601232",
+        "title": "천재 물리치료사가 미국에서 환자를 너무 잘 만짐",
+        "author": "볼랑말랑",
+        "view_count": 774,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 602,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 435,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 352,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607997",
+        "title": "해고당한 짐꾼은 S급 버퍼였다",
+        "author": "소래담",
+        "view_count": 277,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 228,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603368",
+        "title": "일곱개의 탑",
+        "author": "경우勁雨",
+        "view_count": 171,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
