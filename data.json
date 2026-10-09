@@ -375743,5 +375743,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T15:30:37.109907+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듦",
+        "author": "한혜주",
+        "view_count": 2635,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598028",
+        "title": "텔레포트 하나로 현실에서도 쌀먹합니다",
+        "author": "양면거울",
+        "view_count": 1558,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608530",
+        "title": "해고당한 의사가 업계 최고임",
+        "author": "오두리리",
+        "view_count": 1001,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598570",
+        "title": "퇴사 후 우주전함 함장이 되었다",
+        "author": "구나낭",
+        "view_count": 742,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605254",
+        "title": "아포칼립스 벙커가 무한 성장함",
+        "author": "켈린더",
+        "view_count": 505,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사가 너무 유능함",
+        "author": "자몽라임",
+        "view_count": 402,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606571",
+        "title": "해고당한 강 팀장을 업계에서 집착함",
+        "author": "정현공원",
+        "view_count": 329,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 274,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "598523",
+        "title": "재벌들 죽는 순서 맞혔더니 살려달라고 줄을 섬",
+        "author": "차세나",
+        "view_count": 153,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
