@@ -217534,5 +217534,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T19:30:34.465678+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 636,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606906",
+        "title": "아포칼립스에 초대형 원양어선을 건조했다",
+        "author": "웨스트월드",
+        "view_count": 358,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605444",
+        "title": "뱀파이어 마법사는 오늘도 사망회귀한다",
+        "author": "태양물고기",
+        "view_count": 139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607809",
+        "title": "퇴물인 줄 알고 버렸는데 유일한 EX급이었다",
+        "author": "홍삼더덕",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608923",
+        "title": "해고당한 최 비서가 너무 유능함",
+        "author": "유노이아",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607594",
+        "title": "나 혼자 제작 스킬로 탑 밖에서 꿀빤다",
+        "author": "끌떡",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607385",
+        "title": "해고당한 F급 남궁가주는 업계 최고임",
+        "author": "ZZ1존",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610537",
+        "title": "미국 경찰은 퇴사하고 싶다",
+        "author": "선우(仙宇)",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604225",
+        "title": "해고당한 후 베트남로또 당첨, 구원하며 힐링합니다.",
+        "author": "복라봉",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610174",
+        "title": "해고당한 웹소설 PD한테 대박 작가들이 집착함",
+        "author": "4.Molina",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
