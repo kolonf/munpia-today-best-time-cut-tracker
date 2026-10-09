@@ -219550,5 +219550,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-10T06:00:38.472683+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사가 너무 유능함",
+        "author": "자몽라임",
+        "view_count": 718,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607026",
+        "title": "해고당한 덕분에 대배우가 되었다",
+        "author": "크로노크",
+        "view_count": 356,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606885",
+        "title": "해고당했더니 회사 AI가 사표 냄",
+        "author": "엘루아.",
+        "view_count": 199,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607039",
+        "title": "초월자들에게 애호받는 뉴비가 되었다",
+        "author": "서휘영",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608549",
+        "title": "재벌가 사위 되어 전업주부 합니다",
+        "author": "영원한계시",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607272",
+        "title": "삼국지 : 해고 당한 인사팀장이 여포에 빙의함",
+        "author": "진주냉면",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607809",
+        "title": "퇴물인 줄 알고 버렸는데 유일한 EX급이었다",
+        "author": "홍삼더덕",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609116",
+        "title": "해고당한 만년 부장이 회귀함",
+        "author": "복면작가",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610100",
+        "title": "삼국지 : 조 씨네 천재 아들",
+        "author": "잠룡.",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610682",
+        "title": "해고당한 힐러는 온천을 운영한다",
+        "author": "힐링화원",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
