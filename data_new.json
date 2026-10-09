@@ -216382,5 +216382,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T13:30:34.447157+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606436",
+        "title": "파워볼 당첨 후, 전산 담당 직원이 퇴사당함",
+        "author": "86호",
+        "view_count": 575,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607026",
+        "title": "해고당한 덕분에 대배우가 되었다",
+        "author": "크로노크",
+        "view_count": 360,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606644",
+        "title": "회장님 막내딸 임신시킨 줄 모르고 퇴사당함",
+        "author": "남호원",
+        "view_count": 187,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606831",
+        "title": "F급 헌터는 탑 폐기물로 무한 성장함",
+        "author": "멍글멍글",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607272",
+        "title": "삼국지 : 해고 당한 인사팀장이 여포에 빙의함",
+        "author": "진주냉면",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609116",
+        "title": "해고당한 만년 부장이 회귀함",
+        "author": "복면작가",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607481",
+        "title": "회귀한 천재 투수는 금강불괴",
+        "author": "Zorba",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609259",
+        "title": "나 혼자 무직인데 경험치 10,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610896",
+        "title": "삼국지: 망국의 황손, 시작을 끊다",
+        "author": "큼비",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
