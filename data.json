@@ -378623,5 +378623,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-10T05:30:38.538947+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602690",
+        "title": "헌터님들, 사이비 교주가 성물 팝니다",
+        "author": "필빛",
+        "view_count": 3175,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595814",
+        "title": "방탕한 도련님이 미국 자동차를 장악함",
+        "author": "역사설계자",
+        "view_count": 1686,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608172",
+        "title": "EX급 제약 스킬을 얻었더니 해고당함",
+        "author": "흑전",
+        "view_count": 1056,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609024",
+        "title": "낙하산인 줄 모르고 좌천당함",
+        "author": "왕십리글쟁이",
+        "view_count": 759,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600592",
+        "title": "환생한 용사가 S급 즉사기로 멸망급 탑 공략",
+        "author": "윤어파",
+        "view_count": 572,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603795",
+        "title": "나만 오르는 주식이 보임",
+        "author": "백우랑",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607389",
+        "title": "해고당한 협회 직원이 각성 후 국가에 헌신을 안함",
+        "author": "우르스.",
+        "view_count": 351,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 300,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605606",
+        "title": "마탑에 와플집을 오픈했더니, 헌터들이 줄을 선다",
+        "author": "예스안",
+        "view_count": 241,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608761",
+        "title": "해고당한 외과 의사가 너무 유능함",
+        "author": "옆집고래",
+        "view_count": 185,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
