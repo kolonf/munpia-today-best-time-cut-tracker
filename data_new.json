@@ -217822,5 +217822,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T21:00:38.032591+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606826",
+        "title": "파혼 후, 좌천 당한 실장이 일을 너무 잘함",
+        "author": "뇽뇽e",
+        "view_count": 668,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607673",
+        "title": "빌어먹을 회사 김과장이 너무 유능함",
+        "author": "백원만s",
+        "view_count": 363,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 164,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607182",
+        "title": "삼국지, 문추 천하를 얻다.",
+        "author": "두리둥",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608769",
+        "title": "해고당하고 사업했더니 업계가 뒤집어짐",
+        "author": "빈명",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606602",
+        "title": "EX급 스킬을 얻은 날 해고당함",
+        "author": "곽탁타",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607445",
+        "title": "힐링하려고 짬뽕집 차렸는데 국제적 거물들이 완뽕한다고?",
+        "author": "랑글러",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608951",
+        "title": "나 혼자 천하제일인인데 퇴사당함",
+        "author": "맨발의시인",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607946",
+        "title": "절필 후 대문호들의 톡방을 얻었다",
+        "author": "마틴이네",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
