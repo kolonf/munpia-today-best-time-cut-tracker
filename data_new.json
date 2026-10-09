@@ -216766,5 +216766,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-09T15:30:32.671711+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608297",
+        "title": "유일한 지구 출신 대군주가 되었다.",
+        "author": "플라워링",
+        "view_count": 622,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606130",
+        "title": "국가에게 버림받은 초감각 CIA 요원",
+        "author": "최뚝",
+        "view_count": 386,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606347",
+        "title": "EX급 테이머로 재각성했는데 관리국에서 방출됨",
+        "author": "포도수",
+        "view_count": 220,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610495",
+        "title": "내 기술 3,000억 회사만 모름",
+        "author": "만슬라",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610327",
+        "title": "반도체 수율의 핵심을 나만 알고 있는데 해고당함",
+        "author": "배고픈꼬미",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608401",
+        "title": "국가에게 버려진 마법사를 전세계가 집착함",
+        "author": "글써랑",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608010",
+        "title": "농대 나온 왕이 경신 대기근을 찢어버림",
+        "author": "브루마블",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607810",
+        "title": "천재들이 자꾸 나에게 집착한다",
+        "author": "새가람",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608730",
+        "title": "버려진 특성을 주웠더니 SSS급 토벌대원으로 각성함",
+        "author": "배불루",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605351",
+        "title": "빙하기 아포칼립스인데 대한민국을 탑으로 옮김",
+        "author": "카나레이",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
