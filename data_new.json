@@ -222718,5 +222718,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-10T23:00:35.337343+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606661",
+        "title": "파워볼 당첨되고 미국 목장을 샀더니 자꾸 대박남",
+        "author": "양작과",
+        "view_count": 798,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 404,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608923",
+        "title": "해고당한 최 비서가 너무 유능함",
+        "author": "유노이아",
+        "view_count": 223,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607182",
+        "title": "삼국지, 문추 천하를 얻다.",
+        "author": "두리둥",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610989",
+        "title": "식품회사 대리를 해고하자 3천억이 날아감",
+        "author": "핀셋",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607183",
+        "title": "재벌가 버린 자식이 너무 유능함",
+        "author": "흰이음",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609932",
+        "title": "2차 각성한 줄 모르고 해고당함",
+        "author": "헌앙",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610526",
+        "title": "여초 회사에서 해고 당한 김과장이 사업 천재였음",
+        "author": "프로즌",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609256",
+        "title": "좌천 후 로또되고 신내림 받았다",
+        "author": "버드와칭",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
