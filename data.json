@@ -381407,5 +381407,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-10T18:30:35.610483+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 3550,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603375",
+        "title": "EX급 수복 스킬로 다 고침",
+        "author": "긍정론적",
+        "view_count": 1790,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 1228,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607657",
+        "title": "적폐축협 버리고, 스페인 국대로 갑니다",
+        "author": "쿨라임",
+        "view_count": 854,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603193",
+        "title": "무제한 레벨업으로 탑 등반",
+        "author": "광산김가",
+        "view_count": 684,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "595684",
+        "title": "퇴사 후 무당들이 집착하는 사장님이 되었다.",
+        "author": "성정민",
+        "view_count": 469,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 399,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607083",
+        "title": "해고당한 김과장을 업계가 집착함",
+        "author": "방탄커피",
+        "view_count": 300,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 227,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "600229",
+        "title": "제국주의 열강이 집착하는 천재가 되었다",
+        "author": "드림판다",
+        "view_count": 170,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
