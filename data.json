@@ -384287,5 +384287,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T08:00:45.491219+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602690",
+        "title": "헌터님들, 사이비 교주가 성물 팝니다",
+        "author": "필빛",
+        "view_count": 3337,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 1720,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602643",
+        "title": "멸망한 세상에서 미군기지를 주웠다",
+        "author": "참숯닭구이",
+        "view_count": 1061,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사가 너무 유능함",
+        "author": "자몽라임",
+        "view_count": 873,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605522",
+        "title": "좋소 엔지니어인데 재벌 총수들이 집착함",
+        "author": "아이오니스",
+        "view_count": 617,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602852",
+        "title": "재벌집 망나니가 반도체 1황임",
+        "author": "백수원",
+        "view_count": 458,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "597813",
+        "title": "국가에게 버림받은 헌터가 재평가되었다",
+        "author": "찹쌀빵",
+        "view_count": 378,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 323,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603759",
+        "title": "망한 펜션을 이세계 템으로 고쳤더니 재벌들이 줄 섬",
+        "author": "갓타",
+        "view_count": 267,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604094",
+        "title": "해고 후 1000원 투자로 1000억 까지",
+        "author": "녹차티",
+        "view_count": 195,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
