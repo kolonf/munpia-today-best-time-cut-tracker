@@ -220702,5 +220702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-10T12:00:37.036123+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 584,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607369",
+        "title": "퇴사 후 능력 흡수로 만능이 됨",
+        "author": "초씽",
+        "view_count": 369,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606891",
+        "title": "대체불가 팀장이 해고당하자 경쟁사에서 모셔감",
+        "author": "콜라아이스",
+        "view_count": 203,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608741",
+        "title": "해고당한 연구원이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609980",
+        "title": "톱스타 다 만들어줬는데 해고당했다",
+        "author": "늬파랑",
+        "view_count": 87,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607739",
+        "title": "나 혼자 히든 클래스로 헌터시대를 찢음",
+        "author": "단우(單友)",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609222",
+        "title": "삼국지 속 은거 천재가 되었다",
+        "author": "멜에스",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608730",
+        "title": "버려진 특성을 주웠더니 SSS급 토벌대원으로 각성함",
+        "author": "배불루",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609932",
+        "title": "2차 각성한 줄 모르고 해고당함",
+        "author": "헌앙",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610613",
+        "title": "EX급 대장장이의 빙하기 쉘터 키우기",
+        "author": "타인증",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
