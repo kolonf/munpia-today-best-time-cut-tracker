@@ -221662,5 +221662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-10T17:00:37.235513+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608172",
+        "title": "EX급 제약 스킬을 얻었더니 해고당함",
+        "author": "흑전",
+        "view_count": 626,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608696",
+        "title": "해고당했더니 공장이 안 돌아감",
+        "author": "진주냉면",
+        "view_count": 409,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608304",
+        "title": "해고당한 이 과장이 1000조 짜리 회사를 만듬",
+        "author": "테드K",
+        "view_count": 222,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607476",
+        "title": "마린 키우기로 탑 등반",
+        "author": "[동주]",
+        "view_count": 121,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608043",
+        "title": "아포칼립스 내 영지에 사람들이 집착한다",
+        "author": "산책중독",
+        "view_count": 87,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607546",
+        "title": "조선에 웹소설을 풀었다",
+        "author": "평택안중",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598227",
+        "title": "망한 야구단 스카우트에게 선수의 재능이 보임",
+        "author": "하호크로수",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608898",
+        "title": "선협에서 나 혼자만 특성 수집",
+        "author": "귤별",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609178",
+        "title": "폭락장에서 나혼자 전재산을 질렀다",
+        "author": "얕은",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610256",
+        "title": "해고당한 주방장이 너무 유능함",
+        "author": "긍은긍은",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
