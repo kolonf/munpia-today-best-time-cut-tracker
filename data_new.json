@@ -224542,5 +224542,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T08:30:31.472649+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606891",
+        "title": "대체불가 팀장이 해고당하자 경쟁사에서 모셔감",
+        "author": "콜라아이스",
+        "view_count": 843,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606662",
+        "title": "핵심 직원인 줄 모르고 해고당함",
+        "author": "미친재능",
+        "view_count": 420,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606885",
+        "title": "해고당했더니 회사 AI가 사표 냄",
+        "author": "엘루아.",
+        "view_count": 288,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 128,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607307",
+        "title": "헬 난이도 무한 분신 술사",
+        "author": "돌탕",
+        "view_count": 89,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606831",
+        "title": "F급 헌터는 탑 폐기물로 무한 성장함",
+        "author": "멍글멍글",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609224",
+        "title": "우리 집 마당 아래 외계 제국의 시스템이 잠들어 있었다",
+        "author": "강그린",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609222",
+        "title": "삼국지 속 은거 천재가 되었다",
+        "author": "멜에스",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 역세권이 됐다",
+        "author": "uki",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610332",
+        "title": "대머리 아저씨와 친구가 되다",
+        "author": "불량집사",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
