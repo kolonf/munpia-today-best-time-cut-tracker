@@ -387263,5 +387263,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T22:30:36.762664+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603782",
+        "title": "법으로는 안 될 것 같아 마공으로 때려죽임",
+        "author": "단팥빵소년",
+        "view_count": 3033,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "595480",
+        "title": "0점짜리 장남이 100조로 효도합니다",
+        "author": "김시놉",
+        "view_count": 1818,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "601232",
+        "title": "천재 물리치료사가 미국에서 환자를 너무 잘 만짐",
+        "author": "볼랑말랑",
+        "view_count": 1206,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 801,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 562,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 472,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607083",
+        "title": "해고당한 김과장을 업계가 집착함",
+        "author": "방탄커피",
+        "view_count": 364,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600229",
+        "title": "제국주의 열강이 집착하는 천재가 되었다",
+        "author": "드림판다",
+        "view_count": 228,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607308",
+        "title": "회장님 비자금으로 1경 재벌!",
+        "author": "흑곰작가",
+        "view_count": 163,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
