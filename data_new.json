@@ -225310,5 +225310,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T12:30:30.072190+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 687,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607688",
+        "title": "이혼 앞두고 자산이 미친듯이 늘어남",
+        "author": "차원의방",
+        "view_count": 403,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606347",
+        "title": "EX급 테이머로 재각성했는데 관리국에서 방출됨",
+        "author": "포도수",
+        "view_count": 246,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607594",
+        "title": "나 혼자 제작 스킬로 탑 밖에서 꿀빤다",
+        "author": "끌떡",
+        "view_count": 119,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605172",
+        "title": "신점으로 선협이 너무 쉽다",
+        "author": "이찬솔",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609224",
+        "title": "우리 집 마당 아래 외계 제국의 시스템이 잠들어 있었다",
+        "author": "강그린",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603772",
+        "title": "수명은 무한, 모든 능력치는 최대",
+        "author": "태양진",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607546",
+        "title": "조선에 웹소설을 풀었다",
+        "author": "평택안중",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609183",
+        "title": "선협인데 수명이 무한임",
+        "author": "눕보",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
