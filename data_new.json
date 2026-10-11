@@ -225886,5 +225886,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T15:30:30.374221+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608074",
+        "title": "대체불가능한 아카데미 SSS급 주임이 해고 당함",
+        "author": "[쥬시]",
+        "view_count": 627,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606571",
+        "title": "해고당한 강 팀장을 업계에서 집착함",
+        "author": "정현공원",
+        "view_count": 443,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611444",
+        "title": "해고당한 조 대리는 재벌 집 막내아들!",
+        "author": "흑곰작가",
+        "view_count": 248,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607476",
+        "title": "마린 키우기로 탑 등반",
+        "author": "[동주]",
+        "view_count": 126,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607704",
+        "title": "해고한 만년 과장이 S급이었다",
+        "author": "연애재판",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607225",
+        "title": "은퇴당한 천재 피아니스트에게 연기는 너무 쉽다",
+        "author": "오징어금값",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610935",
+        "title": "국정원 막내는 세계 최고 해커",
+        "author": "광산김가",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607946",
+        "title": "절필 후 대문호들의 톡방을 얻었다",
+        "author": "마틴이네",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606831",
+        "title": "F급 헌터는 탑 폐기물로 무한 성장함",
+        "author": "멍글멍글",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
