@@ -225694,5 +225694,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T14:30:33.411127+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608074",
+        "title": "대체불가능한 아카데미 SSS급 주임이 해고 당함",
+        "author": "[쥬시]",
+        "view_count": 613,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 406,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611444",
+        "title": "해고당한 조 대리는 재벌 집 막내아들!",
+        "author": "흑곰작가",
+        "view_count": 208,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607226",
+        "title": "9,999렙 EX급 해고당한 나만 탑 등반이 너무 쉽다",
+        "author": "바바루",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608951",
+        "title": "나 혼자 천하제일인인데 퇴사당함",
+        "author": "맨발의시인",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608769",
+        "title": "해고당하고 사업했더니 업계가 뒤집어짐",
+        "author": "빈명",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611371",
+        "title": "F급 짐꾼이 잘렸는데 길드가 망함",
+        "author": "세우강",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609788",
+        "title": "밑바닥부터 시작하는 수선계 생존기",
+        "author": "분량조절",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
