@@ -225598,5 +225598,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T14:00:36.464861+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607530",
+        "title": "방출당한 고교 최대어가 170 던짐",
+        "author": "배추나무",
+        "view_count": 597,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606891",
+        "title": "대체불가 팀장이 해고당하자 경쟁사에서 모셔감",
+        "author": "콜라아이스",
+        "view_count": 392,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611444",
+        "title": "해고당한 조 대리는 재벌 집 막내아들!",
+        "author": "흑곰작가",
+        "view_count": 179,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607307",
+        "title": "헬 난이도 무한 분신 술사",
+        "author": "돌탕",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602942",
+        "title": "시한부 무당의 사형 투표 스트리밍",
+        "author": "박자까",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607226",
+        "title": "9,999렙 EX급 해고당한 나만 탑 등반이 너무 쉽다",
+        "author": "바바루",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608951",
+        "title": "나 혼자 천하제일인인데 퇴사당함",
+        "author": "맨발의시인",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605054",
+        "title": "세종대왕, 거지의 몸으로 단종을 구해 천하제일인이 되다",
+        "author": "단군하부지",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611016",
+        "title": "해고당했는데 나만 EX급 신수를 부림",
+        "author": "진필.",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609630",
+        "title": "해고당한 탑 공략 분석관이 정답을 다 알고 있음",
+        "author": "한판만두",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
