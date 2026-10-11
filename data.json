@@ -386591,5 +386591,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-11T19:00:44.679993+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602634",
+        "title": "귀환한 천하제일인은 쉬고싶다",
+        "author": "백몽(白夢)",
+        "view_count": 3127,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602643",
+        "title": "멸망한 세상에서 미군기지를 주웠다",
+        "author": "참숯닭구이",
+        "view_count": 1947,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 1293,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606436",
+        "title": "파워볼 당첨 후, 전산 담당 직원이 퇴사당함",
+        "author": "86호",
+        "view_count": 891,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 701,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609590",
+        "title": "해고당한 김과장이 회장님의 혼외자였다",
+        "author": "어나인",
+        "view_count": 505,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "588695",
+        "title": "청동기 시대 강대국에 떨어졌다",
+        "author": "havoc",
+        "view_count": 406,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 열강을 찢음",
+        "author": "듀이문",
+        "view_count": 316,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 238,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607104",
+        "title": "사천당가 살수는 범죄자를 잘 죽임",
+        "author": "섬월(纖月)",
+        "view_count": 168,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
