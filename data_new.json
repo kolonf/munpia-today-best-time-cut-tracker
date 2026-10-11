@@ -227518,5 +227518,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-12T00:00:35.791700+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608178",
+        "title": "멸망 30일 전, 무한 아공간을 얻다",
+        "author": "콜디",
+        "view_count": 793,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607083",
+        "title": "해고당한 김과장을 업계가 집착함",
+        "author": "방탄커피",
+        "view_count": 377,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 190,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607476",
+        "title": "마린 키우기로 탑 등반",
+        "author": "[동주]",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608549",
+        "title": "재벌가 사위 되어 전업주부 합니다",
+        "author": "영원한계시",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606183",
+        "title": "삼국지, 유선은 두번 망하지 않는다.",
+        "author": "윤실",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 역세권이 됐다",
+        "author": "uki",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608631",
+        "title": "시간 재단사",
+        "author": "편곤",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608485",
+        "title": "제작 천재는 선협을 씹어먹는다",
+        "author": "미속",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611155",
+        "title": "내가 빠지자 7개 공장이 동시에 멈췄다",
+        "author": "딸기크레페",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
