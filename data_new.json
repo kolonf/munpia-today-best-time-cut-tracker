@@ -230878,5 +230878,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-12T18:00:44.205072+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 790,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607369",
+        "title": "퇴사 후 능력 흡수로 만능이 됨",
+        "author": "초씽",
+        "view_count": 502,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607634",
+        "title": "미국에서 관상봐줬더니 CIA가 집착함",
+        "author": "녹수(淥水)",
+        "view_count": 295,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 121,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609821",
+        "title": "해고당한 김 과장이 업계 최고임",
+        "author": "나없고",
+        "view_count": 74,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609224",
+        "title": "우리 집 마당 아래 외계 제국의 시스템이 잠들어 있었다",
+        "author": "강그린",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607183",
+        "title": "재벌가 버린 자식이 너무 유능함",
+        "author": "흰이음",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609105",
+        "title": "각성했는데 패시브가 너무 사기임",
+        "author": "네르키",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610174",
+        "title": "해고당한 웹소설 PD한테 대박 작가들이 집착함",
+        "author": "4.Molina",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
