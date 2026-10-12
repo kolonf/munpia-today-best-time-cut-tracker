@@ -390527,5 +390527,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-12T14:00:46.243474+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608297",
+        "title": "유일한 지구 출신 대군주가 되었다.",
+        "author": "플라워링",
+        "view_count": 2815,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604234",
+        "title": "은퇴했는데 반로환동",
+        "author": "김태평",
+        "view_count": 1769,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 1123,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607389",
+        "title": "해고당한 협회 직원이 각성 후 국가에 헌신을 안함",
+        "author": "우르스.",
+        "view_count": 790,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603375",
+        "title": "EX급 수복 스킬로 다 고침",
+        "author": "긍정론적",
+        "view_count": 565,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608274",
+        "title": "방구석 정보상인데 전 세계가 집착함",
+        "author": "차재현",
+        "view_count": 446,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608172",
+        "title": "EX급 제약 스킬을 얻었더니 해고당함",
+        "author": "흑전",
+        "view_count": 372,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608012",
+        "title": "해고당한 강화사 아빠가 탑에선 칼퇴합니다",
+        "author": "루체른",
+        "view_count": 308,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 214,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 156,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
