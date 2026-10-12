@@ -229918,5 +229918,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-12T12:30:30.896907+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 670,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607369",
+        "title": "퇴사 후 능력 흡수로 만능이 됨",
+        "author": "초씽",
+        "view_count": 416,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605444",
+        "title": "뱀파이어 마법사는 오늘도 사망회귀한다",
+        "author": "태양물고기",
+        "view_count": 248,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608475",
+        "title": "해고당하고 시골에서 힐링하려는데 신빨 터짐",
+        "author": "박자까",
+        "view_count": 124,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607591",
+        "title": "신부 그만두고 무당했더니 여배우가 집착함",
+        "author": "검은후드",
+        "view_count": 89,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609587",
+        "title": "대통령 비자금 5000억 가로챈 줄 모르고 좌천시킴",
+        "author": "웹소툰",
+        "view_count": 67,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610989",
+        "title": "식품회사 대리를 해고하자 3천억 계약이 날아감",
+        "author": "핀셋",
+        "view_count": 56,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603772",
+        "title": "수명은 무한, 모든 능력치는 최대",
+        "author": "태양진",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608919",
+        "title": "땜빵 단역이 역대급 탑배우임",
+        "author": "웅백",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608177",
+        "title": "나혼자만 염동력으로 탑 등반이 너무 쉬움",
+        "author": "앤볼",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
