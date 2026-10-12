@@ -231742,5 +231742,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-12T23:00:44.143372+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 796,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 388,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610537",
+        "title": "미국 경찰은 퇴사하고 싶다",
+        "author": "선우(仙宇)",
+        "view_count": 235,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607704",
+        "title": "해고한 만년 과장이 S급이었다",
+        "author": "연애재판",
+        "view_count": 123,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608524",
+        "title": "환생 광마는 유유자적 살고 싶었다",
+        "author": "범미르",
+        "view_count": 90,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611371",
+        "title": "F급 짐꾼이 잘렸는데 길드가 망함",
+        "author": "세우강",
+        "view_count": 67,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610288",
+        "title": "해고당한 백대리가 초고수익 트레이더가 됨",
+        "author": "레오a",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609127",
+        "title": "방출당한 불펜투수가 S급 마구를 던짐",
+        "author": "더네임",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606073",
+        "title": "천재 변호사가 망한 연예기획사를 초대박 내버림",
+        "author": "5스타",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607621",
+        "title": "칼퇴하려고 회귀했는데 회장님이 후계자로 찍었다",
+        "author": "섹시옹",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
