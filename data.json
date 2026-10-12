@@ -391007,5 +391007,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-12T16:00:49.752297+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598994",
+        "title": "은하제국 개망나니가 빙의를 숨김",
+        "author": "라가불린",
+        "view_count": 3208,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607344",
+        "title": "이혼당한 데릴사위가 초국가적 재벌 후계자",
+        "author": "라쿤캣",
+        "view_count": 1909,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 탑을 씹어먹음",
+        "author": "틈새솔",
+        "view_count": 1097,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607389",
+        "title": "해고당한 협회 직원이 각성 후 국가에 헌신을 안함",
+        "author": "우르스.",
+        "view_count": 847,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 608,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 481,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "583471",
+        "title": "삼국지: 회귀한 여포가 양아버지를 거부함",
+        "author": "잡탕드래곤",
+        "view_count": 408,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600069",
+        "title": "탑 공략이 너무 쉬움",
+        "author": "기성아님",
+        "view_count": 320,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605503",
+        "title": "르네상스 시대에 웹툰작가가 어떻게 살아남아",
+        "author": "잔고탕진",
+        "view_count": 248,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604507",
+        "title": "해고당한 헌터가 세계최강",
+        "author": "루나티카",
+        "view_count": 180,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
