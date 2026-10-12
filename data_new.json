@@ -232414,5 +232414,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T03:00:37.875502+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606751",
+        "title": "탑에도 농어촌전형이 있나요?",
+        "author": "시온유",
+        "view_count": 663,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 372,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608181",
+        "title": "퇴사한 은행원이 왜 더 잘함?",
+        "author": "빨간Bull",
+        "view_count": 222,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608475",
+        "title": "해고당하고 시골에서 힐링하려는데 신빨 터짐",
+        "author": "박자까",
+        "view_count": 128,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "598227",
+        "title": "망한 야구단 스카우트에게 선수의 재능이 보임",
+        "author": "하호크로수",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609343",
+        "title": "해고당한 천재 공학자가 나노 머신을 얻음",
+        "author": "이나르™",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609344",
+        "title": "해고당한 만렙 귀환자가 시골을 뒤집어 놓음",
+        "author": "곰슈",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608992",
+        "title": "해고당한 날, 재벌 3세의 남편이 되었다",
+        "author": "칠팔",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610503",
+        "title": "축협에서 해고당했는데 영국이 내게 집착함",
+        "author": "쿤페",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610909",
+        "title": "해고 후 중고거래로 돈을 쓸어 담음",
+        "author": "치킨페스토",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
