@@ -392639,5 +392639,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T00:27:31.435871+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "595218",
+        "title": "오스만은 로마다",
+        "author": "초음중음",
+        "view_count": 2924,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608172",
+        "title": "EX급 제약 스킬을 얻었더니 해고당함",
+        "author": "흑전",
+        "view_count": 1524,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 962,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599211",
+        "title": "은하수선전",
+        "author": "글호떡",
+        "view_count": 623,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607282",
+        "title": "사표내고 나간 차장이 너무 유능함",
+        "author": "되새김질",
+        "view_count": 498,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608923",
+        "title": "해고당한 최 비서가 너무 유능함",
+        "author": "유노이아",
+        "view_count": 389,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599501",
+        "title": "본 상담은 기억 소거 대상입니다",
+        "author": "첨G",
+        "view_count": 320,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610537",
+        "title": "미국 경찰은 퇴사하고 싶다",
+        "author": "선우(仙宇)",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 158,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
