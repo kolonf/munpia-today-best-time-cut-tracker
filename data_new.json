@@ -230206,5 +230206,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-12T14:00:40.069231+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606891",
+        "title": "미래 먼저보는 팀장을 해고했더니 경쟁사가 모셔감",
+        "author": "콜라아이스",
+        "view_count": 604,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605594",
+        "title": "돌아온 천마의 탑 등반법",
+        "author": "담백하",
+        "view_count": 416,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 202,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607104",
+        "title": "사천당가 살수는 범죄자를 잘 죽임",
+        "author": "섬월(纖月)",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607039",
+        "title": "초월자들에게 애호받는 뉴비가 되었다",
+        "author": "서휘영",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609224",
+        "title": "우리 집 마당 아래 외계 제국의 시스템이 잠들어 있었다",
+        "author": "강그린",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611155",
+        "title": "내가 빠지자 7개 공장이 동시에 멈췄다",
+        "author": "딸기크레페",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607810",
+        "title": "천재들이 자꾸 나에게 집착한다",
+        "author": "새가람",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611538",
+        "title": "해고당한 외과 의사에게 거물들이 집착함",
+        "author": "설흔(說痕)",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
