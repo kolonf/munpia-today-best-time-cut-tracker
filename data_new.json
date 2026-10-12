@@ -232030,5 +232030,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T01:00:38.833176+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606751",
+        "title": "탑에도 농어촌전형이 있나요?",
+        "author": "시온유",
+        "view_count": 627,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609024",
+        "title": "낙하산인 줄 모르고 좌천당함",
+        "author": "왕십리글쟁이",
+        "view_count": 342,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607243",
+        "title": "국가에게 버림받은 말년 병장이 전투를 너무 잘함.",
+        "author": "찌끄려",
+        "view_count": 204,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608769",
+        "title": "해고 후 사업했더니 대박치는 미래를 봄",
+        "author": "빈명",
+        "view_count": 124,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610256",
+        "title": "해고당한 주방장이 너무 유능함",
+        "author": "긍은긍은",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605054",
+        "title": "세종대왕, 거지의 몸으로 중원 천하제일인이 되다",
+        "author": "단군하부지",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610100",
+        "title": "[삼국지] 조조에게 버림받고 금수저 아들로 태어남",
+        "author": "잠룡.",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609127",
+        "title": "방출당한 불펜투수가 S급 마구를 던짐",
+        "author": "더네임",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610227",
+        "title": "해고당했더니 걸그룹이 따라옴",
+        "author": "그랜마",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610909",
+        "title": "해고 후 중고거래로 돈을 쓸어 담음",
+        "author": "치킨페스토",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
