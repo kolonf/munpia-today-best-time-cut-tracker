@@ -234622,5 +234622,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T14:30:32.398262+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609024",
+        "title": "낙하산인 줄 모르고 좌천당함",
+        "author": "왕십리글쟁이",
+        "view_count": 668,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 422,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608043",
+        "title": "아포칼립스 내 영지에 사람들이 집착한다",
+        "author": "산책중독",
+        "view_count": 212,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608898",
+        "title": "선협에서 나 혼자만 특성 수집",
+        "author": "귤별",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610672",
+        "title": "파혼당한 윤대리는 회장님 사위로 내정됐다",
+        "author": "글로또",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606790",
+        "title": "선협 세계의 무한 환생자",
+        "author": "최고재벌",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 힐링 온천을 상속 받음",
+        "author": "힐링화원",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609105",
+        "title": "각성했는데 패시브가 너무 사기임",
+        "author": "네르키",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609687",
+        "title": "삼국지, 유비 사형제",
+        "author": "칠팔",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
