@@ -235102,5 +235102,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T17:00:36.207505+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607997",
+        "title": "해고당한 짐꾼은 S급 버퍼였다",
+        "author": "소래담",
+        "view_count": 820,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607688",
+        "title": "이혼 앞두고 자산이 미친듯이 늘어남",
+        "author": "차원의방",
+        "view_count": 497,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608741",
+        "title": "해고당한 연구원이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 258,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610935",
+        "title": "국정원 막내는 세계 최고 해커",
+        "author": "광산김가",
+        "view_count": 118,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609344",
+        "title": "해고당한 만렙 귀환자가 시골을 뒤집어 놓음",
+        "author": "곰슈",
+        "view_count": 89,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594513",
+        "title": "천재 쌍둥이가 회귀를 숨김",
+        "author": "이데아IdeA",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611530",
+        "title": "퇴사한 응급의는 피부과 신의손",
+        "author": "미친재능",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610526",
+        "title": "해고 당한 기획자가 사업 천재였음",
+        "author": "프로즌",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607385",
+        "title": "남궁현(F)가 헬모드 탑에 남궁세가를 재건함",
+        "author": "ZZ1존",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608430",
+        "title": "색을 보는 야구천재",
+        "author": "상상(想像)",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
