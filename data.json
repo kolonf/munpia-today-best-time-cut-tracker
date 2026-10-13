@@ -396863,5 +396863,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T20:49:10.921746+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "599478",
+        "title": "재벌 서자가 대한민국을 먹여살림",
+        "author": "이도윤",
+        "view_count": 3550,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606767",
+        "title": "히트곡 다 써줬더니 해고당했다",
+        "author": "더페이서",
+        "view_count": 1802,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603795",
+        "title": "나만 오르는 주식이 보임",
+        "author": "백우랑",
+        "view_count": 1078,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609024",
+        "title": "낙하산인 줄 모르고 좌천당함",
+        "author": "왕십리글쟁이",
+        "view_count": 796,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 571,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607673",
+        "title": "만년 과장이 죽은 회사 살려 먹음",
+        "author": "백원만s",
+        "view_count": 455,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607634",
+        "title": "미국에서 관상봐줬더니 CIA가 집착함",
+        "author": "녹수(淥水)",
+        "view_count": 351,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "609116",
+        "title": "해고당한 만년 부장이 회귀함",
+        "author": "복면작가",
+        "view_count": 283,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "602939",
+        "title": "국가에 버림받고 EX급 생체병기를 얻었다.",
+        "author": "김한영",
+        "view_count": 223,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605606",
+        "title": "마탑에 와플집을 오픈했더니, 헌터들이 줄을 선다",
+        "author": "예스안",
+        "view_count": 175,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
