@@ -396671,5 +396671,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T20:00:50.589028+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598994",
+        "title": "은하제국 개망나니가 빙의를 숨김",
+        "author": "라가불린",
+        "view_count": 4316,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598369",
+        "title": "나혼자 신화급 사령으로 탑을 씹어먹음",
+        "author": "틈새솔",
+        "view_count": 1884,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600130",
+        "title": "외계 문명에 라면 팔았더니 오버테크 장비가 쏟아짐",
+        "author": "땡시기",
+        "view_count": 1195,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 859,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608304",
+        "title": "해고당하고 인수한 동네 슈퍼가 초 대박침",
+        "author": "테드K",
+        "view_count": 633,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "593035",
+        "title": "삼국지 공명짭인데 공명보다 잘한다",
+        "author": "글못쓰는놈",
+        "view_count": 496,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606906",
+        "title": "아포칼립스에 초대형 원양어선을 건조했다",
+        "author": "웨스트월드",
+        "view_count": 382,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606644",
+        "title": "회장님 막내딸 임신시킨 줄 모르고 퇴사당함",
+        "author": "남호원",
+        "view_count": 280,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601240",
+        "title": "육사출신 전술천재, 만주패왕이 되다",
+        "author": "백십칠",
+        "view_count": 229,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610495",
+        "title": "내 기술 3,000억 회사만 모름",
+        "author": "만슬라",
+        "view_count": 169,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
