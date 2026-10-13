@@ -234046,5 +234046,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T11:30:31.979109+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607530",
+        "title": "방출당한 고교 최대어가 170 던짐",
+        "author": "배추나무",
+        "view_count": 700,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606891",
+        "title": "미래 먼저보는 팀장을 해고했더니 경쟁사가 모셔감",
+        "author": "콜라아이스",
+        "view_count": 440,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 281,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608769",
+        "title": "해고 후 사업했더니 대박치는 미래를 봄",
+        "author": "빈명",
+        "view_count": 141,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609222",
+        "title": "삼국지 속 은거 천재가 되었다",
+        "author": "멜에스",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 68,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607469",
+        "title": "딸바보 무당이 너무 잘나감",
+        "author": "묘네즈",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607729",
+        "title": "천재 작곡가인 거 나만 모름",
+        "author": "율담",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607621",
+        "title": "칼퇴하려고 회귀했는데 회장님이 후계자로 찍었다",
+        "author": "섹시옹",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608008",
+        "title": "만년 후보 프리미어리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
