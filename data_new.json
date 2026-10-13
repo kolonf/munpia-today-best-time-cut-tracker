@@ -233662,5 +233662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-13T09:30:36.233913+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 652,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608696",
+        "title": "해고당했더니 공장이 안 돌아감",
+        "author": "진주냉면",
+        "view_count": 410,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 253,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610495",
+        "title": "내 기술 3,000억 회사만 모름",
+        "author": "만슬라",
+        "view_count": 123,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605172",
+        "title": "거물들이 줄 서는 신점수선전(神占修仙傳)",
+        "author": "이찬솔",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609889",
+        "title": "선협에서 괴이를 사냥함",
+        "author": "길마",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607634",
+        "title": "미국에서 관상봐줬더니 CIA가 집착함",
+        "author": "녹수(淥水)",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610835",
+        "title": "해고당한 탱커는 업계 최고",
+        "author": "산타클라스",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607621",
+        "title": "칼퇴하려고 회귀했는데 회장님이 후계자로 찍었다",
+        "author": "섹시옹",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610501",
+        "title": "배신당할 줄 알고 특허를 숨김",
+        "author": "골방개발자",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
