@@ -402335,5 +402335,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-14T22:43:55.884958+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602690",
+        "title": "방구석 구세주가 기적을 잘 팖",
+        "author": "필빛",
+        "view_count": 3155,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605026",
+        "title": "해고 당했더니 마법사로 각성했다",
+        "author": "시르베르",
+        "view_count": 1728,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597893",
+        "title": "세상이 멸망했지만 내 집은 그대로",
+        "author": "무한㉿",
+        "view_count": 1096,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607657",
+        "title": "방출당한 2군이 축구를 너무 잘함",
+        "author": "쿨라임",
+        "view_count": 756,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "583471",
+        "title": "삼국지: 회귀한 여포가 양아버지를 거부함",
+        "author": "잡탕드래곤",
+        "view_count": 576,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607083",
+        "title": "해고당한 김과장을 업계가 집착함",
+        "author": "방탄커피",
+        "view_count": 428,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 139,
+        "novel_id": "608923",
+        "title": "재벌 3세가 해고한 전담 비서가 너무 유능함",
+        "author": "유노이아",
+        "view_count": 339,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598946",
+        "title": "게이트에서 주운 열쇠로 우주 전함의 함장이 되었다",
+        "author": "헬뮤티",
+        "view_count": 279,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 246,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608475",
+        "title": "해고당하고 시골에서 힐링하려는데 신빨 터짐",
+        "author": "박자까",
+        "view_count": 189,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
