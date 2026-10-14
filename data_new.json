@@ -241438,5 +241438,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-15T02:00:40.633014+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608039",
+        "title": "탑 공략해줬더니 해고당했다",
+        "author": "광별",
+        "view_count": 714,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608761",
+        "title": "해고당한 외과 의사가 너무 유능함",
+        "author": "옆집고래",
+        "view_count": 399,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607104",
+        "title": "사천당가 살수는 범죄자를 잘 죽임",
+        "author": "섬월(纖月)",
+        "view_count": 239,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609259",
+        "title": "나 혼자 무직인데 경험치 10,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 114,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609344",
+        "title": "해고당한 만렙 귀환자가 시골을 뒤집어 놓음",
+        "author": "곰슈",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611292",
+        "title": "운석 주웠더니 돈벼락이 쏟아짐",
+        "author": "임플로이",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604482",
+        "title": "보자기를 주웠더니 수선이 너무 쉽다",
+        "author": "글청",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608069",
+        "title": "해고당한 과장이 헌터를 너무 잘 키움",
+        "author": "KENO",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608898",
+        "title": "선협에서 나 혼자만 특성 수집",
+        "author": "귤별",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611223",
+        "title": "회귀했더니 거물들이 내게 집착한다",
+        "author": "전장범",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
