@@ -240574,5 +240574,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-14T21:30:36.996188+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 722,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606906",
+        "title": "아포칼립스에 초대형 원양어선을 건조했다",
+        "author": "웨스트월드",
+        "view_count": 364,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 219,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608524",
+        "title": "환생 광마는 유유자적 살고 싶었다",
+        "author": "범미르",
+        "view_count": 126,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607226",
+        "title": "9,999렙 EX급 해고당한 나만 탑 등반이 너무 쉽다",
+        "author": "바바루",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609630",
+        "title": "해고당한 탑 공략 분석관이 정답을 다 알고 있음",
+        "author": "한판만두",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607385",
+        "title": "남궁현(F)가 헬모드 탑에 남궁세가를 재건함",
+        "author": "ZZ1존",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610174",
+        "title": "해고당한 웹소설 PD한테 대박 작가들이 집착함",
+        "author": "4.Molina",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612115",
+        "title": "미국에서 의료보험 만들었더니 집착당함",
+        "author": "까막커",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610664",
+        "title": "눈 떠보니 백작이 되어 있었다",
+        "author": "용은",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
