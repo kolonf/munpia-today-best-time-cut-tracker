@@ -238174,5 +238174,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-14T09:00:43.669964+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608131",
+        "title": "예술고 천재가 빌보드 1위를 숨김",
+        "author": "누리용",
+        "view_count": 762,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608696",
+        "title": "해고당했더니 공장이 안 돌아감",
+        "author": "진주냉면",
+        "view_count": 428,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607669",
+        "title": "제명당한 네크로맨서, 군단을 되찾음.",
+        "author": "아난티",
+        "view_count": 289,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609809",
+        "title": "소련이 무너질 때 모스크바에 있었다",
+        "author": "맛김",
+        "view_count": 141,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 95,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611366",
+        "title": "해고당하자 거래처가 전부 따라옴",
+        "author": "맛있는글s",
+        "view_count": 72,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "594513",
+        "title": "천재 쌍둥이가 회귀를 숨김",
+        "author": "이데아IdeA",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607563",
+        "title": "퇴사당한 미국 천재 감정사에게 거물들이 몰려옴",
+        "author": "원일더",
+        "view_count": 49,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609474",
+        "title": "사이버 렉카가 너무 유능함",
+        "author": "북골드",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608008",
+        "title": "만년 후보 프리미어리그를 찢다",
+        "author": "팥빵맨",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
