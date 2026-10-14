@@ -240862,5 +240862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-14T23:00:43.346610+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607688",
+        "title": "이혼 앞두고 자산이 미친듯이 늘어남",
+        "author": "차원의방",
+        "view_count": 737,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606906",
+        "title": "아포칼립스에 초대형 원양어선을 건조했다",
+        "author": "웨스트월드",
+        "view_count": 375,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609821",
+        "title": "해고당한 김 과장이 업계 최고임",
+        "author": "나없고",
+        "view_count": 239,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 114,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609889",
+        "title": "선협에서 괴이를 사냥함",
+        "author": "길마",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609095",
+        "title": "해고당한 부장판사는 속마음이 들림",
+        "author": "서리문",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608919",
+        "title": "땜빵 단역이 역대급 탑배우임",
+        "author": "웅백",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607503",
+        "title": "인간불신 귀환자는 탑에 산다",
+        "author": "AKARU",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612627",
+        "title": "귀환한 빌런에게 전세계가 벌벌 떪",
+        "author": "진필.",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
