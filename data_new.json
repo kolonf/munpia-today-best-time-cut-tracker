@@ -239614,5 +239614,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-14T16:30:33.755199+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 809,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609980",
+        "title": "톱스타 다 만들어줬는데 해고당했다",
+        "author": "늬파랑",
+        "view_count": 455,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607903",
+        "title": "비자금을 슈킹했는데 회사에서 짤림!",
+        "author": "오렌지깡",
+        "view_count": 229,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 115,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610629",
+        "title": "무림에서 돌아오니 요리가 너무 쉽다",
+        "author": "치즈케이끼",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610314",
+        "title": "해고당한 시설과장이 괴이를 잘 막음",
+        "author": "쓰고또쓰고",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609474",
+        "title": "사이버 렉카가 너무 유능함",
+        "author": "북골드",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611227",
+        "title": "전생을 기억하니, 퇴사합니다.",
+        "author": "컨트리쉐프",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607183",
+        "title": "재벌가 버린 자식이 너무 유능함",
+        "author": "흰이음",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602843",
+        "title": "우리집 성자님이 너무 위대함",
+        "author": "바람난나비",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
