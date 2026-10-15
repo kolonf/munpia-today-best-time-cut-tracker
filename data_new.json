@@ -244126,5 +244126,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-15T16:00:43.453585+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 856,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607318",
+        "title": "좌천당한 전산담당 김과장이 해고 되자 거래처가 따라옴",
+        "author": "결결결결",
+        "view_count": 450,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608703",
+        "title": "해고당한 영업 과장이 재벌집 사위가 됨",
+        "author": "사입삼촌",
+        "view_count": 228,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607307",
+        "title": "헬 난이도 무한 분신 술사",
+        "author": "돌탕",
+        "view_count": 127,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "594513",
+        "title": "천재 쌍둥이가 회귀를 숨김",
+        "author": "이데아IdeA",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607563",
+        "title": "퇴사당한 미국 천재 감정사에게 거물들이 몰려옴",
+        "author": "원일더",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609447",
+        "title": "전능의 예언파괴자가 종말을 막는 법",
+        "author": "레드풋",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610144",
+        "title": "국가권력급 귀환자의 힐링 식탁",
+        "author": "유세",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612397",
+        "title": "퇴사 직전 코인이 터졌다",
+        "author": "리얼탄산",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
