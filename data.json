@@ -406175,5 +406175,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-15T17:00:48.078669+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 3887,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598480",
+        "title": "선협에서 전생 각성후 우주문명을 씹어먹음",
+        "author": "멱월",
+        "view_count": 1760,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608131",
+        "title": "예술고 천재가 빌보드 1위를 숨김",
+        "author": "누리용",
+        "view_count": 1125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 853,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607514",
+        "title": "물려받은 미국 땅에서 온천으로 대박 났습니다",
+        "author": "풍기킹",
+        "view_count": 595,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "601625",
+        "title": "메카닉에 미친 북부 대공 막내아들",
+        "author": "아레직",
+        "view_count": 475,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608074",
+        "title": "대체불가능한 아카데미 SSS급 주임이 해고 당함",
+        "author": "[쥬시]",
+        "view_count": 395,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 열강을 찢음",
+        "author": "듀이문",
+        "view_count": 313,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604094",
+        "title": "해고 후 1000원 투자로 1000억 까지",
+        "author": "녹차티",
+        "view_count": 250,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 189,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
