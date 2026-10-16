@@ -251422,5 +251422,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-17T06:00:39.769905+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606891",
+        "title": "게임회사 캐리했더니 해고당하고 미래가 보이기 시작함",
+        "author": "콜라아이스",
+        "view_count": 779,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607481",
+        "title": "회귀한 천재 투수는 금강불괴",
+        "author": "Zorba",
+        "view_count": 425,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 257,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604482",
+        "title": "보자기를 주웠더니 수선이 너무 쉽다",
+        "author": "글청",
+        "view_count": 86,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610627",
+        "title": "국정원 공익이 전능의 눈을 가짐",
+        "author": "제스키위",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607809",
+        "title": "퇴물인 줄 알고 버렸는데 유일한 EX급이었다",
+        "author": "홍삼더덕",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603659",
+        "title": "악인들이 벼락을 맞고 죽기 시작했다",
+        "author": "287000",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613476",
+        "title": "회장에게 혼외자를 밝혔더니 인생이 달라졌다",
+        "author": "소수림",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
