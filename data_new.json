@@ -251710,5 +251710,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-17T07:30:33.055733+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "606891",
+        "title": "게임회사 캐리했더니 해고당하고 미래가 보이기 시작함",
+        "author": "콜라아이스",
+        "view_count": 853,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607948",
+        "title": "해고당한 알바는 신점으로 힐링 플랙스",
+        "author": "엠버그리스",
+        "view_count": 446,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609259",
+        "title": "나 혼자 무직인데 경험치 10,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 273,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 118,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611366",
+        "title": "김 대리가 퇴사하자 거래처가 뒤집어졌다",
+        "author": "맛있는글s",
+        "view_count": 92,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607521",
+        "title": "16세기 오스만 제국이 집착하는 노예는 퇴사가 마렵다",
+        "author": "잉크서점",
+        "view_count": 71,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610627",
+        "title": "국정원 공익이 전능의 눈을 가짐",
+        "author": "제스키위",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611538",
+        "title": "해고당한 외과 의사가 손만 대면 다 살림",
+        "author": "설흔(說痕)",
+        "view_count": 48,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606978",
+        "title": "귀환한 멸망급 마법사의 마법 스트리밍",
+        "author": "써케이",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606567",
+        "title": "꼭두각시 협회장이 미쳐 날뛴다",
+        "author": "NOZY",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
