@@ -411551,5 +411551,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-16T18:50:53.393132+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607282",
+        "title": "사표내고 나간 차장이 너무 유능함",
+        "author": "되새김질",
+        "view_count": 3810,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602717",
+        "title": "타이탄 파일럿 된 줄 모르고 무시당함",
+        "author": "활자오락",
+        "view_count": 1793,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608131",
+        "title": "예술고 천재가 빌보드 1위를 숨김",
+        "author": "누리용",
+        "view_count": 1249,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604686",
+        "title": "막내 동생이 음악을 너무 잘함",
+        "author": "공상소년",
+        "view_count": 897,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606436",
+        "title": "파워볼 당첨 후, 기업을 통째로 사버림",
+        "author": "86호",
+        "view_count": 609,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609980",
+        "title": "톱스타 다 만들어줬는데 해고당했다",
+        "author": "늬파랑",
+        "view_count": 449,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607634",
+        "title": "미국에서 관상봐줬더니 CIA가 집착함",
+        "author": "녹수(淥水)",
+        "view_count": 349,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606662",
+        "title": "퇴사 후 파워볼 당첨되고 철도 재벌이 됨",
+        "author": "미친재능",
+        "view_count": 273,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594270",
+        "title": "독립군 말단 병사가 패권국을 만든다",
+        "author": "주절주절",
+        "view_count": 215,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612803",
+        "title": "잘렸더니 만능 마법사인 걸 드러냄",
+        "author": "백수천",
+        "view_count": 158,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
