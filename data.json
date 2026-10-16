@@ -409919,5 +409919,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-16T11:00:47.411204+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "594643",
+        "title": "멸세 무림에 선협 시스템이 켜졌다",
+        "author": "안형찬",
+        "view_count": 3638,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 1901,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 1090,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 780,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604368",
+        "title": "외계어를 나만 알아듣자 전 세계가 집착함",
+        "author": "마리골드14",
+        "view_count": 565,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607948",
+        "title": "해고된 알바의 신점은 하루 세 번뿐, 회장님도 예외없음",
+        "author": "엠버그리스",
+        "view_count": 449,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607470",
+        "title": "거물급 프로듀서로 착각당했다",
+        "author": "쏘하이",
+        "view_count": 368,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "550818",
+        "title": "회귀 후 바로 3000억이 생겼다",
+        "author": "메인작가",
+        "view_count": 291,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "609116",
+        "title": "해고당한 만년 부장이 회귀함",
+        "author": "복면작가",
+        "view_count": 235,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 166,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
