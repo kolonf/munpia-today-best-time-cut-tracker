@@ -248446,5 +248446,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-16T14:30:33.128245+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608274",
+        "title": "방구석 정보상인데 전 세계가 집착함",
+        "author": "차재현",
+        "view_count": 813,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608039",
+        "title": "탑 공략해줬더니 해고당했다",
+        "author": "광별",
+        "view_count": 399,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608524",
+        "title": "환생 광마는 유유자적 살고 싶었다",
+        "author": "범미르",
+        "view_count": 208,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611366",
+        "title": "김 대리가 퇴사하자 거래처가 뒤집어졌다",
+        "author": "맛있는글s",
+        "view_count": 121,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610112",
+        "title": "인생 훈수 방송으로 초대박",
+        "author": "바람빛",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 68,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610868",
+        "title": "해고당한 신입사원이 사실은 만능 천재였다.",
+        "author": "크림뽕",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613254",
+        "title": "궤적을 보는 천재 기사",
+        "author": "neat",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612660",
+        "title": "좌천당했는데 주식 차트의 목소리가 들려",
+        "author": "만슬라",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
