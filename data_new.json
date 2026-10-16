@@ -249214,5 +249214,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-16T18:30:34.696723+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608304",
+        "title": "해고당하고 인수한 동네슈퍼로 1000조 플렉스",
+        "author": "테드K",
+        "view_count": 980,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608651",
+        "title": "회장 아들인 줄 모르고 해고당함",
+        "author": "이돌구",
+        "view_count": 397,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608274",
+        "title": "방구석 정보상인데 전 세계가 집착함",
+        "author": "차재현",
+        "view_count": 208,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 122,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609431",
+        "title": "SSS급 아이템으로 인생역전",
+        "author": "limkun",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610440",
+        "title": "퇴사한 김 과장에 전세계 화학업계가 집착함",
+        "author": "MaUna",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610989",
+        "title": "식품회사 대리를 해고하자 3천억 계약이 날아감",
+        "author": "핀셋",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612972",
+        "title": "김과장 해고하자 나라망함",
+        "author": ".로튼애플.",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612199",
+        "title": "궁합 보는 천재 작곡가인 줄 모르고 해고 당했다",
+        "author": "글로운",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "602843",
+        "title": "우리집 성자님이 너무 위대함",
+        "author": "바람난나비",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
