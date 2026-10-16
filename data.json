@@ -414047,5 +414047,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-17T06:30:38.608566+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605509",
+        "title": "운기조식하는 침술명의는 업계 최고임",
+        "author": "마늘생강",
+        "view_count": 3352,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 1776,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608039",
+        "title": "탑 공략해줬더니 해고당했다",
+        "author": "광별",
+        "view_count": 984,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604258",
+        "title": "미국 3대 복권에 당첨됐는데 한국에서 엔터사업함",
+        "author": "강현우",
+        "view_count": 734,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602852",
+        "title": "재벌집 망나니가 반도체 1황임",
+        "author": "백수원",
+        "view_count": 600,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604507",
+        "title": "해고당한 EX급 헌터가 세계최강",
+        "author": "루나티카",
+        "view_count": 435,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 차린 온천이 너무 잘됨",
+        "author": "힐링화원",
+        "view_count": 368,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 311,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 234,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605233",
+        "title": "국가에게 버림받은 헌터들을 내가 다 버렸다",
+        "author": "30센치작가",
+        "view_count": 179,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
