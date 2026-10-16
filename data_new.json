@@ -250558,5 +250558,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-17T01:30:32.050963+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610327",
+        "title": "반도체 수율의 핵심을 나만 알고 있는데 해고당함",
+        "author": "배고픈꼬미",
+        "view_count": 643,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607481",
+        "title": "회귀한 천재 투수는 금강불괴",
+        "author": "Zorba",
+        "view_count": 392,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 266,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609344",
+        "title": "해고당한 만렙 귀환자가 시골을 뒤집어 놓음",
+        "author": "곰슈",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610796",
+        "title": "아포쉘터 쫓겨나고 주상복합 각성함",
+        "author": "순살키친",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607698",
+        "title": "방어율 0점대 미국 천재 투수가 돌아왔다",
+        "author": "기린기린기",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607225",
+        "title": "은퇴당한 천재 피아니스트에게 연기는 너무 쉽다",
+        "author": "오징어금값",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608430",
+        "title": "색을 보는 야구천재",
+        "author": "상상(想像)",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611538",
+        "title": "해고당한 외과 의사가 손만 대면 다 살림",
+        "author": "설흔(說痕)",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611349",
+        "title": "내 리뷰 하나에 모든 업계가 매달림",
+        "author": "오천자",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
