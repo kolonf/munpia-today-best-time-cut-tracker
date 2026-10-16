@@ -248158,5 +248158,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-16T13:00:42.230375+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 830,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607948",
+        "title": "해고된 알바의 신점은 하루 세 번뿐, 회장님도 예외없음",
+        "author": "엠버그리스",
+        "view_count": 459,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 211,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 123,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610332",
+        "title": "이주임 성공기",
+        "author": "불량집사",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607470",
+        "title": "거물급 프로듀서로 착각당했다",
+        "author": "쏘하이",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610627",
+        "title": "국정원 공익이 전능의 눈을 가짐",
+        "author": "제스키위",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611026",
+        "title": "삼국지 회귀한 무신 마초",
+        "author": "골든라이언",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신선임",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612231",
+        "title": "국가권력급 디버프 마스터가 되었다",
+        "author": "무탈한",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
