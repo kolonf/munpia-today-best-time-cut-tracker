@@ -412607,5 +412607,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-16T23:51:32.095605+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608006",
+        "title": "해고당한 단장에게 러브콜이 쏟아짐",
+        "author": "밀렵",
+        "view_count": 3410,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "601232",
+        "title": "몸 좀 만져줬을 뿐인데 스타들이 내게 집착한다",
+        "author": "볼랑말랑",
+        "view_count": 1544,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606710",
+        "title": "역대급 퇴직금 받은 백수의 슬기로운 플렉스 생활",
+        "author": "꿈가득남",
+        "view_count": 911,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 621,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603795",
+        "title": "나만 오르는 주식이 보임",
+        "author": "백우랑",
+        "view_count": 505,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600875",
+        "title": "천마신교 서고지기는 재벌가 막둥이로 힐링합니다",
+        "author": "배소리",
+        "view_count": 385,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607673",
+        "title": "만년 과장이 죽은 회사 살려 먹음",
+        "author": "백원만s",
+        "view_count": 323,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608475",
+        "title": "해고당하고 힐링하려는데 신빨이 미친듯이 터짐",
+        "author": "박자까",
+        "view_count": 285,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605606",
+        "title": "마탑에 와플집을 오픈했더니, 헌터들이 줄을 선다",
+        "author": "예스안",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610672",
+        "title": "회장님 땜에 파혼했더니 사위삼아 실세만듦",
+        "author": "글로또",
+        "view_count": 147,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
