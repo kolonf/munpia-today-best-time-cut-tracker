@@ -249406,5 +249406,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-16T19:30:33.748463+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 779,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610256",
+        "title": "해고당한 주방장이 너무 유능함",
+        "author": "긍은긍은",
+        "view_count": 329,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 차린 온천이 너무 잘됨",
+        "author": "힐링화원",
+        "view_count": 205,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 127,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609889",
+        "title": "선협에서 괴이를 사냥함",
+        "author": "길마",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611538",
+        "title": "해고당한 외과 의사가 손만 대면 다 살림",
+        "author": "설흔(說痕)",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610211",
+        "title": "파워볼 1조로 만든 액션 영화가 대박남",
+        "author": "마개조",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607137",
+        "title": "해고당하고 미국 동물원을 샀는데 사자가 말을 걸었다",
+        "author": "운향림",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612705",
+        "title": "700억 생기고 망한 휴게소가 대박남",
+        "author": "야간커피",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
