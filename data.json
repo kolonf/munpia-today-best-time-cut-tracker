@@ -415487,5 +415487,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-17T13:00:42.112368+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602717",
+        "title": "타이탄 파일럿 된 줄 모르고 무시당함",
+        "author": "활자오락",
+        "view_count": 3018,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598480",
+        "title": "선협에서 전생 각성후 우주문명을 씹어먹음",
+        "author": "멱월",
+        "view_count": 1546,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 1043,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603782",
+        "title": "법으로는 안 될 것 같아 마공으로 때려죽임",
+        "author": "단팥빵소년",
+        "view_count": 808,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605707",
+        "title": "나 혼자 대마법사라 인생 꿀빱니다",
+        "author": "케이브",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608012",
+        "title": "해고당한 강화사 아빠가 탑에선 칼퇴합니다",
+        "author": "루체른",
+        "view_count": 441,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 334,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 269,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604094",
+        "title": "해고 후 1000원 투자로 1000억 까지",
+        "author": "녹차티",
+        "view_count": 209,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610555",
+        "title": "쫓겨난 방송작가가 자꾸 잘됨",
+        "author": "김한가",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
