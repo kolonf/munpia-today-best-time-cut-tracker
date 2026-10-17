@@ -415583,5 +415583,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-17T13:30:33.236525+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598965",
+        "title": "국가에 버림받은 천재 개발자가 특이점을 만듬",
+        "author": "한혜주",
+        "view_count": 2877,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602643",
+        "title": "아포칼립스인데 미군기지에서 UFO를 주웠다",
+        "author": "참숯닭구이",
+        "view_count": 1455,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608304",
+        "title": "해고당하고 인수한 동네슈퍼로 1000조 플렉스",
+        "author": "테드K",
+        "view_count": 983,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603999",
+        "title": "우주에서 나 홀로 7000경으로 제국 건설",
+        "author": "글난타",
+        "view_count": 733,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603375",
+        "title": "EX급 수복 스킬로 다 고침",
+        "author": "긍정론적",
+        "view_count": 499,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609212",
+        "title": "해고당한 뒤 실리콘밸리에서 2조 투자받음",
+        "author": "시공전사",
+        "view_count": 408,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609343",
+        "title": "해고당한 천재 공학자가 나노 머신을 얻음",
+        "author": "이나르™",
+        "view_count": 320,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608898",
+        "title": "선협에서 나 혼자만 특성 수집",
+        "author": "귤별",
+        "view_count": 255,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608761",
+        "title": "해고당한 외과 의사가 너무 유능함",
+        "author": "옆집고래",
+        "view_count": 199,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 135,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
