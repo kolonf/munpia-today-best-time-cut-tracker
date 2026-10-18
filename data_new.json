@@ -260062,5 +260062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-19T03:30:32.389758+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 767,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609841",
+        "title": "놀고싶은데 정조가 자꾸 집착함",
+        "author": "고스름도치",
+        "view_count": 402,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610284",
+        "title": "해고 후 퇴직금으로 SS급 능력을 받았다",
+        "author": "기획자K",
+        "view_count": 207,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610100",
+        "title": "삼국지, 환생했더니 조조가 나만 예뻐함",
+        "author": "잠룡.",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608992",
+        "title": "해고당한 날, 재벌 3세의 남편이 되었다",
+        "author": "칠팔",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611651",
+        "title": "해고된 보스가 탑을 등반하기 시작했다",
+        "author": "육아천마급",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610332",
+        "title": "이주임 성공기",
+        "author": "불량집사",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612661",
+        "title": "랭킹 1위 키웠더니 해고당함",
+        "author": "랜디본즈",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612399",
+        "title": "유배지로 좌천된 공무원이 너무 유능함",
+        "author": "몬도리아",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613676",
+        "title": "알 카포네가 다음 화를 내놓으라며 총을 겨눴다",
+        "author": "맛김",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
