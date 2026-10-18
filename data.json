@@ -420959,5 +420959,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-18T13:35:30.155597+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600130",
+        "title": "7억년 앞선 외계 기술로 탑 농락",
+        "author": "땡시기",
+        "view_count": 2922,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "592051",
+        "title": "미국 3천억 파워볼 당첨자인데 빈 통장으로 회귀함",
+        "author": "기신",
+        "view_count": 1512,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 1042,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606751",
+        "title": "탑에도 농어촌전형이 있나요?",
+        "author": "시온유",
+        "view_count": 745,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607514",
+        "title": "물려받은 미국 땅에서 온천으로 대박 났습니다",
+        "author": "풍기킹",
+        "view_count": 513,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609024",
+        "title": "낙하산인 줄 모르고 좌천당함",
+        "author": "왕십리글쟁이",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608898",
+        "title": "선협에서 나 혼자만 특성 수집",
+        "author": "귤별",
+        "view_count": 326,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607634",
+        "title": "미국에서 관상봐줬더니 CIA가 집착함",
+        "author": "녹수(淥水)",
+        "view_count": 252,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 179,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 131,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
