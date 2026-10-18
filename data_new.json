@@ -259486,5 +259486,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-19T00:30:31.770130+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608304",
+        "title": "해고당하고 인수한 동네슈퍼로 1000조 플렉스",
+        "author": "테드K",
+        "view_count": 613,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607594",
+        "title": "나 혼자 제작 스킬로 탑 밖에서 꿀빤다",
+        "author": "끌떡",
+        "view_count": 370,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610112",
+        "title": "인생 훈수 방송으로 초대박",
+        "author": "바람빛",
+        "view_count": 220,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611366",
+        "title": "김 대리가 퇴사하자 거래처가 뒤집어졌다",
+        "author": "맛있는글s",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610501",
+        "title": "배신당할 줄 알고 특허를 숨김",
+        "author": "골방개발자",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611651",
+        "title": "해고된 보스가 탑을 등반하기 시작했다",
+        "author": "육아천마급",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613217",
+        "title": "해고당한 서버관리자가 업계를 씹어먹음",
+        "author": "게로데",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613173",
+        "title": "통나무 들어준 줄도 모르고 협회에서 해고당했다",
+        "author": "붉은냥이",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613124",
+        "title": "쫓겨난 특허 천재가 파워볼로 전 회사를 삼켰다",
+        "author": "야바위꾼",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612125",
+        "title": "운명을 부수는 게임디렉터",
+        "author": "나일함",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
