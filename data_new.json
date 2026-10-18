@@ -258334,5 +258334,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-18T18:30:31.935860+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608475",
+        "title": "해고당하고 힐링하려는데 신빨이 미친듯이 터짐",
+        "author": "박자까",
+        "view_count": 666,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609474",
+        "title": "사이버 렉카가 너무 유능함",
+        "author": "북골드",
+        "view_count": 329,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610112",
+        "title": "인생 훈수 방송으로 초대박",
+        "author": "바람빛",
+        "view_count": 158,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612381",
+        "title": "해고, 파혼 당한 후 재벌가 손자가 되었다",
+        "author": "yespro",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607503",
+        "title": "인간불신 귀환자는 탑에 산다",
+        "author": "AKARU",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611530",
+        "title": "퇴사한 의사가 피부과 최고였다",
+        "author": "미친재능",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609687",
+        "title": "삼국지, 유비 사형제",
+        "author": "칠팔",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613175",
+        "title": "재벌집 무당 사위",
+        "author": "전장범",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611651",
+        "title": "해고된 보스가 탑을 등반하기 시작했다",
+        "author": "육아천마급",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
