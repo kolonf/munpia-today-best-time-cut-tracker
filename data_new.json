@@ -257854,5 +257854,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-18T16:00:38.245069+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610935",
+        "title": "국정원 막내는 세계 최고 해커",
+        "author": "광산김가",
+        "view_count": 640,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608703",
+        "title": "해고당한 영업 과장이 재벌집 사위가 됨",
+        "author": "사입삼촌",
+        "view_count": 358,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609821",
+        "title": "퇴사당한 김 과장이 너무 유능함",
+        "author": "나없고",
+        "view_count": 160,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611971",
+        "title": "나폴레옹 아들이 정치를 너무 잘함",
+        "author": "브리스트",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607375",
+        "title": "퇴사후 수익률 9,999,900 ％",
+        "author": "라그랑쥬",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607137",
+        "title": "해고당하고 미국 동물원을 샀는데 사자가 말을 걸었다",
+        "author": "운향림",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612232",
+        "title": "해고당한 유럽 유물 감정사는 업계 최고였다",
+        "author": "기린기린기",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609703",
+        "title": "미국에서 소방관이 되었더니 거물들이 몰려옴",
+        "author": "피엠피1",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613453",
+        "title": "전생이 신의인데 해고당함",
+        "author": "카피닌자",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
