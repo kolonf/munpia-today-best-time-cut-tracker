@@ -261022,5 +261022,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-19T08:30:30.340018+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 892,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609841",
+        "title": "놀고싶은데 정조가 자꾸 집착함",
+        "author": "고스름도치",
+        "view_count": 434,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610112",
+        "title": "인생 훈수 방송으로 초대박",
+        "author": "바람빛",
+        "view_count": 260,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610523",
+        "title": "시골똥개랑 힐링하려다가 재벌 됨",
+        "author": "순금사과",
+        "view_count": 115,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612701",
+        "title": "길드에서 해고당하자 성좌들이 채널을 옮겼다",
+        "author": "유명한작가",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613941",
+        "title": "나를 해고하자 1조짜리 공장이 멈췄다",
+        "author": "배출구",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613468",
+        "title": "종결 파티 짐꾼이 회귀했는데, 인벤토리가 그대로임",
+        "author": "주차장차장",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613075",
+        "title": "재벌가 손녀를 범했다",
+        "author": "레드초콜릿",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613124",
+        "title": "쫓겨난 특허 천재가 파워볼로 전 회사를 삼켰다",
+        "author": "야바위꾼",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610196",
+        "title": "천마의 안방에서 금서를 훔쳤다",
+        "author": "청염(靑焰)",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
