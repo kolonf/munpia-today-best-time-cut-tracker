@@ -429311,5 +429311,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-20T04:30:40.331380+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605893",
+        "title": "해고 당한 과장이 업계를 뒤집어 놓음.",
+        "author": "글과달",
+        "view_count": 3220,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 1654,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 1070,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606891",
+        "title": "해고당한 게임회사 팀장이 업계 최고였다",
+        "author": "콜라아이스",
+        "view_count": 733,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599278",
+        "title": "외계 쓰레기로 특허 재벌",
+        "author": "김탐식",
+        "view_count": 548,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "604507",
+        "title": "해고당한 EX급 헌터가 세계최강",
+        "author": "루나티카",
+        "view_count": 458,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612381",
+        "title": "해고, 파혼 당한 후 재벌가 손자가 되었다",
+        "author": "yespro",
+        "view_count": 344,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610208",
+        "title": "퇴사 대란 IMF 전에 한국을 공매도 쳤다.",
+        "author": "일환(溢環)",
+        "view_count": 286,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 230,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605606",
+        "title": "마탑에 와플집을 오픈했더니, 헌터들이 줄을 선다",
+        "author": "예스안",
+        "view_count": 185,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
