@@ -263806,5 +263806,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-19T23:00:41.205587+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610256",
+        "title": "해고당한 주방장이 너무 유능함",
+        "author": "긍은긍은",
+        "view_count": 598,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608401",
+        "title": "국가에게 버려진 마법사를 전세계가 집착함",
+        "author": "글써랑",
+        "view_count": 326,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611223",
+        "title": "거물들이 집착하는 천재가 되었다",
+        "author": "전장범",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613941",
+        "title": "나를 해고하자 1조짜리 공장이 멈췄다",
+        "author": "배출구",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613486",
+        "title": "해고당한 길드 지원팀장의 앞마당에 1000억 광산이터짐",
+        "author": "갓뎀로취",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612701",
+        "title": "길드에서 해고당하자 성좌들이 집착함",
+        "author": "유명한작가",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614168",
+        "title": "멸망 D-30, 쉘터담당관이 해고당함",
+        "author": "쓰고또쓰고",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608992",
+        "title": "해고당한 날, 재벌 3세의 남편이 되었다",
+        "author": "칠팔",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612501",
+        "title": "해고당한 마법사가 너무 유능함",
+        "author": "한접시",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
