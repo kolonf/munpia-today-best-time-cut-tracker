@@ -428255,5 +428255,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-19T23:30:42.228052+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 2844,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607392",
+        "title": "핵심 특허가 내 건 줄 모르고 해고당함",
+        "author": "탄산수영장",
+        "view_count": 1661,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608730",
+        "title": "버려진 특성을 주웠더니 SSS급 토벌대원으로 각성함",
+        "author": "배불루",
+        "view_count": 990,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 660,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604855",
+        "title": "치트트레이너 쓰는 수선전",
+        "author": "망상만함",
+        "view_count": 486,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608769",
+        "title": "1997, 미래시로 사업했더니 1조 달러 재벌이 되었다",
+        "author": "빈명",
+        "view_count": 415,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599501",
+        "title": "본 상담은 기억 소거 대상입니다",
+        "author": "첨G",
+        "view_count": 325,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 멍게가 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 271,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598840",
+        "title": "운석충돌을 막는 수선자가 되었다",
+        "author": "맛소금타로",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610440",
+        "title": "퇴사한 김 과장에 전세계 화학업계가 집착함",
+        "author": "MaUna",
+        "view_count": 152,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
