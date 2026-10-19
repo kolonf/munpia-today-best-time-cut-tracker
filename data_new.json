@@ -265150,5 +265150,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-20T06:30:32.624215+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 747,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609259",
+        "title": "나 혼자 무직인데 경험치 10,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 374,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 내 밭이 역세권이 됐다",
+        "author": "농어촌작가",
+        "view_count": 221,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604482",
+        "title": "선협에서 나혼자만 수선하는 법",
+        "author": "글청",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613544",
+        "title": "S급 헌터들이 내 소환수인 걸 모르고 버림받음.",
+        "author": "제로필터",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610144",
+        "title": "국가권력급 귀환자의 힐링 식탁",
+        "author": "유세",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612061",
+        "title": "해고당한 날부터 돈이 쏟아진다",
+        "author": "신수목",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612710",
+        "title": "실직 위기 영양사, S급들이 놔주질 않는다",
+        "author": "범린",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613499",
+        "title": "민생지원금 뺏기고 3천억 상속받음",
+        "author": "환승이직왕",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613678",
+        "title": "퇴사당했는데 미국 파워볼 당첨되고 투자천재로 착각당했다",
+        "author": "늬파랑",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
