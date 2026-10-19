@@ -427391,5 +427391,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-19T19:30:39.694209+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608006",
+        "title": "해고당한 단장에게 러브콜이 쏟아짐",
+        "author": "밀렵",
+        "view_count": 3891,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사는 모든 것이 쉽다",
+        "author": "자몽라임",
+        "view_count": 2099,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 1390,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 895,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612551",
+        "title": "재무팀 핵심 에이스가 해고당하자 회사가 파산 위기",
+        "author": "웹소툰",
+        "view_count": 601,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610284",
+        "title": "해고 후 퇴직금으로 SS급 능력을 받았다",
+        "author": "기획자K",
+        "view_count": 427,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607570",
+        "title": "고1로 회귀한 18년 차 개미",
+        "author": "딸과함께",
+        "view_count": 337,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605799",
+        "title": "선협에서 주인공을 죽이고 시작한다",
+        "author": "한판만두",
+        "view_count": 206,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606571",
+        "title": "해고당한 강 팀장을 업계에서 집착함",
+        "author": "정현공원",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
