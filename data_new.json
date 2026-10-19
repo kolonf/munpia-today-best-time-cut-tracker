@@ -263230,5 +263230,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-19T20:00:40.657633+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608651",
+        "title": "회장 아들인 줄 모르고 해고당함",
+        "author": "이돌구",
+        "view_count": 614,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609766",
+        "title": "망한 한국에서 나혼자 탑등반함",
+        "author": "쪼레벨",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 156,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612139",
+        "title": "금메달 땄으니 은퇴하고 투수합니다",
+        "author": "페디아",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613891",
+        "title": "미국에 버림받은 생체AI 블랙요원",
+        "author": "홈스탠바이",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612231",
+        "title": "국가권력급 디버프 마스터가 되었다",
+        "author": "무탈한",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612660",
+        "title": "좌천당했는데 주식 차트의 목소리가 들려",
+        "author": "만슬라",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613678",
+        "title": "퇴사당했는데 미국 파워볼 당첨되고 투자천재로 착각당했다",
+        "author": "늬파랑",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603772",
+        "title": "수명은 무한, 모든 능력치는 최대",
+        "author": "태양진",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
