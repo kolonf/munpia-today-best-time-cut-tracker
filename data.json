@@ -432191,5 +432191,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-20T18:30:37.375896+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602690",
+        "title": "방구석 구세주가 기적을 잘 팖",
+        "author": "필빛",
+        "view_count": 3869,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610327",
+        "title": "반도체 수율의 핵심을 나만 알고 있는데 해고당함",
+        "author": "배고픈꼬미",
+        "view_count": 1886,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 1109,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 779,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610256",
+        "title": "해고당한 주방장이 너무 유능함",
+        "author": "긍은긍은",
+        "view_count": 542,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 내 밭이 역세권이 됐다",
+        "author": "농어촌작가",
+        "view_count": 398,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 138,
+        "novel_id": "609809",
+        "title": "소련이 무너질 때 모스크바에 있었다",
+        "author": "맛김",
+        "view_count": 347,
+        "substituted": true
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 251,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603627",
+        "title": "천금상단 막내아들은 천하를 산다",
+        "author": "검무사랑이",
+        "view_count": 125,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
