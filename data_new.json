@@ -269278,5 +269278,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-21T04:30:36.074855+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 594,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610265",
+        "title": "아포칼립스 세계에서 등대가 너무 안전함",
+        "author": "힐링화원",
+        "view_count": 298,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610660",
+        "title": "해고당한 유물 감정사에게 회장님들이 줄섬",
+        "author": "원일더",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613544",
+        "title": "S급 헌터들이 내 소환수인 걸 모르고 버림받음.",
+        "author": "제로필터",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613000",
+        "title": "미국 노숙자인데 딸이 생김",
+        "author": "용린龍鱗",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611515",
+        "title": "해고당하기 전에 싹 다 해고시킴",
+        "author": "한번써봄",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611831",
+        "title": "로또1등 당첨돼 자연인으로 사는데 돈이 미친 듯 불어남",
+        "author": "루지뇨로",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612115",
+        "title": "미국에서 의료보험 만들었더니 집착당함",
+        "author": "까막커",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611132",
+        "title": "나, 트럼프가 되었다!",
+        "author": "배천",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
