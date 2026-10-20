@@ -269566,5 +269566,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-21T06:00:42.882615+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 600,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610265",
+        "title": "아포칼립스 세계에서 등대가 너무 안전함",
+        "author": "힐링화원",
+        "view_count": 304,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610660",
+        "title": "해고당한 유물 감정사에게 회장님들이 줄섬",
+        "author": "원일더",
+        "view_count": 155,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613544",
+        "title": "S급 헌터들이 내 소환수인 걸 모르고 버림받음.",
+        "author": "제로필터",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613891",
+        "title": "미국에 버림받은 생체AI 블랙요원",
+        "author": "홈스탠바이",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610911",
+        "title": "16세기 말, 대영제국에 웹소설을 풀었다",
+        "author": "류도율",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612878",
+        "title": "진짜 영구기관인 줄 모르고 사람들이 사기꾼 취급함",
+        "author": "크로노크",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612091",
+        "title": "국정원에 천마가 들어왔다",
+        "author": "proveme",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609447",
+        "title": "전능한 퇴사자가 종말을 막는 법",
+        "author": "레드풋",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613539",
+        "title": "EX급 불사 스킬로 탑 등반이 맛있다",
+        "author": "멍글멍글",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
