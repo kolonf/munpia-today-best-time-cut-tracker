@@ -267550,5 +267550,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-20T19:30:35.452123+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607476",
+        "title": "징집된 우주 해병은 탑 등반이 쉽다",
+        "author": "[동주]",
+        "view_count": 571,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 240,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609889",
+        "title": "선협에서 괴이를 사냥함",
+        "author": "길마",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605228",
+        "title": "빙의 후 안부낙도했더니 불충인사",
+        "author": "Money뭐니",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609680",
+        "title": "아이돌 다 띄워줬더니 해고당함",
+        "author": "승천자",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612097",
+        "title": "퇴사 후 요트 타고 힐링합니다",
+        "author": "그레이c",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614016",
+        "title": "미국에서 은퇴당한 헌터가 귀촌 후 개꿀빱니다",
+        "author": "테르치",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612627",
+        "title": "귀환한 빌런에게 전세계가 벌벌 떪",
+        "author": "진필.",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신선임",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612754",
+        "title": "전능의 AI를 얻었더니 경찰이 너무 쉽다",
+        "author": "진강™",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
