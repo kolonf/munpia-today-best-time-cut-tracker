@@ -431231,5 +431231,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-20T13:52:16.193446+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 3231,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 1571,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 1012,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607570",
+        "title": "고1로 회귀한 18년 차 개미",
+        "author": "딸과함께",
+        "view_count": 667,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609841",
+        "title": "놀고싶은데 정조가 자꾸 집착함",
+        "author": "고스름도치",
+        "view_count": 533,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "602852",
+        "title": "재벌 때려치고 반도체 독점합니다",
+        "author": "백수원",
+        "view_count": 418,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 내 밭이 역세권이 됐다",
+        "author": "농어촌작가",
+        "view_count": 329,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604051",
+        "title": "구한말 핵잠이 일본에 핵을 떨굼",
+        "author": "정사부",
+        "view_count": 265,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 차린 온천이 너무 잘됨",
+        "author": "힐링화원",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 148,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
