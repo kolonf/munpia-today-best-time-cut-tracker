@@ -430655,5 +430655,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-20T11:00:43.293514+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604548",
+        "title": "부도 위기 재벌그룹의 회장이 되었다",
+        "author": "홈스탠바이",
+        "view_count": 3393,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606710",
+        "title": "역대급 퇴직금 받은 백수의 슬기로운 플렉스 생활",
+        "author": "꿈가득남",
+        "view_count": 2026,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602643",
+        "title": "아포칼립스인데 미군기지에서 UFO를 주웠다",
+        "author": "참숯닭구이",
+        "view_count": 1171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "606826",
+        "title": "좌천 당한 실장이 너무 유능함",
+        "author": "뇽뇽e",
+        "view_count": 817,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 572,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "588695",
+        "title": "청동기 시대 강대국에 떨어졌다",
+        "author": "havoc",
+        "view_count": 459,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 353,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605144",
+        "title": "선협에서 설정집으로 수선이 너무 쉽다",
+        "author": "한판만두",
+        "view_count": 295,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 233,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 163,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
