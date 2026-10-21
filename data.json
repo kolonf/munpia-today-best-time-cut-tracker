@@ -439103,5 +439103,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T03:00:49.965303+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604234",
+        "title": "은퇴했는데 반로환동",
+        "author": "김태평",
+        "view_count": 2852,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609590",
+        "title": "해고당한 김과장이 회장님의 혼외자였다",
+        "author": "어나인",
+        "view_count": 1428,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598455",
+        "title": "나 혼자만 우주 전함으로 행성 개척",
+        "author": "천강™",
+        "view_count": 1090,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608665",
+        "title": "멸망한 세상의 소드마스터로 사는 법",
+        "author": "글럼프",
+        "view_count": 673,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609841",
+        "title": "놀고싶은데 정조가 자꾸 집착함",
+        "author": "고스름도치",
+        "view_count": 470,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 370,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610796",
+        "title": "아포쉘터 쫓겨나고 주상복합 각성함",
+        "author": "순살키친",
+        "view_count": 310,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "550818",
+        "title": "회귀 후 바로 3000억이 생겼다",
+        "author": "메인작가",
+        "view_count": 247,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609095",
+        "title": "해고당한 부장판사는 속마음이 들림",
+        "author": "서리문",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606262",
+        "title": "흑도 칼잡이가 장원급제함!",
+        "author": "오렌지깡",
+        "view_count": 140,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
