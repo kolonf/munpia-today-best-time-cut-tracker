@@ -271390,5 +271390,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-21T15:30:33.423860+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 666,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 157,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612660",
+        "title": "좌천당했는데 주식 차트의 목소리가 들려",
+        "author": "만슬라",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611026",
+        "title": "삼국지 회귀한 무신 마초",
+        "author": "골든라이언",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614041",
+        "title": "나 혼자 즉사기 딜러인데 해고당함",
+        "author": "백수천",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609687",
+        "title": "삼국지, 유비 사형제",
+        "author": "칠팔",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614016",
+        "title": "미국에서 은퇴당한 헌터가 귀촌 후 개꿀빱니다",
+        "author": "테르치",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609705",
+        "title": "야구를 그만둔 날, 오른팔에 내공이 흐르기 시작했다",
+        "author": "아우렐드",
+        "view_count": 33,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
