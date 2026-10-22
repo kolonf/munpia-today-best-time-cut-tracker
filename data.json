@@ -441599,5 +441599,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T15:00:46.493433+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607997",
+        "title": "해고당한 짐꾼은 S급 버퍼였다",
+        "author": "소래담",
+        "view_count": 3182,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603795",
+        "title": "나만 오르는 주식이 보임",
+        "author": "백우랑",
+        "view_count": 1864,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596475",
+        "title": "삼국지. 이번 생엔 유비를 개처럼 부려먹겠다",
+        "author": "運月",
+        "view_count": 969,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 663,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610629",
+        "title": "귀환한 검신이 요리로 힐링함",
+        "author": "치즈케이끼",
+        "view_count": 516,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 내 밭이 역세권이 됐다",
+        "author": "농어촌작가",
+        "view_count": 398,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 340,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604051",
+        "title": "구한말 핵잠이 일본에 핵을 떨굼",
+        "author": "정사부",
+        "view_count": 276,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607496",
+        "title": "전 프로가 유망주인 척 함",
+        "author": "엠보돌",
+        "view_count": 220,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 143,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
