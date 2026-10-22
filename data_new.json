@@ -275230,5 +275230,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T11:30:30.919238+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612551",
+        "title": "재무팀 핵심 에이스가 해고당하자 회사가 파산 위기",
+        "author": "웹소툰",
+        "view_count": 711,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612883",
+        "title": "국가한테 해고 당하고 EX급 농사꾼으로 각성함",
+        "author": "나는뉴비",
+        "view_count": 336,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612972",
+        "title": "김과장 해고하자 나라망함",
+        "author": ".로튼애플.",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612102",
+        "title": "길드에서 퇴출당했더니 EX급 대장장이로 각성함",
+        "author": "김산본",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613584",
+        "title": "해고당하고 무한히 성장하는 1조 셸터를 얻었다",
+        "author": "복숭아커피",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612889",
+        "title": "해고당한 작곡가가 업계 깡패임",
+        "author": "백시헌",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613124",
+        "title": "쫓겨난 특허 천재가 파워볼로 전 회사를 삼켰다",
+        "author": "야바위꾼",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613628",
+        "title": "해고당했는데 전 국민이 내 팬임",
+        "author": "마인부유",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613468",
+        "title": "종결 파티 짐꾼이 회귀했는데, 인벤토리가 그대로임",
+        "author": "주차장차장",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
