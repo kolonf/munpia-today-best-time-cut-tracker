@@ -441887,5 +441887,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T16:30:37.113266+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607997",
+        "title": "해고당한 짐꾼은 S급 버퍼였다",
+        "author": "소래담",
+        "view_count": 3423,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 1746,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 975,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 687,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611507",
+        "title": "구멍 파기가 사기 스킬인 줄 나도 몰랐음",
+        "author": "BBing",
+        "view_count": 545,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608858",
+        "title": "변리사를 해고하자 5천억 특허가 날아감",
+        "author": "간딴",
+        "view_count": 421,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613776",
+        "title": "협회야 배신 고맙다. 탑에서 잘먹고 잘 살게.",
+        "author": "우노.",
+        "view_count": 282,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601240",
+        "title": "육사출신 전술천재, 만주패왕이 되다",
+        "author": "백십칠",
+        "view_count": 224,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607570",
+        "title": "고1로 회귀한 18년 차 개미",
+        "author": "딸과함께",
+        "view_count": 162,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
