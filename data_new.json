@@ -279070,5 +279070,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-23T08:00:43.737648+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611487",
+        "title": "몬스터 해체 9년차는 한 칼에 끝냄",
+        "author": "런타임",
+        "view_count": 611,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610208",
+        "title": "퇴사 대란 IMF 전에 한국을 공매도 쳤다.",
+        "author": "일환(溢環)",
+        "view_count": 363,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607137",
+        "title": "해고당하고 미국 동물원을 샀는데 사자가 말을 걸었다",
+        "author": "운향림",
+        "view_count": 222,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612199",
+        "title": "궁합 보는 프로듀서",
+        "author": "글로운",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610144",
+        "title": "국가권력급 귀환자의 힐링 식탁",
+        "author": "유세",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612501",
+        "title": "해고당한 마법사가 너무 유능함",
+        "author": "한접시",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612111",
+        "title": "요리만 했는데 자꾸 합스부르크가 떡상한다",
+        "author": "가배치",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612397",
+        "title": "퇴사하려다 회사를 사버림",
+        "author": "리얼탄산",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615432",
+        "title": "해고당한 항공사 기장이 업계 최고",
+        "author": "백원만s",
+        "view_count": 35,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
