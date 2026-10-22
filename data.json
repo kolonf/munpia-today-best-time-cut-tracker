@@ -441023,5 +441023,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T12:30:38.851201+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605629",
+        "title": "나 혼자 만능 서포터인데 퇴사당함",
+        "author": "백수천",
+        "view_count": 3173,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609766",
+        "title": "망한 한국에서 나혼자 탑등반함",
+        "author": "쪼레벨",
+        "view_count": 1675,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600910",
+        "title": "선협에서 약을 너무 잘 씀",
+        "author": "오구진",
+        "view_count": 1004,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 633,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610629",
+        "title": "귀환한 검신이 요리로 힐링함",
+        "author": "치즈케이끼",
+        "view_count": 475,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 400,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610660",
+        "title": "해고당한 유물 감정사에게 회장님들이 줄섬",
+        "author": "원일더",
+        "view_count": 324,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606644",
+        "title": "해고당했는데 재벌가 데릴사위",
+        "author": "남호원",
+        "view_count": 265,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 205,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613941",
+        "title": "나를 해고하자 1조짜리 공장이 멈췄다",
+        "author": "배출구",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
