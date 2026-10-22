@@ -440255,5 +440255,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T09:00:17.782276+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604548",
+        "title": "부도 위기 재벌그룹의 회장이 되었다",
+        "author": "홈스탠바이",
+        "view_count": 3269,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 1892,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600622",
+        "title": "레전드 걸그룹 멤버의 남편이 되었다",
+        "author": "무성(無聲)",
+        "view_count": 1215,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600910",
+        "title": "선협에서 약을 너무 잘 씀",
+        "author": "오구진",
+        "view_count": 784,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609841",
+        "title": "놀고싶은데 정조가 자꾸 집착함",
+        "author": "고스름도치",
+        "view_count": 528,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610629",
+        "title": "귀환한 검신이 요리로 힐링함",
+        "author": "치즈케이끼",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 347,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 285,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609095",
+        "title": "해고당한 부장판사는 속마음이 들림",
+        "author": "서리문",
+        "view_count": 241,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607137",
+        "title": "해고당하고 미국 동물원을 샀는데 사자가 말을 걸었다",
+        "author": "운향림",
+        "view_count": 160,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
