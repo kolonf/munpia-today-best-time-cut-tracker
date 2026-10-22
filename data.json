@@ -441311,5 +441311,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T13:48:18.809650+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광을 빙하기 벙커로 바꿈",
+        "author": "과묵한구리",
+        "view_count": 3183,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609766",
+        "title": "망한 한국에서 나혼자 탑등반함",
+        "author": "쪼레벨",
+        "view_count": 1773,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608475",
+        "title": "해고당하고 힐링하려는데 신빨이 미친듯이 터짐",
+        "author": "박자까",
+        "view_count": 897,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "597872",
+        "title": "전역 후, 유럽에서 축구 선수가 되었다",
+        "author": "현진현우",
+        "view_count": 620,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611507",
+        "title": "구멍 파기가 사기 스킬인 줄 나도 몰랐음",
+        "author": "BBing",
+        "view_count": 484,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 378,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612539",
+        "title": "육아에서 퇴사했더니 100억이 입금됐다.",
+        "author": "한도현",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "612837",
+        "title": "전쟁이 싫어서 국방력에 올인했더니 전 세계가 벌벌 떰",
+        "author": "고락",
+        "view_count": 256,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607496",
+        "title": "전 프로가 유망주인 척 함",
+        "author": "엠보돌",
+        "view_count": 201,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609431",
+        "title": "SSS급 아이템으로 인생역전",
+        "author": "limkun",
+        "view_count": 133,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
