@@ -274942,5 +274942,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T10:00:41.095207+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610935",
+        "title": "국정원 막내는 세계 최고 해커",
+        "author": "광산김가",
+        "view_count": 632,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 316,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 141,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612972",
+        "title": "김과장 해고하자 나라망함",
+        "author": ".로튼애플.",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611324",
+        "title": "나 혼자 EX급 웨펀마스터인데 해고당함",
+        "author": "한생한사",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613476",
+        "title": "혼외자가 1000조를 벌었다",
+        "author": "소수림",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609447",
+        "title": "전능한 퇴사자가 종말을 막는 법",
+        "author": "레드풋",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613124",
+        "title": "쫓겨난 특허 천재가 파워볼로 전 회사를 삼켰다",
+        "author": "야바위꾼",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613628",
+        "title": "해고당했는데 전 국민이 내 팬임",
+        "author": "마인부유",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611103",
+        "title": "퇴사당한 매니저가 타로점으로, 연예계를 씹어 먹음",
+        "author": "풀leaf",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
