@@ -277054,5 +277054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-22T21:00:41.952375+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610835",
+        "title": "해고당한 탱커는 업계 최고",
+        "author": "산타클라스",
+        "view_count": 551,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608992",
+        "title": "해고당한 날, 재벌 3세의 남편이 되었다",
+        "author": "칠팔",
+        "view_count": 299,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609740",
+        "title": "소드마스터에 올랐는데 가문에서 쫓겨났다",
+        "author": "크림뽕",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613175",
+        "title": "재벌집 무당 사위",
+        "author": "전장범",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614913",
+        "title": "좌천당한 김팀장이 업계 최고였다",
+        "author": "배추나무",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612653",
+        "title": "대영제국 검은머리 한의사",
+        "author": "글거북.",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610871",
+        "title": "다섯 살 천재는 바이올린이 너무 쉬움",
+        "author": "과로사",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613453",
+        "title": "전생이 신의인데 해고당함",
+        "author": "카피닌자",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612123",
+        "title": "생활용 부적인데 성능이 미쳤다",
+        "author": "하우트",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611954",
+        "title": "11살 지치지 않는 천재가 세계기록을 씹어먹음",
+        "author": "관우(觀雨)",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
