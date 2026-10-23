@@ -281182,5 +281182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-23T19:30:38.527927+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 차린 온천이 너무 잘됨",
+        "author": "힐링화원",
+        "view_count": 649,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 298,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "604482",
+        "title": "수선 천재가 기연을 독식하는 법",
+        "author": "글청",
+        "view_count": 169,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613678",
+        "title": "퇴사당했는데 미국 파워볼 당첨되고 투자천재로 착각당했다",
+        "author": "늬파랑",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613650",
+        "title": "해고당한 엔지니어가 반도체 업계를 뒤집어놓음",
+        "author": "대작박가",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612524",
+        "title": "제국이 버린 검성이 너무 강함",
+        "author": "곰대리",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612710",
+        "title": "실직 위기 영양사, S급들이 놔주질 않는다",
+        "author": "범린",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613628",
+        "title": "나 혼자 각성자인데 유튜브를 탑 등반",
+        "author": "마인부유",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610458",
+        "title": "각성 실패했는데 무공이 너무 강함",
+        "author": "치맥세잔",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
