@@ -446399,5 +446399,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-23T13:30:39.078242+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607997",
+        "title": "해고당한 짐꾼은 S급 버퍼였다",
+        "author": "소래담",
+        "view_count": 3069,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 1644,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600875",
+        "title": "천마신교 서고지기는 재벌가 막둥이로 힐링합니다",
+        "author": "배소리",
+        "view_count": 913,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609590",
+        "title": "해고당한 김과장이 회장님의 혼외자였다",
+        "author": "어나인",
+        "view_count": 633,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604855",
+        "title": "치트트레이너 쓰는 수선전",
+        "author": "망상만함",
+        "view_count": 475,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "496889",
+        "title": "미래수선전",
+        "author": "엄청난",
+        "view_count": 395,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610555",
+        "title": "쫓겨난 방송작가가 자꾸 잘됨",
+        "author": "김한가",
+        "view_count": 325,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 158,
+        "novel_id": "612705",
+        "title": "700억 생기고 망한 휴게소가 대박남",
+        "author": "야간커피",
+        "view_count": 266,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608378",
+        "title": "보초 서기 싫은 말년 병장이 1차대전 명장이 됨",
+        "author": "고월888",
+        "view_count": 197,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 142,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
