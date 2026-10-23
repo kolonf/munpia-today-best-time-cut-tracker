@@ -282910,5 +282910,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T05:00:42.231902+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612551",
+        "title": "재무팀 핵심 에이스가 해고당하자 회사가 파산 위기",
+        "author": "웹소툰",
+        "view_count": 652,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612883",
+        "title": "국가한테 해고 당하고 EX급 농사꾼으로 각성함",
+        "author": "나는뉴비",
+        "view_count": 330,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607137",
+        "title": "해고당하고 미국 동물원을 샀는데 사자가 말을 걸었다",
+        "author": "운향림",
+        "view_count": 212,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613874",
+        "title": "복직한 이 과장이 일을 너무 잘함",
+        "author": "임플로이",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612733",
+        "title": "희망퇴직하고 고향 왔는데 독일 바이어가 집착함",
+        "author": "뒷자리",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609431",
+        "title": "SSS급 아이템으로 인생역전",
+        "author": "limkun",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611349",
+        "title": "내 리뷰 하나에 모든 업계가 매달림",
+        "author": "오천자",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611525",
+        "title": "유능한 직원인 줄 모르고 해고한 뒤 전화하며 집착함",
+        "author": "신유(愼惟)",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613967",
+        "title": "삼국지, 상태창이 있으니 천재는 내가 다 데려가겠습니다",
+        "author": "휴일",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612377",
+        "title": "무당장문 in 퓨전펑크",
+        "author": "하서산책",
+        "view_count": 33,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
