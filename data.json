@@ -448127,5 +448127,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-23T22:00:51.277804+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 3158,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 1464,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610846",
+        "title": "할아버지 일을 물려받았더니 거물들이 몰려옴",
+        "author": "네딸아빠",
+        "view_count": 853,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603078",
+        "title": "귀환한 삼촌은 EX급이었다.",
+        "author": "선비의붓",
+        "view_count": 589,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 458,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612061",
+        "title": "해고당한 날부터 돈이 쏟아진다",
+        "author": "신수목",
+        "view_count": 347,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601625",
+        "title": "메카닉에 미친 북부 대공 막내아들",
+        "author": "아레직",
+        "view_count": 291,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 227,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598840",
+        "title": "운석충돌을 막는 수선자가 되었다",
+        "author": "맛소금타로",
+        "view_count": 191,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 142,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
