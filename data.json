@@ -446111,5 +446111,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-23T12:00:48.418614+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604962",
+        "title": "아포칼립스에서 우주전함을 주웠다",
+        "author": "한소™",
+        "view_count": 3068,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606661",
+        "title": "파워볼 당첨되고 미국 목장을 샀더니 자꾸 대박남",
+        "author": "양작과",
+        "view_count": 1732,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 1100,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611487",
+        "title": "몬스터 해체 9년차는 한 칼에 끝냄",
+        "author": "런타임",
+        "view_count": 706,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "601625",
+        "title": "메카닉에 미친 북부 대공 막내아들",
+        "author": "아레직",
+        "view_count": 540,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613217",
+        "title": "해고당한 서버관리자가 업계를 씹어먹음",
+        "author": "게로데",
+        "view_count": 421,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 351,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606662",
+        "title": "퇴사 후 파워볼 당첨되고 철도 재벌이 됨",
+        "author": "미친재능",
+        "view_count": 300,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606571",
+        "title": "해고당한 강 팀장을 업계에서 집착함",
+        "author": "정현공원",
+        "view_count": 224,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 155,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
