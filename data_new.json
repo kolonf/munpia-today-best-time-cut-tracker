@@ -283102,5 +283102,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T06:00:44.704178+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612551",
+        "title": "재무팀 핵심 에이스가 해고당하자 회사가 파산 위기",
+        "author": "웹소툰",
+        "view_count": 670,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610835",
+        "title": "해고당한 탱커는 업계 최고",
+        "author": "산타클라스",
+        "view_count": 338,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607137",
+        "title": "해고당하고 미국 동물원을 샀는데 사자가 말을 걸었다",
+        "author": "운향림",
+        "view_count": 217,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613874",
+        "title": "복직한 이 과장이 일을 너무 잘함",
+        "author": "임플로이",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611813",
+        "title": "만년 과장을 해고했더니, 헌터 업계가 뒤집혔다.",
+        "author": "석곰이",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610144",
+        "title": "국가권력급 귀환자의 힐링 식탁",
+        "author": "유세",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612754",
+        "title": "신입 경찰은 수사가 너무 쉬움",
+        "author": "진강™",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610814",
+        "title": "이성계의 2회차는 임진왜란",
+        "author": "너기누기",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611105",
+        "title": "회귀한 15살 가주가 월스트리트를 삼킴",
+        "author": "흑코라니",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
