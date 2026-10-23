@@ -281470,5 +281470,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-23T21:00:42.885916+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610835",
+        "title": "해고당한 탱커는 업계 최고",
+        "author": "산타클라스",
+        "view_count": 605,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613537",
+        "title": "K방산업 먹여살려 놨더니 해고당했다.",
+        "author": "ZZ1존",
+        "view_count": 161,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611349",
+        "title": "내 리뷰 하나에 모든 업계가 매달림",
+        "author": "오천자",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614664",
+        "title": "외신급 마수로 초월급 탑 공략",
+        "author": "한꽃",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613628",
+        "title": "나 혼자 각성자인데 유튜브를 탑 등반",
+        "author": "마인부유",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612091",
+        "title": "국정원에 천마가 들어왔다",
+        "author": "proveme",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615306",
+        "title": "우리 딸이 아이돌 센터인데 내게 너무 잘함",
+        "author": "만슬라",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
