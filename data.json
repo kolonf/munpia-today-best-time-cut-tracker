@@ -448799,5 +448799,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T01:00:51.355324+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광을 빙하기 벙커로 바꿈",
+        "author": "과묵한구리",
+        "view_count": 2429,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610555",
+        "title": "쫓겨난 방송작가가 자꾸 잘됨",
+        "author": "김한가",
+        "view_count": 1284,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 964,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 579,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607594",
+        "title": "나 혼자 제작 스킬로 탑 밖에서 꿀빤다",
+        "author": "끌떡",
+        "view_count": 433,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612354",
+        "title": "(귀)신들린 연기자",
+        "author": "burn8",
+        "view_count": 344,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "600910",
+        "title": "선협에서 약을 너무 잘 씀",
+        "author": "오구진",
+        "view_count": 274,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613173",
+        "title": "통나무 들어준 줄도 모르고 협회에서 해고당함",
+        "author": "붉은냥이",
+        "view_count": 222,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608010",
+        "title": "경신대기근인데 고구마가 너무 잘 자람",
+        "author": "브루마블",
+        "view_count": 170,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 130,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
