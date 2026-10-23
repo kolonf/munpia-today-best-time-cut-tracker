@@ -449375,5 +449375,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T03:30:42.991084+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607476",
+        "title": "징집된 우주 해병은 탑 등반이 쉽다",
+        "author": "[동주]",
+        "view_count": 2609,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604368",
+        "title": "외계어를 나만 알아듣자 전 세계가 집착함",
+        "author": "마리골드14",
+        "view_count": 1438,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "596475",
+        "title": "삼국지. 이번 생엔 유비를 개처럼 부려먹겠다",
+        "author": "運月",
+        "view_count": 979,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "604234",
+        "title": "은퇴했는데 반로환동",
+        "author": "김태평",
+        "view_count": 631,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 471,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607496",
+        "title": "전 프로가 유망주인 척 함",
+        "author": "엠보돌",
+        "view_count": 357,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "595530",
+        "title": "삼국지 무신 여포가 되었다",
+        "author": "정성우",
+        "view_count": 296,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "590214",
+        "title": "2회차 애니메이터가 너무 잘함",
+        "author": "차돌박E",
+        "view_count": 241,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598780",
+        "title": "겜판을 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612693",
+        "title": "아포칼립스의 만능 뽑기 능력자",
+        "author": "쇼텔",
+        "view_count": 145,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
