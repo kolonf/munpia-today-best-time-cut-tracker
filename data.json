@@ -451679,5 +451679,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T14:30:38.326281+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604497",
+        "title": "결혼식날 새인생 차림",
+        "author": "초전도",
+        "view_count": 2706,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 1681,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603420",
+        "title": "내 담보물에서 돈 되는 재능이 쏟아짐",
+        "author": "아침호수",
+        "view_count": 873,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607514",
+        "title": "물려받은 미국 땅에서 온천으로 대박 났습니다",
+        "author": "풍기킹",
+        "view_count": 615,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610629",
+        "title": "귀환한 검신이 요리로 힐링함",
+        "author": "치즈케이끼",
+        "view_count": 477,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 차린 온천이 너무 잘됨",
+        "author": "힐링화원",
+        "view_count": 380,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 312,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608769",
+        "title": "1997, 미래시로 사업했더니 1조 달러 재벌이 되었다",
+        "author": "빈명",
+        "view_count": 259,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606906",
+        "title": "아포칼립스에 무한동력 원양어선을 숨김",
+        "author": "웨스트월드",
+        "view_count": 199,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609932",
+        "title": "2차 각성한 줄 모르고 해고당함",
+        "author": "헌앙",
+        "view_count": 157,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
