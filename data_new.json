@@ -287902,5 +287902,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T08:00:42.225755+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613173",
+        "title": "통나무 들어준 줄도 모르고 협회에서 해고당함",
+        "author": "붉은냥이",
+        "view_count": 661,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611366",
+        "title": "김 대리가 퇴사하자 거래처가 뒤집어졌다",
+        "author": "맛있는글s",
+        "view_count": 408,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610660",
+        "title": "해고당한 유물 감정사에게 회장님들이 줄섬",
+        "author": "원일더",
+        "view_count": 252,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609612",
+        "title": "양산형 장비 시장에서 나 혼자 맞춤 제작함",
+        "author": "샤이텔하우",
+        "view_count": 113,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603599",
+        "title": "예쁜 아내와 농사 지으며 힐링하는데 탑 등반도 잘함",
+        "author": "개벽S",
+        "view_count": 67,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614188",
+        "title": "퇴사 첫 날 무인도에 비행기가 추락했다",
+        "author": "초씽",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 49,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614266",
+        "title": "해고당한 B급 헌터가 업계 최강임",
+        "author": "천수월",
+        "view_count": 41,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611993",
+        "title": "귀농 후 텃밭에 외계 작물이 대박남",
+        "author": "귤잠꾼",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
