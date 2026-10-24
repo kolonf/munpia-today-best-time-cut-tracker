@@ -285982,5 +285982,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T21:30:37.615746+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607137",
+        "title": "해고당하고 미국 동물원을 샀는데 사자가 말을 걸었다",
+        "author": "운향림",
+        "view_count": 443,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609932",
+        "title": "2차 각성한 줄 모르고 해고당함",
+        "author": "헌앙",
+        "view_count": 239,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 166,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612701",
+        "title": "해고당한 분석관은 신좌급 헌터였다",
+        "author": "유명한작가",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615604",
+        "title": "아공간 10000개 1000년 숙성했더니 세상이 안망함",
+        "author": "구채",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612377",
+        "title": "무당장문 in 퓨전펑크",
+        "author": "하서산책",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
