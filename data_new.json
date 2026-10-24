@@ -283870,5 +283870,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T10:30:35.750758+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 731,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610660",
+        "title": "해고당한 유물 감정사에게 회장님들이 줄섬",
+        "author": "원일더",
+        "view_count": 351,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611831",
+        "title": "로또1등 당첨돼 자연인으로 사는데 돈이 미친 듯 불어남",
+        "author": "루지뇨로",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614665",
+        "title": "무한 과금 네크로맨서는 해골 병사가 너무 강하다",
+        "author": "시르베르",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612701",
+        "title": "해고당한 분석관은 신좌급 헌터였다",
+        "author": "유명한작가",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612490",
+        "title": "좌천된 팀장이 버려진 탑 1층에서 힐링함",
+        "author": "량주",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609684",
+        "title": "방출 후 파워볼 당첨돼서 구단을 역인수 함",
+        "author": "자유수달",
+        "view_count": 48,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611103",
+        "title": "퇴사당한 매니저가 타로점으로, 연예계를 씹어 먹음",
+        "author": "풀leaf",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 케데헌급 애니를 만듦",
+        "author": "RUT",
+        "view_count": 33,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
