@@ -284830,5 +284830,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T15:30:34.866151+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612354",
+        "title": "(귀)신들린 연기자",
+        "author": "burn8",
+        "view_count": 298,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609932",
+        "title": "2차 각성한 줄 모르고 해고당함",
+        "author": "헌앙",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611324",
+        "title": "나 혼자 EX급 웨펀마스터인데 해고당함",
+        "author": "한생한사",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612947",
+        "title": "가맹점 해지 당하고 미슐랭 3스타가 되었다",
+        "author": "원일더",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 68,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613678",
+        "title": "퇴사당했는데 미국 파워볼 당첨되고 투자천재로 착각당했다",
+        "author": "늬파랑",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611947",
+        "title": "마왕을 죽인 건 나였는데?",
+        "author": "몽중人",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612132",
+        "title": "마나무한으로 탑 등반",
+        "author": "구장개",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
