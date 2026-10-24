@@ -452927,5 +452927,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T20:02:27.275439+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609891",
+        "title": "퇴사후 잭팟터져서 힐링하는데 경영천재로 착각당했다",
+        "author": "도마뱀작가",
+        "view_count": 3251,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 1585,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610935",
+        "title": "국정원 막내는 세계 최고 해커",
+        "author": "광산김가",
+        "view_count": 989,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609809",
+        "title": "소련이 무너질 때 모스크바에 있었다",
+        "author": "맛김",
+        "view_count": 676,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610284",
+        "title": "해고 후 퇴직금으로 SS급 능력을 받았다",
+        "author": "기획자K",
+        "view_count": 457,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 373,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607496",
+        "title": "전 프로가 유망주인 척 함",
+        "author": "엠보돌",
+        "view_count": 297,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 233,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 187,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612539",
+        "title": "육아에서 퇴사했더니 100억이 입금됐다.",
+        "author": "한도현",
+        "view_count": 140,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
