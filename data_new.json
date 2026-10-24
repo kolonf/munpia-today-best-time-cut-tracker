@@ -287326,5 +287326,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T04:30:36.552287+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613173",
+        "title": "통나무 들어준 줄도 모르고 협회에서 해고당함",
+        "author": "붉은냥이",
+        "view_count": 601,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612883",
+        "title": "국가한테 해고 당하고 EX급 농사꾼으로 각성함",
+        "author": "나는뉴비",
+        "view_count": 365,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612972",
+        "title": "김과장 해고하자 나라망함",
+        "author": ".로튼애플.",
+        "view_count": 223,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609696",
+        "title": "EX급 방치형 영주가 되었다",
+        "author": "영구리94",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611813",
+        "title": "만년 과장을 해고했더니, 헌터 업계가 뒤집혔다.",
+        "author": "석곰이",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612733",
+        "title": "희망퇴직하고 고향 왔는데 독일 바이어가 집착함",
+        "author": "뒷자리",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612033",
+        "title": "버림받은 S급 헌터는 회귀했다",
+        "author": "준시최",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614065",
+        "title": "해고당한 회사원이 S급 네크로맨서였다",
+        "author": "유노이아",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615867",
+        "title": "해고당한 신 과장은 EX급 서포터였다",
+        "author": "후양煦揚",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612763",
+        "title": "입대 첫날 대대장이 되었다",
+        "author": "개인전",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
