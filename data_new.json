@@ -285502,5 +285502,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T19:00:39.107621+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612705",
+        "title": "700억 생기고 망한 휴게소가 대박남",
+        "author": "야간커피",
+        "view_count": 696,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612061",
+        "title": "해고당한 날부터 돈이 쏟아진다",
+        "author": "신수목",
+        "view_count": 343,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612097",
+        "title": "퇴사 후 요트 타고 힐링합니다",
+        "author": "그레이c",
+        "view_count": 181,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611813",
+        "title": "만년 과장을 해고했더니, 헌터 업계가 뒤집혔다.",
+        "author": "석곰이",
+        "view_count": 113,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613307",
+        "title": "리콜 터진 대기업이 내 시골 텃밭에 무릎 꿇음",
+        "author": "무자본집필",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613467",
+        "title": "해고당한 연금술사가 미궁에서 돈을 쓸어 담음",
+        "author": "홍사과",
+        "view_count": 71,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612643",
+        "title": "퇴사 후 식당 차렸는데 거물들이 줄을 선다",
+        "author": "사바이",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606567",
+        "title": "꼭두각시 협회장이 너무 유능하다",
+        "author": "NOZY",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614670",
+        "title": "좌천당했는데 회장 아들이었다",
+        "author": "적백赤白",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610937",
+        "title": "해고당한 은행원이 IMF 반년 전으로 돌아왔다",
+        "author": "TQX",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
