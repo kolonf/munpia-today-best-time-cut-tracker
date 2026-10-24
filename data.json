@@ -453215,5 +453215,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-24T21:30:38.135523+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604686",
+        "title": "막내가 역대급 음악 천재라고?",
+        "author": "공상소년",
+        "view_count": 2467,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604548",
+        "title": "부도 위기 재벌그룹의 회장이 되었다",
+        "author": "홈스탠바이",
+        "view_count": 1312,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 837,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 601,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608858",
+        "title": "변리사를 해고하자 5천억 특허가 날아감",
+        "author": "간딴",
+        "view_count": 455,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 374,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "601625",
+        "title": "메카닉에 미친 북부 대공 막내아들",
+        "author": "아레직",
+        "view_count": 274,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613217",
+        "title": "해고당한 서버관리자가 업계를 씹어먹음",
+        "author": "게로데",
+        "view_count": 226,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612539",
+        "title": "육아에서 퇴사했더니 100억이 입금됐다.",
+        "author": "한도현",
+        "view_count": 182,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610917",
+        "title": "연기 천재인줄 모르고 해고당함",
+        "author": "러데",
+        "view_count": 129,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
