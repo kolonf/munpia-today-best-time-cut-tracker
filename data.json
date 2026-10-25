@@ -458495,5 +458495,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T21:30:36.705959+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610537",
+        "title": "LAPD 괴물 경찰한테 정보기관들이 집착함",
+        "author": "선우(仙宇)",
+        "view_count": 2510,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 멍게가 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 1400,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "602541",
+        "title": "이혼당하고 전기차에 새살림을 차렸다",
+        "author": "민땡",
+        "view_count": 918,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599567",
+        "title": "외계 행성에서 살아남기",
+        "author": "체엔",
+        "view_count": 622,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "604224",
+        "title": "파워볼 당첨후 미국에서 농사짓는데 기업들이 몰려옴",
+        "author": "잭슨뽈락",
+        "view_count": 463,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608769",
+        "title": "1997, 미래시로 사업했더니 1조 달러 재벌이 되었다",
+        "author": "빈명",
+        "view_count": 367,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609889",
+        "title": "선협에서 괴이를 사냥함",
+        "author": "길마",
+        "view_count": 294,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "613512",
+        "title": "해고 후 헌터들이 나만 찾음",
+        "author": "투이니F",
+        "view_count": 244,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608010",
+        "title": "경신대기근인데 고구마가 너무 잘 자람",
+        "author": "브루마블",
+        "view_count": 197,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612539",
+        "title": "육아에서 퇴사했더니 100억이 입금됐다.",
+        "author": "한도현",
+        "view_count": 148,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
