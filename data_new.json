@@ -290398,5 +290398,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T22:00:41.396626+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610470",
+        "title": "멸망 1년 전, 나 혼자 예언서로 독식함",
+        "author": "싱글레어",
+        "view_count": 558,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 293,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612123",
+        "title": "생활용 부적인데 성능이 미쳤다",
+        "author": "하우트",
+        "view_count": 183,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614913",
+        "title": "좌천당한 김팀장이 업계 최고였다",
+        "author": "배추나무",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613476",
+        "title": "혼외자가 1000조를 벌었다",
+        "author": "소수림",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614755",
+        "title": "보조작가 대본에 탑스타가 매달림",
+        "author": "피자소주",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611103",
+        "title": "퇴사당한 매니저가 타로점으로, 연예계를 씹어 먹음",
+        "author": "풀leaf",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614481",
+        "title": "아포칼립스 기사가 강해지는 법",
+        "author": "칼튼90",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608331",
+        "title": "40살 고졸 공돌이, 코인 떡상 전으로 회귀했다",
+        "author": "아이처럼",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
