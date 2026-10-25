@@ -289822,5 +289822,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T19:00:42.354190+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610835",
+        "title": "해고당한 탱커는 업계 최고",
+        "author": "산타클라스",
+        "view_count": 650,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 356,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609696",
+        "title": "EX급 방치형 영주가 되었다",
+        "author": "영구리94",
+        "view_count": 221,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613070",
+        "title": "게이트 속 거래처가 내 인맥인 줄 모르고 해고당함",
+        "author": "뜨끈아이스",
+        "view_count": 127,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613678",
+        "title": "퇴사당했는데 미국 파워볼 당첨되고 투자천재로 착각당했다",
+        "author": "늬파랑",
+        "view_count": 95,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616039",
+        "title": "정령들이 내 소유인 줄 모르고 좌천당함",
+        "author": "판노리",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615468",
+        "title": "해고 당했는데, 나만 저주를 풀 수 있음.",
+        "author": "크림파이",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615867",
+        "title": "해고당한 신 과장은 EX급 서포터였다",
+        "author": "후양煦揚",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615926",
+        "title": "연금복권 당첨돼서 회사 관두고 세계 일주 중!",
+        "author": "백원만s",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614431",
+        "title": "탑 등반 시대에 나 홀로 대장장이",
+        "author": "Praba",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
