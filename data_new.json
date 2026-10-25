@@ -291454,5 +291454,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T03:30:35.411034+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614226",
+        "title": "7천억 물려받은 줄 모르고 퇴사당함",
+        "author": "무한와규",
+        "view_count": 642,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613994",
+        "title": "헌터협회가 배신했다. 이제 한국은 탑에 못들어와",
+        "author": "데포르메",
+        "view_count": 400,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613070",
+        "title": "게이트 속 거래처가 내 인맥인 줄 모르고 해고당함",
+        "author": "뜨끈아이스",
+        "view_count": 258,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611831",
+        "title": "로또1등 당첨돼 자연인으로 사는데 돈이 미친 듯 불어남",
+        "author": "루지뇨로",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612469",
+        "title": "해고당한 천재 연구원은 마력이 보임",
+        "author": "노랑커피",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612490",
+        "title": "좌천된 팀장이 버려진 탑 1층에서 힐링함",
+        "author": "량주",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615708",
+        "title": "로또 1등은 퇴사를 합니다",
+        "author": "따상",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613676",
+        "title": "시카고 마피아에게 연재를 독촉받고 있습니다",
+        "author": "맛김",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614602",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 한식뷔페합니다",
+        "author": "나없고",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610458",
+        "title": "각성 실패했는데 무공이 너무 강함",
+        "author": "치맥세잔",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
