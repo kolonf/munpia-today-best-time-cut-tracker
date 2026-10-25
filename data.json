@@ -458111,5 +458111,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T20:00:46.038969+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610327",
+        "title": "반도체 수율의 핵심을 나만 알고 있는데 해고당함",
+        "author": "황금꼬미",
+        "view_count": 3366,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 1699,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612705",
+        "title": "700억 생기고 망한 휴게소가 대박남",
+        "author": "야간커피",
+        "view_count": 1048,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 682,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607948",
+        "title": "해고 후 신점 대박",
+        "author": "엠버그리스",
+        "view_count": 488,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607594",
+        "title": "나 혼자 제작 스킬로 탑 밖에서 꿀빤다",
+        "author": "끌떡",
+        "view_count": 375,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608178",
+        "title": "멸망 30일 전, 무한 아공간을 얻다",
+        "author": "콜디",
+        "view_count": 290,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609792",
+        "title": "해고된 돈미새의 탑 공략법",
+        "author": "싸리또리",
+        "view_count": 242,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612883",
+        "title": "국가한테 해고 당하고 EX급 농사꾼으로 각성함",
+        "author": "나는뉴비",
+        "view_count": 194,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609344",
+        "title": "해고당한 만렙 귀환자는 돈 많은 백수를 희망함",
+        "author": "곰슈",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
