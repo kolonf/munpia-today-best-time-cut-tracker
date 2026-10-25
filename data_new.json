@@ -288862,5 +288862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T13:30:33.772146+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612883",
+        "title": "국가한테 해고 당하고 EX급 농사꾼으로 각성함",
+        "author": "나는뉴비",
+        "view_count": 509,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 내 밭이 역세권이 됐다",
+        "author": "농어촌작가",
+        "view_count": 335,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612660",
+        "title": "좌천당했는데 주식 차트의 목소리가 들려",
+        "author": "만슬라",
+        "view_count": 176,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613537",
+        "title": "K방산업 먹여살려 놨더니 해고당했다.",
+        "author": "ZZ1존",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616039",
+        "title": "정령들이 내 소유인 줄 모르고 좌천당함",
+        "author": "판노리",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610814",
+        "title": "이성계의 2회차는 임진왜란",
+        "author": "너기누기",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612132",
+        "title": "마나무한으로 탑 등반",
+        "author": "구장개",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612399",
+        "title": "유배지로 쫓겨난 공무원이 너무 유능하다",
+        "author": "몬도리아",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612586",
+        "title": "분신술 쓰는 국선변호사는 소시오패스",
+        "author": "서칸더브이",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614851",
+        "title": "해고당한 K-방산 천재가 AI와 함께 회귀했다",
+        "author": "세듀",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
