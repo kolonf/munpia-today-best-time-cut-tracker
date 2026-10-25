@@ -288382,5 +288382,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T10:30:36.187057+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 614,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613776",
+        "title": "협회야 배신 고맙다. 탑에서 잘먹고 잘 살게.",
+        "author": "우노.",
+        "view_count": 349,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 163,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610627",
+        "title": "국정원 공익이 전능의 눈을 가짐",
+        "author": "제스키위",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612490",
+        "title": "좌천된 팀장이 버려진 탑 1층에서 힐링함",
+        "author": "량주",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612091",
+        "title": "국정원에 천마가 들어왔다",
+        "author": "proveme",
+        "view_count": 71,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614065",
+        "title": "해고당한 회사원이 S급 네크로맨서였다",
+        "author": "유노이아",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610937",
+        "title": "해고당한 은행원이 IMF 반년 전으로 돌아왔다",
+        "author": "TQX",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615059",
+        "title": "해고당한 의사가 알고보니 천재 써전",
+        "author": "돼지복실이",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612391",
+        "title": "군필 여배우가 방송을 너무 잘함",
+        "author": "루리나",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
