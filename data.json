@@ -460799,5 +460799,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T08:00:45.224248+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 2978,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608304",
+        "title": "해고 후 동네슈퍼로 1000조 플렉스",
+        "author": "테드K",
+        "view_count": 1831,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612096",
+        "title": "280만 유튜버 만들어줬더니 해고당함",
+        "author": "새벽감자",
+        "view_count": 1228,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612381",
+        "title": "해고, 파혼 당한 후 재벌가 손자가 되었다",
+        "author": "yespro",
+        "view_count": 766,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606644",
+        "title": "해고당했는데 재벌가 데릴사위",
+        "author": "남호원",
+        "view_count": 565,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 460,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "606436",
+        "title": "파워볼 당첨 후, 기업을 통째로 사버림",
+        "author": "86호",
+        "view_count": 366,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 316,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 265,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609696",
+        "title": "EX급 방치형 영주가 되었다",
+        "author": "영구리94",
+        "view_count": 189,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
