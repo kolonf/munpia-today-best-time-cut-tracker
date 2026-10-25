@@ -291070,5 +291070,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T01:30:34.878241+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612551",
+        "title": "재무팀 핵심 에이스가 해고당하자 회사가 파산 위기",
+        "author": "웹소툰",
+        "view_count": 607,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612097",
+        "title": "퇴사 후 요트 타고 힐링합니다",
+        "author": "그레이c",
+        "view_count": 362,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611971",
+        "title": "내 프랑스에 폭동은 없다",
+        "author": "브리스트",
+        "view_count": 251,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611831",
+        "title": "로또1등 당첨돼 자연인으로 사는데 돈이 미친 듯 불어남",
+        "author": "루지뇨로",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612947",
+        "title": "가맹점 해지 당하고 미슐랭 3스타가 되었다",
+        "author": "원일더",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614032",
+        "title": "파워볼 당첨 후 쉘터 지었는데 아포칼립스 터짐",
+        "author": "배출구",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610911",
+        "title": "16세기 말, 대영제국에 웹소설을 풀었다",
+        "author": "류도율",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612111",
+        "title": "요리만 했는데 자꾸 합스부르크가 떡상한다",
+        "author": "가배치",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 케데헌급 애니를 만듦",
+        "author": "RUT",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615438",
+        "title": "퇴사한 개발자가 탑의 관리자가 되었더니 미국에서 연락옴",
+        "author": "낙필",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
