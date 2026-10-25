@@ -292318,5 +292318,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T08:00:44.383271+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 690,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613994",
+        "title": "헌터협회가 배신했다. 이제 한국은 탑에 못들어와",
+        "author": "데포르메",
+        "view_count": 447,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611971",
+        "title": "내 프랑스에 폭동은 없다",
+        "author": "브리스트",
+        "view_count": 273,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 115,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612469",
+        "title": "해고당한 천재 연구원은 마력이 보임",
+        "author": "노랑커피",
+        "view_count": 90,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612490",
+        "title": "좌천된 팀장이 버려진 탑 1층에서 힐링함",
+        "author": "량주",
+        "view_count": 72,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610911",
+        "title": "16세기 말, 대영제국에 웹소설을 풀었다",
+        "author": "류도율",
+        "view_count": 59,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614670",
+        "title": "좌천당했는데 회장 아들이었다",
+        "author": "적백赤白",
+        "view_count": 49,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615059",
+        "title": "해고당한 의사가 알고보니 천재 써전",
+        "author": "돼지복실이",
+        "view_count": 41,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611564",
+        "title": "내가 만든 총이 몬스터를 잘 죽임",
+        "author": "윤별쌤",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
