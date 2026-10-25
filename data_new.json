@@ -289054,5 +289054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T15:00:40.197220+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610450",
+        "title": "2조 4천억 복권 당첨되었지만 공무원 계속 합니다",
+        "author": "나이막",
+        "view_count": 608,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 내 밭이 역세권이 됐다",
+        "author": "농어촌작가",
+        "view_count": 349,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612660",
+        "title": "좌천당했는데 주식 차트의 목소리가 들려",
+        "author": "만슬라",
+        "view_count": 200,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611813",
+        "title": "만년 과장을 해고했더니, 헌터 업계가 뒤집혔다.",
+        "author": "석곰이",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612701",
+        "title": "해고당한 분석관은 신좌급 헌터였다",
+        "author": "유명한작가",
+        "view_count": 90,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610402",
+        "title": "재벌가 장남은 고룡이었다",
+        "author": "환세아",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612132",
+        "title": "마나무한으로 탑 등반",
+        "author": "구장개",
+        "view_count": 56,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612199",
+        "title": "궁합 보는 프로듀서",
+        "author": "글로운",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615853",
+        "title": "삼국지: 공손찬이 원소보다 잘남",
+        "author": "맥스.",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611564",
+        "title": "내가 만든 총이 몬스터를 잘 죽임",
+        "author": "윤별쌤",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
