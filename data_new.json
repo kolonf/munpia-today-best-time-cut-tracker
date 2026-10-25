@@ -289150,5 +289150,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-25T15:30:37.989301+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613256",
+        "title": "군면제 박탈당한 스트라이커는 귀화하기로 했다",
+        "author": "볼랑말랑",
+        "view_count": 593,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612354",
+        "title": "(귀)신들린 연기자",
+        "author": "burn8",
+        "view_count": 334,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610917",
+        "title": "연기 천재인줄 모르고 해고당함",
+        "author": "러데",
+        "view_count": 188,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 113,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614704",
+        "title": "짤린 노동자가 쓰레기만 주웠는데 대기업이 줄을 선다",
+        "author": "강그린",
+        "view_count": 93,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612643",
+        "title": "퇴사 후 식당 차렸는데 거물들이 줄을 선다",
+        "author": "사바이",
+        "view_count": 72,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610871",
+        "title": "다섯 살 천재는 바이올린이 너무 쉬움",
+        "author": "과로사",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610937",
+        "title": "해고당한 은행원이 IMF 반년 전으로 돌아왔다",
+        "author": "TQX",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614851",
+        "title": "해고당한 K-방산 천재가 AI와 함께 회귀했다",
+        "author": "세듀",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
