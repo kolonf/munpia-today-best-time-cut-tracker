@@ -293182,5 +293182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T13:30:35.834715+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612837",
+        "title": "전쟁이 싫어서 국방력에 올인했더니 전 세계가 벌벌 떰",
+        "author": "고락",
+        "view_count": 537,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616039",
+        "title": "정령들이 내 소유인 줄 모르고 좌천당함",
+        "author": "판노리",
+        "view_count": 277,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610796",
+        "title": "아포쉘터 쫓겨나고 주상복합 각성함",
+        "author": "순살키친",
+        "view_count": 174,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612273",
+        "title": "10년간 준비한 아포칼립스",
+        "author": "느린생각",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613624",
+        "title": "4천억 횡령 누명쓰고 금감원 에이스로 회귀함",
+        "author": "꼬노네",
+        "view_count": 68,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615853",
+        "title": "삼국지: 공손찬이 원소보다 잘남",
+        "author": "맥스.",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614829",
+        "title": "삼국지, 즉사기 엄백호",
+        "author": "에필로거",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615028",
+        "title": "특허 뺏은 재벌을 직접 밟았다",
+        "author": "바람조율사",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
