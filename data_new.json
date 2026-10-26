@@ -292894,5 +292894,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T12:00:47.384581+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 714,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604482",
+        "title": "수선 천재가 기연을 독식하는 법",
+        "author": "글청",
+        "view_count": 365,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612033",
+        "title": "버림받은 S급 헌터는 회귀했다",
+        "author": "준시최",
+        "view_count": 174,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612443",
+        "title": "퇴출당한 헌터가 미국에서 승승장구함",
+        "author": "hsn22",
+        "view_count": 114,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612102",
+        "title": "길드에서 퇴출당했더니 EX급 대장장이로 각성함",
+        "author": "김산본",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613967",
+        "title": "삼국지, 상태창이 있으니 천재는 내가 다 데려가겠습니다",
+        "author": "휴일",
+        "view_count": 75,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609684",
+        "title": "방출 후 파워볼 당첨돼서 구단을 역인수 함",
+        "author": "자유수달",
+        "view_count": 60,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614670",
+        "title": "좌천당했는데 회장 아들이었다",
+        "author": "적백赤白",
+        "view_count": 52,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611564",
+        "title": "내가 만든 총이 몬스터를 잘 죽임",
+        "author": "윤별쌤",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613908",
+        "title": "방출된 투수가 160km를 던짐",
+        "author": "검은은하",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
