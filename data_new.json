@@ -293662,5 +293662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T18:00:48.650882+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 548,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611971",
+        "title": "내 프랑스에 폭동은 없다",
+        "author": "브리스트",
+        "view_count": 353,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613070",
+        "title": "게이트 속 거래처가 내 인맥인 줄 모르고 해고당함",
+        "author": "뜨끈아이스",
+        "view_count": 190,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613678",
+        "title": "퇴사당했는데 미국 파워볼 당첨되고 투자천재로 착각당했다",
+        "author": "늬파랑",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611132",
+        "title": "나, 트럼프가 되었다!",
+        "author": "배천",
+        "view_count": 92,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609684",
+        "title": "방출 후 파워볼 당첨돼서 구단을 역인수 함",
+        "author": "자유수달",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614344",
+        "title": "각성했는데 트레이드 당함",
+        "author": "유세",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612467",
+        "title": "이혼 후 로또 1등",
+        "author": "타이무",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614602",
+        "title": "퇴사 당했는데 파워볼 당첨되어 미국에서 한식뷔페합니다",
+        "author": "나없고",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
