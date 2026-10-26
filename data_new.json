@@ -295390,5 +295390,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-27T04:00:45.634108+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 612,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612660",
+        "title": "불손한 박 과장 앞에서 사장도 벌벌 떰",
+        "author": "만슬라",
+        "view_count": 355,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611538",
+        "title": "해고당한 외과 의사가 손만 대면 다 살림",
+        "author": "설흔(說痕)",
+        "view_count": 179,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613678",
+        "title": "퇴사당했는데 미국 파워볼 당첨되고 투자천재로 착각당했다",
+        "author": "늬파랑",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614434",
+        "title": "중세 영주로 살아남기",
+        "author": "청라수",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612273",
+        "title": "10년간 준비한 아포칼립스",
+        "author": "느린생각",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616230",
+        "title": "잠만 자도 천재들의 기술을 독점함",
+        "author": "꿈가득남",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612536",
+        "title": "해고 후 연금복권 1등으로 쌍둥이와 힐링하는 관장님",
+        "author": "이하담담",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616064",
+        "title": "국가에 버림받고 탑에 집을 차렸더니 아포칼립스",
+        "author": "라면스프밥",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
