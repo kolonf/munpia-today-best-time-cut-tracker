@@ -296062,5 +296062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-27T08:30:35.500541+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610935",
+        "title": "국정원 막내는 세계 최고 해커",
+        "author": "광산김가",
+        "view_count": 597,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 352,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614584",
+        "title": "해상 아포칼립스에서 유일한 건물주가 되었다",
+        "author": "스틸훈",
+        "view_count": 144,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614422",
+        "title": "무림맹 지하감옥의 폐공수(廢功手)",
+        "author": "강다로",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612455",
+        "title": "퇴사 후 역대급 미국 목장의 주인이 되었다",
+        "author": "고옹",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614344",
+        "title": "각성했는데 트레이드 당함",
+        "author": "유세",
+        "view_count": 67,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613485",
+        "title": "해고 대신 좌천된 김과장, 우주선 주운 후 계속 출근함",
+        "author": "퇴근후우주",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614682",
+        "title": "관상가 전생을 각성했다",
+        "author": "태영(太影)",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615609",
+        "title": "해고 당했는 파워볼 당첨되어 미국에서 포도농장합니다.",
+        "author": "Ashmor",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614669",
+        "title": "좌천당한 야구 감독이 너무 유능함",
+        "author": "로웰크란",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
