@@ -463487,5 +463487,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T21:00:49.313528+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604234",
+        "title": "은퇴했는데 반로환동",
+        "author": "김태평",
+        "view_count": 3343,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604380",
+        "title": "국가에 버림받고 재앙급 마법사로 각성했다",
+        "author": "적축",
+        "view_count": 1816,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608730",
+        "title": "버려진 특성을 주웠더니 SSS급 토벌대원으로 각성함",
+        "author": "배불루",
+        "view_count": 1152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610835",
+        "title": "해고당한 탱커는 업계 최고",
+        "author": "산타클라스",
+        "view_count": 729,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612206",
+        "title": "1800억이 생긴 김에 인생 좀 즐기겠습니다.",
+        "author": "BlackSwan.",
+        "view_count": 564,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 394,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609841",
+        "title": "놀고싶은데 정조가 자꾸 집착함",
+        "author": "고스름도치",
+        "view_count": 326,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600029",
+        "title": "50조의 사나이",
+        "author": "김동휘",
+        "view_count": 280,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606906",
+        "title": "아포칼립스에 무한동력 원양어선을 숨김",
+        "author": "웨스트월드",
+        "view_count": 233,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606248",
+        "title": "삼국지: 퇴사한 술상무가 너무 유능하다",
+        "author": "은수랑",
+        "view_count": 172,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
