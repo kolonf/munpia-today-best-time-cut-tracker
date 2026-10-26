@@ -292702,5 +292702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T10:30:39.045362+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 697,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612123",
+        "title": "생활용 부적인데 성능이 미쳤다",
+        "author": "하우트",
+        "view_count": 360,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "606073",
+        "title": "천재 변호사가 방송계를 극락 보냄",
+        "author": "5스타",
+        "view_count": 171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611813",
+        "title": "만년 과장을 해고했더니, 헌터 업계가 뒤집혔다.",
+        "author": "석곰이",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614584",
+        "title": "해상 아포칼립스에서 유일한 건물주가 되었다",
+        "author": "스틸훈",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612125",
+        "title": "무한의 상상력을 가진 소년은 게임 만드는 게 너무 쉽다",
+        "author": "나일함",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610871",
+        "title": "다섯 살 천재는 바이올린이 너무 쉬움",
+        "author": "과로사",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614481",
+        "title": "아포칼립스 기사가 강해지는 법",
+        "author": "칼튼90",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614334",
+        "title": "거물들이 줄 서는 신점방송",
+        "author": "벨노트",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613166",
+        "title": "해고당한 투자팀장, 큰손들의 돈을 움직인다",
+        "author": "라데우",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
