@@ -294814,5 +294814,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-27T01:00:45.896728+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610796",
+        "title": "아포쉘터 쫓겨나고 주상복합 각성함",
+        "author": "순살키친",
+        "view_count": 548,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612123",
+        "title": "생활용 부적인데 성능이 미쳤다",
+        "author": "하우트",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610917",
+        "title": "연기 천재인줄 모르고 해고당함",
+        "author": "러데",
+        "view_count": 156,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615468",
+        "title": "해고 당했는데, 나만 저주를 풀 수 있음.",
+        "author": "크림파이",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614665",
+        "title": "무한 과금 네크로맨서는 해골 병사가 너무 강함",
+        "author": "시르베르",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612889",
+        "title": "해고당한 작곡가가 업계 깡패임",
+        "author": "백시헌",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615542",
+        "title": "나를 해고하자 게이트가 다운됐다",
+        "author": "진짜잉",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612852",
+        "title": "평양 증발시킨 외계함선의 주인이 되었다!",
+        "author": "LunStellar",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616243",
+        "title": "퇴사한 강 팀장이 작곡 천재였다",
+        "author": "가좌",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
