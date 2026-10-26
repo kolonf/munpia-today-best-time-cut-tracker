@@ -294238,5 +294238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-26T21:00:45.639363+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 577,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612660",
+        "title": "불손한 박 과장 앞에서 사장도 벌벌 떰",
+        "author": "만슬라",
+        "view_count": 301,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 175,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612125",
+        "title": "무한의 상상력을 가진 소년은 게임 만드는 게 너무 쉽다",
+        "author": "나일함",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612132",
+        "title": "마나무한으로 탑 등반",
+        "author": "구장개",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614344",
+        "title": "각성했는데 트레이드 당함",
+        "author": "유세",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613628",
+        "title": "나 혼자 각성자인데 유튜브를 탑 등반",
+        "author": "마인부유",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 케데헌급 애니를 만듦",
+        "author": "RUT",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610871",
+        "title": "다섯 살 천재는 바이올린이 너무 쉬움",
+        "author": "과로사",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614731",
+        "title": "조선농사꾼이 대항해시대 해적왕으로 착각당함",
+        "author": "담하파",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
