@@ -299134,5 +299134,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-28T03:30:37.466684+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 603,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613217",
+        "title": "해고당한 서버관리자가 업계를 씹어먹음",
+        "author": "게로데",
+        "view_count": 353,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612110",
+        "title": "방출된 타자가 재능을 수집함",
+        "author": "주창범",
+        "view_count": 167,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612643",
+        "title": "퇴사 후 식당 차렸는데 거물들이 줄을 선다",
+        "author": "사바이",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613467",
+        "title": "해고당한 연금술사가 미궁에서 돈을 쓸어 담음",
+        "author": "홍사과",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612889",
+        "title": "해고당한 작곡가가 업계 깡패임",
+        "author": "백시헌",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611831",
+        "title": "퇴사 후 로또1등 당첨됐는데 돈이 미친 듯 불어남",
+        "author": "루지뇨로",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612033",
+        "title": "버림받은 S급 헌터는 회귀했다",
+        "author": "준시최",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614807",
+        "title": "날 해고한 길드가 살려달란다",
+        "author": "딸기크레페",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613908",
+        "title": "방출된 투수가 160km를 던짐",
+        "author": "검은은하",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
