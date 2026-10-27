@@ -299038,5 +299038,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-28T03:00:47.620087+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 587,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 341,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612653",
+        "title": "대영제국에서 사람 찔렀더니 귀족들이 환장함",
+        "author": "글거북.",
+        "view_count": 156,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612125",
+        "title": "무한의 상상력을 가진 소년은 게임 만드는 게 너무 쉽다",
+        "author": "나일함",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615454",
+        "title": "해고당한 후 미국 시골에서 만능수리공이 되었다.",
+        "author": "Ashmor",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614334",
+        "title": "거물들이 줄 서는 신점방송",
+        "author": "벨노트",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616375",
+        "title": "나 혼자만 회전력999,999,999 휠힌드로 탑 공략",
+        "author": "30센치작가",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616670",
+        "title": "배신당한 EX급 헌터가 한국을 떠남",
+        "author": "찰하리",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
