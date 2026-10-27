@@ -467711,5 +467711,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-27T17:00:47.952827+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610327",
+        "title": "반도체 공정개발 천재인데 해고당함",
+        "author": "황금꼬미",
+        "view_count": 3104,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 1884,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광을 빙하기 벙커로 바꿈",
+        "author": "과묵한구리",
+        "view_count": 1113,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 760,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 576,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 481,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610796",
+        "title": "아포쉘터 쫓겨나고 주상복합 각성함",
+        "author": "순살키친",
+        "view_count": 377,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "604051",
+        "title": "구한말 핵잠이 일본에 핵을 떨굼",
+        "author": "정사부",
+        "view_count": 315,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603762",
+        "title": "퓨전펑크 천재 해커는 외신을 해킹한다",
+        "author": "범미르",
+        "view_count": 264,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "610208",
+        "title": "퇴사 대란 IMF 전에 한국을 공매도 쳤다.",
+        "author": "일환(溢環)",
+        "view_count": 200,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
