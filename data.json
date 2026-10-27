@@ -468095,5 +468095,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-27T19:00:47.027617+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608304",
+        "title": "해고당한 이 과장은 슈퍼왕",
+        "author": "테드K",
+        "view_count": 3163,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603795",
+        "title": "나만 오르는 주식이 보임",
+        "author": "백우랑",
+        "view_count": 1975,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607476",
+        "title": "징집된 우주 해병은 탑 등반이 쉽다",
+        "author": "[동주]",
+        "view_count": 1317,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 812,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609116",
+        "title": "해고당한 만년 부장이 회귀함",
+        "author": "복면작가",
+        "view_count": 607,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612381",
+        "title": "해고, 파혼 당한 후 재벌가 손자가 되었다",
+        "author": "yespro",
+        "view_count": 465,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610440",
+        "title": "퇴사한 김 과장에 전세계 화학업계가 집착함",
+        "author": "MaUna",
+        "view_count": 356,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612110",
+        "title": "방출된 타자가 재능을 수집함",
+        "author": "주창범",
+        "view_count": 301,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 230,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608378",
+        "title": "보초 서기 싫은 말년 병장이 1차대전 명장이 됨",
+        "author": "고월888",
+        "view_count": 179,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
