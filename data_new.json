@@ -297502,5 +297502,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-27T17:30:38.434050+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 580,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611538",
+        "title": "해고당한 외과 의사가 손만 대면 다 살림",
+        "author": "설흔(說痕)",
+        "view_count": 332,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 167,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611349",
+        "title": "내 리뷰 하나에 모든 업계가 매달림",
+        "author": "오천자",
+        "view_count": 111,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612396",
+        "title": "무인도에서 나왔더니 대주주였다",
+        "author": "블랙카드",
+        "view_count": 87,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612399",
+        "title": "유배지로 쫓겨난 에이스가 일하는 방식",
+        "author": "몬도리아",
+        "view_count": 67,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614431",
+        "title": "탑 등반 시대에 나 홀로 대장장이",
+        "author": "Praba",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612443",
+        "title": "퇴출당한 헌터가 미국에서 승승장구함",
+        "author": "hsn22",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613759",
+        "title": "버려진 F급 서포터는 아포칼립스가 너무 쉽다",
+        "author": "서리빠마",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613947",
+        "title": "남궁세가 역대급 권법 천재",
+        "author": "이온",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
