@@ -473279,5 +473279,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-28T19:30:40.131799+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608304",
+        "title": "해고당한 이 과장은 슈퍼왕",
+        "author": "테드K",
+        "view_count": 3296,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 1957,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 1160,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "599567",
+        "title": "외계 행성에서 살아남기",
+        "author": "체엔",
+        "view_count": 752,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609865",
+        "title": "마법 먹는 마법사",
+        "author": "수박복숭아",
+        "view_count": 590,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612197",
+        "title": "해고당한 짐꾼의 S급 던전 생존기",
+        "author": "유리뼈",
+        "view_count": 419,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612660",
+        "title": "주식 차트의 목소리가 들려",
+        "author": "만슬라",
+        "view_count": 339,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598946",
+        "title": "게이트에서 주운 열쇠로 우주 전함의 함장이 되었다",
+        "author": "헬뮤티",
+        "view_count": 263,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612883",
+        "title": "국가한테 해고 당하고 EX급 농사꾼으로 각성함",
+        "author": "나는뉴비",
+        "view_count": 233,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606248",
+        "title": "삼국지: 퇴사한 술상무가 너무 유능하다",
+        "author": "은수랑",
+        "view_count": 166,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
