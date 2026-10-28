@@ -303262,5 +303262,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T02:30:38.794184+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612551",
+        "title": "재무팀 핵심 에이스가 해고당하자 회사가 파산 위기",
+        "author": "웹소툰",
+        "view_count": 613,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612443",
+        "title": "퇴출당한 헌터가 미국에서 승승장구함",
+        "author": "hsn22",
+        "view_count": 374,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613476",
+        "title": "혼외자가 1000조를 벌었다",
+        "author": "소수림",
+        "view_count": 185,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615207",
+        "title": "한국으로 돌아왔더니 국가권력급 헌터가 됨",
+        "author": "아난티",
+        "view_count": 114,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615454",
+        "title": "해고당한 후 미국 시골에서 만능수리공이 되었다.",
+        "author": "Ashmor",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615438",
+        "title": "강제로 탑 관리자로 입사했더니 미국 대통령이 집착한다",
+        "author": "낙필",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612455",
+        "title": "퇴사 후 역대급 미국 목장의 주인이 되었다",
+        "author": "고옹",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611993",
+        "title": "귀농 후 텃밭에 외계 작물이 대박남",
+        "author": "귤잠꾼",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613908",
+        "title": "방출된 투수가 160km를 던짐",
+        "author": "검은은하",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615251",
+        "title": "회귀한 셰프가 비트코인으로 재벌이 됨",
+        "author": "박보스",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
