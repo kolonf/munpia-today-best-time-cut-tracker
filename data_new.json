@@ -302974,5 +302974,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T01:00:45.803311+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 595,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 355,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613476",
+        "title": "혼외자가 1000조를 벌었다",
+        "author": "소수림",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614344",
+        "title": "각성했는데 트레이드 당함",
+        "author": "유세",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615454",
+        "title": "해고당한 후 미국 시골에서 만능수리공이 되었다.",
+        "author": "Ashmor",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610814",
+        "title": "이성계의 2회차는 임진왜란",
+        "author": "너기누기",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608005",
+        "title": "해고당한 상사맨이 회사 본체였음",
+        "author": "콘페이토",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614303",
+        "title": "퇴사한 천마는 탑이 너무 쉬움",
+        "author": "글쓰는벌레",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615123",
+        "title": "모든 수술을 완벽하게 해내는 의사는 해고당했다.",
+        "author": "코어통견",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614755",
+        "title": "보조작가 대본에 탑스타가 매달림",
+        "author": "피자소주",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
