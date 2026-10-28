@@ -471359,5 +471359,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-28T10:00:45.617238+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사는 모든 것이 쉽다",
+        "author": "자몽라임",
+        "view_count": 3322,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607344",
+        "title": "이혼당한 데릴사위가 초국가적 재벌 후계자",
+        "author": "라쿤캣",
+        "view_count": 1961,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "609891",
+        "title": "퇴사후 잭팟터져서 힐링하는데 경영천재로 착각당했다",
+        "author": "도마뱀작가",
+        "view_count": 1273,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 761,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 522,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 424,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598840",
+        "title": "운석충돌을 막는 수선자가 되었다",
+        "author": "맛소금타로",
+        "view_count": 361,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609613",
+        "title": "선협 망나니의 스킬 흡수",
+        "author": "흑도객",
+        "view_count": 297,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606248",
+        "title": "삼국지: 퇴사한 술상무가 너무 유능하다",
+        "author": "은수랑",
+        "view_count": 241,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614031",
+        "title": "해고당한 김대리가 재앙급 귀환자",
+        "author": "펜리힐드",
+        "view_count": 179,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
