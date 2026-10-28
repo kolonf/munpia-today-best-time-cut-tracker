@@ -302110,5 +302110,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-28T19:30:38.459988+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 658,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612110",
+        "title": "방출된 타자가 재능을 수집함",
+        "author": "주창범",
+        "view_count": 369,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614913",
+        "title": "특허 괴물인 줄 모르고 해고당했다",
+        "author": "배추나무",
+        "view_count": 187,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613881",
+        "title": "대충 쓴 습작인데 저작권료가 쏟아짐",
+        "author": "곽탁타",
+        "view_count": 120,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613584",
+        "title": "해고당하고 무한히 성장하는 1조 셸터를 얻었다",
+        "author": "복숭아커피",
+        "view_count": 87,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615123",
+        "title": "모든 수술을 완벽하게 해내는 의사는 해고당했다.",
+        "author": "코어통견",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니 업계를 지배함",
+        "author": "RUT",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617019",
+        "title": "해고당한 EX급 헌터가 그냥 국가를 세움",
+        "author": "유명한작가",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615604",
+        "title": "아공간 10000개 1000년 숙성했더니 세상이 안망함",
+        "author": "구채",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616369",
+        "title": "나 하나 잘랐다고, 대기업들이 줄줄이 부도남",
+        "author": "또녜",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
