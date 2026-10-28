@@ -303934,5 +303934,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T06:00:44.026882+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 677,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612443",
+        "title": "퇴출당한 헌터가 미국에서 승승장구함",
+        "author": "hsn22",
+        "view_count": 402,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613472",
+        "title": "이혼에 해고까지 당한 데릴사위에게 회장님이 무릎 꿇음",
+        "author": "만전",
+        "view_count": 207,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611132",
+        "title": "나, 트럼프가 되었다!",
+        "author": "배천",
+        "view_count": 116,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612586",
+        "title": "분신술 쓰는 국선변호사는 소시오패스",
+        "author": "서칸더브이",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612852",
+        "title": "평양 증발시킨 외계함선의 주인이 되었다!",
+        "author": "LunStellar",
+        "view_count": 67,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612733",
+        "title": "희망퇴직하고 고향 왔는데 독일 바이어가 집착함",
+        "author": "뒷자리",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610871",
+        "title": "다섯 살 천재는 바이올린이 너무 쉬움",
+        "author": "과로사",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613504",
+        "title": "2050년 대한민국이 일제강점기에 떨어짐",
+        "author": "카나레이",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615028",
+        "title": "특허 뺏은 재벌을 직접 밟았다",
+        "author": "바람조율사",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
