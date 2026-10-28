@@ -475871,5 +475871,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T08:00:48.363893+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610555",
+        "title": "쫓겨난 방송작가가 자꾸 잘됨",
+        "author": "김한가",
+        "view_count": 3224,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607203",
+        "title": "회귀한 구원 투수가 경기를 자꾸 이김",
+        "author": "금문장",
+        "view_count": 1998,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608696",
+        "title": "해고 후 내 기술에 기업들이 집착함",
+        "author": "진주냉면",
+        "view_count": 1282,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612029",
+        "title": "거짓말하면 죽는 국회의원이 여의도를 지배한다",
+        "author": "글향",
+        "view_count": 809,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 594,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603762",
+        "title": "퓨전펑크 천재 해커는 외신을 해킹한다",
+        "author": "범미르",
+        "view_count": 451,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 363,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606357",
+        "title": "삼국지: 망해버린 가문의 가주가 되었다",
+        "author": "지돌띠",
+        "view_count": 317,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612199",
+        "title": "해고 당한 작곡가가 업계를 씹어 먹음",
+        "author": "글로운",
+        "view_count": 249,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614422",
+        "title": "무림맹 지하감옥의 폐공수(廢功手)",
+        "author": "강다로",
+        "view_count": 191,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
