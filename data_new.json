@@ -302302,5 +302302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-28T20:30:38.806864+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 715,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612660",
+        "title": "주식 차트의 목소리가 들려",
+        "author": "만슬라",
+        "view_count": 353,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 164,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616230",
+        "title": "퇴사한 회사원이 기술 천재로 승승장구함",
+        "author": "꿈가득남",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611978",
+        "title": "해고당한 주인공은 1층에서 안 올라가고 싶음",
+        "author": "부팅",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614755",
+        "title": "보조작가 대본에 탑스타가 매달림",
+        "author": "피자소주",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614330",
+        "title": "미국에서 망한 공장을 샀더니 주문이 폭주함",
+        "author": "만점",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607308",
+        "title": "회장님 비자금으로 1경 재벌!",
+        "author": "흑곰작가",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614829",
+        "title": "삼국지, 즉사기 엄백호",
+        "author": "에필로거",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612483",
+        "title": "선조가 조선을 너무 강하게 만들었다",
+        "author": "열무우",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
