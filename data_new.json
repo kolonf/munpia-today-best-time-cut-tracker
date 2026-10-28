@@ -303070,5 +303070,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T01:30:41.485238+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613070",
+        "title": "게이트 속 거래처가 내 인맥인 줄 모르고 해고당함",
+        "author": "뜨끈아이스",
+        "view_count": 578,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612033",
+        "title": "버림받은 S급 헌터는 회귀했다",
+        "author": "준시최",
+        "view_count": 371,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612653",
+        "title": "대영제국에서 사람 찔렀더니 귀족들이 환장함",
+        "author": "글거북.",
+        "view_count": 182,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614704",
+        "title": "짤린 노동자가 쓰레기만 주웠는데 대기업이 줄을 선다",
+        "author": "강그린",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612586",
+        "title": "분신술 쓰는 국선변호사는 소시오패스",
+        "author": "서칸더브이",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612396",
+        "title": "무인도에서 나왔더니 대주주였다",
+        "author": "블랙카드",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616935",
+        "title": "예술대 입학하자마자 업계가 집착함",
+        "author": "자경(蔗境)",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611993",
+        "title": "귀농 후 텃밭에 외계 작물이 대박남",
+        "author": "귤잠꾼",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615018",
+        "title": "삼국지, 는 고구려가 먹겠습니다",
+        "author": "월진.",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616295",
+        "title": "선협 놈들은 안전불감증이다",
+        "author": "오늘은거",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
