@@ -474623,5 +474623,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T02:00:51.848731+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "597879",
+        "title": "잠수사가 폐광을 빙하기 벙커로 바꿈",
+        "author": "과묵한구리",
+        "view_count": 2898,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608530",
+        "title": "해고당한 의사가 병원 최고였다",
+        "author": "오두리리",
+        "view_count": 1709,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608614",
+        "title": "해고당한 펀드 매니저한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 1065,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 690,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 522,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606662",
+        "title": "퇴사 후 파워볼 당첨되고 철도 재벌이 됨",
+        "author": "미친재능",
+        "view_count": 407,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609792",
+        "title": "나혼자 초월강화로 SSS급 탑등반",
+        "author": "싸리또리",
+        "view_count": 336,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612884",
+        "title": "전역한 기사가 너무 유능함",
+        "author": "자리zary",
+        "view_count": 270,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 209,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615468",
+        "title": "해고 당했는데, 나만 저주를 풀 수 있음.",
+        "author": "크림파이",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
