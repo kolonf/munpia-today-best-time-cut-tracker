@@ -302494,5 +302494,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-28T22:00:50.785033+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612029",
+        "title": "거짓말하면 죽는 국회의원이 여의도를 지배한다",
+        "author": "글향",
+        "view_count": 644,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 329,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612653",
+        "title": "대영제국에서 사람 찔렀더니 귀족들이 환장함",
+        "author": "글거북.",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611978",
+        "title": "해고당한 주인공은 1층에서 안 올라가고 싶음",
+        "author": "부팅",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615438",
+        "title": "강제로 탑 관리자로 입사했더니 미국 대통령이 집착한다",
+        "author": "낙필",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614373",
+        "title": "미국 식당을 물려받았는데 가족이 생겼다",
+        "author": "소설마표",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610911",
+        "title": "16세기 말, 대영제국에 웹소설을 풀었다",
+        "author": "류도율",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "604035",
+        "title": "엽기 신투지가",
+        "author": "편광(片光)",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615938",
+        "title": "상속 받은 똥값 땅이 3000억이 됐다",
+        "author": "지킨",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
