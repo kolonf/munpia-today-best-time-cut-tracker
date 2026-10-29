@@ -308062,5 +308062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T06:30:37.429539+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 747,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 425,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615299",
+        "title": "대체불가능한 SSS급 마수 조련사가 해고당함",
+        "author": "마지막검사",
+        "view_count": 281,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614344",
+        "title": "각성했는데 트레이드 당함",
+        "author": "유세",
+        "view_count": 140,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612125",
+        "title": "운명에게 버려진 천재 소년이 게임을 잘 만듦",
+        "author": "나일함",
+        "view_count": 103,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612852",
+        "title": "평양 증발시킨 외계함선의 주인이 되었다!",
+        "author": "LunStellar",
+        "view_count": 78,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615006",
+        "title": "나 혼자 전설 아이템 999,999,999개로 탑 날먹",
+        "author": "시공전사",
+        "view_count": 60,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612536",
+        "title": "해고 후 연금복권 1등으로 쌍둥이와 힐링하는 관장님",
+        "author": "이하담담",
+        "view_count": 48,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612483",
+        "title": "선조가 조선을 너무 강하게 만들었다",
+        "author": "열무우",
+        "view_count": 41,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614781",
+        "title": "퇴사했더니 전 직장이 망하기 시작했다",
+        "author": "신들의정원",
+        "view_count": 35,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
