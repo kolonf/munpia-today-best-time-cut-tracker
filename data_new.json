@@ -304510,5 +304510,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T09:30:37.633357+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612197",
+        "title": "해고당한 짐꾼의 S급 던전 생존기",
+        "author": "유리뼈",
+        "view_count": 615,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 380,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614422",
+        "title": "무림맹 지하감옥의 폐공수(廢功手)",
+        "author": "강다로",
+        "view_count": 209,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613613",
+        "title": "폐업 직전 내 공장에 이세계 금화가 쏟아짐",
+        "author": "toAny",
+        "view_count": 118,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613624",
+        "title": "배신한 회사 참교육하러 금감원으로 회귀함",
+        "author": "꼬노네",
+        "view_count": 90,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612917",
+        "title": "해고에 이혼까지 당한 변호사",
+        "author": "재밌닭",
+        "view_count": 74,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608005",
+        "title": "해고당한 상사맨이 회사 본체였음",
+        "author": "콘페이토",
+        "view_count": 56,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614241",
+        "title": "방출 직전 4조 파워볼에 당첨됐다",
+        "author": "Guybrush",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615867",
+        "title": "해고당한 신 과장은 EX급 서포터였다",
+        "author": "후양煦揚",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616271",
+        "title": "꼼수로 섭종각 막았더니 해고당함",
+        "author": "곰산타",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
