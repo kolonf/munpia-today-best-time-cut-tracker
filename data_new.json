@@ -305662,5 +305662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T16:30:36.471674+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 673,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 400,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 260,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614135",
+        "title": "퇴사하고 S급 아공간으로 방앗간 키웁니다",
+        "author": "용풍호",
+        "view_count": 141,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612132",
+        "title": "마나무한으로 탑 등반",
+        "author": "구장개",
+        "view_count": 107,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615251",
+        "title": "회귀한 셰프가 비트코인으로 재벌이 됨",
+        "author": "박보스",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614778",
+        "title": "해고당한 절대자가 국회에 당선됨",
+        "author": "[쥬시]",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614330",
+        "title": "미국에서 망한 공장을 샀더니 주문이 폭주함",
+        "author": "만점",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617136",
+        "title": "국가에 버림받은 국정원 요원에게 CIA가 집착함",
+        "author": "임완",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
