@@ -307006,5 +307006,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T00:30:37.776238+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 645,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607137",
+        "title": "파워볼로 인수한 미국 동물원이 너무 잘된다",
+        "author": "운향림",
+        "view_count": 376,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612199",
+        "title": "궁합 보는 프로듀서",
+        "author": "글로운",
+        "view_count": 220,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611132",
+        "title": "나, 트럼프가 되었다!",
+        "author": "배천",
+        "view_count": 120,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612125",
+        "title": "운명에게 버려진 천재 소년이 게임을 잘 만듦",
+        "author": "나일함",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612111",
+        "title": "요리만 했는데 자꾸 합스부르크가 떡상한다",
+        "author": "가배치",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614856",
+        "title": "해고당했더니 신의 설계도가 생겼다",
+        "author": "강야수",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615123",
+        "title": "환자 마음까지 어루만져 주던 의사는 해고당함",
+        "author": "코어통견",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616064",
+        "title": "국가에 버림받고 탑에 집을 차렸더니 아포칼립스",
+        "author": "라면스프밥",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604035",
+        "title": "엽기 신투지가",
+        "author": "편광(片光)",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
