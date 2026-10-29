@@ -305182,5 +305182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T13:30:37.182215+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 624,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 398,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615468",
+        "title": "해고 당했는데, 나만 저주를 풀 수 있음.",
+        "author": "크림파이",
+        "view_count": 234,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613613",
+        "title": "폐업 직전 내 공장에 이세계 금화가 쏟아짐",
+        "author": "toAny",
+        "view_count": 134,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613624",
+        "title": "배신한 회사 참교육하러 금감원으로 회귀함",
+        "author": "꼬노네",
+        "view_count": 99,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611978",
+        "title": "해고당한 주인공은 1층에서 안 올라가고 싶음",
+        "author": "부팅",
+        "view_count": 68,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614402",
+        "title": "퇴물인 줄 알고 버렸더니 EX급 갑질천재",
+        "author": "홍삼더덕",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616295",
+        "title": "선협 놈들은 안전불감증이다",
+        "author": "오늘은거",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615385",
+        "title": "아포칼립스에 나 혼자 1000조 요새",
+        "author": "딸기크레페",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615796",
+        "title": "버림받은 F급 광물채집자의 미국 힐링 라이프",
+        "author": "몽꾼",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
