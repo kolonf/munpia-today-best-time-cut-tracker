@@ -479327,5 +479327,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T00:30:42.849598+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600130",
+        "title": "7억년 앞선 외계 기술로 탑 농락",
+        "author": "땡시기",
+        "view_count": 2857,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612096",
+        "title": "280만 유튜버 만들어줬더니 해고당함",
+        "author": "새벽감자",
+        "view_count": 1625,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593035",
+        "title": "삼국지 공명짭인데 공명보다 잘한다",
+        "author": "글못쓰는놈",
+        "view_count": 1013,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610537",
+        "title": "아무래도 GTA 속에 떨어진 것 같다",
+        "author": "선우(仙宇)",
+        "view_count": 617,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612123",
+        "title": "생활용 부적인데 성능이 미쳤다",
+        "author": "하우트",
+        "view_count": 456,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607137",
+        "title": "파워볼로 인수한 미국 동물원이 너무 잘된다",
+        "author": "운향림",
+        "view_count": 388,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 319,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609613",
+        "title": "선협 망나니의 스킬 흡수",
+        "author": "흑도객",
+        "view_count": 253,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "599567",
+        "title": "외계 행성에서 살아남기",
+        "author": "체엔",
+        "view_count": 201,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613486",
+        "title": "레이드 공략 다 써줬더니 해고당했다.",
+        "author": "갓뎀로취",
+        "view_count": 152,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
