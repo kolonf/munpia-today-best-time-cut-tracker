@@ -307102,5 +307102,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T01:30:37.119654+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 629,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612033",
+        "title": "버림받은 S급 헌터는 회귀했다",
+        "author": "준시최",
+        "view_count": 386,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 229,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 125,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612125",
+        "title": "운명에게 버려진 천재 소년이 게임을 잘 만듦",
+        "author": "나일함",
+        "view_count": 91,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613424",
+        "title": "전 세계가 쫓는 천재 해커가 나라는 걸 아무도 모른다.",
+        "author": "연백230",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614856",
+        "title": "해고당했더니 신의 설계도가 생겼다",
+        "author": "강야수",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616924",
+        "title": "해고당하고 비트코인덕분에 힐링합니다",
+        "author": "킥앤런",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611947",
+        "title": "마왕을 죽인 건 나였는데?",
+        "author": "몽중人",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616240",
+        "title": "빙하기 아포칼립스인데 내 텐트만 레벨업함",
+        "author": "챠슈",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
