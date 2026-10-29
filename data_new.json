@@ -306238,5 +306238,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T20:00:44.805650+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 751,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612110",
+        "title": "방출된 타자가 재능을 수집함",
+        "author": "주창범",
+        "view_count": 397,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 242,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614704",
+        "title": "짤린 노동자가 쓰레기만 주웠는데 대기업이 줄을 선다",
+        "author": "강그린",
+        "view_count": 135,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610814",
+        "title": "이성계의 2회차는 임진왜란",
+        "author": "너기누기",
+        "view_count": 92,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614402",
+        "title": "퇴물인 줄 알고 버렸더니 EX급 갑질천재",
+        "author": "홍삼더덕",
+        "view_count": 71,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616064",
+        "title": "국가에 버림받고 탑에 집을 차렸더니 아포칼립스",
+        "author": "라면스프밥",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614856",
+        "title": "해고당했더니 신의 설계도가 생겼다",
+        "author": "강야수",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617510",
+        "title": "임신한 전 여친이 재벌집 외동딸인 줄 모르고 해고당했다",
+        "author": "늬파랑",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616483",
+        "title": "해고당했더니 손님이 몰려든다",
+        "author": "라데우",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
