@@ -305470,5 +305470,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-29T15:00:42.464854+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612206",
+        "title": "1800억이 생긴 김에 인생 좀 즐기겠습니다.",
+        "author": "BlackSwan.",
+        "view_count": 670,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612381",
+        "title": "해고, 파혼 당한 후 재벌가 손자가 되었다",
+        "author": "yespro",
+        "view_count": 355,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612273",
+        "title": "10년간 준비한 아포칼립스",
+        "author": "느린생각",
+        "view_count": 218,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614584",
+        "title": "해상 아포칼립스에서 유일한 건물주가 되었다",
+        "author": "스틸훈",
+        "view_count": 130,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 100,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612399",
+        "title": "유배지로 쫓겨난 에이스가 일하는 방식",
+        "author": "몬도리아",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616750",
+        "title": "해고당한 네크로맨서가 초월특전을 받음",
+        "author": "남다른",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612199",
+        "title": "해고 당한 작곡가가 업계를 씹어 먹음",
+        "author": "글로운",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615385",
+        "title": "아포칼립스에 나 혼자 1000조 요새",
+        "author": "딸기크레페",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616590",
+        "title": "유일하게 각성했는데 국외추방 당함",
+        "author": "NZ",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
