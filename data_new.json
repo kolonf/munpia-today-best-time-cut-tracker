@@ -311902,5 +311902,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T07:00:42.085106+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 753,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611507",
+        "title": "구멍 파기가 사기 스킬인 줄 나도 몰랐음",
+        "author": "BBing",
+        "view_count": 396,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613472",
+        "title": "이혼에 해고까지 당한 데릴사위에게 회장님이 무릎 꿇음",
+        "author": "만전",
+        "view_count": 277,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 130,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612763",
+        "title": "입대 첫날 대대장이 되었다",
+        "author": "개인전",
+        "view_count": 94,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612852",
+        "title": "평양 증발시킨 외계함선의 주인이 되었다!",
+        "author": "LunStellar",
+        "view_count": 71,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614656",
+        "title": "아프리카 축구 천재들이 내 훈수에 집착함",
+        "author": "탈주병",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616750",
+        "title": "해고당한 네크로맨서가 초월특전을 받음",
+        "author": "남다른",
+        "view_count": 48,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613504",
+        "title": "2050년 대한민국이 일제강점기에 떨어짐",
+        "author": "카나레이",
+        "view_count": 41,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615791",
+        "title": "해고 후 신내림으로 재벌 됨",
+        "author": "달백자기",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
