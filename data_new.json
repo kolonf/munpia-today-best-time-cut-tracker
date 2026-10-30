@@ -311326,5 +311326,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T02:30:38.455700+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 695,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613480",
+        "title": "미래 코드를 읽는 개발자는 차원이 다르다",
+        "author": "해물조림",
+        "view_count": 378,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613472",
+        "title": "이혼에 해고까지 당한 데릴사위에게 회장님이 무릎 꿇음",
+        "author": "만전",
+        "view_count": 233,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612102",
+        "title": "해고당한 대장장이가 신급 무기를 찍어냄",
+        "author": "김산본",
+        "view_count": 118,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612392",
+        "title": "해고 하신다길래 기업사냥꾼이 되었습니다.",
+        "author": "말랑제이",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615947",
+        "title": "해고당한 F급 헌터에게 전 국민이 집착함",
+        "author": "S밴드",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615018",
+        "title": "삼국지, 는 고구려가 먹겠습니다",
+        "author": "월진.",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614856",
+        "title": "해고당했더니 신의 설계도가 생겼다",
+        "author": "강야수",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616935",
+        "title": "예술대 입학하자마자 업계가 집착함",
+        "author": "자경(蔗境)",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616292",
+        "title": "1조 벌었는데 탑에 들어가게 생김",
+        "author": "염비",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
