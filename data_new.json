@@ -311230,5 +311230,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T02:00:44.375084+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 671,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613994",
+        "title": "탑 국적으로 귀화한 SS급헌터가 전 세계탑을 싹쓸이함",
+        "author": "데포르메",
+        "view_count": 377,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614665",
+        "title": "무한 과금 네크로맨서는 해골 병사가 너무 강함",
+        "author": "시르베르",
+        "view_count": 221,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612102",
+        "title": "해고당한 대장장이가 신급 무기를 찍어냄",
+        "author": "김산본",
+        "view_count": 117,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614330",
+        "title": "미국에서 망한 공장을 샀더니 주문이 폭주함",
+        "author": "만점",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615947",
+        "title": "해고당한 F급 헌터에게 전 국민이 집착함",
+        "author": "S밴드",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615018",
+        "title": "삼국지, 는 고구려가 먹겠습니다",
+        "author": "월진.",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615650",
+        "title": "해고당한 헌터가 초월급 네크로맨서로 각성함",
+        "author": "유주안",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610871",
+        "title": "다섯 살 천재는 바이올린이 너무 쉬움",
+        "author": "과로사",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616999",
+        "title": "의적질로 대박 나서 파리에 건물 세움",
+        "author": "지나83",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
