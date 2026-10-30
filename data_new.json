@@ -310750,5 +310750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T23:00:45.122832+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 631,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 349,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613476",
+        "title": "혼외자가 1000조를 벌었다",
+        "author": "소수림",
+        "view_count": 213,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613908",
+        "title": "방출된 투수가 160km를 던짐",
+        "author": "검은은하",
+        "view_count": 118,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612392",
+        "title": "해고 하신다길래 기업사냥꾼이 되었습니다.",
+        "author": "말랑제이",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615018",
+        "title": "삼국지, 는 고구려가 먹겠습니다",
+        "author": "월진.",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617510",
+        "title": "임신한 전 여친이 재벌집 외동딸인 줄 모르고 해고당했다",
+        "author": "늬파랑",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615650",
+        "title": "해고당한 헌터가 초월급 네크로맨서로 각성함",
+        "author": "유주안",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613200",
+        "title": "사도세자가 너무 똑똑함",
+        "author": "인더정글",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
