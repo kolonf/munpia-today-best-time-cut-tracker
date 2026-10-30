@@ -484223,5 +484223,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T00:00:47.656352+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603136",
+        "title": "아버지 밭 아래 초호화 쉘터가 있었다",
+        "author": "나니모노",
+        "view_count": 2931,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613544",
+        "title": "S급 헌터들이 내 소환수인 걸 모르고 버림받음.",
+        "author": "제로필터",
+        "view_count": 1602,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 1037,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614016",
+        "title": "미국에서 은퇴당한 헌터가 귀촌 후 개꿀빱니다",
+        "author": "테르치",
+        "view_count": 692,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "609841",
+        "title": "비자발적 정조의 애착노예",
+        "author": "고스름도치",
+        "view_count": 481,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "603078",
+        "title": "귀환한 삼촌은 EX급이었다.",
+        "author": "선비의붓",
+        "view_count": 380,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 311,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609344",
+        "title": "해고당한 만렙 귀환자는 돈 많은 백수를 희망함",
+        "author": "곰슈",
+        "view_count": 248,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 196,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603599",
+        "title": "예쁜 아내와 농사 지으며 힐링하는데 탑 등반도 잘함",
+        "author": "개벽S",
+        "view_count": 153,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
