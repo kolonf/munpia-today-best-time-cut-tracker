@@ -483935,5 +483935,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T22:30:39.151631+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 3113,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610470",
+        "title": "멸망 1년 전, 나 혼자 예언서로 독식함",
+        "author": "싱글레어",
+        "view_count": 1930,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610327",
+        "title": "반도체 공정개발 천재인데 해고당함",
+        "author": "황금꼬미",
+        "view_count": 1133,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 743,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 505,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612123",
+        "title": "생활용 부적인데 성능이 미쳤다",
+        "author": "하우트",
+        "view_count": 394,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613994",
+        "title": "탑 국적으로 귀화한 SS급헌터가 전 세계탑을 싹쓸이함",
+        "author": "데포르메",
+        "view_count": 327,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "603811",
+        "title": "철종, 제국의 시대",
+        "author": "박명의하늘",
+        "view_count": 251,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612884",
+        "title": "전역한 기사가 너무 유능함",
+        "author": "자리zary",
+        "view_count": 192,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615486",
+        "title": "삼국지에서 18제후 포신으로 살아남기",
+        "author": "다작김절필",
+        "view_count": 148,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
