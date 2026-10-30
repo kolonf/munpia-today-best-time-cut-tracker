@@ -310270,5 +310270,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T20:30:39.687512+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616039",
+        "title": "정령들이 내 소유인 줄 모르고 좌천당함",
+        "author": "판노리",
+        "view_count": 786,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 382,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 225,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612586",
+        "title": "분신술 쓰는 국선변호사는 소시오패스",
+        "author": "서칸더브이",
+        "view_count": 127,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615438",
+        "title": "퇴사하고 탑 관리자로 입사했더니 세상 탑이 다 내 꺼",
+        "author": "낙필",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617136",
+        "title": "국가에 버림받은 국정원 요원에게 CIA가 집착함",
+        "author": "임완",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617084",
+        "title": "월클들이 집착하는 천재 코치가 되었다",
+        "author": "타인증",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614280",
+        "title": "B급 헌터인데 보상이 1 플러스 1",
+        "author": "배소리",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617406",
+        "title": "퇴사한 PD가 알고리즘의 신에게 간택당했다.",
+        "author": "레드풋",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
