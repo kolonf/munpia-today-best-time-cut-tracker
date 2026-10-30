@@ -311518,5 +311518,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T04:00:46.626381+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 722,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613480",
+        "title": "미래 코드를 읽는 개발자는 차원이 다르다",
+        "author": "해물조림",
+        "view_count": 383,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613472",
+        "title": "이혼에 해고까지 당한 데릴사위에게 회장님이 무릎 꿇음",
+        "author": "만전",
+        "view_count": 248,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615454",
+        "title": "해고당한 후 미국 시골에서 만능수리공이 되었다.",
+        "author": "Ashmor",
+        "view_count": 120,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612392",
+        "title": "해고 하신다길래 기업사냥꾼이 되었습니다.",
+        "author": "말랑제이",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 67,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614656",
+        "title": "아프리카 축구 천재들이 내 훈수에 집착함",
+        "author": "탈주병",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613251",
+        "title": "강씨네 아들이 EX급으로 귀환함",
+        "author": "강무한",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616483",
+        "title": "해고당했더니 손님이 몰려든다",
+        "author": "라데우",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
