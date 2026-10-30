@@ -482399,5 +482399,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T15:00:43.738709+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607389",
+        "title": "해고당한 협회 직원이 각성 후 국가에 헌신을 안함",
+        "author": "우르스.",
+        "view_count": 3015,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608696",
+        "title": "해고당했더니 공장이 안 돌아감",
+        "author": "진주냉면",
+        "view_count": 1854,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사는 모든 것이 쉽다",
+        "author": "자몽라임",
+        "view_count": 1104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613307",
+        "title": "리콜 터진 대기업이 내 시골 텃밭에 무릎 꿇음",
+        "author": "무자본집필",
+        "view_count": 747,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610835",
+        "title": "해고당한 탱커가 히든 피스를 독식함",
+        "author": "산타클라스",
+        "view_count": 543,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611971",
+        "title": "내 프랑스 제국에 나폴레옹은 필요 없다",
+        "author": "브리스트",
+        "view_count": 445,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616672",
+        "title": "면직당한 블랙요원이 너무 유능하다",
+        "author": "안재인",
+        "view_count": 370,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612197",
+        "title": "해고당한 짐꾼의 S급 던전 생존기",
+        "author": "유리뼈",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601240",
+        "title": "육사출신 전술천재, 만주패왕이 되다",
+        "author": "백십칠",
+        "view_count": 247,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606662",
+        "title": "퇴사 후 파워볼 당첨되고 철도 재벌이 됨",
+        "author": "미친재능",
+        "view_count": 192,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
