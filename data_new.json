@@ -309022,5 +309022,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-30T13:00:41.066152+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612206",
+        "title": "1800억이 생긴 김에 인생 좀 즐기겠습니다.",
+        "author": "BlackSwan.",
+        "view_count": 656,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616230",
+        "title": "퇴사한 회사원이 기술 천재로 승승장구함",
+        "author": "꿈가득남",
+        "view_count": 417,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613175",
+        "title": "재벌집 무당 사위",
+        "author": "전장범",
+        "view_count": 231,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612091",
+        "title": "국정원에 천마가 들어왔다",
+        "author": "proveme",
+        "view_count": 145,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612852",
+        "title": "평양 증발시킨 외계함선의 주인이 되었다!",
+        "author": "LunStellar",
+        "view_count": 99,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613137",
+        "title": "1997년, 건설사 물려받고 1000조 재벌",
+        "author": "절대안정",
+        "view_count": 76,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614402",
+        "title": "퇴물인 줄 알고 버렸더니 EX급 갑질천재",
+        "author": "홍삼더덕",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614843",
+        "title": "매출 1위 게임 만든 줄 모르고 해고당함",
+        "author": "설소정",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617084",
+        "title": "월클들이 집착하는 천재 코치가 되었다",
+        "author": "타인증",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
