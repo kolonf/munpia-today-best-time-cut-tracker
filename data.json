@@ -486719,5 +486719,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T11:30:35.048509+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607817",
+        "title": "퇴사한 내과 의사는 모든 것이 쉽다",
+        "author": "자몽라임",
+        "view_count": 3340,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "603062",
+        "title": "퇴사당한 매니저에게 미국 탑스타들이 집착함",
+        "author": "프로필",
+        "view_count": 1862,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 차린 온천이 너무 잘됨",
+        "author": "힐링화원",
+        "view_count": 1027,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 664,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 513,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614135",
+        "title": "퇴사하고 S급 아공간으로 방앗간 키웁니다",
+        "author": "용풍호",
+        "view_count": 356,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609696",
+        "title": "EX급 방치형 영주가 되었다",
+        "author": "영구리94",
+        "view_count": 291,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "581406",
+        "title": "대한제국, 쿠데타로 정상화합니다.",
+        "author": "세래",
+        "view_count": 226,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 162,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
