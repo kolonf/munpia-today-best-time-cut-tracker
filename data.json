@@ -487967,5 +487967,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T17:30:38.279865+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612837",
+        "title": "전쟁이 싫어서 국방력에 올인했더니 전 세계가 벌벌 떰",
+        "author": "고락",
+        "view_count": 3157,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 1823,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610256",
+        "title": "해고당한 주방장이 너무 유능함",
+        "author": "긍은긍은",
+        "view_count": 994,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613544",
+        "title": "S급 헌터들이 내 소환수인 걸 모르고 버림받음.",
+        "author": "제로필터",
+        "view_count": 725,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 556,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 449,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614065",
+        "title": "쫓겨난 기술자가 고철로 S급 네크로맨서가 됐다",
+        "author": "유노이아",
+        "view_count": 372,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610440",
+        "title": "퇴사한 김 과장에 전세계 화학업계가 집착함",
+        "author": "MaUna",
+        "view_count": 297,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 228,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612061",
+        "title": "미래 시세가 보이는데 해고당함",
+        "author": "신수목",
+        "view_count": 167,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
