@@ -313246,5 +313246,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T16:30:35.323509+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 649,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615207",
+        "title": "한국으로 돌아왔더니 국가권력급 헌터가 됨",
+        "author": "아난티",
+        "view_count": 400,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 253,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613908",
+        "title": "방출된 투수가 160km를 던짐",
+        "author": "검은은하",
+        "view_count": 125,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615123",
+        "title": "해고당한 의사는 시골병원에서 재능을 꽃피웁니다",
+        "author": "코어통견",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613148",
+        "title": "아기 드워프가 탑 등반 안 하고 힐링함",
+        "author": "kangyou",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616494",
+        "title": "천재단장이 해고당하자 라이벌 팀이 모셔감",
+        "author": "자유수달",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617814",
+        "title": "권고사직 당했더니 각성함",
+        "author": ".로튼애플.",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614829",
+        "title": "삼국지, 즉사기 엄백호",
+        "author": "에필로거",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618040",
+        "title": "삼국지, 회귀한 장비가 술부터 끊음",
+        "author": "Mrpotato",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
