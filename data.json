@@ -489407,5 +489407,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T00:30:34.949773+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "605444",
+        "title": "서울에서 흡혈귀로 살아남기",
+        "author": "태양물고기",
+        "view_count": 2454,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 1469,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612354",
+        "title": "(귀)신들린 연기자",
+        "author": "burn8",
+        "view_count": 922,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610623",
+        "title": "해고당한 천재 코치가 너무 잘 가르침",
+        "author": "정예",
+        "view_count": 611,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위는 운세가 너무 좋다",
+        "author": "풍기킹",
+        "view_count": 459,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615468",
+        "title": "해고 당했는데, 나만 저주를 풀 수 있음.",
+        "author": "크림파이",
+        "view_count": 341,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610470",
+        "title": "멸망 1년 전, 나 혼자 예언서로 독식함",
+        "author": "싱글레어",
+        "view_count": 283,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609612",
+        "title": "폐업 직전 대장간을 인수했더니 S급 헌터들이 집착함",
+        "author": "샤이텔하우",
+        "view_count": 227,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609190",
+        "title": "핵심 특허가 내 것인데 그런 나를 해고함!",
+        "author": "오렌지깡",
+        "view_count": 173,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 127,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
