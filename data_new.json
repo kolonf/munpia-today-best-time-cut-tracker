@@ -312382,5 +312382,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-10-31T09:30:38.621681+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613512",
+        "title": "해고 후 헌터들이 나만 찾음",
+        "author": "투이니F",
+        "view_count": 614,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612467",
+        "title": "이혼 후 로또 1등",
+        "author": "타이무",
+        "view_count": 404,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613537",
+        "title": "K방산업 먹여살려 놨더니 해고당했다.",
+        "author": "ZZ1존",
+        "view_count": 225,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611813",
+        "title": "만년 과장을 해고했더니, 헌터 업계가 뒤집혔다.",
+        "author": "석곰이",
+        "view_count": 119,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612889",
+        "title": "해고당한 작곡가가 음원 깡패임",
+        "author": "백시헌",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614303",
+        "title": "퇴사한 천마는 탑이 너무 쉬움",
+        "author": "글쓰는벌레",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616750",
+        "title": "해고당한 네크로맨서가 초월특전을 받음",
+        "author": "남다른",
+        "view_count": 56,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615650",
+        "title": "해고당한 헌터가 초월급 네크로맨서로 각성함",
+        "author": "유주안",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617233",
+        "title": "회귀한 한은맨이 월가를 집어삼킴",
+        "author": "폭우(暴雨)",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614000",
+        "title": "내선일체는 결혼동맹으로 이루어진다.",
+        "author": "사키만자루",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
