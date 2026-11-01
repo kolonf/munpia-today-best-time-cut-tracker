@@ -492287,5 +492287,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T14:30:39.107022+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610327",
+        "title": "반도체 공정개발 천재인데 해고당함",
+        "author": "황금꼬미",
+        "view_count": 2878,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605444",
+        "title": "서울에서 흡혈귀로 살아남기",
+        "author": "태양물고기",
+        "view_count": 1829,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612443",
+        "title": "퇴출당한 헌터가 미국에서 승승장구함",
+        "author": "hsn22",
+        "view_count": 968,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 629,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610501",
+        "title": "배신당할 줄 알고 특허를 숨김",
+        "author": "골방개발자",
+        "view_count": 477,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616632",
+        "title": "재벌집 막내아들 비트코인으로 인생역전",
+        "author": "소수림",
+        "view_count": 396,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614065",
+        "title": "쫓겨난 기술자가 고철로 S급 네크로맨서가 됐다",
+        "author": "유노이아",
+        "view_count": 329,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612763",
+        "title": "입대 첫날 대대장이 되었다",
+        "author": "개인전",
+        "view_count": 253,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "601240",
+        "title": "육사출신 전술천재, 만주패왕이 되다",
+        "author": "백십칠",
+        "view_count": 212,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 137,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
