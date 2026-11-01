@@ -317278,5 +317278,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T20:30:36.095037+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613512",
+        "title": "해고 후 헌터들이 나만 찾음",
+        "author": "투이니F",
+        "view_count": 612,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 298,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614851",
+        "title": "해고 후 회귀해 AI로 만든 무기가 역사를 바꿈",
+        "author": "세듀",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613645",
+        "title": "동물을 구했더니 최강 신수가 되었다",
+        "author": "화롱",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617066",
+        "title": "아포칼립스에서 나만 답이 보임",
+        "author": "강철민",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616271",
+        "title": "꼼수로 섭종각 막았더니 해고당함",
+        "author": "곰산타",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616240",
+        "title": "빙하기 아포칼립스인데 내 텐트만 레벨업함",
+        "author": "챠슈",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616292",
+        "title": "1조 벌었는데 탑에 들어가게 생김",
+        "author": "염비",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
