@@ -317182,5 +317182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T20:00:41.258990+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616039",
+        "title": "정령들이 내 소유인 줄 모르고 좌천당함",
+        "author": "판노리",
+        "view_count": 615,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 321,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612852",
+        "title": "평양 증발시킨 외계함선의 주인이 되었다!",
+        "author": "LunStellar",
+        "view_count": 145,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614334",
+        "title": "회장님들이 줄 서는 신점 스트리밍",
+        "author": "벨노트",
+        "view_count": 90,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612392",
+        "title": "해고 하신다길래 기업사냥꾼이 되었습니다.",
+        "author": "말랑제이",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617001",
+        "title": "경쟁사 회장 아들인 줄 모르고 해고당함",
+        "author": "마개조",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616507",
+        "title": "남들 다 무과금인데 나 혼자 1억 현질함",
+        "author": "하늘바다땅",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617472",
+        "title": "현장소장 자르자 1조짜리 신공항이 멈췄다",
+        "author": "수믿",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618448",
+        "title": "전세계가 원하는 EX급 헌터가 이민을 선언함",
+        "author": "찰하리",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613504",
+        "title": "2050년 대한민국이 일제강점기에 떨어짐",
+        "author": "카나레이",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
