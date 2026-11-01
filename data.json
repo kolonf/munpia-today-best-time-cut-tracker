@@ -491711,5 +491711,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T11:30:36.057927+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608039",
+        "title": "탑 공략해줬더니 해고당했다",
+        "author": "광별",
+        "view_count": 3078,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608614",
+        "title": "해고당한 투자 천재한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 1699,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611945",
+        "title": "풍수지리 봐줬더니 돈이 쏟아짐",
+        "author": "글밥",
+        "view_count": 960,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 664,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 505,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "610629",
+        "title": "귀환한 검신이 요리로 힐링함",
+        "author": "치즈케이끼",
+        "view_count": 393,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 열강을 찢음",
+        "author": "듀이문",
+        "view_count": 329,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608769",
+        "title": "1997, 미래시로 사업했더니 1조 달러 재벌이 되었다",
+        "author": "빈명",
+        "view_count": 269,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612763",
+        "title": "입대 첫날 대대장이 되었다",
+        "author": "개인전",
+        "view_count": 201,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 137,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
