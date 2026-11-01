@@ -316030,5 +316030,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T13:00:41.189085+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 689,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616632",
+        "title": "재벌집 막내아들 비트코인으로 인생역전",
+        "author": "소수림",
+        "view_count": 361,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615486",
+        "title": "삼국지에서 18제후 포신으로 살아남기",
+        "author": "다작김절필",
+        "view_count": 178,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615123",
+        "title": "해고당한 의사는 시골병원에서 재능을 꽃피웁니다",
+        "author": "코어통견",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615906",
+        "title": "해고당한 경호팀장은 국가권력급 요원임",
+        "author": "실패전문가",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612127",
+        "title": "방출당한 기사가 능력을 각성함",
+        "author": "비정현파",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614778",
+        "title": "해고당한 절대자가 국회에 당선됨",
+        "author": "[쥬시]",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615340",
+        "title": "해고당한 김 과장, 이게 보인다고?",
+        "author": "사이다작가",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
