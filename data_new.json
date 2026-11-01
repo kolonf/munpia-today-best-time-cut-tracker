@@ -316702,5 +316702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T17:30:37.563946+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613070",
+        "title": "게이트 속 거래처가 내 인맥인 줄 모르고 해고당함",
+        "author": "뜨끈아이스",
+        "view_count": 602,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 365,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 182,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612889",
+        "title": "해고당한 작곡가가 음원 깡패임",
+        "author": "백시헌",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614431",
+        "title": "탑 등반 시대에 나 홀로 대장장이",
+        "author": "Praba",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615470",
+        "title": "해고당한 김대리가 천재 킬러라고?",
+        "author": "지곡.",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616855",
+        "title": "해고당한 에이스 부장이 야쿠자 재벌가 사위가 됨",
+        "author": "글과장",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615990",
+        "title": "러시아의 마지막 황태자가 되었다",
+        "author": "나도원",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616200",
+        "title": "퇴직금으로 산 야산에서 보물이 쏟아져",
+        "author": "얕은",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
