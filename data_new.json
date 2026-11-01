@@ -318334,5 +318334,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T05:00:40.124210+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 512,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 330,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 166,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615018",
+        "title": "삼국지, 는 고구려가 먹겠습니다",
+        "author": "월진.",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618428",
+        "title": "해고당하고 라스베가스에서 500억 잭팟 터짐",
+        "author": "팔풍",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613947",
+        "title": "남궁세가 역대급 권법 천재",
+        "author": "이온",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617105",
+        "title": "국가가 버린 헌터는 EX급 그림자군주로 재각성하였다",
+        "author": "원동",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614402",
+        "title": "퇴물인 줄 알고 버렸더니 EX급 갑질천재",
+        "author": "홍삼더덕",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616529",
+        "title": "해고당한 회사원의 아포칼립스",
+        "author": "앱솔",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
