@@ -317662,5 +317662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-01T23:30:36.300466+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신선임",
+        "view_count": 611,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614602",
+        "title": "퇴사후 파워볼 당첨되어 미국에서 한식뷔페차림",
+        "author": "나없고",
+        "view_count": 256,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615793",
+        "title": "저주템을 고쳤더니 S급 랭커들이 줄을 섬.",
+        "author": "버머랜드",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614280",
+        "title": "B급 헌터인데 보상이 1 플러스 1",
+        "author": "배소리",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613148",
+        "title": "아기 드워프가 탑 등반 안 하고 힐링함",
+        "author": "kangyou",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614755",
+        "title": "그만두려는 천재작가한테 탑스타가 매달림",
+        "author": "피자소주",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617903",
+        "title": "선협에서 EX급 쌍수공법으로 시작",
+        "author": "뭉낑깡",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617105",
+        "title": "국가가 버린 헌터는 EX급 그림자군주로 재각성하였다",
+        "author": "원동",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617409",
+        "title": "초월급 대장장이인 줄 모르고 해고당함",
+        "author": "릴리프현",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
