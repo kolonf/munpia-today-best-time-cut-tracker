@@ -494687,5 +494687,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T02:00:41.744631+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613000",
+        "title": "미국 노숙자인데 딸이 생김",
+        "author": "용린龍鱗",
+        "view_count": 2779,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 1636,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 988,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611487",
+        "title": "몬스터 해체 9년차는 한 칼에 끝냄",
+        "author": "런타임",
+        "view_count": 715,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603078",
+        "title": "귀환한 삼촌은 EX급이었다.",
+        "author": "선비의붓",
+        "view_count": 521,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "600910",
+        "title": "선협에서 약을 너무 잘 씀",
+        "author": "오구진",
+        "view_count": 411,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612898",
+        "title": "건물 맥 짚는 품질팀장을 해고했더니 건물이 박살남",
+        "author": "선안",
+        "view_count": 318,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611538",
+        "title": "해고당한 외과 의사가 손만 대면 다 살림",
+        "author": "설흔(說痕)",
+        "view_count": 268,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606751",
+        "title": "탑에도 농어촌전형이 있나요?",
+        "author": "시온유",
+        "view_count": 198,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 150,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
