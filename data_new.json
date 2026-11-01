@@ -318718,5 +318718,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T07:00:41.049591+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612941",
+        "title": "군필 여배우는 로코 여주가 싫다",
+        "author": "필드스틱",
+        "view_count": 534,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615207",
+        "title": "한국으로 돌아왔더니 국가권력급 헌터가 됨",
+        "author": "아난티",
+        "view_count": 366,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 184,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614755",
+        "title": "그만두려는 천재작가한테 탑스타가 매달림",
+        "author": "피자소주",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616933",
+        "title": "증여받은 무인도가 보물들을 쏟아냄",
+        "author": "한매화",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614807",
+        "title": "날 해고한 길드가 살려달란다",
+        "author": "딸기크레페",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612870",
+        "title": "퇴사했더니 엔터 지분이 생겼다",
+        "author": "듀잇",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618483",
+        "title": "이혼했더니, 재계 1위가 되었다",
+        "author": "소설여행자",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618040",
+        "title": "삼국지, 회귀한 장비가 술부터 끊음",
+        "author": "Mrpotato",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
