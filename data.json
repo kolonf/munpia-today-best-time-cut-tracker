@@ -496031,5 +496031,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T08:00:45.585229+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "600930",
+        "title": "신내림 받은 조연은 소소하게 산다",
+        "author": "어로달",
+        "view_count": 3481,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614016",
+        "title": "미국에서 은퇴당한 헌터가 귀촌 후 개꿀빱니다",
+        "author": "테르치",
+        "view_count": 2037,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "599811",
+        "title": "침대 밑 화이트홀이 능력을 자꾸 준다",
+        "author": "크엉컹컹",
+        "view_count": 1237,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "607948",
+        "title": "운명을 거스르는 비정규직",
+        "author": "엠버그리스",
+        "view_count": 836,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603078",
+        "title": "귀환한 삼촌은 EX급이었다.",
+        "author": "선비의붓",
+        "view_count": 621,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613307",
+        "title": "리콜 터진 대기업이 내 시골 텃밭에 무릎 꿇음",
+        "author": "무자본집필",
+        "view_count": 471,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "598840",
+        "title": "선협에서 과학으로 수선이 너무 쉽다",
+        "author": "맛소금타로",
+        "view_count": 384,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609116",
+        "title": "회귀한 신입사원은 출생의 비밀이 보인다",
+        "author": "복면작가",
+        "view_count": 312,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 267,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 195,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
