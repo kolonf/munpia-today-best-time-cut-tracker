@@ -496319,5 +496319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T09:30:36.250877+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "604962",
+        "title": "아포칼립스에서 우주전함을 주웠다",
+        "author": "한소™",
+        "view_count": 3824,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608178",
+        "title": "멸망 30일 전, 무한 아공간을 얻다",
+        "author": "콜디",
+        "view_count": 2115,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605444",
+        "title": "서울에서 흡혈귀로 살아남기",
+        "author": "태양물고기",
+        "view_count": 1088,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 776,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 537,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613472",
+        "title": "이혼에 해고까지 당한 데릴사위에게 회장님이 무릎 꿇음",
+        "author": "만전",
+        "view_count": 417,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612110",
+        "title": "방출된 타자가 재능을 수집함",
+        "author": "주창범",
+        "view_count": 335,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615059",
+        "title": "해고당한 의사가 알고보니 천재 써전",
+        "author": "돼지복실이",
+        "view_count": 277,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612102",
+        "title": "해고당한 대장장이가 신급 무기를 찍어냄",
+        "author": "김산본",
+        "view_count": 206,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616230",
+        "title": "잠만 자도 기술이 쌓임",
+        "author": "꿈가득남",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
