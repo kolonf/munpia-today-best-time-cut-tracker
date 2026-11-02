@@ -319486,5 +319486,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T13:00:43.805963+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614434",
+        "title": "중세 영주로 살아남기",
+        "author": "청라수",
+        "view_count": 626,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613253",
+        "title": "평범한 암살자로 전직했는데 내 스킬만 사기다",
+        "author": "대상필",
+        "view_count": 340,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615470",
+        "title": "해고당한 김대리가 천재 킬러라고?",
+        "author": "지곡.",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615888",
+        "title": "헌터님 저한테 덤비면 즉사합니다",
+        "author": "카피닌자",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617066",
+        "title": "아포칼립스에서 나만 답이 보임",
+        "author": "강철민",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616494",
+        "title": "천재단장이 해고당하자 라이벌 팀이 모셔감",
+        "author": "자유수달",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617472",
+        "title": "현장소장 자르자 1조짜리 신공항이 멈췄다",
+        "author": "수믿",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615919",
+        "title": "폐업 직전 미국 클리닉에 메이저리거가 줄을 섰다",
+        "author": "수필러",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617828",
+        "title": "방구석 폐인인데 SSS급으로 각성해버림",
+        "author": "에바트리체",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614781",
+        "title": "퇴사했더니 전 직장이 망하기 시작했다",
+        "author": "신들의정원",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
