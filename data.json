@@ -498143,5 +498143,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T18:30:43.265868+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610327",
+        "title": "반도체 공정개발 천재인데 해고당함",
+        "author": "황금꼬미",
+        "view_count": 3533,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613000",
+        "title": "미국 노숙자인데 딸이 생김",
+        "author": "용린龍鱗",
+        "view_count": 2073,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608475",
+        "title": "해고 후 신내림 받고 소소하게 힐링합니다",
+        "author": "박자까",
+        "view_count": 1110,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612884",
+        "title": "전역한 기사가 너무 유능함",
+        "author": "자리zary",
+        "view_count": 746,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616039",
+        "title": "정령들이 내 소유인 줄 모르고 좌천당함",
+        "author": "판노리",
+        "view_count": 601,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 454,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616632",
+        "title": "재벌집 막내아들 비트코인으로 인생역전",
+        "author": "소수림",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612653",
+        "title": "대영제국에서 사람 찔렀더니 귀족들이 환장함",
+        "author": "글거북.",
+        "view_count": 267,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 211,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613967",
+        "title": "삼국지, 상태창이 있으니 천재는 내가 다 데려가겠습니다",
+        "author": "휴일",
+        "view_count": 155,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
