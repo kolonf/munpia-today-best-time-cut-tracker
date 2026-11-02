@@ -497663,5 +497663,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-02T16:00:44.212151+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614016",
+        "title": "미국에서 은퇴당한 헌터가 귀촌 후 개꿀빱니다",
+        "author": "테르치",
+        "view_count": 3315,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "605444",
+        "title": "서울에서 흡혈귀로 살아남기",
+        "author": "태양물고기",
+        "view_count": 1844,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615299",
+        "title": "대체불가능한 SSS급 마수 조련사가 해고당함",
+        "author": "마지막검사",
+        "view_count": 1015,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603084",
+        "title": "대기업을 상속받았는데 아무도 나를 모름",
+        "author": "페르세르크",
+        "view_count": 692,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616039",
+        "title": "정령들이 내 소유인 줄 모르고 좌천당함",
+        "author": "판노리",
+        "view_count": 553,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 428,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613486",
+        "title": "레이드 다 짜던 서포터 팀장이 퇴사당함",
+        "author": "갓뎀로취",
+        "view_count": 342,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 269,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616670",
+        "title": "배신당한 EX급 헌터가 한국을 떠남",
+        "author": "찰하리",
+        "view_count": 214,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612396",
+        "title": "전설의 용병이 키운 아들이 너무 강하다",
+        "author": "블랙카드",
+        "view_count": 147,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
