@@ -320830,5 +320830,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-03T01:00:56.064001+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 505,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616404",
+        "title": "삼국지 유창전",
+        "author": "運月",
+        "view_count": 249,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615906",
+        "title": "해고당한 경호팀장은 국가권력급 요원임",
+        "author": "실패전문가",
+        "view_count": 121,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615251",
+        "title": "회귀한 셰프는 비트코인으로 인생역전",
+        "author": "박보스",
+        "view_count": 75,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617604",
+        "title": "재벌친부가 침술명의 혼외자를 편애함",
+        "author": "가프",
+        "view_count": 60,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612392",
+        "title": "내일 차트가 보여 대기업들을 통째로 먹어버림",
+        "author": "말랑제이",
+        "view_count": 50,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614930",
+        "title": "러시아제국의 대공인 내가 독재를 너무 잘함",
+        "author": "강철의심장",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618040",
+        "title": "삼국지, 회귀한 장비가 술부터 끊음",
+        "author": "Mrpotato",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618153",
+        "title": "이세계 외노자로 살아남기",
+        "author": "잉클링스",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618064",
+        "title": "명의로 각성한 줄 모르고 귀촌함",
+        "author": "디오피",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
