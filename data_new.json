@@ -322750,5 +322750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-03T18:30:39.983375+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614226",
+        "title": "7천억 물려받은 줄 모르고 퇴사당함",
+        "author": "무한와규",
+        "view_count": 638,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 310,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612127",
+        "title": "방출당한 기사가 능력을 각성함",
+        "author": "비정현파",
+        "view_count": 129,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616606",
+        "title": "아포칼립스에서 아공간 쉘터 키우기",
+        "author": "김판",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614303",
+        "title": "퇴사한 천마는 탑이 너무 쉬움",
+        "author": "글쓰는벌레",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613593",
+        "title": "이번 생은 그랜드슬램",
+        "author": "메타포라",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617211",
+        "title": "이방원의 소꿉친구가 되었다",
+        "author": "너구리계란",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616219",
+        "title": "버려진 망나니 재벌의 두번째 아포칼립스",
+        "author": "greening",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616192",
+        "title": "역대급 기획안을 쓰던 내가 해고당했다",
+        "author": "초코마루",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
