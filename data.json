@@ -503519,5 +503519,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-03T20:30:38.555287+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607389",
+        "title": "해고당한 협회 직원이 각성 후 국가에 헌신을 안함",
+        "author": "우르스.",
+        "view_count": 3343,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613173",
+        "title": "통나무 들어준 줄도 모르고 협회에서 해고당함",
+        "author": "붉은냥이",
+        "view_count": 1789,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614665",
+        "title": "무한 과금 네크로맨서는 해골 병사가 너무 강함",
+        "author": "시르베르",
+        "view_count": 1085,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 770,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614065",
+        "title": "네크로맨서인데 기계만 부활 시킴",
+        "author": "유노이아",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615906",
+        "title": "해고당한 경호팀장은 국가권력급 요원임",
+        "author": "실패전문가",
+        "view_count": 459,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610501",
+        "title": "배신당할 줄 알고 특허를 숨김",
+        "author": "골방개발자",
+        "view_count": 335,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608475",
+        "title": "해고 후 신내림 받고 소소하게 힐링합니다",
+        "author": "박자까",
+        "view_count": 285,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616404",
+        "title": "삼국지 유창전",
+        "author": "運月",
+        "view_count": 230,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 198,
+        "novel_id": "615236",
+        "title": "퇴사하고 퇴마 방송으로 대박남",
+        "author": "한연HY",
+        "view_count": 167,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
