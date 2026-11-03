@@ -323134,5 +323134,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-03T22:00:45.799604+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614065",
+        "title": "네크로맨서인데 기계만 부활 시킴",
+        "author": "유노이아",
+        "view_count": 559,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 327,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615365",
+        "title": "해고 덕분에 힐링합니다",
+        "author": "영혼연성",
+        "view_count": 130,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614431",
+        "title": "탑 등반 시대에 나 홀로 대장장이",
+        "author": "Praba",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "607240",
+        "title": "회귀한 피지컬 괴물이 EPL을 씹어먹음",
+        "author": "다작김절필",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616933",
+        "title": "증여받은 무인도가 보물들을 쏟아냄",
+        "author": "한매화",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615491",
+        "title": "입사했더니 재앙급 괴이로 착각당했다",
+        "author": "이작카",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618040",
+        "title": "삼국지, 장비가 술 끊은 줄 모르고 쳐들어옴",
+        "author": "Mrpotato",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617816",
+        "title": "알고보니 무림지존",
+        "author": "정석연재",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
