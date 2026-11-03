@@ -323422,5 +323422,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-03T23:30:38.911793+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616605",
+        "title": "나만 궁극의 힐러인데 해고당함",
+        "author": "타자고양이",
+        "view_count": 591,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615470",
+        "title": "해고당한 김대리가 천재 킬러라고?",
+        "author": "지곡.",
+        "view_count": 259,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 119,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613475",
+        "title": "아포칼립스에서 도망쳤더니 선협세상",
+        "author": "히버",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617472",
+        "title": "현장소장 자르자 1조짜리 신공항이 멈췄다",
+        "author": "수믿",
+        "view_count": 64,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613148",
+        "title": "아기 드워프가 탑 등반 안 하고 힐링함",
+        "author": "kangyou",
+        "view_count": 52,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614930",
+        "title": "러시아제국의 대공인 내가 독재를 너무 잘함",
+        "author": "강철의심장",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617560",
+        "title": "주식으로 1조 벌고 직장 때려침",
+        "author": "라그랑쥬",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617409",
+        "title": "초월급 대장장이인 줄 모르고 해고당함",
+        "author": "릴리프현",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615990",
+        "title": "러시아의 마지막 황태자가 되었다",
+        "author": "나도원",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
