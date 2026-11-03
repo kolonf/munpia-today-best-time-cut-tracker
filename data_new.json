@@ -323038,5 +323038,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-03T21:00:44.143855+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614065",
+        "title": "네크로맨서인데 기계만 부활 시킴",
+        "author": "유노이아",
+        "view_count": 541,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 316,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615243",
+        "title": "해고당했더니 현실에선 갑, 꿈에선 신",
+        "author": "헬뮤티",
+        "view_count": 125,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616935",
+        "title": "예술대 입학하자마자 업계가 집착함",
+        "author": "자경(蔗境)",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614856",
+        "title": "해고당했더니 신의 설계도가 생겼다",
+        "author": "강야수",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616219",
+        "title": "버려진 망나니 재벌의 두번째 아포칼립스",
+        "author": "greening",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617156",
+        "title": "회귀한 줄 모르고 까불다 뒤짐",
+        "author": "팥빵맨",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617242",
+        "title": "마무리 투수 했더니 저작권료가 쏟아짐",
+        "author": "4.Molina",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
