@@ -322174,5 +322174,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-03T13:30:37.490226+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614188",
+        "title": "나는 오래된 물건의 경험치를 흡수할 수 있다",
+        "author": "초씽",
+        "view_count": 603,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617726",
+        "title": "1조 당첨된 감사팀 과장은 제주도로 쫒겨나고 싶다",
+        "author": "구구나나",
+        "view_count": 241,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614843",
+        "title": "매출 1위 게임 만든 줄 모르고 해고당함",
+        "author": "설소정",
+        "view_count": 124,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615791",
+        "title": "해고 후 신내림으로 재벌 됨",
+        "author": "달백자기",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617105",
+        "title": "EX급 그림자 군주인 줄 모르고 국가에게 배신당함",
+        "author": "원동",
+        "view_count": 65,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618558",
+        "title": "재벌 딸이 날 남편이라고 우김",
+        "author": "레드초콜릿",
+        "view_count": 49,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616068",
+        "title": "독사(毒士)를 삼킨 여포(呂布)",
+        "author": "떼뻬",
+        "view_count": 39,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616483",
+        "title": "해고당했더니 손님이 몰려든다",
+        "author": "라데우",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615491",
+        "title": "입사했더니 재앙급 괴이로 착각당했다",
+        "author": "이작카",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618064",
+        "title": "명의로 각성한 줄 모르고 귀촌함",
+        "author": "디오피",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
