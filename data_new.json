@@ -326590,5 +326590,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T07:00:44.281875+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 548,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615438",
+        "title": "미국이 탐내고 중국이 죽이고 싶은 탑 관리자가 되었다",
+        "author": "낙필",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614303",
+        "title": "퇴사한 천마는 탑이 너무 쉬움",
+        "author": "글쓰는벌레",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615080",
+        "title": "연개소문의 사생아가 되었다",
+        "author": "RAS™",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615385",
+        "title": "1000조로 아포칼립스 최강 요새를 지었다",
+        "author": "딸기크레페",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618857",
+        "title": "외신급 귀환자인 줄 모르고 해고당함",
+        "author": "후양煦揚",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613856",
+        "title": "전생에 나라를 구했더니 인생이 기가 막힘",
+        "author": "연무(煙霧)",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618691",
+        "title": "해고당한 헌터가 EX급 버퍼였다",
+        "author": "루리나",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614849",
+        "title": "해고 당한 천재 선거 전략가가 대통령을 박살냄",
+        "author": "베르겐",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
