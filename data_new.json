@@ -325918,5 +325918,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-04T23:30:37.975516+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616605",
+        "title": "나만 궁극의 힐러인데 해고당함",
+        "author": "타자고양이",
+        "view_count": 576,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615243",
+        "title": "해고당했더니 현실에선 갑, 꿈에선 신",
+        "author": "헬뮤티",
+        "view_count": 280,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615688",
+        "title": "나만 열배로 던전 보상",
+        "author": "하기동",
+        "view_count": 137,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617136",
+        "title": "국가에 버림받은 국정원 요원에게 CIA가 집착함",
+        "author": "임완",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613137",
+        "title": "1997년, 건설사 물려받고 1000조 재벌",
+        "author": "절대안정",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617043",
+        "title": "자동 사냥 마법으로 탑 등반",
+        "author": "헌터몰",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613856",
+        "title": "전생에 나라를 구했더니 인생이 기가 막힘",
+        "author": "연무(煙霧)",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615913",
+        "title": "던전에 선협을 키우다",
+        "author": "맨발의시인",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616068",
+        "title": "독사(毒士)를 삼킨 여포(呂布)",
+        "author": "떼뻬",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
