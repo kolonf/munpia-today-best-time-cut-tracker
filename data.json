@@ -507455,5 +507455,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-04T15:30:39.453545+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 3141,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612139",
+        "title": "20살에 은퇴한 금메달리스트가 메이저리그를 씹어먹음",
+        "author": "페디아",
+        "view_count": 1905,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 1042,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612941",
+        "title": "군필 여배우가 블록버스터 대작만 찍음",
+        "author": "필드스틱",
+        "view_count": 713,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 542,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612947",
+        "title": "가맹점 해지 당하고 미슐랭 3스타가 되었다",
+        "author": "원일더",
+        "view_count": 449,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613908",
+        "title": "방출된 투수가 160km를 던짐",
+        "author": "검은은하",
+        "view_count": 366,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 284,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "604677",
+        "title": "재벌가 서자가 상태창을 받았습니다",
+        "author": "세상s",
+        "view_count": 239,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618058",
+        "title": "퇴직금 90％ 삭감 해고 후 귀농했더니 헌터계가 뒤집힘",
+        "author": "노빠꾸맨",
+        "view_count": 179,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
