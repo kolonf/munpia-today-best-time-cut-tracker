@@ -326110,5 +326110,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T00:30:38.476458+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616670",
+        "title": "배신당한 EX급 헌터가 한국을 떠남",
+        "author": "찰하리",
+        "view_count": 527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615236",
+        "title": "퇴사하고 퇴마 방송으로 대박남",
+        "author": "한연HY",
+        "view_count": 270,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616935",
+        "title": "예술대 입학하자마자 업계가 집착함",
+        "author": "자경(蔗境)",
+        "view_count": 140,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614755",
+        "title": "그만두려는 천재작가한테 탑스타가 매달림",
+        "author": "피자소주",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613947",
+        "title": "남궁세가 역대급 권법 천재",
+        "author": "이온",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618857",
+        "title": "외신급 귀환자인 줄 모르고 해고당함",
+        "author": "후양煦揚",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619117",
+        "title": "속아서 무인도 샀는데, 섬 자체가 금광임",
+        "author": "영원한계시",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614717",
+        "title": "차원배송하는 탑 등반자는 오늘도 플렉스 함",
+        "author": "너굴조아",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614000",
+        "title": "내선일체는 결혼동맹으로 이루어진다.",
+        "author": "사키만자루",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
