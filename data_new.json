@@ -326398,5 +326398,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T04:30:37.589318+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615299",
+        "title": "해고당한 계약직은 대체불가였다",
+        "author": "마지막검사",
+        "view_count": 522,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615236",
+        "title": "퇴사하고 퇴마 방송으로 대박남",
+        "author": "한연HY",
+        "view_count": 304,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616935",
+        "title": "예술대 입학하자마자 업계가 집착함",
+        "author": "자경(蔗境)",
+        "view_count": 148,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612127",
+        "title": "방출당한 기사가 능력을 각성함",
+        "author": "비정현파",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617188",
+        "title": "해고당한 의사에게 거물들이 집착한다",
+        "author": "문가문가",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613504",
+        "title": "2050년 대한민국이 일제강점기에 떨어짐",
+        "author": "카나레이",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617510",
+        "title": "재벌집 데릴사위 될 줄 모르고 해고당했더니 힐링 대박남",
+        "author": "늬파랑",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616610",
+        "title": "나 혼자 EX급 상점으로 탑 등반",
+        "author": "씨르멍",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618691",
+        "title": "해고당한 헌터가 EX급 버퍼였다",
+        "author": "루리나",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
