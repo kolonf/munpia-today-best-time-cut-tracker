@@ -326206,5 +326206,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T02:00:52.220437+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614602",
+        "title": "퇴사후 파워볼 당첨되어 미국에서 한식뷔페차림",
+        "author": "나없고",
+        "view_count": 458,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 255,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615559",
+        "title": "회귀한 쌀집 아들이 너무 유능함",
+        "author": "daybreak95",
+        "view_count": 136,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617233",
+        "title": "회귀한 한은맨이 월가를 집어삼킴",
+        "author": "폭우(暴雨)",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616292",
+        "title": "1조 벌었는데 탑에 들어가게 생김",
+        "author": "염비",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617044",
+        "title": "해고당한 한의사에게 거물들이 집착한다",
+        "author": "글력",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615491",
+        "title": "입사했더니 재앙급 괴이로 착각당했다",
+        "author": "이작카",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616192",
+        "title": "역대급 기획안을 쓰던 내가 해고당했다",
+        "author": "초코마루",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
