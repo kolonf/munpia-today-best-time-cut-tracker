@@ -509375,5 +509375,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T01:00:43.352834+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608039",
+        "title": "탑 공략해줬더니 해고당했다",
+        "author": "광별",
+        "view_count": 2797,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 멍게가 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 1690,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 1042,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609590",
+        "title": "해고당한 김과장이 회장님의 혼외자였다",
+        "author": "어나인",
+        "view_count": 728,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 503,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606357",
+        "title": "삼국지: 망해버린 가문의 가주가 되었다",
+        "author": "지돌띠",
+        "view_count": 385,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615456",
+        "title": "이혼 후 해고까지 당했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 319,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615006",
+        "title": "나 혼자 전설 아이템 999,999,999개로 탑 날먹",
+        "author": "시공전사",
+        "view_count": 262,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611330",
+        "title": "해고당하고 귀농했더니 내 밭이 역세권이 됐다",
+        "author": "농어촌작가",
+        "view_count": 199,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 148,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
