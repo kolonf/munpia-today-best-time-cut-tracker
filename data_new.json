@@ -324958,5 +324958,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-04T11:30:41.650940+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 705,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615236",
+        "title": "퇴사하고 퇴마 방송으로 대박남",
+        "author": "한연HY",
+        "view_count": 303,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613624",
+        "title": "배신한 회사 참교육하러 금감원으로 회귀함",
+        "author": "꼬노네",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614851",
+        "title": "해고 후 회귀해 AI로 만든 무기가 역사를 바꿈",
+        "author": "세듀",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615385",
+        "title": "1000조로 아포칼립스 최강 요새를 지었다",
+        "author": "딸기크레페",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그린",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614119",
+        "title": "전능 AI품고 역대급 음악의 신으로 부활했다",
+        "author": "르블랑",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616192",
+        "title": "역대급 기획안을 쓰던 내가 해고당했다",
+        "author": "초코마루",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616855",
+        "title": "해고당한 에이스 부장이 야쿠자 출신 재벌가 사위가 됨",
+        "author": "글과장",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615713",
+        "title": "천마였던 내가 이딴 표국 막내라니",
+        "author": "천외객",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
