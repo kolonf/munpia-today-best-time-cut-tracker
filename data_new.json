@@ -326686,5 +326686,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T09:00:46.036384+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 576,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615906",
+        "title": "해고당한 팀장은 국가권력급 요원이었다",
+        "author": "실패전문가",
+        "view_count": 333,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616935",
+        "title": "예술대 입학하자마자 업계가 집착함",
+        "author": "자경(蔗境)",
+        "view_count": 154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615791",
+        "title": "해고 후 신내림으로 재벌 됨",
+        "author": "달백자기",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616454",
+        "title": "대기업 해고 당했는데 즉사기 각성함",
+        "author": "연애재판",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617044",
+        "title": "해고당한 한의사에게 거물들이 집착한다",
+        "author": "글력",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617432",
+        "title": "재벌가가 집착하는 천재 역술인",
+        "author": "악중선",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619117",
+        "title": "속아서 무인도 샀는데, 섬 자체가 금광임",
+        "author": "영원한계시",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617996",
+        "title": "EX급 분신술사라 멸망급 탑등반이 너무 쉬움",
+        "author": "진필.",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609645",
+        "title": "해고당한 천재변호사가 참교육을 잘함",
+        "author": "5스타",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
