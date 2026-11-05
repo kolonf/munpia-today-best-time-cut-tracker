@@ -326974,5 +326974,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T12:00:47.583364+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615888",
+        "title": "헌터님 저한테 덤비면 즉사합니다",
+        "author": "카피닌자",
+        "view_count": 600,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615123",
+        "title": "해고당한 외과의는 알고 보니 병원 전체를 돌아가게 했음",
+        "author": "코어통견",
+        "view_count": 295,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614851",
+        "title": "해고 후 회귀해 AI로 만든 무기가 역사를 바꿈",
+        "author": "세듀",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617111",
+        "title": "맵핵 능력을 각성했더니 전세계가 집착함",
+        "author": "Ashmor",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617013",
+        "title": "귀환한 마법사는 돈 버는 게 쉽다",
+        "author": "전설용용",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617188",
+        "title": "해고당한 의사에게 거물들이 집착한다",
+        "author": "문가문가",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614162",
+        "title": "내가 대주주인 줄 모르고 해고당함",
+        "author": "깊은연못",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615306",
+        "title": "우리 딸이 아이돌 센터인데 내게 너무 잘함",
+        "author": "만슬라",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
