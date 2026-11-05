@@ -511007,5 +511007,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T09:00:49.578848+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608039",
+        "title": "탑 공략해줬더니 해고당했다",
+        "author": "광별",
+        "view_count": 3182,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608178",
+        "title": "멸망 30일 전, 무한 아공간을 얻다",
+        "author": "콜디",
+        "view_count": 1954,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 1162,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 763,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614188",
+        "title": "나는 오래된 물건의 경험치를 흡수할 수 있다",
+        "author": "초씽",
+        "view_count": 547,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "598840",
+        "title": "선협에서 과학으로 수선이 너무 쉽다",
+        "author": "맛소금타로",
+        "view_count": 428,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615468",
+        "title": "나만 저주를 풀 수 있는데 해고당함",
+        "author": "크림파이",
+        "view_count": 352,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 310,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "615123",
+        "title": "모든 수술을 집도하는 천재 외과의는 해고당함",
+        "author": "코어통견",
+        "view_count": 252,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610402",
+        "title": "재벌가 장남은 고룡이었다",
+        "author": "환세아",
+        "view_count": 168,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
