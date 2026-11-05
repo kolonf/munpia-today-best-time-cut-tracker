@@ -327262,5 +327262,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-05T16:30:37.528970+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615906",
+        "title": "해고당한 팀장은 국가권력급 요원이었다",
+        "author": "실패전문가",
+        "view_count": 526,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 342,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616844",
+        "title": "유품에서 재능이 쏟아짐",
+        "author": "누리용",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617066",
+        "title": "아포칼립스에서 나만 답이 보임",
+        "author": "강철민",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617001",
+        "title": "경쟁사 회장 아들인 줄 모르고 해고당함",
+        "author": "마개조",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618106",
+        "title": "해고당한 F급 해체공 탑 등반을 시작함",
+        "author": "가좌",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615668",
+        "title": "2회차 고인물은 탑등반이 맛있다",
+        "author": "포참",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618989",
+        "title": "삼국지: 멸망 예정인 원가의 폭군으로 살아남기",
+        "author": "chowoe",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616845",
+        "title": "나 혼자만 퓨전펑크의 마법사",
+        "author": "과로사",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
