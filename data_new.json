@@ -329566,5 +329566,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T05:00:50.270628+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612467",
+        "title": "이혼 후 로또 1등",
+        "author": "타이무",
+        "view_count": 588,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612660",
+        "title": "회사생활은 망했는데, 돈이 너무 잘 벌림",
+        "author": "만슬라",
+        "view_count": 282,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615700",
+        "title": "버림받은 블랙요원이 재앙급 칼잡이였다",
+        "author": "킹슬레이",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614481",
+        "title": "기사가 퀘스트로 강해짐",
+        "author": "칼튼90",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618525",
+        "title": "쫓겨난 중세 기사가 너무 강함",
+        "author": "적백赤白",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616295",
+        "title": "선협 놈들은 안전불감증이다",
+        "author": "오늘은거",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620124",
+        "title": "이혼 후 전처가 넘긴 주식으로 인생 역전!",
+        "author": "흑곰작가",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619474",
+        "title": "해고당한 뒤 역대급 심마니가 되었다.",
+        "author": "진필.",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615491",
+        "title": "입사했더니 재앙급 괴이로 착각당했다",
+        "author": "이작카",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618989",
+        "title": "삼국지: 멸망 예정인 원가의 폭군으로 살아남기",
+        "author": "chowoe",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
