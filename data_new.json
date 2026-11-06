@@ -328798,5 +328798,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-06T18:00:46.815133+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 641,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 409,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 177,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616784",
+        "title": "잡역부를 쫓아냈더니 종문 단약이 다 터짐",
+        "author": "이천재",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615990",
+        "title": "러시아의 마지막 황태자가 되었다",
+        "author": "나도원",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617492",
+        "title": "해고당한 매니저한테 배우들이 집착함",
+        "author": "쿤페",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616295",
+        "title": "선협 놈들은 안전불감증이다",
+        "author": "오늘은거",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619870",
+        "title": "신내림 받은 성형외과 천재의사",
+        "author": "샘송",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618644",
+        "title": "1세대 법의학자가 되었다",
+        "author": "자몽라임",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
