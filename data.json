@@ -520031,5 +520031,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T05:00:49.765821+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 2970,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609889",
+        "title": "절세천재가 살아가는 법",
+        "author": "길마",
+        "view_count": 1768,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610450",
+        "title": "미국복권 당첨된 공무원이 하고싶은대로 다 함",
+        "author": "나이막",
+        "view_count": 1148,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 802,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612467",
+        "title": "이혼 후 로또 1등",
+        "author": "타이무",
+        "view_count": 590,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613967",
+        "title": "삼국지, 상태창이 있으니 천재는 내가 다 데려가겠습니다",
+        "author": "휴일",
+        "view_count": 443,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "550818",
+        "title": "회귀 후 바로 3000억이 생겼다",
+        "author": "메인작가",
+        "view_count": 374,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 292,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615236",
+        "title": "퇴사하고 퇴마 방송으로 대박남",
+        "author": "한연HY",
+        "view_count": 229,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615486",
+        "title": "삼국지에서 18제후 포신으로 살아남기",
+        "author": "다작김절필",
+        "view_count": 178,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
