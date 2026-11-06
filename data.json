@@ -516191,5 +516191,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-06T10:00:45.720891+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607997",
+        "title": "S급 헌터인 줄 모르고 팀에서 쫓겨남",
+        "author": "소래담",
+        "view_count": 3258,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠.",
+        "author": "낭만제조사",
+        "view_count": 1685,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616632",
+        "title": "재벌집 막내아들 비트코인으로 인생역전",
+        "author": "소수림",
+        "view_count": 1115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612123",
+        "title": "생활용 부적인데 성능이 미쳤다",
+        "author": "하우트",
+        "view_count": 745,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610501",
+        "title": "배신당할 줄 알고 특허를 숨김",
+        "author": "골방개발자",
+        "view_count": 587,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608730",
+        "title": "버려진 특성을 주웠더니 SSS급 토벌대원으로 각성함",
+        "author": "배불루",
+        "view_count": 448,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610629",
+        "title": "귀환한 검신이 요리로 힐링함",
+        "author": "치즈케이끼",
+        "view_count": 375,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614422",
+        "title": "무림맹 지하감옥의 폐공수(廢功手)",
+        "author": "강다로",
+        "view_count": 303,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612102",
+        "title": "해고당한 대장장이가 신급 무기를 찍어냄",
+        "author": "김산본",
+        "view_count": 229,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 190,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
