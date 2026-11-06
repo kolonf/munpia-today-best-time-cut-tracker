@@ -329662,5 +329662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T07:30:39.064738+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 606,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612127",
+        "title": "방출당한 기사가 능력을 각성함",
+        "author": "비정현파",
+        "view_count": 310,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615700",
+        "title": "버림받은 블랙요원이 재앙급 칼잡이였다",
+        "author": "킹슬레이",
+        "view_count": 168,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 119,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615396",
+        "title": "퇴사했더니 갓겜 만들기가 너무 쉬움",
+        "author": "겡가",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620061",
+        "title": "전처와 이혼했는데 나보고 재벌 상속자랍니다!",
+        "author": "오렌지깡",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616748",
+        "title": "해고당한 국정원 요원은 법에 구애받지 않음",
+        "author": "미나아",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618106",
+        "title": "해고당한 F급 해체공 탑 등반을 시작함",
+        "author": "가좌",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613646",
+        "title": "권고사직 받은 만년 대리는 최고 에이스임",
+        "author": "현판찌개",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619101",
+        "title": "전당포에서 방송하는데 가치가 보임",
+        "author": "김튀김",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
