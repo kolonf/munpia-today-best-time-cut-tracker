@@ -519551,5 +519551,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T02:30:37.159414+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608039",
+        "title": "탑 공략해줬더니 해고당했다",
+        "author": "광별",
+        "view_count": 2879,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613941",
+        "title": "나를 해고하자 1조짜리 공장이 멈췄다",
+        "author": "배출구",
+        "view_count": 1673,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610450",
+        "title": "미국복권 당첨된 공무원이 하고싶은대로 다 함",
+        "author": "나이막",
+        "view_count": 1116,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 755,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612467",
+        "title": "이혼 후 로또 1등",
+        "author": "타이무",
+        "view_count": 553,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612653",
+        "title": "대영제국에서 사람 찔렀더니 귀족들이 환장함",
+        "author": "글거북.",
+        "view_count": 418,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615006",
+        "title": "나 혼자 전설 아이템 999,999,999개로 탑 날먹",
+        "author": "시공전사",
+        "view_count": 347,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 269,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615123",
+        "title": "해고당한 외과의는 알고 보니 병원 전체를 돌아가게 했음",
+        "author": "코어통견",
+        "view_count": 213,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 152,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
