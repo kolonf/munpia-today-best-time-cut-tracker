@@ -517055,5 +517055,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-06T14:30:35.375974+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 재앙급 용병이 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 3372,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 1833,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "605710",
+        "title": "강아지 속마음 들었더니 여배우들이 집착함",
+        "author": "태솔재",
+        "view_count": 1129,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그린",
+        "view_count": 743,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "594270",
+        "title": "독립군 말단 병사가 패권국을 만든다",
+        "author": "주절주절",
+        "view_count": 549,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612197",
+        "title": "해고당한 짐꾼의 S급 던전 생존기",
+        "author": "유리뼈",
+        "view_count": 474,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610284",
+        "title": "해고 후 퇴직금으로 SS급 능력을 받았다",
+        "author": "기획자K",
+        "view_count": 418,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 302,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 255,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616404",
+        "title": "삼국지 유창전",
+        "author": "運月",
+        "view_count": 205,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
