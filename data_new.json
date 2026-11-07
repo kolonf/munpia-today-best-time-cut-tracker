@@ -332062,5 +332062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T05:00:42.304512+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615251",
+        "title": "회귀한 셰프는 비트코인으로 인생역전",
+        "author": "박보스",
+        "view_count": 408,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616605",
+        "title": "나만 궁극의 힐러인데 해고당함",
+        "author": "타자고양이",
+        "view_count": 282,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615700",
+        "title": "버림받은 블랙요원이 재앙급 칼잡이였다",
+        "author": "킹슬레이",
+        "view_count": 163,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615396",
+        "title": "퇴사했더니 갓겜 만들기가 너무 쉬움",
+        "author": "겡가",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619162",
+        "title": "해고당한 셰프가 너무 유능함",
+        "author": "탈주병",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620124",
+        "title": "이혼 후 전처가 넘긴 주식으로 인생 역전!",
+        "author": "흑곰작가",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619220",
+        "title": "공주인 줄 모르고 하룻밤을 보냈다",
+        "author": "취랑(醉郞)",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
