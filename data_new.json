@@ -329854,5 +329854,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T09:30:37.464747+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617726",
+        "title": "1조 당첨된 감사팀 과장은 제주도로 쫓겨나고 싶다",
+        "author": "구구나나",
+        "view_count": 539,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612660",
+        "title": "회사생활은 망했는데, 돈이 너무 잘 벌림",
+        "author": "만슬라",
+        "view_count": 299,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617233",
+        "title": "회귀한 한국은행 팀장이 월가를 집어삼킴",
+        "author": "폭우(暴雨)",
+        "view_count": 150,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619374",
+        "title": "해고했으면 지구는 알아서 지키세요",
+        "author": "포참",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618033",
+        "title": "미국 경찰은 음모론이 싫다",
+        "author": "뇌조",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619032",
+        "title": "폐급 취급받던 수석기사가 장비를 너무 잘 고침",
+        "author": "말랑제이",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620102",
+        "title": "전쟁이 좋아서 국방력에 올인했더니 전 세계가 경악 함",
+        "author": "미친재능",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618558",
+        "title": "재벌 딸이 날 남편이라고 우김",
+        "author": "레드초콜릿",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
