@@ -332350,5 +332350,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T07:00:41.987660+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617726",
+        "title": "1조 당첨된 감사팀 과장은 제주도로 쫓겨나고 싶다",
+        "author": "구구나나",
+        "view_count": 449,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616605",
+        "title": "나만 궁극의 힐러인데 해고당함",
+        "author": "타자고양이",
+        "view_count": 300,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615853",
+        "title": "삼국지: 망할 공손찬이 남의 장수를 다 데려왔다",
+        "author": "맥스.",
+        "view_count": 176,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619850",
+        "title": "해고당한 천재, 반도체의 신이 되다",
+        "author": "신들의정원",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616763",
+        "title": "퇴사 후 폐가에서 힐링합니다",
+        "author": "냥재",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619162",
+        "title": "해고당한 셰프가 너무 유능함",
+        "author": "탈주병",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620124",
+        "title": "이혼 후 전처가 넘긴 주식으로 인생 역전!",
+        "author": "흑곰작가",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616043",
+        "title": "퇴직금으로 받은 폐던전이 깨어났다",
+        "author": "네모달",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613646",
+        "title": "권고사직 받은 만년 대리는 최고 에이스임",
+        "author": "현판찌개",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618278",
+        "title": "야구부가 싫어서 서울대 갔습니다",
+        "author": "모모다",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
