@@ -332158,5 +332158,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T05:30:37.091181+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615796",
+        "title": "버림받은 F급 광물채집자의 미국 힐링 라이프",
+        "author": "몽꾼",
+        "view_count": 437,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616605",
+        "title": "나만 궁극의 힐러인데 해고당함",
+        "author": "타자고양이",
+        "view_count": 293,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615700",
+        "title": "버림받은 블랙요원이 재앙급 칼잡이였다",
+        "author": "킹슬레이",
+        "view_count": 168,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616240",
+        "title": "빙하기 아포칼립스 100일 전, 퇴사 대신 캠핑합니다",
+        "author": "챠슈",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615396",
+        "title": "퇴사했더니 갓겜 만들기가 너무 쉬움",
+        "author": "겡가",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618106",
+        "title": "해고당한 F급 해체공 탑 등반을 시작함",
+        "author": "가좌",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618930",
+        "title": "시청률 30％ 작가인 줄 모르고 하차당함",
+        "author": "전능원",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618813",
+        "title": "버림받은 헌터가 대마법을 각성함",
+        "author": "빌림",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619220",
+        "title": "공주인 줄 모르고 하룻밤을 보냈다",
+        "author": "취랑(醉郞)",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
