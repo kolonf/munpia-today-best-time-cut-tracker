@@ -331198,5 +331198,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T21:00:46.816831+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619499",
+        "title": "업계 탑티어를 섭섭하게 만들면 벌어지는 일",
+        "author": "서인하",
+        "view_count": 607,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614334",
+        "title": "회장님들이 줄 서는 신점 스트리밍",
+        "author": "벨노트",
+        "view_count": 283,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터가 내 건 줄 모르고 쫓겨남",
+        "author": "임부키",
+        "view_count": 160,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617604",
+        "title": "재벌친부가 침술명의 혼외자를 편애함",
+        "author": "가프",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618519",
+        "title": "시골 초등학생인데 전생에 대문호였다",
+        "author": "임한백",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616259",
+        "title": "미국가서 복싱했더니 인생대박",
+        "author": "비수(飛秀)",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617531",
+        "title": "헌터 협회장이 남북을 통일시킴",
+        "author": "오천자",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619590",
+        "title": "아포칼립스 쉘터에서 농사짓고 힐링함",
+        "author": "[쥬시]",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
