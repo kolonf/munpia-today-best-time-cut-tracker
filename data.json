@@ -525119,5 +525119,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T05:00:45.340930+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 2868,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616230",
+        "title": "잠만 자도 기술이 쌓임",
+        "author": "꿈가득남",
+        "view_count": 1705,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 999,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "605444",
+        "title": "서울에서 흡혈귀로 살아남기",
+        "author": "태양물고기",
+        "view_count": 755,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616606",
+        "title": "아포칼립스에서 아공간 쉘터 키우기",
+        "author": "김판",
+        "view_count": 510,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617726",
+        "title": "1조 당첨된 감사팀 과장은 제주도로 쫓겨나고 싶다",
+        "author": "구구나나",
+        "view_count": 407,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "550818",
+        "title": "회귀 후 바로 3000억이 생겼다",
+        "author": "메인작가",
+        "view_count": 330,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610629",
+        "title": "귀환한 검신이 요리로 힐링함",
+        "author": "치즈케이끼",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610208",
+        "title": "퇴사 대란 IMF 전에 한국을 공매도 쳤다.",
+        "author": "일환(溢環)",
+        "view_count": 213,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615700",
+        "title": "버림받은 블랙요원이 재앙급 칼잡이였다",
+        "author": "킹슬레이",
+        "view_count": 163,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
