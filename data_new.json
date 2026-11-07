@@ -331774,5 +331774,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T01:30:36.545002+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615796",
+        "title": "버림받은 F급 광물채집자의 미국 힐링 라이프",
+        "author": "몽꾼",
+        "view_count": 371,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616605",
+        "title": "나만 궁극의 힐러인데 해고당함",
+        "author": "타자고양이",
+        "view_count": 250,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619374",
+        "title": "해고했으면 지구는 알아서 지키세요",
+        "author": "포참",
+        "view_count": 139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618525",
+        "title": "쫓겨난 중세 기사가 너무 강함",
+        "author": "적백赤白",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617156",
+        "title": "회귀한 줄 모르고 까불다 뒤짐",
+        "author": "팥빵맨",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618982",
+        "title": "이번 생은 조조의 만능 사위",
+        "author": "따도도",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619190",
+        "title": "퇴사 후 재벌가의 사주쟁이가 되었다.",
+        "author": "김한영",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612483",
+        "title": "화력에 미친 선조가 조선을 뜯어고침",
+        "author": "열무우",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619220",
+        "title": "공주인 줄 모르고 하룻밤을 보냈다",
+        "author": "취랑(醉郞)",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
