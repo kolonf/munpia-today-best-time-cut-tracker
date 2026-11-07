@@ -523775,5 +523775,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T23:00:43.675349+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609474",
+        "title": "사이버 렉카가 너무 유능함",
+        "author": "북골드",
+        "view_count": 3037,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613881",
+        "title": "대충 쓴 습작인데 저작권료가 쏟아짐",
+        "author": "곽탁타",
+        "view_count": 1753,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 재앙급 용병이 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 1099,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602852",
+        "title": "미래를 아는 재벌이 시총 1위 먹음",
+        "author": "백수원",
+        "view_count": 770,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613908",
+        "title": "방출된 투수가 160km를 던짐",
+        "author": "검은은하",
+        "view_count": 484,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613512",
+        "title": "해고 후 헌터들이 나만 찾음",
+        "author": "투이니F",
+        "view_count": 381,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 310,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 239,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610208",
+        "title": "퇴사 대란 IMF 전에 한국을 공매도 쳤다.",
+        "author": "일환(溢環)",
+        "view_count": 184,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615559",
+        "title": "회귀한 쌀집 아들이 너무 유능함",
+        "author": "daybreak95",
+        "view_count": 139,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
