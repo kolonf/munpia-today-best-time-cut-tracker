@@ -521663,5 +521663,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T12:30:37.706258+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 재앙급 용병이 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 3175,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신선임",
+        "view_count": 1685,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 1135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613941",
+        "title": "나를 해고하자 1조짜리 공장이 멈췄다",
+        "author": "배출구",
+        "view_count": 751,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611487",
+        "title": "몬스터 해체 9년차는 한 칼에 끝냄",
+        "author": "런타임",
+        "view_count": 573,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 463,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614334",
+        "title": "회장님들이 줄 서는 신점 스트리밍",
+        "author": "벨노트",
+        "view_count": 389,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615123",
+        "title": "해고당한 외과의는 알고 보니 병원 전체를 돌아가게 했음",
+        "author": "코어통견",
+        "view_count": 327,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598946",
+        "title": "게이트에서 주운 열쇠로 우주 전함의 함장이 되었다",
+        "author": "헬뮤티",
+        "view_count": 241,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 185,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
