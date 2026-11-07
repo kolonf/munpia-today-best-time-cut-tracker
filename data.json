@@ -523103,5 +523103,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T19:30:37.804297+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 2938,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 1833,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617716",
+        "title": "고졸백수가 돈이 너무 많음.",
+        "author": "아토별",
+        "view_count": 1199,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612127",
+        "title": "방출당한 기사가 능력을 각성함",
+        "author": "비정현파",
+        "view_count": 753,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "595709",
+        "title": "EX급 헌터, 상태창과 함께 수선계에 떨어졌다",
+        "author": "목말라",
+        "view_count": 553,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612396",
+        "title": "전설의 용병이 키운 아들이 너무 강하다",
+        "author": "블랙카드",
+        "view_count": 459,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603762",
+        "title": "퓨전펑크 천재 해커는 외신을 해킹한다",
+        "author": "범미르",
+        "view_count": 350,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "605438",
+        "title": "좀비 세상에서 차원배낭을 얻었다",
+        "author": "목표설정",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "594270",
+        "title": "독립군 말단 병사가 패권국을 만든다",
+        "author": "주절주절",
+        "view_count": 230,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614851",
+        "title": "해고 후 회귀해 AI로 만든 무기가 역사를 바꿈",
+        "author": "세듀",
+        "view_count": 168,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
