@@ -522623,5 +522623,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T17:00:45.449231+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608907",
+        "title": "권고사직 명단에 올랐는데 최고 에이스임",
+        "author": "연함™",
+        "view_count": 3108,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "606661",
+        "title": "파워볼 당첨되고 미국 목장을 샀더니 자꾸 대박남",
+        "author": "양작과",
+        "view_count": 1710,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616230",
+        "title": "잠만 자도 기술이 쌓임",
+        "author": "꿈가득남",
+        "view_count": 1111,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617726",
+        "title": "1조 당첨된 감사팀 과장은 제주도로 쫓겨나고 싶다",
+        "author": "구구나나",
+        "view_count": 783,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615006",
+        "title": "나 혼자 전설 아이템 999,999,999개로 탑 날먹",
+        "author": "시공전사",
+        "view_count": 591,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 467,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 398,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615700",
+        "title": "버림받은 블랙요원이 재앙급 칼잡이였다",
+        "author": "킹슬레이",
+        "view_count": 320,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610440",
+        "title": "퇴사한 김 과장에 전세계 화학업계가 집착함",
+        "author": "MaUna",
+        "view_count": 243,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609612",
+        "title": "S급 헌터들이 집착하는 세계유일급 대장장이가 되었다",
+        "author": "샤이텔하우",
+        "view_count": 194,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
