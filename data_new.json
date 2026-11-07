@@ -330430,5 +330430,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T13:30:37.433124+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616672",
+        "title": "면직당한 블랙요원이 너무 유능하다",
+        "author": "안재인",
+        "view_count": 541,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617814",
+        "title": "권고사직 당했더니 각성함",
+        "author": ".로튼애플.",
+        "view_count": 337,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616844",
+        "title": "유품에서 재능이 쏟아짐",
+        "author": "누리용",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617188",
+        "title": "해고당한 의사에게 거물들이 집착한다",
+        "author": "문가문가",
+        "view_count": 64,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617066",
+        "title": "아포칼립스에서 나만 답이 보임",
+        "author": "강철민",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614807",
+        "title": "EX급 힐러인데 원수는 안 살립니다",
+        "author": "딸기크레페",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616043",
+        "title": "퇴직금으로 받은 폐던전이 깨어났다",
+        "author": "네모달",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615385",
+        "title": "1000조로 아포칼립스 최강 요새를 지었다",
+        "author": "딸기크레페",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
