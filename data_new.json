@@ -331294,5 +331294,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T21:30:38.119653+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 607,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616507",
+        "title": "남들 다 무과금인데 나 혼자 1억 현질함",
+        "author": "하늘바다땅",
+        "view_count": 273,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617044",
+        "title": "해고당한 한의사에게 거물들이 집착한다",
+        "author": "글력",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 95,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618691",
+        "title": "해고당한 헌터가 EX급 버퍼였다",
+        "author": "루리나",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616043",
+        "title": "퇴직금으로 받은 폐던전이 깨어났다",
+        "author": "네모달",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617560",
+        "title": "주식으로 1조 벌고 직장 때려침",
+        "author": "라그랑쥬",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617221",
+        "title": "내쫓긴 F급 생활마법사는 아포칼립스가 너무 쉽다",
+        "author": "오수정",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620191",
+        "title": "몰락한 북부의 소드마스터가 환생함",
+        "author": "검은소드",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
