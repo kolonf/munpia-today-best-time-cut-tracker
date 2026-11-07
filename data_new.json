@@ -331486,5 +331486,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T00:00:44.589877+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "603599",
+        "title": "예쁜 아내와 농사 지으며 힐링하는데 탑 등반도 잘함",
+        "author": "개벽S",
+        "view_count": 500,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617903",
+        "title": "선협에서 EX급 쌍수공법으로 수선한다",
+        "author": "뭉낑깡",
+        "view_count": 237,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616590",
+        "title": "유일하게 각성한 줄 모르고 국외추방 당함",
+        "author": "NZ",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616240",
+        "title": "빙하기 아포칼립스 100일 전, 퇴사 대신 캠핑합니다",
+        "author": "챠슈",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619033",
+        "title": "해고 후 선협에서 수선 문파 키우기",
+        "author": "난글",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617510",
+        "title": "재벌집 데릴사위 될 줄 모르고 해고당했더니 힐링 대박남",
+        "author": "늬파랑",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615708",
+        "title": "일하기 싫어서 퇴사 후 힐링했더니 전 세계가 주목함",
+        "author": "따상",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609645",
+        "title": "해고당한 천재변호사가 참교육을 잘함",
+        "author": "5스타",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619556",
+        "title": "권고사직 당했는데 미국에서 건물주가 됐다",
+        "author": "별미안",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614966",
+        "title": "삼국지에서 함바집 사장님이 밥을 너무 잘함",
+        "author": "김시놉",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
