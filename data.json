@@ -523487,5 +523487,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-07T21:30:38.705379+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610846",
+        "title": "할아버지 일을 물려받았더니 거물들이 몰려옴",
+        "author": "네딸아빠",
+        "view_count": 2943,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614665",
+        "title": "무한 과금 네크로맨서는 해골 병사가 너무 강함",
+        "author": "시르베르",
+        "view_count": 1675,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607344",
+        "title": "이혼당한 데릴사위가 초국가적 재벌 후계자",
+        "author": "라쿤캣",
+        "view_count": 1103,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "602852",
+        "title": "미래를 아는 재벌이 시총 1위 먹음",
+        "author": "백수원",
+        "view_count": 745,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 553,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607514",
+        "title": "물려받은 미국 땅에서 온천으로 대박 났습니다",
+        "author": "풍기킹",
+        "view_count": 400,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616404",
+        "title": "삼국지 유창전",
+        "author": "運月",
+        "view_count": 342,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 271,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "606248",
+        "title": "삼국지: 퇴사한 술상무가 너무 유능하다",
+        "author": "은수랑",
+        "view_count": 198,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615251",
+        "title": "회귀한 셰프는 비트코인으로 인생역전",
+        "author": "박보스",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
