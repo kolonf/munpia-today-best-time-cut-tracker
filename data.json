@@ -530111,5 +530111,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T05:00:45.227229+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608530",
+        "title": "병원 최고 의사인 줄 모르고 버림받음",
+        "author": "오두리리",
+        "view_count": 3096,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612096",
+        "title": "독립했더니 스타들이 몰려옴",
+        "author": "새벽감자",
+        "view_count": 1659,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613070",
+        "title": "게이트에서 무역을 했더니 업계가 발칵 뒤집힘",
+        "author": "뜨끈아이스",
+        "view_count": 1078,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616230",
+        "title": "잠만 자도 기술이 쌓임",
+        "author": "꿈가득남",
+        "view_count": 833,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612097",
+        "title": "퇴사 후 요트 타고 힐링합니다",
+        "author": "그레이c",
+        "view_count": 572,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615636",
+        "title": "해고당하고 취미로 일하는데 자꾸 대박남",
+        "author": "신기한작가",
+        "view_count": 459,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "550818",
+        "title": "회귀 후 바로 3000억이 생겼다",
+        "author": "메인작가",
+        "view_count": 390,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 324,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 243,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612273",
+        "title": "10년간 준비한 아포칼립스",
+        "author": "느린생각",
+        "view_count": 184,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
