@@ -528191,5 +528191,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T19:30:38.707237+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610774",
+        "title": "5초 먼저보는 펀드매니저를 해고했더니 펀드가 박살남",
+        "author": "킹스롬",
+        "view_count": 3105,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615888",
+        "title": "헌터님 저한테 덤비면 즉사합니다",
+        "author": "카피닌자",
+        "view_count": 2075,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 1294,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616632",
+        "title": "재벌집 막내아들 비트코인으로 인생역전",
+        "author": "소수림",
+        "view_count": 832,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616750",
+        "title": "해고당한 네크로맨서가 초월특전을 받음",
+        "author": "남다른",
+        "view_count": 601,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612396",
+        "title": "전설의 용병이 키운 아들이 너무 강하다",
+        "author": "블랙카드",
+        "view_count": 472,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619374",
+        "title": "해고했으면 지구는 알아서 지키세요",
+        "author": "포참",
+        "view_count": 357,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614584",
+        "title": "해상 아포칼립스에서 유일한 땅주인이 되었다",
+        "author": "스틸훈",
+        "view_count": 295,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "607514",
+        "title": "물려받은 미국 땅에서 온천으로 대박 났습니다",
+        "author": "풍기킹",
+        "view_count": 245,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613480",
+        "title": "미래 코드를 읽는 개발자는 차원이 다르다",
+        "author": "해물조림",
+        "view_count": 181,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
