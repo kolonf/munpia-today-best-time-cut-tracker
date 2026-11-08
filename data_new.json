@@ -332830,5 +332830,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T10:30:37.232660+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612127",
+        "title": "방출당한 기사가 능력을 각성함",
+        "author": "비정현파",
+        "view_count": 504,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 308,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615080",
+        "title": "연개소문의 사생아가 되었다",
+        "author": "RAS™",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617492",
+        "title": "해고당한 매니저한테 배우들이 집착함",
+        "author": "쿤페",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620102",
+        "title": "전쟁이 좋아서 국방력에 올인했더니 전 세계가 경악 함",
+        "author": "미친재능",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619590",
+        "title": "아포칼립스 쉘터에서 농사짓고 힐링함",
+        "author": "[쥬시]",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615919",
+        "title": "폐업 직전 미국 클리닉에 메이저리거가 줄을 섰다",
+        "author": "수필러",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
