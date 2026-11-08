@@ -527711,5 +527711,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T17:30:37.561597+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그린",
+        "view_count": 2871,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608614",
+        "title": "해고당한 투자 천재한테 재벌들이 집착함",
+        "author": "참맛글",
+        "view_count": 1822,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "600175",
+        "title": "F급 용병이 고대 함선을 주웠다",
+        "author": "돈비(豚飛)",
+        "view_count": 1143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618058",
+        "title": "퇴직금 90％ 삭감 해고 후 귀농했더니 헌터계가 뒤집힘",
+        "author": "노빠꾸맨",
+        "view_count": 801,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610682",
+        "title": "해고당한 힐러가 차린 온천이 너무 잘됨",
+        "author": "힐링화원",
+        "view_count": 603,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609095",
+        "title": "해고당한 부장판사는 속마음이 들림",
+        "author": "서리문",
+        "view_count": 477,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612852",
+        "title": "평양 증발시킨 외계함선의 주인이 되었다!",
+        "author": "LunStellar",
+        "view_count": 377,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 287,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609613",
+        "title": "선협 망나니의 스킬 흡수",
+        "author": "흑도객",
+        "view_count": 238,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 174,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
