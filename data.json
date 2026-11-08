@@ -527999,5 +527999,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-08T19:00:41.841451+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그린",
+        "view_count": 3011,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615888",
+        "title": "헌터님 저한테 덤비면 즉사합니다",
+        "author": "카피닌자",
+        "view_count": 1972,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607496",
+        "title": "전 프로가 유망주인 척 함",
+        "author": "엠보돌",
+        "view_count": 1253,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 810,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "610284",
+        "title": "해고 후 퇴직금으로 SS급 능력을 받았다",
+        "author": "기획자K",
+        "view_count": 591,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615236",
+        "title": "퇴사하고 퇴마 방송으로 대박남",
+        "author": "한연HY",
+        "view_count": 468,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612232",
+        "title": "천재 유물 감정사인 줄 모르고 한국에서 제명당함",
+        "author": "기린기린기",
+        "view_count": 379,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616507",
+        "title": "남들 다 무과금인데 나 혼자 1억 현질함",
+        "author": "하늘바다땅",
+        "view_count": 286,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609613",
+        "title": "선협 망나니의 스킬 흡수",
+        "author": "흑도객",
+        "view_count": 249,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 181,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
