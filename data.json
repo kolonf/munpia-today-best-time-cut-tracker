@@ -529247,5 +529247,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T01:00:44.726351+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608304",
+        "title": "주식옵션으로 대박났지만 동네에서 슈퍼합니다",
+        "author": "테드K",
+        "view_count": 3009,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607997",
+        "title": "S급 헌터인 줄 모르고 팀에서 쫓겨남",
+        "author": "소래담",
+        "view_count": 1486,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 992,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618857",
+        "title": "외신급 귀환자인 줄 모르고 해고당함",
+        "author": "후양煦揚",
+        "view_count": 644,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 479,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613967",
+        "title": "삼국지, 상태창이 있으니 천재는 내가 다 데려가겠습니다",
+        "author": "휴일",
+        "view_count": 395,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "604842",
+        "title": "1991년, 대기업의 후계자가 되었다",
+        "author": "초보글장인",
+        "view_count": 333,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606248",
+        "title": "삼국지: 퇴사한 술상무가 너무 유능하다",
+        "author": "은수랑",
+        "view_count": 266,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619553",
+        "title": "퇴사했더니 잊고 있던 코인이 2천억이었다",
+        "author": "최고얍",
+        "view_count": 212,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "605444",
+        "title": "서울에서 흡혈귀로 살아남기",
+        "author": "태양물고기",
+        "view_count": 168,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
