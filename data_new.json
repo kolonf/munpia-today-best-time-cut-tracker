@@ -334270,5 +334270,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T02:30:38.704958+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 474,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "615906",
+        "title": "해고당한 팀장은 국가권력급 요원이었다",
+        "author": "실패전문가",
+        "view_count": 288,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614755",
+        "title": "그만둔 보조작가 대본에 연예계가 난리남",
+        "author": "피자소주",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618691",
+        "title": "해고당한 헌터가 EX급 버퍼였다",
+        "author": "루리나",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618033",
+        "title": "미국 경찰은 음모론이 싫다",
+        "author": "뇌조",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615385",
+        "title": "1000조로 아포칼립스 최강 요새를 지었다",
+        "author": "딸기크레페",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617531",
+        "title": "헌터 협회장이 남북을 통일시킴",
+        "author": "오천자",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617378",
+        "title": "방출대기 투수가 메이저리그를 찢다",
+        "author": "서사의정원",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620155",
+        "title": "해고 당했는데 흡성대법을 각성함",
+        "author": "해고님",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
