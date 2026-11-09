@@ -533759,5 +533759,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T22:30:40.176117+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "602355",
+        "title": "외계 AI로 대한민국 초강대국 만들기",
+        "author": "최자까s",
+        "view_count": 3674,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614434",
+        "title": "중세 영주로 살아남기",
+        "author": "청라수",
+        "view_count": 2122,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "593035",
+        "title": "삼국지: 가짜 공명이 일을 너무 잘함",
+        "author": "글못쓰는놈",
+        "view_count": 1262,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 817,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612883",
+        "title": "국가한테 해고 당하고 EX급 농사꾼으로 각성함",
+        "author": "나는뉴비",
+        "view_count": 559,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위가 운빨이 너무 좋음",
+        "author": "풍기킹",
+        "view_count": 415,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 371,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 296,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609613",
+        "title": "선협 망나니의 스킬 흡수",
+        "author": "흑도객",
+        "view_count": 227,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 163,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
