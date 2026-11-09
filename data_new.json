@@ -336574,5 +336574,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-10T03:00:51.836740+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618106",
+        "title": "EX급 인첸터인 줄 모르고 버림받음",
+        "author": "가좌",
+        "view_count": 488,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616605",
+        "title": "나만 궁극의 힐러인데 해고당함",
+        "author": "타자고양이",
+        "view_count": 286,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617044",
+        "title": "해고당한 한의사에게 거물들이 집착한다",
+        "author": "글력",
+        "view_count": 139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613137",
+        "title": "국가부도 직전, 건설사 물려받고 1000조 재벌",
+        "author": "절대안정",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619474",
+        "title": "해고당한 뒤 역대급 심마니가 되었다.",
+        "author": "진필.",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617378",
+        "title": "방출대기 투수가 메이저리그를 찢다",
+        "author": "서사의정원",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612392",
+        "title": "내일 차트가 보여 대기업들을 통째로 먹어버림",
+        "author": "말랑제이",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620397",
+        "title": "퇴사 후, 외계 즉사 무기 들고 탑 등반",
+        "author": "S밴드",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619554",
+        "title": "쫓겨난 명의는 시골병원을 살린다",
+        "author": "때미리2호",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618794",
+        "title": "임진왜란 직전 도요토미 히데요시에 빙의했다.",
+        "author": "풀leaf",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
