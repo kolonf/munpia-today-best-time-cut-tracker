@@ -533471,5 +533471,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T21:00:46.544453+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617716",
+        "title": "고졸백수가 돈이 너무 많음.",
+        "author": "아토별",
+        "view_count": 3334,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 2142,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619374",
+        "title": "해고했으면 지구는 알아서 지키세요",
+        "author": "포참",
+        "view_count": 1246,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616750",
+        "title": "해고당한 네크로맨서가 초월특전을 받음",
+        "author": "남다른",
+        "view_count": 861,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 638,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616590",
+        "title": "유일하게 각성한 줄 모르고 국외추방 당함",
+        "author": "NZ",
+        "view_count": 451,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610501",
+        "title": "배신당할 줄 알고 특허를 숨김",
+        "author": "골방개발자",
+        "view_count": 362,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608475",
+        "title": "신내림 받고 소소하게 힐링합니다",
+        "author": "박자까",
+        "view_count": 318,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617136",
+        "title": "만렙 블랙 요원은 쉬고 싶다.",
+        "author": "임완",
+        "view_count": 253,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터가 내 건 줄 모르고 쫓겨남",
+        "author": "임부키",
+        "view_count": 185,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
