@@ -334750,5 +334750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T12:00:46.435589+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618153",
+        "title": "이세계 외노자로 살아남기",
+        "author": "잉클링스",
+        "view_count": 520,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618857",
+        "title": "외신급 귀환자인 줄 모르고 해고당함",
+        "author": "후양煦揚",
+        "view_count": 310,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616670",
+        "title": "배신당한 EX급 헌터가 한국을 떠남",
+        "author": "찰하리",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620102",
+        "title": "전쟁이 좋아서 국방력에 올인했더니 전 세계가 경악 함",
+        "author": "미친재능",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619474",
+        "title": "해고당한 뒤 역대급 심마니가 되었다.",
+        "author": "진필.",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619162",
+        "title": "해고당한 셰프가 너무 유능함",
+        "author": "탈주병",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619220",
+        "title": "하룻밤 보낸 여자가 왕국의 공주였다",
+        "author": "취랑(醉郞)",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617560",
+        "title": "주식으로 1조 벌고 직장 때려침",
+        "author": "라그랑쥬",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603700",
+        "title": "개통령 서우진",
+        "author": "무력시위.",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
