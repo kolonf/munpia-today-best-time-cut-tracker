@@ -335614,5 +335614,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T19:30:39.743254+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615486",
+        "title": "삼국지에서 18제후 포신으로 살아남기",
+        "author": "다작김절필",
+        "view_count": 666,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 331,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 164,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616822",
+        "title": "해고당한 상사맨이 너무 특출남",
+        "author": "해비베어",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613137",
+        "title": "국가부도 직전, 건설사 물려받고 1000조 재벌",
+        "author": "절대안정",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618863",
+        "title": "미국 사막에 K-마트를 열었더니 모두가 집착함",
+        "author": "몬도리아",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619599",
+        "title": "멸종한 인류가 돌아왔다.",
+        "author": "귀신씨나락™",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615899",
+        "title": "해고당한 골렘제작자가 만든 동료는 전부 EX급",
+        "author": "박현민",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618409",
+        "title": "대한민국, 이세계로 이주하다.",
+        "author": "그랜드파파",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619724",
+        "title": "미국 농장 예비 사위가 EX급 헌터였다",
+        "author": "헌앙",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
