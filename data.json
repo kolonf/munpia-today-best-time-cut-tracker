@@ -534335,5 +534335,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-10T01:30:40.157962+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607730",
+        "title": "퇴사하고 차린 함바집에 연예인들이 몰려옴",
+        "author": "땃땃땃쥐",
+        "view_count": 3159,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "598792",
+        "title": "퓨전펑크에서 방랑용병으로 사는 법",
+        "author": "우성(雨瑆)",
+        "view_count": 1750,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 1073,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 704,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 529,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 422,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609612",
+        "title": "S급 헌터들이 집착하는 세계유일급 대장장이가 되었다",
+        "author": "샤이텔하우",
+        "view_count": 377,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 303,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614481",
+        "title": "기사가 퀘스트로 강해짐",
+        "author": "칼튼90",
+        "view_count": 233,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "601240",
+        "title": "육사출신 전술천재, 만주패왕이 되다",
+        "author": "백십칠",
+        "view_count": 176,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
