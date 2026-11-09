@@ -532511,5 +532511,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T16:30:39.672276+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그린",
+        "view_count": 3280,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "604842",
+        "title": "1991년, 대기업의 후계자가 되었다",
+        "author": "초보글장인",
+        "view_count": 1983,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 1108,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 832,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "602852",
+        "title": "미래를 아는 재벌이 시총 1위 먹음",
+        "author": "백수원",
+        "view_count": 658,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608898",
+        "title": "선협에서 특성 수집으로 수선함",
+        "author": "귤별",
+        "view_count": 517,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608190",
+        "title": "나 혼자 헬 난이도에서 고유특성으로 꿀 빰",
+        "author": "간딴",
+        "view_count": 404,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 319,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 272,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "599640",
+        "title": "백수인데 돈이 너무 많음",
+        "author": "러트렐",
+        "view_count": 198,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
