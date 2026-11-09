@@ -335326,5 +335326,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T17:30:39.482598+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 619,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616271",
+        "title": "꼼수로 섭종각 막았더니 해고당함",
+        "author": "곰산타",
+        "view_count": 319,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617043",
+        "title": "자동 사냥 마법으로 탑 등반",
+        "author": "헌터몰",
+        "view_count": 171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615990",
+        "title": "러시아의 마지막 황태자가 되었다",
+        "author": "나도원",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617721",
+        "title": "쫓아낸 막내 작곡가가 빌보드를 씹어먹음",
+        "author": "냥재",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618096",
+        "title": "해고당한 수의사가 동물 말이 들림",
+        "author": "네발의사",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619848",
+        "title": "재벌집 사냥개는 목줄을 끊는다",
+        "author": "로저무어",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619586",
+        "title": "만년 과장이 해고당하자 기업들이 줄을 선다",
+        "author": "윤자까",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
