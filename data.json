@@ -532415,5 +532415,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-09T16:00:44.469022+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608907",
+        "title": "권고사직 명단에 올랐는데 최고 에이스임",
+        "author": "연함™",
+        "view_count": 3141,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610602",
+        "title": "쫓겨난 경찰이 사법고시를 패스함",
+        "author": "조선생님",
+        "view_count": 1901,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614031",
+        "title": "좌천당한 재앙급 귀환자의 현대 생활",
+        "author": "펜리힐드",
+        "view_count": 1073,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "608902",
+        "title": "이혼당한 데릴사위가 운빨이 너무 좋음",
+        "author": "풍기킹",
+        "view_count": 766,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615006",
+        "title": "나 혼자 전설 아이템 999,999,999개로 탑 날먹",
+        "author": "시공전사",
+        "view_count": 629,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 496,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611987",
+        "title": "게임속 게이트를 건넜더니 현실이 되었다.",
+        "author": "홍정태",
+        "view_count": 382,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614422",
+        "title": "무림맹 지하감옥의 폐공수(廢功手)",
+        "author": "강다로",
+        "view_count": 308,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617903",
+        "title": "선협에서 EX급 쌍수공법으로 수선한다",
+        "author": "뭉낑깡",
+        "view_count": 258,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "608401",
+        "title": "국가에게 버려진 마법사를 전세계가 집착함",
+        "author": "글써랑",
+        "view_count": 189,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
