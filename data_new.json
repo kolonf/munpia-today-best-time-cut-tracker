@@ -338302,5 +338302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-10T16:30:39.944834+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615486",
+        "title": "삼국지에서 18제후 포신으로 살아남기",
+        "author": "다작김절필",
+        "view_count": 658,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 359,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616784",
+        "title": "잡역부를 쫓아냈더니 종문 단약이 다 터짐",
+        "author": "이천재",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619033",
+        "title": "해고 후 선협에서 수선 문파 키우기",
+        "author": "난글",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613200",
+        "title": "만렙공무원 사도세자되다",
+        "author": "인더정글",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617560",
+        "title": "주식으로 1조 벌고 직장 때려침",
+        "author": "라그랑쥬",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611378",
+        "title": "외계 AI를 얻은 줄 모르고 해고당함",
+        "author": "번민",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618493",
+        "title": "퇴사한 천재 연구원이 추정가치 1조 땅을 숨김",
+        "author": "행운카",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620114",
+        "title": "방출된 최장신 포인트가드에게 NBA 스카우터들이 집착함",
+        "author": "간딴",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619281",
+        "title": "해고당하고 산 3D프린터가 1경급이다",
+        "author": "단추공장",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
