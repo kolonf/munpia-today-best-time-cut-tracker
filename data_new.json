@@ -339646,5 +339646,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T06:00:47.398006+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612127",
+        "title": "방출당한 기사가 능력을 각성함",
+        "author": "비정현파",
+        "view_count": 605,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 311,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 160,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617728",
+        "title": "신입사원인데 주술 천재라 돈을 너무 잘 범",
+        "author": "폭파중",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619762",
+        "title": "비트코인 10만 개 가진 블랙요원인 줄 모르고 해고당함",
+        "author": "성장캐",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620561",
+        "title": "오크 한 마리 잡았는데 1500억짜리 버그가 터졌다",
+        "author": "대상필",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619282",
+        "title": "해고당한 감정사가 업계 최고가 됐다고?",
+        "author": "어나인",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617240",
+        "title": "엄마 국밥집 맡았더니 요리 천재",
+        "author": "도담(道談)",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619355",
+        "title": "회귀했지만 아무것도 하기 싫다. 격렬히",
+        "author": "프프산",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618942",
+        "title": "거물들이 몰려오는 만화방",
+        "author": "초고상승",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
