@@ -539231,5 +539231,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T01:30:38.689445+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607730",
+        "title": "퇴사하고 차린 함바집에 연예인들이 몰려옴",
+        "author": "땃땃땃쥐",
+        "view_count": 3260,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607765",
+        "title": "퇴사 후 아티팩트로 사우디 바다에서 금을 캠",
+        "author": "낭만제조사",
+        "view_count": 1627,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 1106,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618058",
+        "title": "퇴직금 90％ 삭감 해고 후 귀농했더니 헌터계가 뒤집힘",
+        "author": "노빠꾸맨",
+        "view_count": 751,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "603811",
+        "title": "철종, 제국의 시대",
+        "author": "박명의하늘",
+        "view_count": 559,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599567",
+        "title": "외계 행성에서 살아남기",
+        "author": "체엔",
+        "view_count": 432,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608858",
+        "title": "변리사를 해고하자 5천억 특허가 날아감",
+        "author": "간딴",
+        "view_count": 354,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 286,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615468",
+        "title": "해고 당했는데, 나만 저주를 풀 수 있어서 개꿀빱니다",
+        "author": "크림파이",
+        "view_count": 229,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 171,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
