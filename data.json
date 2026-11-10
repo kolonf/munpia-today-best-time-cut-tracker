@@ -538847,5 +538847,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-10T23:30:42.017930+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608730",
+        "title": "버려진 특성을 주웠더니 SSS급 토벌대원으로 각성함",
+        "author": "배불루",
+        "view_count": 3257,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608304",
+        "title": "주식옵션으로 대박났지만 동네에서 슈퍼합니다",
+        "author": "테드K",
+        "view_count": 1864,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614226",
+        "title": "7천억 물려받은 줄 모르고 퇴사당함",
+        "author": "무한와규",
+        "view_count": 1069,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617340",
+        "title": "튜토리얼 스킵 불가로 1층 부터 고인물",
+        "author": "단정한니트",
+        "view_count": 800,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616394",
+        "title": "망혼 후 결혼 날로 회귀한 헌터가 SSS급으로 각성함",
+        "author": "조일호",
+        "view_count": 567,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 447,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614249",
+        "title": "해고당한 마법사가 드래곤하트를 각성함",
+        "author": "섬월(纖月)",
+        "view_count": 376,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "606248",
+        "title": "삼국지: 퇴사한 술상무가 너무 유능하다",
+        "author": "은수랑",
+        "view_count": 297,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612396",
+        "title": "전설의 용병이 키운 아들이 너무 강하다",
+        "author": "블랙카드",
+        "view_count": 222,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612399",
+        "title": "유배지로 쫓겨난 에이스가 일하는 방식",
+        "author": "몬도리아",
+        "view_count": 181,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
