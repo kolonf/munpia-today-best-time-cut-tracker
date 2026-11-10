@@ -337438,5 +337438,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-10T10:00:47.667566+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616606",
+        "title": "아포칼립스에서 아공간 쉘터 키우기",
+        "author": "김판",
+        "view_count": 549,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617148",
+        "title": "은퇴한 농구천재는 NBA로 가야 합니다",
+        "author": "트라이즈",
+        "view_count": 303,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618081",
+        "title": "회장님 외동딸 임신시킨 줄 모르고 해고당함",
+        "author": "활자오락",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613137",
+        "title": "국가부도 직전, 건설사 물려받고 1000조 재벌",
+        "author": "절대안정",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615650",
+        "title": "해고당한 헌터가 EX급 네크로맨서로 각성함",
+        "author": "유주안",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609645",
+        "title": "해고당한 천재변호사가 참교육을 잘함",
+        "author": "5스타",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615713",
+        "title": "천마였던 내가 이딴 표국 막내라니",
+        "author": "천외객",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620770",
+        "title": "국가권력급 헌터가 해고당하자, 새로운 탑이 생김",
+        "author": "필쏘글",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619720",
+        "title": "삼국지 진란이 원술군을 최강으로 만든다",
+        "author": "비타민B",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
