@@ -337534,5 +337534,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-10T10:30:39.288513+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615906",
+        "title": "해고당한 팀장은 국가권력급 요원이었다",
+        "author": "실패전문가",
+        "view_count": 506,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 306,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618081",
+        "title": "회장님 외동딸 임신시킨 줄 모르고 해고당함",
+        "author": "활자오락",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618033",
+        "title": "미국 경찰은 음모론이 싫다",
+        "author": "뇌조",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618040",
+        "title": "삼국지, 장비가 술 끊었더니 적군이 투항하겠다고 집착함",
+        "author": "Mrpotato",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618644",
+        "title": "1세대 법의학자가 되었다",
+        "author": "자몽라임",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617763",
+        "title": "천재 작곡가는 이번 생에 노래하기로 했다",
+        "author": "에레모스",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611378",
+        "title": "외계 AI를 얻은 줄 모르고 해고당함",
+        "author": "번민",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617606",
+        "title": "회귀했더니 아공간이 돈을 복사한다",
+        "author": "야바위꾼",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618103",
+        "title": "회귀한 F급 헌터는 히든 보상을 독식한다",
+        "author": "흑월재",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
