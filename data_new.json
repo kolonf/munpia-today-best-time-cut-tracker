@@ -337822,5 +337822,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-10T12:30:39.738472+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 591,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 341,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618930",
+        "title": "시청률 30％ 작가인 줄 모르고 하차당함",
+        "author": "전능원",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617492",
+        "title": "해고당한 매니저한테 배우들이 집착함",
+        "author": "쿤페",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617221",
+        "title": "내쫓긴 F급 생활마법사는 아포칼립스가 너무 쉽다",
+        "author": "오수정",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619436",
+        "title": "만원짜리 낚시대로 수산업 재벌이 되다.",
+        "author": "닥터KIMDH",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620016",
+        "title": "버림받은 EX급 헌터가 그냥 국가를 세움",
+        "author": "신규베스트",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619820",
+        "title": "전직 킬러가 파워볼 당첨되고 제육볶음 식당 차림",
+        "author": "검은후드",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
