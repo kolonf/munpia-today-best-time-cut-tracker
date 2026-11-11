@@ -339934,5 +339934,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T09:00:47.644847+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617066",
+        "title": "아포칼립스에서 나만 답이 보임",
+        "author": "강철민",
+        "view_count": 529,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616844",
+        "title": "유품에서 재능이 쏟아짐",
+        "author": "누리용",
+        "view_count": 330,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618551",
+        "title": "퇴사 메일 받은 날, 1조 5천억 터짐",
+        "author": "라봉이",
+        "view_count": 171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618040",
+        "title": "삼국지, 장비가 술 끊었더니 적군이 투항하겠다고 집착함",
+        "author": "Mrpotato",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617378",
+        "title": "방출대기 투수가 메이저리그를 찢다",
+        "author": "서사의정원",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620231",
+        "title": "좀비 세상에서 나 혼자 데스나이트 소환",
+        "author": "오준태",
+        "view_count": 56,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617231",
+        "title": "삼국지에서 손권의 형수를 납치했다",
+        "author": "마음의음식",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619575",
+        "title": "재앙급 어둠 흡수로 탑 소멸시킨 줄 모르고 퇴출당함",
+        "author": "노랑커피",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620661",
+        "title": "해고당한 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
