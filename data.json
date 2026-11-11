@@ -543551,5 +543551,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T22:30:38.520680+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610327",
+        "title": "반도체 수율의 핵심이 나였는데 해고당함",
+        "author": "황금꼬미",
+        "view_count": 3583,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 1967,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603410",
+        "title": "F급 행운으로 음악인생 술술풀림",
+        "author": "월만",
+        "view_count": 1116,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 재앙급 용병이 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 741,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612947",
+        "title": "계약 해지당한 가맹점에 사람들이 자꾸 줄섬",
+        "author": "원일더",
+        "view_count": 533,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "606626",
+        "title": "이번 생은 NBA 포인트 가드가 될래요",
+        "author": "제춘라면",
+        "view_count": 416,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 347,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611487",
+        "title": "몬스터 해체 9년차는 한 칼에 끝냄",
+        "author": "런타임",
+        "view_count": 282,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "580335",
+        "title": "회귀한 북해표국 소공자",
+        "author": "프리힐",
+        "view_count": 202,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616947",
+        "title": "배신당한 군인이 장비창을 각성함",
+        "author": "은퇴생활",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
