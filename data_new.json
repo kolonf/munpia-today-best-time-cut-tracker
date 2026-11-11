@@ -341566,5 +341566,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-12T00:30:39.835746+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616606",
+        "title": "아포칼립스에서 아공간 쉘터 키우기",
+        "author": "김판",
+        "view_count": 547,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617188",
+        "title": "해고당한 의사에게 거물들이 집착한다",
+        "author": "문가문가",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 159,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616748",
+        "title": "해고당한 국정원 요원은 법에 구애받지 않음",
+        "author": "미나아",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619020",
+        "title": "해고당한 뉴요커가 신점 봐주니 거물들이 안달남",
+        "author": "글거북.",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617386",
+        "title": "변경백가 전설의 데릴사위",
+        "author": "베르헤라",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616942",
+        "title": "은둔 연단사의 단약은 영험합니다",
+        "author": "잎새사이",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618989",
+        "title": "삼국지 최강 빌런 원술로 살아남기",
+        "author": "chowoe",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617472",
+        "title": "현장소장 자르자 1조짜리 신공항이 멈췄다",
+        "author": "칼만",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616141",
+        "title": "해고는 당해도 패소는 안 하는 천재변호사",
+        "author": "해룸",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
