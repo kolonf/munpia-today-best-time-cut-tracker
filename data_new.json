@@ -341182,5 +341182,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T21:30:40.233359+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 799,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618930",
+        "title": "시청률 30％ 작가인 줄 모르고 하차당함",
+        "author": "전능원",
+        "view_count": 341,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618551",
+        "title": "퇴사 메일 받은 날, 1조 5천억 터짐",
+        "author": "라봉이",
+        "view_count": 149,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617613",
+        "title": "이혼 후 인생개꿀",
+        "author": "NOZY",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621062",
+        "title": "북한의 비트코인 10조원을 해킹으로 빼돌렸다",
+        "author": "크로노크",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616295",
+        "title": "선협에서 상태창 대신 위험표지가 떴다",
+        "author": "오늘은거",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616259",
+        "title": "미국가서 복싱했더니 인생대박",
+        "author": "비수(飛秀)",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617231",
+        "title": "삼국지에서 손권의 형수를 납치했다",
+        "author": "마음의음식",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619554",
+        "title": "쫓겨난 명의는 시골병원을 살린다",
+        "author": "때미리2호",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620060",
+        "title": "가문에서 쫒겨났더니 S급들이 집착함",
+        "author": "라쿤캣",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
