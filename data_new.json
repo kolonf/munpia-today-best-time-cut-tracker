@@ -340510,5 +340510,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T16:30:36.447631+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 659,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616507",
+        "title": "남들 다 무과금인데 나 혼자 1억 현질함",
+        "author": "하늘바다땅",
+        "view_count": 364,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616844",
+        "title": "유품에서 재능이 쏟아짐",
+        "author": "누리용",
+        "view_count": 157,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615080",
+        "title": "업계 최고 요원의 고구려 그레이트 어게인",
+        "author": "RAS™",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618218",
+        "title": "멸망 20일 전, 미래가 송신되는 무전기를 발견함",
+        "author": "웹소툰",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617721",
+        "title": "쫓아낸 막내 작곡가가 빌보드를 씹어먹음",
+        "author": "냥재",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619398",
+        "title": "백수가 미래를 봐서 수백조 재벌",
+        "author": "매트",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620285",
+        "title": "블랙요원이 재산50조 카르텔보스로 착각당했다",
+        "author": "참숯닭구이",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617830",
+        "title": "아무것도 안 했는데 자기들끼리 자빠짐",
+        "author": "일단웃어",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
