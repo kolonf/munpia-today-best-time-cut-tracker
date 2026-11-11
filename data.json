@@ -541343,5 +541343,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T11:30:38.003747+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613881",
+        "title": "대충 쓴 습작인데 저작권료가 쏟아짐",
+        "author": "곽탁타",
+        "view_count": 3499,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 1911,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607137",
+        "title": "망한 미국 동물원을 샀더니 돈이 복사됨",
+        "author": "운향림",
+        "view_count": 1227,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616394",
+        "title": "망혼 후 결혼 날로 회귀한 헌터가 SSS급으로 각성함",
+        "author": "조일호",
+        "view_count": 824,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611753",
+        "title": "5조 들고 귀향했더니 마을이 떡상함",
+        "author": "비엔나작가",
+        "view_count": 597,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618153",
+        "title": "이세계 외노자로 살아남기",
+        "author": "잉클링스",
+        "view_count": 494,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 404,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 352,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612653",
+        "title": "대영제국 검은 머리 한의사에게 여왕도 집착함",
+        "author": "글거북.",
+        "view_count": 277,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "604051",
+        "title": "구한말 핵잠이 일본에 핵을 떨굼",
+        "author": "정사부",
+        "view_count": 190,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
