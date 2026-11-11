@@ -340126,5 +340126,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T11:30:37.300746+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615906",
+        "title": "해고당한 팀장은 국가권력급 요원이었다",
+        "author": "실패전문가",
+        "view_count": 613,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616844",
+        "title": "유품에서 재능이 쏟아짐",
+        "author": "누리용",
+        "view_count": 357,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616870",
+        "title": "초보 무당에게 거물들이 자꾸 몰려옴",
+        "author": "흑막손",
+        "view_count": 159,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617378",
+        "title": "방출대기 투수가 메이저리그를 찢다",
+        "author": "서사의정원",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620231",
+        "title": "좀비 세상에서 나 혼자 데스나이트 소환",
+        "author": "오준태",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621171",
+        "title": "해고 당했는데, 대뜸 강시가 되었다!",
+        "author": "네버에버",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619398",
+        "title": "백수가 미래를 봐서 수백조 재벌",
+        "author": "매트",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618782",
+        "title": "회귀한 E급 헌터, 최초(EX)가 되어 씹어먹음",
+        "author": "기세(氣勢)",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
