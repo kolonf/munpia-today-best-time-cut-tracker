@@ -543455,5 +543455,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-11T22:00:46.778008+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612443",
+        "title": "해고당한 헌터가 미국에서 잘나감",
+        "author": "hsn22",
+        "view_count": 3349,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 1919,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607282",
+        "title": "사표내고 나간 차장이 너무 유능함",
+        "author": "되새김질",
+        "view_count": 1268,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612206",
+        "title": "1800억이 생긴 김에 인생 좀 즐기겠습니다.",
+        "author": "BlackSwan.",
+        "view_count": 836,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 99,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 573,
+        "substituted": true
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607514",
+        "title": "물려받은 미국 땅에서 온천으로 대박 났습니다",
+        "author": "풍기킹",
+        "view_count": 429,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617001",
+        "title": "해고당한 매니저의 친부가 업계 거물이었다",
+        "author": "마개조",
+        "view_count": 355,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612467",
+        "title": "이혼 후 로또 1등",
+        "author": "타이무",
+        "view_count": 303,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "614422",
+        "title": "무림맹 지하감옥의 폐공수(廢功手)",
+        "author": "강다로",
+        "view_count": 226,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터에서 나 혼자 농사",
+        "author": "임부키",
+        "view_count": 167,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
