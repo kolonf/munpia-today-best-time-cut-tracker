@@ -346174,5 +346174,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T05:00:44.058564+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 671,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 321,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 151,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619020",
+        "title": "해고당한 뉴요커가 신점 봐주니 거물들이 안달남",
+        "author": "글거북.",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616796",
+        "title": "미적분학 들고 조선 갔더니 판서됨",
+        "author": "지미나강",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터에서 나 혼자 농사",
+        "author": "임부키",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620240",
+        "title": "삼국지에서 산적이나 합니다",
+        "author": "밥과국",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621218",
+        "title": "해고당한 버퍼의 농장에 S급들이 눌러앉음",
+        "author": "소환왕",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618899",
+        "title": "1,000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621166",
+        "title": "위험도 평가관인데 해고당했더니 S급 길드가 줄을 섬",
+        "author": "출판소",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
