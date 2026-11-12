@@ -346654,5 +346654,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T08:00:42.813719+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 705,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614481",
+        "title": "기사가 퀘스트로 강해짐",
+        "author": "칼튼90",
+        "view_count": 329,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619553",
+        "title": "퇴사했더니 잊고 있던 코인이 2천억이었다",
+        "author": "최고얍",
+        "view_count": 157,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619220",
+        "title": "고향에서 쫓겨났는데 왕이 되게 생겼다",
+        "author": "취랑(醉郞)",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터에서 나 혼자 농사",
+        "author": "임부키",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618806",
+        "title": "용병 퇴사 후 포션 카페로 아포칼립스 살아남기",
+        "author": "콜라아이스",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620661",
+        "title": "해고당한 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 56,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620916",
+        "title": "3조원 먹고 재벌가 여친 얻고",
+        "author": "레드초콜릿",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619766",
+        "title": "회장님의 4조 와인셀러를 관리하는 줄 모르고 해고됨",
+        "author": "로테가",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621549",
+        "title": "수만 번 윤회한 놈의 역대급 스타팅",
+        "author": "풀잎곰",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
