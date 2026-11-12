@@ -344254,5 +344254,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-12T17:00:45.155454+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 743,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 353,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616822",
+        "title": "해고당한 한 차장이 회귀함",
+        "author": "해비베어",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618644",
+        "title": "1964 천재 법의학자가 살아가는 법",
+        "author": "자몽라임",
+        "view_count": 95,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618519",
+        "title": "시골 초등학생인데 전생에 대문호였다",
+        "author": "임한백",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619689",
+        "title": "왕따가 재앙급 주술을 각성함",
+        "author": "적축",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618899",
+        "title": "1,000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621485",
+        "title": "코인 1조 생겼는데 해고당함",
+        "author": "타이렌올",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621283",
+        "title": "시체 태워 스킬 흡수하는 소각사",
+        "author": "낙필",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618998",
+        "title": "15년 방치된 시스템이 흑화했다.",
+        "author": "담덕™",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
