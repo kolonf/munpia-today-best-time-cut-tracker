@@ -343678,5 +343678,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-12T14:00:45.245389+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619553",
+        "title": "퇴사했더니 잊고 있던 코인이 2천억이었다",
+        "author": "최고얍",
+        "view_count": 681,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616935",
+        "title": "회귀한 감독이 신인 배우인 척 함",
+        "author": "자경(蔗境)",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619850",
+        "title": "해고당한 천재, 광전 융합 패키징을 정복하다",
+        "author": "신들의정원",
+        "view_count": 126,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618040",
+        "title": "삼국지, 장비가 술 끊었더니 적군이 투항하겠다고 집착함",
+        "author": "Mrpotato",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618218",
+        "title": "멸망 20일 전, 미래가 송신되는 무전기를 발견함",
+        "author": "웹소툰",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617531",
+        "title": "헌터 협회장이 남북을 통일시킴",
+        "author": "오천자",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621218",
+        "title": "해고당한 버퍼의 농장에 S급들이 눌러앉음",
+        "author": "소환왕",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616295",
+        "title": "선협에서 상태창 대신 위험표지가 떴다",
+        "author": "오늘은거",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617830",
+        "title": "아무것도 안 했는데 자기들끼리 자빠짐",
+        "author": "일단웃어",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
