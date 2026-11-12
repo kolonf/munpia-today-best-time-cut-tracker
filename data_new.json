@@ -345886,5 +345886,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T02:30:37.220507+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617111",
+        "title": "맵핵 능력을 각성했더니 전세계가 집착함",
+        "author": "Ashmor",
+        "view_count": 630,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 295,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619124",
+        "title": "해고 당했는데 철강 시세를 내가 정함",
+        "author": "르블랑",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620770",
+        "title": "국가권력급 헌터가 해고당하자, 새로운 탑이 생김",
+        "author": "필쏘글",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617378",
+        "title": "방출대기 투수가 메이저리그를 찢다",
+        "author": "서사의정원",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 현질함",
+        "author": "대상필",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611378",
+        "title": "외계 AI를 얻은 줄 모르고 해고당함",
+        "author": "번민",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616887",
+        "title": "축구 경력 300년인데 19살 유망주임",
+        "author": "그울림",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619766",
+        "title": "회장님의 4조 와인셀러를 관리하는 줄 모르고 해고됨",
+        "author": "로테가",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620307",
+        "title": "해고당한 천재, 생명공학의 신이 되다",
+        "author": "강야수",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
