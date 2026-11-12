@@ -345310,5 +345310,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-12T23:30:38.605274+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617903",
+        "title": "선협에서 EX급 쌍수공법으로 수선한다",
+        "author": "뭉낑깡",
+        "view_count": 548,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616935",
+        "title": "회귀한 감독이 신인 배우인 척 함",
+        "author": "자경(蔗境)",
+        "view_count": 259,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616488",
+        "title": "인벤토리 안 고블린과 함께 탑등반",
+        "author": "고수빈",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619586",
+        "title": "만년 과장이 해고당하자 기업들이 줄을 선다",
+        "author": "윤자까",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619235",
+        "title": "재벌집에서 쫓겨났는데 내가 더 잘나감",
+        "author": "꼬노네",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617231",
+        "title": "삼국지에서 손권의 형수를 납치했다",
+        "author": "마음의음식",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619876",
+        "title": "기교파 투수가 방출 후 165km를 던짐",
+        "author": "지지플레이",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617827",
+        "title": "살려달라 엎드렸더니 독재자로 추대당함",
+        "author": "티모복지부",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
