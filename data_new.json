@@ -350014,5 +350014,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-14T06:00:44.092405+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617903",
+        "title": "선협에서 EX급 쌍수공법으로 수선한다",
+        "author": "뭉낑깡",
+        "view_count": 673,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 325,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619993",
+        "title": "멸망을 달리는 캠핑카",
+        "author": "알콜성치매",
+        "view_count": 178,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619917",
+        "title": "해고 당하면서 받은 코인이 1조가 됐다",
+        "author": "환승이직왕",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터에서 나 혼자 농사",
+        "author": "임부키",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618040",
+        "title": "삼국지, 장비가 술 끊었더니 적군이 투항하겠다고 집착함",
+        "author": "Mrpotato",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618409",
+        "title": "대한민국, 이세계로 이주하다.",
+        "author": "그랜드파파",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619264",
+        "title": "국가권력급 헌터인 줄 모르고 해고당함",
+        "author": "나린미르",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619895",
+        "title": "파워볼 당첨 후 미국 상폐 기업만 샀는데 자꾸 대박남",
+        "author": "동시",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
