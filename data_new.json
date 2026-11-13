@@ -348862,5 +348862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T22:30:41.550264+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616394",
+        "title": "망혼 후 결혼 날로 회귀한 헌터가 SSS급으로 각성함",
+        "author": "조일호",
+        "view_count": 567,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 278,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616529",
+        "title": "아포칼립스에 상점창을 숨김",
+        "author": "앱솔",
+        "view_count": 159,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618106",
+        "title": "EX급 인첸터인 줄 모르고 버림받음",
+        "author": "가좌",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616763",
+        "title": "퇴사 후 폐가에서 힐링합니다",
+        "author": "냥재",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620066",
+        "title": "S급 힐러인줄 모르고 협회에서 쫓겨남",
+        "author": "백시헌",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620661",
+        "title": "해고당한 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619436",
+        "title": "만원짜리 낚시대로 수산업 재벌이 되다.",
+        "author": "닥터KIMDH",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621166",
+        "title": "위험도 평가관인데 해고당했더니 S급 길드가 줄을 섬",
+        "author": "출판소",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621549",
+        "title": "수만 번 윤회한 놈의 역대급 스타팅",
+        "author": "풀잎곰",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
