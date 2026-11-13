@@ -348286,5 +348286,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T19:00:41.419016+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616672",
+        "title": "면직당한 블랙요원이 너무 유능하다",
+        "author": "안재인",
+        "view_count": 793,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612660",
+        "title": "망해가는 목욕탕 물려받고, 돈이 넘쳐흐름",
+        "author": "만슬라",
+        "view_count": 363,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616947",
+        "title": "배신당한 군인이 장비창을 각성함",
+        "author": "은퇴생활",
+        "view_count": 184,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617409",
+        "title": "대장장이가 해고 당하자마자 초월급 특성을 얻었다",
+        "author": "릴리프현",
+        "view_count": 114,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616814",
+        "title": "퇴사후 알바로 출연한 친구 입봉작이 대박났다",
+        "author": "버드와칭",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618899",
+        "title": "1,000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619660",
+        "title": "내 양계장에 초월급 마수 알들이 배송됨",
+        "author": "[플래터]",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616259",
+        "title": "미국가서 복싱했더니 인생이 너무 편함",
+        "author": "비수(飛秀)",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618794",
+        "title": "임진왜란 직전 도요토미 히데요시에 빙의했다.",
+        "author": "풀leaf",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621867",
+        "title": "바이올린 천재가 세계를 씹어먹음",
+        "author": "글리코겐",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
