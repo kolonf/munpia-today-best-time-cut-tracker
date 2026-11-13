@@ -347998,5 +347998,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T17:00:42.267943+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616672",
+        "title": "면직당한 블랙요원이 너무 유능하다",
+        "author": "안재인",
+        "view_count": 727,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617066",
+        "title": "아포칼립스에서 나만 답이 보임",
+        "author": "강철민",
+        "view_count": 291,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616935",
+        "title": "회귀한 감독이 신인 배우인 척 함",
+        "author": "자경(蔗境)",
+        "view_count": 157,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621062",
+        "title": "북한의 비트코인 10조원을 해킹으로 빼돌렸다",
+        "author": "크로노크",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 119,
+        "novel_id": "619689",
+        "title": "왕따가 재앙급 주술을 각성함",
+        "author": "적축",
+        "view_count": 60,
+        "substituted": true
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609259",
+        "title": "나 혼자 무직인데 경험치 10,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619275",
+        "title": "해고후 물려받은 목욕탕에 거물들이 몰려온다",
+        "author": "아아연하게",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617211",
+        "title": "이방원의 소꿉친구가 되었다",
+        "author": "너구리계란",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618324",
+        "title": "밴드에서 쫒겨난 세컨기타가 빌보드를 점령함",
+        "author": "귤오렌지",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
