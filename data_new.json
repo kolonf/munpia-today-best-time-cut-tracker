@@ -349054,5 +349054,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-14T00:00:50.774465+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 529,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616887",
+        "title": "축구 경력 300년인데 19살 유망주임",
+        "author": "그울림",
+        "view_count": 142,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618965",
+        "title": "해고당한 침술 명의가 차린 한의원에 거물들이 줄 섬",
+        "author": "녹수(淥水)",
+        "view_count": 84,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619032",
+        "title": "폐급 취급받던 수석기사가 장비를 너무 잘 고침",
+        "author": "말랑제이",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619831",
+        "title": "해고당한 삼촌이 국가권력급 헌터였다",
+        "author": "고독인간",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620016",
+        "title": "버림받은 EX급 헌터가 그냥 국가를 세움",
+        "author": "신규베스트",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619436",
+        "title": "만원짜리 낚시대로 수산업 재벌이 되다.",
+        "author": "닥터KIMDH",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621549",
+        "title": "수만 번 윤회한 놈의 역대급 스타팅",
+        "author": "풀잎곰",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
