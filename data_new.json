@@ -347710,5 +347710,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T15:00:42.056176+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616494",
+        "title": "나 하나 해고했다고 100조짜리 구단이 무너짐",
+        "author": "자유수달",
+        "view_count": 745,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 301,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618000",
+        "title": "연습생 하나 방출하니 데뷔조가 바로 망함",
+        "author": "개인전",
+        "view_count": 154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619235",
+        "title": "재벌집에서 쫓겨났는데 내가 더 잘나감",
+        "author": "꼬노네",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619101",
+        "title": "방송하는 천재 감정사가 되었다",
+        "author": "김튀김",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617606",
+        "title": "회귀한 아공간 능력자 밀수 금괴 얻어 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618587",
+        "title": "삼국지, 여포가 내 말만 듣는다",
+        "author": "풍류랑.",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620285",
+        "title": "블랙요원이 재산50조 카르텔보스로 착각당했다",
+        "author": "참숯닭구이",
+        "view_count": 34,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619975",
+        "title": "얼어붙은 세상에서 살아남기",
+        "author": "챠슈",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
