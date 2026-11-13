@@ -348478,5 +348478,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T20:00:45.076938+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 715,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618551",
+        "title": "퇴사 메일 받은 날, 1조 5천억 터짐",
+        "author": "라봉이",
+        "view_count": 333,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618620",
+        "title": "나 혼자 탑에서 낚시했더니 힐링이 미쳤다",
+        "author": "나이와키",
+        "view_count": 155,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617432",
+        "title": "재벌가가 집착하는 천재 역술인",
+        "author": "악중선",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616459",
+        "title": "해고당한 나는 원래 괴물 보컬이었다.",
+        "author": "mirtail",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619073",
+        "title": "퇴사당한 변호사에게 재벌들이 줄을 섬",
+        "author": "활자철공소",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621110",
+        "title": "이혼해고후 회귀 회장님비자금 99999999로 탑날먹함",
+        "author": "야바위꾼",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619275",
+        "title": "해고후 물려받은 목욕탕에 거물들이 몰려온다",
+        "author": "아아연하게",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619762",
+        "title": "비트코인 10만 개 가진 블랙요원인 줄 모르고 해고당함",
+        "author": "성장캐",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
