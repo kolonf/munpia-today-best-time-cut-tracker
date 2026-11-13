@@ -555071,5 +555071,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-14T07:00:46.069025+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "612029",
+        "title": "거짓말하면 죽는 국회의원이 여의도를 지배한다",
+        "author": "글향",
+        "view_count": 3488,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612197",
+        "title": "해고당한 짐꾼의 S급 던전 생존기",
+        "author": "유리뼈",
+        "view_count": 1868,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615299",
+        "title": "해고당한 계약직은 대체불가였다",
+        "author": "마지막검사",
+        "view_count": 1076,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 723,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611987",
+        "title": "게임속 게이트를 건넜더니 현실이 되었다.",
+        "author": "홍정태",
+        "view_count": 593,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614334",
+        "title": "회장님들이 줄 서는 신점 스트리밍",
+        "author": "벨노트",
+        "view_count": 443,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609716",
+        "title": "삼국지, 도겸네 장남이 조조보다 잘남",
+        "author": "날여우",
+        "view_count": 341,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613475",
+        "title": "아포칼립스에서 도망쳤더니 선협세상",
+        "author": "히버",
+        "view_count": 270,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621062",
+        "title": "북한의 비트코인 10조원을 해킹으로 빼돌렸다",
+        "author": "크로노크",
+        "view_count": 222,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612660",
+        "title": "망해가는 목욕탕 물려받고, 돈이 넘쳐흐름",
+        "author": "만슬라",
+        "view_count": 162,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
