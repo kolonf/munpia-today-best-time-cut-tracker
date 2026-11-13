@@ -554495,5 +554495,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-14T04:00:49.711676+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611945",
+        "title": "25살 신선이 명당을 알려줌",
+        "author": "글밥",
+        "view_count": 3055,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607496",
+        "title": "전 프로가 유망주인 척 함",
+        "author": "엠보돌",
+        "view_count": 1635,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618930",
+        "title": "시청률 30％ 작가인 줄 모르고 하차당함",
+        "author": "전능원",
+        "view_count": 1029,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616394",
+        "title": "망혼 후 결혼 날로 회귀한 헌터가 SSS급으로 각성함",
+        "author": "조일호",
+        "view_count": 698,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 564,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 437,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608858",
+        "title": "변리사를 해고하자 5천억 특허가 날아감",
+        "author": "간딴",
+        "view_count": 332,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616672",
+        "title": "면직당한 블랙요원이 너무 유능하다",
+        "author": "안재인",
+        "view_count": 269,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 210,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "609612",
+        "title": "S급 헌터들이 집착하는 세계유일급 대장장이가 되었다",
+        "author": "샤이텔하우",
+        "view_count": 147,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
