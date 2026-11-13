@@ -348574,5 +348574,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T20:30:40.630293+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 677,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617188",
+        "title": "해고당한 의사에게 거물들이 집착한다",
+        "author": "문가문가",
+        "view_count": 347,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620770",
+        "title": "국가권력급 헌터가 해고당하자, 새로운 탑이 생김",
+        "author": "필쏘글",
+        "view_count": 154,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613148",
+        "title": "아기 드워프가 인천에서 살아가는 법",
+        "author": "kangyou",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619474",
+        "title": "해고당한 뒤 역대급 심마니가 되었다.",
+        "author": "진필.",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619783",
+        "title": "특급 주술사가 헌터로 각성함",
+        "author": "팔풍",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617378",
+        "title": "방출대기 투수가 메이저리그를 찢다",
+        "author": "서사의정원",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620016",
+        "title": "버림받은 EX급 헌터가 그냥 국가를 세움",
+        "author": "신규베스트",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621867",
+        "title": "바이올린 천재가 세계를 씹어먹음",
+        "author": "글리코겐",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619910",
+        "title": "망해가는 내 주점이 조선에 문을 열었다",
+        "author": "톨킴",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
