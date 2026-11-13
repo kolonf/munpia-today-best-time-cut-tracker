@@ -348094,5 +348094,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-13T18:00:43.725993+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616672",
+        "title": "면직당한 블랙요원이 너무 유능하다",
+        "author": "안재인",
+        "view_count": 764,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616935",
+        "title": "회귀한 감독이 신인 배우인 척 함",
+        "author": "자경(蔗境)",
+        "view_count": 178,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617409",
+        "title": "대장장이가 해고 당하자마자 초월급 특성을 얻었다",
+        "author": "릴리프현",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618586",
+        "title": "퇴사 후 폐가를 고쳤더니 생츄어리가 되었다",
+        "author": "일만권",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619552",
+        "title": "대학병원이 버린 의사는 수술천재였다",
+        "author": "글쓰는랭커",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620397",
+        "title": "퇴사 후, 외계 즉사 무기 들고 탑 등반",
+        "author": "S밴드",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619190",
+        "title": "퇴사했는데 재벌 3세가 사주 봐달라고 매달린다.",
+        "author": "김한영",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619975",
+        "title": "얼어붙은 세상에서 살아남기",
+        "author": "챠슈",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620855",
+        "title": "퓨전펑크 흑마법사가 외신과 계약했다",
+        "author": "범미르",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
