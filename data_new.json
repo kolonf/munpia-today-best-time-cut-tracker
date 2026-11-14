@@ -350686,5 +350686,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-14T11:00:44.253282+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617066",
+        "title": "아포칼립스에서 나만 답이 보임",
+        "author": "강철민",
+        "view_count": 686,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616935",
+        "title": "회귀한 감독이 신인 배우인 척 함",
+        "author": "자경(蔗境)",
+        "view_count": 322,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619917",
+        "title": "해고 당하면서 받은 코인이 1조가 됐다",
+        "author": "환승이직왕",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616887",
+        "title": "축구 경력 300년인데 19살 유망주임",
+        "author": "그울림",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616796",
+        "title": "미적분학 들고 조선 갔더니 판서됨",
+        "author": "지미나강",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617221",
+        "title": "내쫓긴 F급 생활마법사는 아포칼립스가 너무 쉽다",
+        "author": "오수정",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621621",
+        "title": "퇴사 후 복권 1등, 고성을 샀더니 거물들이 집착한다",
+        "author": "그림자블루",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621121",
+        "title": "시카고 세탁소 아들이 천재라고?",
+        "author": "김리노",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
