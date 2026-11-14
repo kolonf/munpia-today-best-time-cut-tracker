@@ -352510,5 +352510,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T01:30:38.868334+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618863",
+        "title": "미국 사막에 K-마트를 열었더니 모두가 집착함",
+        "author": "몬도리아",
+        "view_count": 579,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621801",
+        "title": "장애인이 탑 공략을 너무 잘함",
+        "author": "데프프픗",
+        "view_count": 294,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617604",
+        "title": "재벌친부가 침술명의 혼외자를 편애함",
+        "author": "가프",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619602",
+        "title": "멸망하는 세계에서 내 쉘터가 부유섬임",
+        "author": "힐링화원",
+        "view_count": 90,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621430",
+        "title": "퇴사 서류에 서명했더니 길드가 무너졌다",
+        "author": "리글리글",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620358",
+        "title": "해고 당한 천재 강사는 너튜브 일타가 됐다",
+        "author": "이래도",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616786",
+        "title": "이혼 후 개망나니 네크로맨서가 되었다",
+        "author": "콩콩이빠덜",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621469",
+        "title": "방출당한 에이스는 우승 반지를 돌려받기로 했다",
+        "author": "한유림",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
