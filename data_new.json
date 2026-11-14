@@ -350878,5 +350878,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-14T12:30:36.836551+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 646,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621062",
+        "title": "북한의 비트코인 10조원을 해킹으로 빼돌렸다",
+        "author": "크로노크",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619917",
+        "title": "해고 당하면서 받은 코인이 1조가 됐다",
+        "author": "환승이직왕",
+        "view_count": 166,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618218",
+        "title": "멸망 20일 전, 미래가 송신되는 무전기를 발견함",
+        "author": "웹소툰",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618768",
+        "title": "감독이 떠났더니 축구가 너무 쉬움",
+        "author": "부두웅산",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616942",
+        "title": "은둔 연단사의 단약은 영험합니다",
+        "author": "잎새사이",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618409",
+        "title": "대한민국, 이세계로 이주하다.",
+        "author": "그랜드파파",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619531",
+        "title": "방출당한 기타리스트가 차트올킬",
+        "author": "후레게",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620572",
+        "title": "국밥집인데 게장 주문이 폭주한다",
+        "author": "처늬",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620433",
+        "title": "이혼후 해고까지 당했는데 무한성장 쉘터의 주인이 되었다",
+        "author": "골방개발자",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
