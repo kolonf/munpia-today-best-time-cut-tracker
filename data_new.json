@@ -352030,5 +352030,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-14T21:30:37.754117+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617903",
+        "title": "선협에서 EX급 쌍수공법으로 수선한다",
+        "author": "뭉낑깡",
+        "view_count": 603,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619590",
+        "title": "지구 멸망했는데 내 쉘터만 너무 쾌적함",
+        "author": "[쥬시]",
+        "view_count": 347,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 175,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618519",
+        "title": "시골 초등학생인데 전생에 대문호였다",
+        "author": "임한백",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621407",
+        "title": "간첩 아내를 신고했더니 수천억 코인 지갑이 쏟아짐",
+        "author": "샤이텔하우",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619032",
+        "title": "폐급 취급받던 수석기사가 장비를 너무 잘 고침",
+        "author": "말랑제이",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620489",
+        "title": "버림받은 헌터가 재앙급 마수를 독점함",
+        "author": "한꽃",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621647",
+        "title": "잠재력 측정 불가 탱커는 튜토리얼 고인물이 됐다",
+        "author": "농어촌작가",
+        "view_count": 32,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620545",
+        "title": "쫓겨난 소환사가 SS급 소환수를 먹튀함",
+        "author": "쿤페",
+        "view_count": 26,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620264",
+        "title": "이번 생은 락스타로 살렵니다",
+        "author": "란장",
+        "view_count": 21,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
