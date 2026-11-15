@@ -562559,5 +562559,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T19:00:47.834868+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609474",
+        "title": "좋소 퇴사하고 범죄자만 터는 렉카로 대박남",
+        "author": "북골드",
+        "view_count": 2919,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608314",
+        "title": "KBO에서 방출된 타자는 MLB 홈런왕",
+        "author": "신지님",
+        "view_count": 1877,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615470",
+        "title": "해고당한 김대리가 천재 킬러라고?",
+        "author": "지곡.",
+        "view_count": 1180,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612941",
+        "title": "군필 여배우가 블록버스터 대작만 찍음",
+        "author": "필드스틱",
+        "view_count": 782,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 580,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613613",
+        "title": "내 금속 공장에 이세계 거물들이 집착함",
+        "author": "toAny",
+        "view_count": 476,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610284",
+        "title": "해고 후 퇴직금으로 SS급 능력을 받았다",
+        "author": "기획자K",
+        "view_count": 408,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619831",
+        "title": "해고당한 삼촌이 국가권력급 헌터였다",
+        "author": "고독인간",
+        "view_count": 316,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605172",
+        "title": "선협에서 운명이 다 보임",
+        "author": "이찬솔",
+        "view_count": 246,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616822",
+        "title": "해고당한 한 차장이 회귀함",
+        "author": "해비베어",
+        "view_count": 185,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
