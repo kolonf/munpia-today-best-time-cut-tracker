@@ -355486,5 +355486,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T20:00:43.257454+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618412",
+        "title": "이혼하고 퇴사당해 전업투자자가 됐는데 인생이 재밌어졌다",
+        "author": "밥땅",
+        "view_count": 585,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 357,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619527",
+        "title": "버그 스킬을 얻었더니 탑 공략이 너무 쉬움",
+        "author": "Decapoet",
+        "view_count": 167,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617503",
+        "title": "해고당했더니 국보급 눈이 떠졌다",
+        "author": "마음한조각",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "616942",
+        "title": "은둔 연단사의 단약은 영험합니다",
+        "author": "잎새사이",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620397",
+        "title": "퇴사 후, 외계 즉사 무기 들고 탑 등반",
+        "author": "S밴드",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621511",
+        "title": "섬 귀농하려고 사직서 낸 날,50억 상속 연락이 왔다",
+        "author": "닮은계란",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618794",
+        "title": "임진왜란 직전 도요토미 히데요시에 빙의했다.",
+        "author": "풀leaf",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622464",
+        "title": "해고당해 회귀한 천재, 생명공학 재벌이 되다",
+        "author": "신들의정원",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
