@@ -565151,5 +565151,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-16T07:30:38.440733+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613881",
+        "title": "대충 쓴 습작인데 저작권료가 쏟아짐",
+        "author": "곽탁타",
+        "view_count": 3821,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612096",
+        "title": "280만 유튜버 만들어줬더니 해고당함",
+        "author": "새벽감자",
+        "view_count": 1828,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 1102,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616750",
+        "title": "해고당한 네크로맨서가 초월특전을 받음",
+        "author": "남다른",
+        "view_count": 871,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616404",
+        "title": "삼국지 유창전",
+        "author": "運月",
+        "view_count": 629,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617148",
+        "title": "은퇴한 농구천재는 NBA로 가야 합니다",
+        "author": "트라이즈",
+        "view_count": 486,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618106",
+        "title": "EX급 인첸터인 줄 모르고 버림받음",
+        "author": "가좌",
+        "view_count": 403,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620748",
+        "title": "미국 시골 방송국에 미래식 방송을 풀었다",
+        "author": "고별",
+        "view_count": 330,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617386",
+        "title": "변경백가 전설의 데릴사위",
+        "author": "베르헤라",
+        "view_count": 261,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 188,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
