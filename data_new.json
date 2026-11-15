@@ -354142,5 +354142,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T11:30:38.162946+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616933",
+        "title": "증여받은 무인도가 보물들을 쏟아냄",
+        "author": "한매화",
+        "view_count": 616,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619917",
+        "title": "해고 당하면서 받은 코인이 1조가 됐다",
+        "author": "환승이직왕",
+        "view_count": 319,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617432",
+        "title": "재벌가가 집착하는 천재 역술인",
+        "author": "악중선",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616814",
+        "title": "퇴사후 알바로 출연한 친구 입봉작이 대박났다",
+        "author": "버드와칭",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615184",
+        "title": "해고당하고 산 캠핑카에 1만 평이 생겼다",
+        "author": "단추공장",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618409",
+        "title": "대한민국, 이세계로 이주하다.",
+        "author": "그랜드파파",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618587",
+        "title": "삼국지, 여포가 내 말만 듣는다",
+        "author": "풍류랑.",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621434",
+        "title": "해고당했더니 미녀들과 아들이 생김",
+        "author": "학이선",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621993",
+        "title": "해고 당한 후, SSS급 전능 쉘터를 얻었다",
+        "author": "오브더",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
