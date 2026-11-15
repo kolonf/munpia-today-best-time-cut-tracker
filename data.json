@@ -561023,5 +561023,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T11:30:37.637075+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611522",
+        "title": "퇴사 후 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 3168,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신선임",
+        "view_count": 1456,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612396",
+        "title": "전설의 용병이 키운 아들이 너무 강하다",
+        "author": "블랙카드",
+        "view_count": 1110,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 794,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619590",
+        "title": "지구 멸망했는데 내 쉘터만 너무 쾌적함",
+        "author": "[쥬시]",
+        "view_count": 566,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613148",
+        "title": "아기 드워프가 인천에서 살아가는 법",
+        "author": "kangyou",
+        "view_count": 453,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "609116",
+        "title": "회귀한 신입사원의 눈에 비밀이 보임",
+        "author": "복면작가",
+        "view_count": 360,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619033",
+        "title": "해고 후 선협에서 수선 문파 키우기",
+        "author": "난글",
+        "view_count": 317,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 239,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615468",
+        "title": "해고 당했는데, 나만 저주를 풀 수 있어서 개꿀빱니다",
+        "author": "크림파이",
+        "view_count": 148,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
