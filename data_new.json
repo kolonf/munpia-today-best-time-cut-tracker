@@ -357118,5 +357118,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-16T07:00:43.051892+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617814",
+        "title": "권고사직 당했더니 각성함",
+        "author": ".로튼애플.",
+        "view_count": 696,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617312",
+        "title": "해고 후 코스피 폭락함",
+        "author": "초선택자",
+        "view_count": 349,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 141,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "609645",
+        "title": "천재변호사가 성질을 못참고 법으로 조짐",
+        "author": "5스타",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617409",
+        "title": "대장장이가 해고 당하자마자 초월급 특성을 얻었다",
+        "author": "릴리프현",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617458",
+        "title": "선협 최강자가 망나니 몸에 들어옴",
+        "author": "쩝쩝새",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619190",
+        "title": "퇴사했는데 재벌 3세가 사주 봐달라고 매달린다.",
+        "author": "김한영",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621509",
+        "title": "회사가 버린 천재, 다이아몬드로 반도체 시장을 집어삼킴",
+        "author": "강야수",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622189",
+        "title": "은퇴당한 헌터는 미국령 무인도에서 개꿀 힐링합니다",
+        "author": "토산",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621469",
+        "title": "방출당한 에이스는 우승 반지를 돌려받기로 했다",
+        "author": "한유림",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
