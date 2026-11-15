@@ -354430,5 +354430,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T13:30:39.178016+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619590",
+        "title": "지구 멸망했는데 내 쉘터만 너무 쾌적함",
+        "author": "[쥬시]",
+        "view_count": 594,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620748",
+        "title": "미국 시골 방송국에 미래식 방송을 풀었다",
+        "author": "고별",
+        "view_count": 296,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619235",
+        "title": "재벌집에서 쫓겨났는데 내가 더 잘나감",
+        "author": "꼬노네",
+        "view_count": 140,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 90,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 67,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621511",
+        "title": "섬 귀농하려고 사직서 낸 날,50억 상속 연락이 왔다",
+        "author": "닮은계란",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621110",
+        "title": "이혼해고후 회귀 회장님비자금 99999999로 탑날먹함",
+        "author": "야바위꾼",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620358",
+        "title": "해고 당한 천재 강사는 너튜브 일타가 됐다",
+        "author": "이래도",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619190",
+        "title": "퇴사했는데 재벌 3세가 사주 봐달라고 매달린다.",
+        "author": "김한영",
+        "view_count": 27,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617240",
+        "title": "엄마 대신 국밥 끓였더니 손님이 안 끊김",
+        "author": "도담(道談)",
+        "view_count": 23,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
