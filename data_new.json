@@ -357022,5 +357022,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-16T06:00:44.423176+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619619",
+        "title": "청소 마법만 썼는데 헬 난이도가 너무 쉬움",
+        "author": "비요뜨귀신",
+        "view_count": 680,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618289",
+        "title": "선협 세계 재벌가 망나니가 되었다",
+        "author": "리디아.",
+        "view_count": 349,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619020",
+        "title": "해고당한 뉴요커가 신점 봐주니 거물들이 안달남",
+        "author": "글거북.",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617616",
+        "title": "산골로 좌천된 과장이 산을 다 사들임",
+        "author": "달빛몽쉘",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617432",
+        "title": "재벌가가 집착하는 천재 역술인",
+        "author": "악중선",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620489",
+        "title": "버림받은 헌터가 재앙급 마수를 독점함",
+        "author": "한꽃",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619478",
+        "title": "버림받은 가장이 업계 1위였다",
+        "author": "인터스틱",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622153",
+        "title": "코인으로 1조 벌고 은퇴했다",
+        "author": "월백남",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620358",
+        "title": "해고 당한 천재 강사는 너튜브 일타가 됐다",
+        "author": "이래도",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621469",
+        "title": "방출당한 에이스는 우승 반지를 돌려받기로 했다",
+        "author": "한유림",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
