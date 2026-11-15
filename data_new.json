@@ -354046,5 +354046,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T11:00:46.539466+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619619",
+        "title": "청소 마법만 썼는데 헬 난이도가 너무 쉬움",
+        "author": "비요뜨귀신",
+        "view_count": 679,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 322,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619162",
+        "title": "해고당한 셰프가 너무 유능함",
+        "author": "탈주병",
+        "view_count": 142,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617432",
+        "title": "재벌가가 집착하는 천재 역술인",
+        "author": "악중선",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618040",
+        "title": "삼국지, 장비가 술 끊었더니 적군이 투항하겠다고 집착함",
+        "author": "Mrpotato",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621407",
+        "title": "간첩 아내를 신고했더니 수천억 코인 지갑이 쏟아짐",
+        "author": "샤이텔하우",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617827",
+        "title": "살려달라 엎드렸더니 독재자로 추대당함",
+        "author": "티모복지부",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622114",
+        "title": "삼국지, 나 혼자 왕으로 시작한다",
+        "author": "신독(愼獨)",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620644",
+        "title": "로펌에서 잘렸더니 속마음이 들림",
+        "author": "[쥬시]",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615430",
+        "title": "피를 부르는 식구들",
+        "author": "조가치",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
