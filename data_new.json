@@ -355678,5 +355678,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T21:30:38.913547+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616672",
+        "title": "면직당한 블랙요원이 너무 유능하다",
+        "author": "안재인",
+        "view_count": 594,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 366,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617560",
+        "title": "주식으로 1조 벌고 직장 때려침",
+        "author": "라그랑쥬",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617763",
+        "title": "천재 작곡가가 목소리를 되찾음",
+        "author": "에레모스",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619575",
+        "title": "재앙급 어둠 흡수로 탑 소멸시킨 줄 모르고 퇴출당함",
+        "author": "노랑커피",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618989",
+        "title": "삼국지 최강 빌런 원술로 살아남기",
+        "author": "chowoe",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621186",
+        "title": "쫓겨난 천재 한의사, 침술로 세계를 정복하다",
+        "author": "신들의정원",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 29,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621729",
+        "title": "로또 20억 당첨됐더니 하는 일마다 대박남",
+        "author": "점군이",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
