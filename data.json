@@ -561887,5 +561887,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-15T16:00:51.380792+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615299",
+        "title": "해고당한 계약직은 대체불가였다",
+        "author": "마지막검사",
+        "view_count": 2663,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 1684,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 1011,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 716,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 526,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614481",
+        "title": "기사가 퀘스트로 강해짐",
+        "author": "칼튼90",
+        "view_count": 426,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "611987",
+        "title": "게임속 게이트를 건넜더니 현실이 되었다.",
+        "author": "홍정태",
+        "view_count": 368,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618551",
+        "title": "퇴사 메일 받은 날, 1조 5천억 터짐",
+        "author": "라봉이",
+        "view_count": 278,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "598780",
+        "title": "겜판을 정상화하는 디렉터가 됐다",
+        "author": "라구.B.P",
+        "view_count": 206,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617156",
+        "title": "회귀한 줄 모르고 까불다 뒤짐",
+        "author": "팥빵맨",
+        "view_count": 159,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
