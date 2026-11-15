@@ -563519,5 +563519,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-16T00:00:53.178180+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613000",
+        "title": "미국 노숙자인데 딸이 생김",
+        "author": "용린龍鱗",
+        "view_count": 3254,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "609889",
+        "title": "무공 천재가 말세 시대에 떨어짐",
+        "author": "길마",
+        "view_count": 1748,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "603599",
+        "title": "예쁜 아내와 농사 지으며 힐링하는데 탑 등반도 잘함",
+        "author": "개벽S",
+        "view_count": 934,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612947",
+        "title": "계약 해지당한 가맹점에 사람들이 자꾸 줄섬",
+        "author": "원일더",
+        "view_count": 673,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618551",
+        "title": "퇴사 메일 받은 날, 1조 5천억 터짐",
+        "author": "라봉이",
+        "view_count": 526,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 398,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 322,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "602323",
+        "title": "1907 이지스함대가 열강을 찢음",
+        "author": "듀이문",
+        "view_count": 271,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615853",
+        "title": "삼국지: 백마의종 공손찬이 천하를 독식함",
+        "author": "맥스.",
+        "view_count": 194,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "616446",
+        "title": "회귀한 공무원이 돈을 너무 잘 번다",
+        "author": "리븐",
+        "view_count": 158,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
