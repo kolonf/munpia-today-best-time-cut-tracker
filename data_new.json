@@ -360670,5 +360670,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T04:00:53.347233+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 712,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 340,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622322",
+        "title": "저는 지쳤으니까 한국은 알아서 지키세요",
+        "author": "오천자",
+        "view_count": 148,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621218",
+        "title": "해고당한 버퍼의 농장에 S급들이 눌러앉음",
+        "author": "소환왕",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "609259",
+        "title": "나 혼자 무직인데 경험치 10,000배로 탑 등반",
+        "author": "진독자",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621722",
+        "title": "해고당한 짐꾼이 EX급 부여술사였다",
+        "author": "앤비즈",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터에서 나 혼자 농사",
+        "author": "임부키",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622114",
+        "title": "삼국지, 나 혼자 왕으로 시작한다",
+        "author": "신독(愼獨)",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618782",
+        "title": "회귀한 E급 헌터, 최초(EX)가 되어 씹어먹음",
+        "author": "기세(氣勢)",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
