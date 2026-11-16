@@ -357598,5 +357598,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-16T10:00:42.385543+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618525",
+        "title": "쫓겨난 중세 십자군 기사가 너무 강함",
+        "author": "적백赤白",
+        "view_count": 664,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 317,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619602",
+        "title": "멸망하는 세계에서 내 쉘터가 부유섬임",
+        "author": "힐링화원",
+        "view_count": 141,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618218",
+        "title": "아포칼립스 20일 전, 미래의 내가 무전을 걸어왔다",
+        "author": "웹소툰",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618989",
+        "title": "삼국지 최강 빌런 원술로 살아남기",
+        "author": "chowoe",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617000",
+        "title": "수선은커녕 생존",
+        "author": "진세평",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619599",
+        "title": "멸종한 인류가 돌아왔다.",
+        "author": "귀신씨나락™",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620511",
+        "title": "대마법사가 대한민국에 귀환했다",
+        "author": "다랑쉬",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620307",
+        "title": "해고당한 천재, 생명공학의 신이 되다",
+        "author": "강야수",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
