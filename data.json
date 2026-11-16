@@ -568319,5 +568319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-16T23:00:53.517798+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609474",
+        "title": "사이버 렉카가 너무 유능함",
+        "author": "북골드",
+        "view_count": 3387,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 1866,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 1037,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "603599",
+        "title": "예쁜 아내와 농사 지으며 힐링하는데 탑 등반도 잘함",
+        "author": "개벽S",
+        "view_count": 703,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612947",
+        "title": "계약 해지당한 가맹점에 사람들이 자꾸 줄섬",
+        "author": "원일더",
+        "view_count": 550,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613475",
+        "title": "아포칼립스에서 도망쳤더니 선협세상",
+        "author": "히버",
+        "view_count": 419,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 345,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617093",
+        "title": "내가 해고당하자 S급들이 줄줄이 따라옴",
+        "author": "임부키",
+        "view_count": 291,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618106",
+        "title": "EX급 인첸터인 줄 모르고 버림받음",
+        "author": "가좌",
+        "view_count": 204,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "613613",
+        "title": "내 금속 공장에 이세계 거물들이 집착함",
+        "author": "toAny",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
