@@ -357982,5 +357982,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-16T12:30:39.991077+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620770",
+        "title": "국가권력급 헌터가 해고당하자, 새로운 탑이 생김",
+        "author": "필쏘글",
+        "view_count": 566,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619917",
+        "title": "해고 당하면서 받은 코인이 1조가 됐다",
+        "author": "환승이직왕",
+        "view_count": 314,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619101",
+        "title": "방송하는 천재 감정사가 되었다",
+        "author": "김튀김",
+        "view_count": 128,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621520",
+        "title": "내 폐가가 명소가 되었다",
+        "author": "꿈가득남",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620916",
+        "title": "3조원 먹고 재벌가 여친 얻고",
+        "author": "레드초콜릿",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617560",
+        "title": "주식으로 1조 벌고 직장 때려침",
+        "author": "라그랑쥬",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622114",
+        "title": "삼국지, 나 혼자 왕으로 시작한다",
+        "author": "신독(愼獨)",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618998",
+        "title": "15년 방치된 시스템이 흑화했다.",
+        "author": "담덕™",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620307",
+        "title": "해고당한 천재, 생명공학의 신이 되다",
+        "author": "강야수",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619531",
+        "title": "방출당한 기타리스트가 차트올킬",
+        "author": "후레게",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
