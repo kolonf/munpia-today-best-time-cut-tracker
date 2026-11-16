@@ -360094,5 +360094,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T00:30:38.744344+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618525",
+        "title": "쫓겨난 중세 십자군 기사가 너무 강함",
+        "author": "적백赤白",
+        "view_count": 625,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620748",
+        "title": "미국 시골 방송국에 미래식 방송을 풀었다",
+        "author": "고별",
+        "view_count": 320,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616814",
+        "title": "퇴사후 알바로 출연한 친구 입봉작이 대박났다",
+        "author": "버드와칭",
+        "view_count": 133,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620899",
+        "title": "전능의 눈을 각성한 줄 모르고 증권사에서 버림받음",
+        "author": "가냐슈",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621171",
+        "title": "해고 당했는데, 대뜸 강시가 되었다!",
+        "author": "네버에버",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621511",
+        "title": "섬으로 귀농하려고 사표 낸 날 50억 상속 연락이 왔다",
+        "author": "닮은계란",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622153",
+        "title": "코인으로 1조 벌고 은퇴했다",
+        "author": "월백남",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620433",
+        "title": "이혼후 해고까지 당했는데 무한성장 쉘터의 주인이 되었다",
+        "author": "골방개발자",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623075",
+        "title": "해고당한 S급 헌터가 1000조 벌고 인생 초대박",
+        "author": "임부키",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621426",
+        "title": "좀비 아포칼립스에서 마법을 독학함",
+        "author": "서해강",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
