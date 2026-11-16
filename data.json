@@ -569567,5 +569567,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T05:29:38.337948+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "613881",
+        "title": "대충 쓴 습작인데 저작권료가 쏟아짐",
+        "author": "곽탁타",
+        "view_count": 3766,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 1900,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610450",
+        "title": "미국복권 당첨된 공무원이 하고싶은대로 다 함",
+        "author": "나이막",
+        "view_count": 1095,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 822,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619162",
+        "title": "해고당한 셰프가 너무 유능함",
+        "author": "탈주병",
+        "view_count": 639,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615796",
+        "title": "버림받은 F급 광물채집자의 미국 힐링 라이프",
+        "author": "몽꾼",
+        "view_count": 463,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 398,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619033",
+        "title": "선협에서 제자만 키워도 강해짐",
+        "author": "난글",
+        "view_count": 319,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619235",
+        "title": "재벌집에서 쫓겨났는데 내가 더 잘나감",
+        "author": "꼬노네",
+        "view_count": 259,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 182,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
