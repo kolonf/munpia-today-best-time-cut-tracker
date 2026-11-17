@@ -364318,5 +364318,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T03:30:42.541979+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619220",
+        "title": "하룻밤 보낸 미망인이 왕위 계승자였다",
+        "author": "취랑(醉郞)",
+        "view_count": 667,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620251",
+        "title": "미국 싫어서 기술력에 올인했더니 전 세계가 뒤집어짐",
+        "author": "연함™",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨됐는데 돈이 미친듯이 벌림",
+        "author": "이공이공",
+        "view_count": 145,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623239",
+        "title": "스무살 애아빠가 돈이 너무 많음",
+        "author": "소수림",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619524",
+        "title": "방출 직전에 미래시를 각성했다",
+        "author": "지언(至言)",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619820",
+        "title": "전직 킬러가 파워볼 당첨되고 제육볶음 식당 차림",
+        "author": "검은후드",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622385",
+        "title": "자발적 종족 차별주의자",
+        "author": "잉크서점",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612368",
+        "title": "AI가 야구 천재를 육성함",
+        "author": "유서나",
+        "view_count": 39,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618794",
+        "title": "공무원이 임진왜란 최종 보스에 빙의함",
+        "author": "풀leaf",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620846",
+        "title": "X망한 세상에서 괴물 좀 잡았더니 S급들이 매달림",
+        "author": "짙은",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
