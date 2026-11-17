@@ -364702,5 +364702,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T06:00:43.222857+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619220",
+        "title": "하룻밤 보낸 미망인이 왕위 계승자였다",
+        "author": "취랑(醉郞)",
+        "view_count": 685,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619235",
+        "title": "재벌집에서 쫓겨났는데 내가 더 잘나감",
+        "author": "꼬노네",
+        "view_count": 284,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619876",
+        "title": "기교파 투수가 방출 후 165km를 던짐",
+        "author": "지지플레이",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "611378",
+        "title": "외계 AI를 얻은 줄 모르고 해고당함",
+        "author": "번민",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621171",
+        "title": "해고 당했는데, 대뜸 선협 세계의 강시가 되었다!",
+        "author": "네버에버",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619820",
+        "title": "전직 킬러가 파워볼 당첨되고 제육볶음 식당 차림",
+        "author": "검은후드",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622477",
+        "title": "월가를 뒤집어 엎은 사람은 한국의 기러기 아빠였다",
+        "author": "팥빵맨",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623136",
+        "title": "중동 망나니 왕자가 한국을 너무 좋아함",
+        "author": "탄두리치킨",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621718",
+        "title": "해고당한 아이돌 매니저한테 러브콜이 쏟아짐",
+        "author": "육개장.",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623148",
+        "title": "예상 수명 99,999년, 선협속 장생종 나무가 되었다",
+        "author": "대조동수사",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
