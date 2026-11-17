@@ -362014,5 +362014,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T13:30:39.197026+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619220",
+        "title": "하룻밤 보낸 미망인이 왕위 계승자였다",
+        "author": "취랑(醉郞)",
+        "view_count": 635,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨됐는데 돈이 미친듯이 벌림",
+        "author": "이공이공",
+        "view_count": 338,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618179",
+        "title": "귀환한 대마법사는 소소하게 산다",
+        "author": "천서경",
+        "view_count": 126,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619586",
+        "title": "만년 과장이 해고당하자 기업들이 줄을 선다",
+        "author": "윤자까",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619552",
+        "title": "대학병원이 버린 의사는 수술천재였다",
+        "author": "글쓰는랭커",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621243",
+        "title": "미국 센트럴파크의 정원사가 천재 드루이드라고?",
+        "author": "강현우",
+        "view_count": 41,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622523",
+        "title": "해고 후 미국에서 고물상 차렸더니 빅테크가 집착함",
+        "author": "베르나르베",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620769",
+        "title": "고종의 금고지기가 투자를 너무 잘함",
+        "author": "싸이시스",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621087",
+        "title": "비비탄총으로 탑 등반하니 데미지가 누적됨",
+        "author": "아침호수",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
