@@ -363358,5 +363358,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T22:30:39.678986+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619527",
+        "title": "버그 스킬을 얻었더니 탑 공략이 너무 쉬움",
+        "author": "Decapoet",
+        "view_count": 680,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618586",
+        "title": "퇴사 후 폐가를 고쳤더니 생츄어리가 되었다",
+        "author": "일만권",
+        "view_count": 376,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620672",
+        "title": "나 혼자만 착용제한 없음",
+        "author": "지돌.",
+        "view_count": 64,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621993",
+        "title": "해고 당한 후, SSS급 전능 쉘터를 얻었다",
+        "author": "오브더",
+        "view_count": 48,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620438",
+        "title": "해고당한 무림맹주가 이세계에서 무공으로 휩쓸고 다님",
+        "author": "단군하부지",
+        "view_count": 42,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622298",
+        "title": "해고했으니 무림은 알아서 지키세요",
+        "author": "어른호박",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610480",
+        "title": "해고당한 의사가 러시아 망한병원 샀더니 대통령이 찾아옴",
+        "author": "시냅스",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620706",
+        "title": "취미로 하는 대장간에 자꾸 괴이가 찾아온다",
+        "author": "Praba",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
