@@ -364030,5 +364030,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T02:00:46.987832+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619355",
+        "title": "회귀했지만 아무것도 하기 싫다. 격렬히",
+        "author": "프프산",
+        "view_count": 620,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619831",
+        "title": "귀환한 삼촌이 국가권력급 헌터였다",
+        "author": "고독인간",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621101",
+        "title": "나는 중국을 사랑한다",
+        "author": "운비양",
+        "view_count": 130,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623239",
+        "title": "스무살 애아빠가 돈이 너무 많음",
+        "author": "소수림",
+        "view_count": 85,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 66,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622189",
+        "title": "은퇴당한 헌터는 미국령 무인도에서 개꿀 힐링합니다",
+        "author": "토산",
+        "view_count": 53,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621509",
+        "title": "회사가 버린 천재, 다이아몬드로 반도체 시장을 집어삼킴",
+        "author": "강야수",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615039",
+        "title": "국제무기상 이온",
+        "author": "위선호",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621442",
+        "title": "마수들과 힐링하는 열 살배기 천재 마수조련사",
+        "author": "Hadele",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623069",
+        "title": "해고당한 96세 부장의 인맥이 미쳤다.",
+        "author": "태대비",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
