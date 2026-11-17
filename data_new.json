@@ -362878,5 +362878,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T19:00:46.761944+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620748",
+        "title": "미국 시골 방송국에 미래식 방송을 풀었다",
+        "author": "고별",
+        "view_count": 726,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618551",
+        "title": "퇴사 메일 받은 날, 1조 5천억 터짐",
+        "author": "라봉이",
+        "view_count": 414,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618231",
+        "title": "빙하기 최강 셸터에서 나 혼자 농사",
+        "author": "임부키",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621218",
+        "title": "해고당한 버퍼의 농장에 S급들이 눌러앉음",
+        "author": "소환왕",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619453",
+        "title": "극 쾌검술로 탑 등반",
+        "author": "우레폭풍새",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619648",
+        "title": "메이저리그의 마지막 퍼즐이 되었다",
+        "author": "푸른뱀99",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620644",
+        "title": "로펌에서 잘렸더니 속마음이 들림",
+        "author": "[쥬시]",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621867",
+        "title": "다섯 살 천재는 바이올린이 쉬움",
+        "author": "글리코겐",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621729",
+        "title": "로또 20억 당첨됐더니 하는 일마다 대박남",
+        "author": "점군이",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621582",
+        "title": "해고당했는데 100조로 탑을 싹쓸이함",
+        "author": "단추공장",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
