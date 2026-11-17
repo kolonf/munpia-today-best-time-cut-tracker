@@ -363262,5 +363262,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T22:00:47.803068+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619527",
+        "title": "버그 스킬을 얻었더니 탑 공략이 너무 쉬움",
+        "author": "Decapoet",
+        "view_count": 655,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 380,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619935",
+        "title": "신통한 점쟁이의 슬기로운 감빵생활",
+        "author": "꼬마김가루",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619689",
+        "title": "왕따가 재앙급 주술을 각성함",
+        "author": "적축",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619032",
+        "title": "폐급 취급받던 수석기사가 장비를 너무 잘 고침",
+        "author": "말랑제이",
+        "view_count": 62,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622477",
+        "title": "월가를 뒤집어 엎은 사람은 한국의 기러기 아빠였다",
+        "author": "팥빵맨",
+        "view_count": 47,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621499",
+        "title": "선협에서 상태창을 숨김",
+        "author": "잊힌별",
+        "view_count": 40,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621549",
+        "title": "선협에서 수만 번 윤회만에 역대급 시작",
+        "author": "풀잎곰",
+        "view_count": 33,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621718",
+        "title": "해고당한 아이돌 매니저한테 러브콜이 쏟아짐",
+        "author": "육개장.",
+        "view_count": 28,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622669",
+        "title": "동네백수인데 북한해커 10조 코인을 스틸함",
+        "author": "야바위꾼",
+        "view_count": 24,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
