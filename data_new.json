@@ -362206,5 +362206,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-17T14:30:36.539234+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620748",
+        "title": "미국 시골 방송국에 미래식 방송을 풀었다",
+        "author": "고별",
+        "view_count": 604,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621621",
+        "title": "퇴사 후 복권 1등, 고성을 샀더니 거물들이 집착한다",
+        "author": "그림자블루",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618236",
+        "title": "해고당한 PD는 광고주들의 최애였다",
+        "author": "호쟉",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620644",
+        "title": "로펌에서 잘렸더니 속마음이 들림",
+        "author": "[쥬시]",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622155",
+        "title": "유산으로 50억 받았는데 운이 너무 좋다",
+        "author": "쌈짱된장",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620773",
+        "title": "월가의 전설, 알고 보니 무능한 김대리였다",
+        "author": "로디로디",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621509",
+        "title": "회사가 버린 천재, 다이아몬드로 반도체 시장을 집어삼킴",
+        "author": "강야수",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618527",
+        "title": "재벌집 서자, 제국을 접수하다!",
+        "author": "교산(蛟山)",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622689",
+        "title": "퇴사 후 꿀 빨고 왔는데 아직도 내가 업계 탑임",
+        "author": "최강이",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
