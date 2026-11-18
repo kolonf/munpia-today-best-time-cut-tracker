@@ -367294,5 +367294,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T21:30:39.690059+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 685,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 367,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 161,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620644",
+        "title": "로펌에서 잘렸더니 속마음이 들림",
+        "author": "[쥬시]",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622153",
+        "title": "코인으로 1조 벌고 은퇴했다",
+        "author": "월백남",
+        "view_count": 55,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621489",
+        "title": "해고당한 팀장이 카페를 차렸더니 거물들이 찾아옴",
+        "author": "코찬",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620438",
+        "title": "해고당한 무림맹주가 이세계에서 무공으로 휩쓸고 다님",
+        "author": "단군하부지",
+        "view_count": 36,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619895",
+        "title": "파워볼 당첨 후 미국 상폐 기업만 샀는데 자꾸 대박남",
+        "author": "동시",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622650",
+        "title": "하와이에서 보물 찾으니 거물들이 집착함",
+        "author": "지나83",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
