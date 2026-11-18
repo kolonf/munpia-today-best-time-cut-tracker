@@ -367966,5 +367966,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T02:00:46.464458+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 638,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619020",
+        "title": "해고당한 뉴요커가 신점으로 재벌됨",
+        "author": "글거북.",
+        "view_count": 249,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620285",
+        "title": "블랙요원이 재산50조 카르텔보스로 착각당했다",
+        "author": "참숯닭구이",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620644",
+        "title": "로펌에서 잘렸더니 속마음이 들림",
+        "author": "[쥬시]",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622155",
+        "title": "유산으로 50억 받았는데 운이 너무 좋다",
+        "author": "쌈짱된장",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618768",
+        "title": "감독이 떠났더니 축구를 너무 잘함",
+        "author": "부두웅산",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623208",
+        "title": "미국이 내쫓은 천재, 국산 전투기 심장을 깨우다",
+        "author": "강야수",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623148",
+        "title": "예상 수명 99,999년, 선협속 장생종 나무가 되었다",
+        "author": "대조동수사",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623708",
+        "title": "희생했는데도 쫓아냈으니 너네 미국은 알아서 지키세요",
+        "author": "글로또",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623264",
+        "title": "역대급 음악 천재인 줄 모르고 대차게 버림당함",
+        "author": "김옥지",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
