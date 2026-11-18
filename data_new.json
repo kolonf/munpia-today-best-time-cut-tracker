@@ -368254,5 +368254,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T03:30:41.830152+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 684,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620251",
+        "title": "미국 싫어서 기술력에 올인했더니 전 세계가 뒤집어짐",
+        "author": "연함™",
+        "view_count": 275,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 168,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620358",
+        "title": "해고당한 수학 강사는 유튜브로 대치동을 씹어먹음",
+        "author": "이래도",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623518",
+        "title": "동양인이라 해고당한 공학도가 세계를 무릎 꿇렸다",
+        "author": "신들의정원",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618409",
+        "title": "지구가 멸망한다길래 대한민국을 옮겼다",
+        "author": "그랜드파파",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622107",
+        "title": "신령님들, 민원 접수하려면 번호표 먼저 뽑으세요!",
+        "author": "백원만s",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623148",
+        "title": "예상 수명 99,999년, 선협속 장생종 나무가 되었다",
+        "author": "대조동수사",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619190",
+        "title": "퇴사했는데 재벌 3세가 사주 봐달라고 매달린다.",
+        "author": "김한영",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621426",
+        "title": "좀비 아포칼립스에서 마법을 독학함",
+        "author": "서해강",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
