@@ -368542,5 +368542,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T05:00:45.000722+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 719,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618620",
+        "title": "나 혼자 탑에서 낚시했더니 힐링이 미쳤다",
+        "author": "나이와키",
+        "view_count": 295,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620285",
+        "title": "블랙요원이 재산50조 카르텔보스로 착각당했다",
+        "author": "참숯닭구이",
+        "view_count": 174,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620358",
+        "title": "해고당한 수학 강사는 유튜브로 대치동을 씹어먹음",
+        "author": "이래도",
+        "view_count": 95,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618768",
+        "title": "감독이 떠났더니 축구를 너무 잘함",
+        "author": "부두웅산",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618519",
+        "title": "미국 대문호인데 문맹인 줄 암",
+        "author": "임한백",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619895",
+        "title": "파워볼 당첨 후 미국 상폐 기업만 샀는데 자꾸 대박남",
+        "author": "동시",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612368",
+        "title": "AI가 야구 천재를 육성함",
+        "author": "유서나",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620962",
+        "title": "평범한 김대리가 로또 당첨되면 생기는일",
+        "author": "잘부",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623037",
+        "title": "셋플릭스 1위 작가인 줄 모르고 보조작가 해고당함",
+        "author": "장바오",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
