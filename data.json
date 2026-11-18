@@ -578303,5 +578303,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T00:00:53.286948+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609474",
+        "title": "사이버 렉카가 너무 유능함",
+        "author": "북골드",
+        "view_count": 2930,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 1335,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607137",
+        "title": "내가 인수한 미국 동물원이 너무 잘 됨",
+        "author": "운향림",
+        "view_count": 890,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620748",
+        "title": "미국 시골 방송국에 미래식 방송을 풀었다",
+        "author": "고별",
+        "view_count": 692,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617604",
+        "title": "재벌친부가 침술명의 혼외자를 편애함",
+        "author": "가프",
+        "view_count": 510,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 369,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 298,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618942",
+        "title": "거물들이 몰려오는 만화방",
+        "author": "초고상승",
+        "view_count": 230,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617830",
+        "title": "아무것도 안 했는데 자기들끼리 자빠짐",
+        "author": "일단웃어",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "603762",
+        "title": "퓨전펑크 천재 해커는 외신을 해킹한다",
+        "author": "범미르",
+        "view_count": 131,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
