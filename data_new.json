@@ -368830,5 +368830,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T06:30:37.300813+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 710,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 292,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618644",
+        "title": "1964 천재 법의학자가 살아가는 법",
+        "author": "자몽라임",
+        "view_count": 177,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620849",
+        "title": "100억 포인트 쉴터로 아포칼립스 바다 위에서 살아남기",
+        "author": "현진현우",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622189",
+        "title": "은퇴당한 헌터는 미국령 무인도에서 개꿀 힐링합니다",
+        "author": "토산",
+        "view_count": 80,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618899",
+        "title": "1,000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622107",
+        "title": "신령님들, 민원 접수하려면 번호표 먼저 뽑으세요!",
+        "author": "백원만s",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621090",
+        "title": "해고당한 후 태양신이 되었다",
+        "author": "빅피쉬",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620962",
+        "title": "평범한 김대리가 로또 당첨되면 생기는일",
+        "author": "잘부",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622114",
+        "title": "삼국지, 나 혼자 왕으로 시작한다",
+        "author": "신독(愼獨)",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
