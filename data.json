@@ -578399,5 +578399,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T00:30:44.320227+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609474",
+        "title": "사이버 렉카가 너무 유능함",
+        "author": "북골드",
+        "view_count": 2989,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 1452,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619553",
+        "title": "퇴사했더니 잊고 있던 코인이 2천억이었다",
+        "author": "최고얍",
+        "view_count": 876,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612110",
+        "title": "방출된 타자가 재능을 수집함",
+        "author": "주창범",
+        "view_count": 706,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 503,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611132",
+        "title": "빙의당한 망나니 미국 대통령이 의료보험을 무상화함",
+        "author": "배천",
+        "view_count": 379,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618620",
+        "title": "나 혼자 탑에서 낚시했더니 힐링이 미쳤다",
+        "author": "나이와키",
+        "view_count": 280,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619876",
+        "title": "기교파 투수가 방출 후 165km를 던짐",
+        "author": "지지플레이",
+        "view_count": 229,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 194,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620726",
+        "title": "이혼 후 해고, 개판인 우리 집은 돈벼락!",
+        "author": "흑곰작가",
+        "view_count": 130,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
