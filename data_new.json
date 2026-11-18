@@ -369118,5 +369118,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T08:30:36.602695+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619033",
+        "title": "선협에서 제자만 키워도 강해짐",
+        "author": "난글",
+        "view_count": 653,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619235",
+        "title": "쫓겨난 재벌집 막내가 너무 유능함",
+        "author": "꼬노네",
+        "view_count": 291,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618179",
+        "title": "귀환한 대마법사는 소소하게 산다",
+        "author": "천서경",
+        "view_count": 149,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618916",
+        "title": "딸 바보 힐링 셰프가 사는 곳이 역세권",
+        "author": "코코zz",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622189",
+        "title": "은퇴당한 헌터는 미국령 무인도에서 개꿀 힐링합니다",
+        "author": "토산",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619478",
+        "title": "버림받은 가장이 업계 1위였다",
+        "author": "인터스틱",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623069",
+        "title": "해고당한 96세 부장의 인맥이 미쳤다.",
+        "author": "태대비",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620899",
+        "title": "전능의 눈을 각성한 줄 모르고 증권사에서 버림받음",
+        "author": "가냐슈",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사",
+        "author": "필드스틱",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621838",
+        "title": "북한 싫어서 포 쐈더니 전 세계가 무릎 꿇음",
+        "author": "빙봉이",
+        "view_count": 33,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
