@@ -576575,5 +576575,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T15:30:42.487522+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615299",
+        "title": "해고당한 계약직은 대체불가였다",
+        "author": "마지막검사",
+        "view_count": 3814,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608314",
+        "title": "한국에서 방출된 타자는 메이저리그 홈런왕",
+        "author": "신지님",
+        "view_count": 1731,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 997,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612941",
+        "title": "군필 여배우가 블록버스터 대작만 찍음",
+        "author": "필드스틱",
+        "view_count": 689,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615796",
+        "title": "버림받은 F급 광물채집자의 미국 힐링 라이프",
+        "author": "몽꾼",
+        "view_count": 534,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613613",
+        "title": "내 금속 공장에 이세계 거물들이 집착함",
+        "author": "toAny",
+        "view_count": 440,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617728",
+        "title": "거물들이 집착하는 주술천재 신입사원",
+        "author": "폭파중",
+        "view_count": 345,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608858",
+        "title": "변리사를 해고하자 5천억 특허가 날아감",
+        "author": "간딴",
+        "view_count": 258,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 197,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619020",
+        "title": "해고당한 뉴요커가 신점으로 재벌됨",
+        "author": "글거북.",
+        "view_count": 156,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
