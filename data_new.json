@@ -365470,5 +365470,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T11:00:45.671140+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 731,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619235",
+        "title": "쫓겨난 재벌집 막내가 너무 유능함",
+        "author": "꼬노네",
+        "view_count": 319,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 144,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618904",
+        "title": "해고당함 청년의 코인이 400억 되어버림",
+        "author": "글로또",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618989",
+        "title": "삼국지 최강 빌런 원술로 살아남기",
+        "author": "chowoe",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619689",
+        "title": "왕따가 재앙급 주술을 각성함",
+        "author": "적축",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615430",
+        "title": "피를 부르는 식구들",
+        "author": "조가치",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622971",
+        "title": "변방의 병약 귀족은 규격 외 천재였다",
+        "author": "시르베르",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621090",
+        "title": "해고당한 후 태양신이 되었다",
+        "author": "빅피쉬",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
