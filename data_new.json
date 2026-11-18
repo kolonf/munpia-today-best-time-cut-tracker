@@ -367006,5 +367006,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T19:30:37.825301+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619619",
+        "title": "청소 마법만 썼는데 헬 난이도가 너무 쉬움",
+        "author": "비요뜨귀신",
+        "view_count": 708,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620102",
+        "title": "전쟁이 좋아서 국방력에 올인했더니 전 세계가 경악 함",
+        "author": "미친재능",
+        "view_count": 339,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623652",
+        "title": "강대국 눈치 안보고 화력에 올인했더니 전 세계가 기겁함",
+        "author": "미친재능",
+        "view_count": 151,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622410",
+        "title": "해고했으면 무기는 알아서 고치세요",
+        "author": "염상(炎上)",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622433",
+        "title": "해고 후 심해 자원을 독점했더니 전 세계가 집착함",
+        "author": "크림파이",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622898",
+        "title": "해고 후 1조로 힐링하는데 투자가 자꾸 대박남",
+        "author": "원일더",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623230",
+        "title": "S급 헌터 키워줬더니 해고당함",
+        "author": "양복선",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623208",
+        "title": "미국이 내쫓은 천재, 국산 전투기 심장을 깨우다",
+        "author": "강야수",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621800",
+        "title": "집에서는 백수, 밖에서는 천재 작가님",
+        "author": "한도현",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619910",
+        "title": "망해가는 내 주점이 조선에 문을 열었다",
+        "author": "톨킴",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
