@@ -365950,5 +365950,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-18T14:00:44.860924+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618253",
+        "title": "해고당한 이혼남은 국가권력급",
+        "author": "리얼탄산",
+        "view_count": 615,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 286,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "611378",
+        "title": "외계 AI를 얻은 줄 모르고 해고당함",
+        "author": "번민",
+        "view_count": 128,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618519",
+        "title": "미국 대문호인데 문맹인 줄 암",
+        "author": "임한백",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620916",
+        "title": "3조원 먹고 재벌가 여친 얻고",
+        "author": "레드초콜릿",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620264",
+        "title": "방출당한 연습생이 업계 최고였던 전생을 각성함",
+        "author": "란장",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623208",
+        "title": "미국이 내쫓은 천재, 국산 전투기 심장을 깨우다",
+        "author": "강야수",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620661",
+        "title": "해고당한 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621489",
+        "title": "해고당한 팀장이 카페를 차렸더니 거물들이 찾아옴",
+        "author": "코찬",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621679",
+        "title": "해고당했더니 빌보드 가수들이 집착하는 작곡가됨",
+        "author": "햇살쨍",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
