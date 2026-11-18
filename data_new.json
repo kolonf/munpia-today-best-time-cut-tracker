@@ -368062,5 +368062,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T02:30:44.926638+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 663,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619235",
+        "title": "쫓겨난 재벌집 막내가 너무 유능함",
+        "author": "꼬노네",
+        "view_count": 259,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 160,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619524",
+        "title": "방출 직전에 미래시를 각성했다",
+        "author": "지언(至言)",
+        "view_count": 91,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른 무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621166",
+        "title": "위험도 평가관인데 해고당했더니 S급 길드가 줄을 섬",
+        "author": "출판소",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "615184",
+        "title": "해고당하고 산 캠핑카에 1만 평이 생겼다",
+        "author": "단추공장",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623148",
+        "title": "예상 수명 99,999년, 선협속 장생종 나무가 되었다",
+        "author": "대조동수사",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622982",
+        "title": "천재배우가 색마를 숨김",
+        "author": "쏘하이",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618782",
+        "title": "회귀한 E급 헌터, 최초(EX)가 되어 씹어먹음",
+        "author": "기세(氣勢)",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
