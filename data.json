@@ -582143,5 +582143,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T19:00:51.892115+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "607203",
+        "title": "선발 때려치웠더니 야구가 너무 쉬움",
+        "author": "금문장",
+        "view_count": 3423,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619702",
+        "title": "해고당한 날 악수했다가 스킬 흡수함",
+        "author": "염비",
+        "view_count": 1692,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617340",
+        "title": "튜토리얼 스킵 불가로 1층 부터 고인물",
+        "author": "단정한니트",
+        "view_count": 1173,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619619",
+        "title": "청소 마법만 썼는데 헬 난이도가 너무 쉬움",
+        "author": "비요뜨귀신",
+        "view_count": 758,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614602",
+        "title": "해고후 파워볼당첨돼 미국서 힐링하려는데 장사가 너무잘됨",
+        "author": "나없고",
+        "view_count": 606,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "608898",
+        "title": "선협에서 특성 수집으로 수선함",
+        "author": "귤별",
+        "view_count": 478,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "603762",
+        "title": "퓨전펑크 천재 해커는 외신을 해킹한다",
+        "author": "범미르",
+        "view_count": 388,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619566",
+        "title": "주화입마 면역이라 마공이 너무 쉽다",
+        "author": "루도스",
+        "view_count": 304,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "618942",
+        "title": "거물들이 몰려오는 만화방",
+        "author": "초고상승",
+        "view_count": 232,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611026",
+        "title": "삼국지 회귀 마초, 영웅호걸을 싹쓸이하다",
+        "author": "골든라이언",
+        "view_count": 176,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
