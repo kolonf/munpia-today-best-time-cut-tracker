@@ -580319,5 +580319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T10:00:47.276062+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 3171,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612096",
+        "title": "280만 유튜버 만들어줬더니 해고당함",
+        "author": "새벽감자",
+        "view_count": 1889,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619590",
+        "title": "지구 멸망했는데 내 쉘터만 너무 쾌적함",
+        "author": "[쥬시]",
+        "view_count": 1094,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 814,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "612941",
+        "title": "군필 여배우가 블록버스터 대작만 찍음",
+        "author": "필드스틱",
+        "view_count": 585,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "613485",
+        "title": "해고 대신 좌천된 김과장, 우주선 주운 후 계속 출근함",
+        "author": "퇴근후우주",
+        "view_count": 421,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "608560",
+        "title": "측정불가 지능으로 회귀했다",
+        "author": "팟장",
+        "view_count": 338,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608898",
+        "title": "선협에서 특성 수집으로 수선함",
+        "author": "귤별",
+        "view_count": 292,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616887",
+        "title": "축구 경력 300년인데 19살 유망주임",
+        "author": "그울림",
+        "view_count": 199,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618033",
+        "title": "미국 경찰은 음모론이 싫다",
+        "author": "뇌조",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
