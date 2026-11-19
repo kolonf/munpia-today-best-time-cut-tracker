@@ -371614,5 +371614,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-20T01:30:38.180905+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619101",
+        "title": "천재 감정사가 상담도 잘함",
+        "author": "김튀김",
+        "view_count": 606,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619876",
+        "title": "기교파 투수가 방출 후 165km를 던짐",
+        "author": "지지플레이",
+        "view_count": 272,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 134,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618916",
+        "title": "딸 바보 힐링 셰프가 사는 곳이 역세권",
+        "author": "코코zz",
+        "view_count": 94,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623518",
+        "title": "미국이 버린 천재, 인공태양으로 복수하다",
+        "author": "신들의정원",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621729",
+        "title": "로또 20억 당첨됐더니 하는 일마다 대박남",
+        "author": "점군이",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 46,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621718",
+        "title": "해고당한 아이돌 매니저한테 러브콜이 쏟아짐",
+        "author": "육개장.",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623264",
+        "title": "역대급 음악 천재인 줄 모르고 대차게 버림당함",
+        "author": "김옥지",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620769",
+        "title": "고종의 금고지기가 투자를 너무 잘함",
+        "author": "싸이시스",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
