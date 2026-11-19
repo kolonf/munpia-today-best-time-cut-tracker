@@ -581375,5 +581375,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T15:00:47.788817+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 3755,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 1856,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "607496",
+        "title": "전 프로가 슈퍼루키인 척 함",
+        "author": "엠보돌",
+        "view_count": 1081,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618863",
+        "title": "미국 사막에 K-마트를 열었더니 모두가 집착함",
+        "author": "몬도리아",
+        "view_count": 750,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615636",
+        "title": "퇴사 후 신의손으로 힐링함",
+        "author": "신기한작가",
+        "view_count": 535,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614481",
+        "title": "판타지 아포칼립스의 기사왕",
+        "author": "칼튼90",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613475",
+        "title": "아포칼립스에서 도망쳤더니 선협세상",
+        "author": "히버",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "608858",
+        "title": "변리사를 해고하자 5천억 특허가 날아감",
+        "author": "간딴",
+        "view_count": 280,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605228",
+        "title": "빙의 후 안부낙도했더니 불충인사",
+        "author": "Money뭐니",
+        "view_count": 214,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616822",
+        "title": "해고당한 한 차장이 회귀함",
+        "author": "해비베어",
+        "view_count": 162,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
