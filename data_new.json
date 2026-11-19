@@ -370654,5 +370654,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T19:00:45.600028+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619590",
+        "title": "지구 멸망했는데 내 쉘터만 너무 쾌적함",
+        "author": "[쥬시]",
+        "view_count": 771,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 376,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 159,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620726",
+        "title": "이혼 후 해고, 개판인 우리 집은 돈벼락!",
+        "author": "흑곰작가",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623208",
+        "title": "미국이 내쫓은 천재, 국산 전투기 심장을 깨우다",
+        "author": "강야수",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623440",
+        "title": "아내가 찾아준 비트코인 50,000개",
+        "author": "아침호수",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622049",
+        "title": "21세기 영국 백작으로 살아가는 법",
+        "author": "콘페이토",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622189",
+        "title": "은퇴당한 헌터는 미국령 무인도에서 개꿀 힐링합니다",
+        "author": "토산",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621024",
+        "title": "잘린 매니저가 짬밥만 3,000년",
+        "author": "카아악퉤",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
