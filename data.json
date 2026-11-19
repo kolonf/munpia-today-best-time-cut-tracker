@@ -581951,5 +581951,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T18:00:59.203072+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619499",
+        "title": "업계 탑티어를 섭섭하게 만들면 벌어지는 일",
+        "author": "서인하",
+        "view_count": 3665,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610846",
+        "title": "할아버지 일을 물려받았더니 거물들이 몰려옴",
+        "author": "네딸아빠",
+        "view_count": 1951,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619033",
+        "title": "선협에서 제자만 키워도 강해짐",
+        "author": "난글",
+        "view_count": 1104,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619590",
+        "title": "지구 멸망했는데 내 쉘터만 너무 쾌적함",
+        "author": "[쥬시]",
+        "view_count": 725,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 573,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614481",
+        "title": "판타지 아포칼립스의 기사왕",
+        "author": "칼튼90",
+        "view_count": 466,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618551",
+        "title": "퇴사 메일 받은 날, 1조 5천억 터짐",
+        "author": "라봉이",
+        "view_count": 383,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616887",
+        "title": "축구 경력 300년인데 19살 유망주임",
+        "author": "그울림",
+        "view_count": 300,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608937",
+        "title": "명예퇴직당한 전귀 (전투귀신.돈귀신)",
+        "author": "모모다",
+        "view_count": 233,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618620",
+        "title": "나 혼자 탑에서 낚시했더니 힐링이 미쳤다",
+        "author": "나이와키",
+        "view_count": 175,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
