@@ -582527,5 +582527,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T21:01:03.310879+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610555",
+        "title": "예능신 강림한 방송천재가 돈을 쓸어담음",
+        "author": "김한가",
+        "view_count": 3332,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616404",
+        "title": "삼국지 유창전",
+        "author": "運月",
+        "view_count": 1593,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617942",
+        "title": "조선이 교체되었다.",
+        "author": "슈타인호프",
+        "view_count": 1067,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 728,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 565,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617044",
+        "title": "고대의술 계승한 줄 모르고 버림받음",
+        "author": "글력",
+        "view_count": 471,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 356,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616822",
+        "title": "해고당한 한 차장이 회귀함",
+        "author": "해비베어",
+        "view_count": 280,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "600029",
+        "title": "50조의 사나이",
+        "author": "김동휘",
+        "view_count": 212,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620285",
+        "title": "블랙요원이 재산50조 카르텔보스로 착각당했다",
+        "author": "참숯닭구이",
+        "view_count": 172,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
