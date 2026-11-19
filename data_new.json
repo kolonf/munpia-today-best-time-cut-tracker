@@ -369598,5 +369598,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T11:30:37.677981+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622322",
+        "title": "저는 지쳤으니까 한국은 알아서 지키세요",
+        "author": "오천자",
+        "view_count": 695,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619831",
+        "title": "귀환한 삼촌이 국가권력급 헌터였다",
+        "author": "고독인간",
+        "view_count": 301,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620899",
+        "title": "전능의 눈을 각성한 줄 모르고 증권사에서 버림받음",
+        "author": "가냐슈",
+        "view_count": 96,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623348",
+        "title": "해고하셨으니 제 덕에 얻은 경험치는 회수할게요",
+        "author": "전설용용",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620916",
+        "title": "3조원 당첨됐는데 퇴사가 어렵다",
+        "author": "레드초콜릿",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622523",
+        "title": "해고 후 미국에서 고물상 차렸더니 빅테크가 집착함",
+        "author": "베르나르베",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620962",
+        "title": "평범한 김대리가 로또 당첨되면 생기는일",
+        "author": "잘부",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615430",
+        "title": "피를 부르는 식구들",
+        "author": "조가치",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621519",
+        "title": "한의사.exe",
+        "author": "평택안중",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
