@@ -370846,5 +370846,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-19T20:00:45.175649+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 776,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619566",
+        "title": "주화입마 면역이라 마공이 너무 쉽다",
+        "author": "루도스",
+        "view_count": 311,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619876",
+        "title": "기교파 투수가 방출 후 165km를 던짐",
+        "author": "지지플레이",
+        "view_count": 151,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623518",
+        "title": "미국이 버린 천재, 인공태양으로 복수하다",
+        "author": "신들의정원",
+        "view_count": 103,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623440",
+        "title": "아내가 찾아준 비트코인 50,000개",
+        "author": "아침호수",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618904",
+        "title": "해고당함 청년의 코인이 400억 되어버림",
+        "author": "글로또",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621283",
+        "title": "시체 태워 스킬 흡수하는 소각사",
+        "author": "낙필",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623069",
+        "title": "해고당한 96세 부장의 인맥이 미쳤다.",
+        "author": "태대비",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 179,
+        "novel_id": "621429",
+        "title": "해고당한 후 사기급 스킬로 탑 S급 클리어",
+        "author": "백륜",
+        "view_count": 35,
+        "substituted": true
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622720",
+        "title": "전주 이씨가 일제를 파먹음",
+        "author": "Merkava",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
