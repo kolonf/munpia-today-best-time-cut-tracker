@@ -375166,5 +375166,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-20T22:30:37.930065+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 665,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618942",
+        "title": "거물들이 몰려오는 만화방",
+        "author": "초고상승",
+        "view_count": 300,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619586",
+        "title": "만년 과장이 해고당하자 기업들이 줄을 선다",
+        "author": "윤자까",
+        "view_count": 129,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620433",
+        "title": "이혼후 해고까지 당했는데 무한성장 쉘터의 주인이 되었다",
+        "author": "골방개발자",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622150",
+        "title": "해고 후 파워볼 당첨으로 인생 역전",
+        "author": "발렌타",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621519",
+        "title": "한의사.exe",
+        "author": "평택안중",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623037",
+        "title": "셋플릭스 1위 작가인 줄 모르고 보조작가 해고당함",
+        "author": "장바오",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623835",
+        "title": "해고당한 날 랭커들의 치트가 막혔다",
+        "author": "노블조아",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621430",
+        "title": "퇴사 서류에 서명했더니 길드가 무너졌다",
+        "author": "리글리글",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
