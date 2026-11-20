@@ -374686,5 +374686,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-20T20:00:45.153503+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨됐는데 돈이 미친듯이 벌림",
+        "author": "이공이공",
+        "view_count": 677,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619353",
+        "title": "SSSSS급 천마의 무덤을 독식했다",
+        "author": "고독한아재",
+        "view_count": 320,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619201",
+        "title": "방구석 도사님에게 거물들이 집착함",
+        "author": "글로운",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618998",
+        "title": "흑화한 시스템으로 천재 작곡가가 되었다!",
+        "author": "담덕™",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619820",
+        "title": "전직 킬러가 파워볼 당첨되고 제육볶음 식당 차림",
+        "author": "검은후드",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620433",
+        "title": "이혼후 해고까지 당했는데 무한성장 쉘터의 주인이 되었다",
+        "author": "골방개발자",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622269",
+        "title": "배팅볼 투수가 회귀하면 메이저를 찢음",
+        "author": "라봉이",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622780",
+        "title": "대충 부른 노래가 200만 달러에 팔렸다",
+        "author": "죽엇푹",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623026",
+        "title": "해고 했으니 탑은 알아서 올라라",
+        "author": "글혼",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
