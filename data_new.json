@@ -372862,5 +372862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-20T09:00:45.236014+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614734",
+        "title": "업계 최고인데, 월급 도둑이라며 해고 당함",
+        "author": "신유(愼惟)",
+        "view_count": 642,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619602",
+        "title": "멸망하는 세계에서 내 쉘터가 부유섬임",
+        "author": "힐링화원",
+        "view_count": 313,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619552",
+        "title": "대학병원이 버린 의사는 수술천재였다",
+        "author": "글쓰는랭커",
+        "view_count": 146,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619975",
+        "title": "빙하기 오는 줄 나만 알아서 12억 다 씀",
+        "author": "챠슈",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618409",
+        "title": "지구가 멸망한다길래 대한민국을 옮겼다",
+        "author": "그랜드파파",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619586",
+        "title": "만년 과장이 해고당하자 기업들이 줄을 선다",
+        "author": "윤자까",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621549",
+        "title": "선협 노조님, 그 기연 제 건데요",
+        "author": "풀잎곰",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621323",
+        "title": "지구가 겁내지 않는 슈퍼 히어로 연합",
+        "author": "편곤",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610480",
+        "title": "러시아 깡촌에 병원 샀더니 대통령이 찾아옴",
+        "author": "시냅스",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
