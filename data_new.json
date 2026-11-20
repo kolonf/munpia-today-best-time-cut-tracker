@@ -375838,5 +375838,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-21T02:30:38.573136+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618586",
+        "title": "퇴사 후 폐가를 고쳤더니 생츄어리가 되었다",
+        "author": "일만권",
+        "view_count": 629,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623239",
+        "title": "스무살 애아빠가 돈이 너무 많음",
+        "author": "소수림",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621101",
+        "title": "나는 중국을 사랑한다",
+        "author": "운비양",
+        "view_count": 179,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622193",
+        "title": "스킬 흡수로 비자발적 전쟁영웅",
+        "author": "휴헤",
+        "view_count": 102,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621499",
+        "title": "선협에서 상태창을 숨김",
+        "author": "잊힌별",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618899",
+        "title": "1,000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621800",
+        "title": "집에서는 백수, 밖에서는 천재 작가님",
+        "author": "한도현",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620166",
+        "title": "해고당한 인사팀장이 헤드헌팅을 시작함",
+        "author": "슈토이어",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623595",
+        "title": "특수요원이 미국 깡촌에 집 샀더니 대박남",
+        "author": "글빚",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622970",
+        "title": "당신의 불행을 포인트로 정산해드립니다.",
+        "author": "민땡",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
