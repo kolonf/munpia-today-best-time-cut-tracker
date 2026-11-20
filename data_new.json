@@ -374302,5 +374302,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-20T17:30:37.646897+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618892",
+        "title": "미국에서 신화급 아이템이 내 건 줄 모르고 해고당함",
+        "author": "현판한우물",
+        "view_count": 622,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619566",
+        "title": "주화입마 면역이라 마공이 너무 쉽다",
+        "author": "루도스",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618768",
+        "title": "감독이 떠났더니 축구를 너무 잘함",
+        "author": "부두웅산",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623845",
+        "title": "F급이라 이혼당했는데, 전처의 S급을 이자까지 회수함",
+        "author": "텐버드",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620785",
+        "title": "관상으로 결혼시키니 거물들이 몰려옴",
+        "author": "스이베라트콘",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621245",
+        "title": "환생한 무사는 소드마스터의 꿈을 꾸는가?",
+        "author": "글로장생.",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623574",
+        "title": "이혼 후 세계 제일의 부자가 되었다.",
+        "author": "브리쓰",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622809",
+        "title": "해고 통보받은 날, 회사 블라인드의 작성자가 보였다",
+        "author": "수뿔",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615184",
+        "title": "해고당하고 산 캠핑카에 1만 평이 생겼다",
+        "author": "단추공장",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
