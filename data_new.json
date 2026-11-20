@@ -374494,5 +374494,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-20T18:30:37.640885+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 646,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619353",
+        "title": "SSSSS급 천마의 무덤을 독식했다",
+        "author": "고독한아재",
+        "view_count": 308,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "615708",
+        "title": "일하기 싫어서 퇴사 후 힐링했더니 전 세계가 주목함",
+        "author": "따상",
+        "view_count": 153,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619552",
+        "title": "대학병원이 버린 의사는 수술천재였다",
+        "author": "글쓰는랭커",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621358",
+        "title": "추방당한 S급 헌터, 귀국하니 국가권력급",
+        "author": "아난티",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621511",
+        "title": "50억 상속받고 퇴사했는데 섬에서 힐링이 너무 잘됨",
+        "author": "닮은계란",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622049",
+        "title": "21세기 영국 백작으로 살아가는 법",
+        "author": "콘페이토",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622619",
+        "title": "로또 1등은 퇴사 후 힐링합니다",
+        "author": "한접시",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
