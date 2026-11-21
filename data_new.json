@@ -378046,5 +378046,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-21T17:00:51.330986+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623348",
+        "title": "해고하셨으니 제 덕에 얻은 경험치는 회수할게요",
+        "author": "전설용용",
+        "view_count": 625,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623652",
+        "title": "강대국 눈치 안보고 화력에 올인했더니 전 세계가 기겁함",
+        "author": "미친재능",
+        "view_count": 285,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620661",
+        "title": "S급 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622982",
+        "title": "천재배우가 색마를 숨김",
+        "author": "쏘하이",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621800",
+        "title": "집에서는 백수, 밖에서는 천재 작가님",
+        "author": "한도현",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621750",
+        "title": "탑 등반에 무기가 왜 필요함?",
+        "author": "하이엔드",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624055",
+        "title": "회귀한 코인 재벌인 줄 모르고 아내가 이혼하자함",
+        "author": "백건우.",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621442",
+        "title": "재앙급 마수를 길들였더니 거물들이 애호함",
+        "author": "Hadele",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622720",
+        "title": "전주 이씨가 일제를 파먹음",
+        "author": "Merkava",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612825",
+        "title": "빙하기 아포칼립스에서 집을 끌고 다닙니다",
+        "author": "섭섭명",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
