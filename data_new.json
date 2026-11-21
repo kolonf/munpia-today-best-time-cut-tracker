@@ -379006,5 +379006,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T00:00:43.495672+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619101",
+        "title": "기억을 읽는 천재감정사가 되었다",
+        "author": "김튀김",
+        "view_count": 469,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619660",
+        "title": "해고 후 내 양계장에 초월급 마수 알들이 배송됨",
+        "author": "[플래터]",
+        "view_count": 232,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619139",
+        "title": "무림맹 군사, 첩보 요원이 되다",
+        "author": "예린채린",
+        "view_count": 115,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622150",
+        "title": "해고 후 파워볼 당첨으로 인생 역전",
+        "author": "발렌타",
+        "view_count": 81,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 63,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624309",
+        "title": "재앙급 몬스터들이 내 말만 듣는 줄 모르고 해고당함",
+        "author": "이자까야™",
+        "view_count": 51,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623548",
+        "title": "힐러하다 빡쳐서 딜러로 이직함",
+        "author": "구채",
+        "view_count": 43,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620166",
+        "title": "해고당한 인사팀장이 헤드헌팅을 시작함",
+        "author": "슈토이어",
+        "view_count": 35,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623006",
+        "title": "국가에게 버림받은 의사한테 전세계가 집착함",
+        "author": "실패전문가",
+        "view_count": 30,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618782",
+        "title": "회귀한 E급 헌터, 최초(EX)가 되어 씹어먹음",
+        "author": "기세(氣勢)",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
