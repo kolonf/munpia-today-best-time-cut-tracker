@@ -590399,5 +590399,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-21T11:16:09.506914+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "614188",
+        "title": "고물로 만능이 되어버림",
+        "author": "초씽",
+        "view_count": 2991,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619619",
+        "title": "청소 마법만 썼는데 헬 난이도가 너무 쉬움",
+        "author": "비요뜨귀신",
+        "view_count": 1468,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618525",
+        "title": "쫓겨난 중세 십자군 기사가 너무 강함",
+        "author": "적백赤白",
+        "view_count": 985,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 728,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621801",
+        "title": "탑에서 나만 신급 축복을 9개 받음",
+        "author": "데프프픗",
+        "view_count": 580,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 448,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617830",
+        "title": "아무것도 안 했는데 자기들끼리 자빠짐",
+        "author": "일단웃어",
+        "view_count": 383,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 307,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621101",
+        "title": "나는 중국을 사랑한다",
+        "author": "운비양",
+        "view_count": 227,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621070",
+        "title": "해고 후 치트급 영약광산을 각성함",
+        "author": "기시감이",
+        "view_count": 154,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
