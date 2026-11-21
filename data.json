@@ -594335,5 +594335,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T06:30:45.693978+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619374",
+        "title": "해고했으면 지구는 알아서 지키세요",
+        "author": "포참",
+        "view_count": 2824,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607137",
+        "title": "내가 인수한 미국 동물원이 너무 잘 됨",
+        "author": "운향림",
+        "view_count": 1525,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623845",
+        "title": "F급이라 이혼당했는데, 전처의 S급을 이자까지 회수함",
+        "author": "텐버드",
+        "view_count": 1050,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 798,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623440",
+        "title": "아내가 찾아준 비트코인 50,000개",
+        "author": "아침호수",
+        "view_count": 599,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 496,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 381,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620572",
+        "title": "국밥집인데 게장 주문이 폭주한다",
+        "author": "처늬",
+        "view_count": 320,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618691",
+        "title": "초월급 버퍼인 줄 모르고 해고당함",
+        "author": "루리나",
+        "view_count": 246,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "612643",
+        "title": "퇴사 후 식당 차렸는데 거물들이 줄을 선다",
+        "author": "사바이",
+        "view_count": 177,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
