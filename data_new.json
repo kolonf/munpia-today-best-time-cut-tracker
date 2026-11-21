@@ -380158,5 +380158,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T08:00:42.132794+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623440",
+        "title": "아내가 찾아준 비트코인 50,000개",
+        "author": "아침호수",
+        "view_count": 614,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620572",
+        "title": "국밥집인데 게장 주문이 폭주한다",
+        "author": "처늬",
+        "view_count": 330,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620726",
+        "title": "이혼 후 해고, 개판인 우리 집은 돈벼락!",
+        "author": "흑곰작가",
+        "view_count": 140,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623111",
+        "title": "전생의 경험을 물려받았다.",
+        "author": "홍정태",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618409",
+        "title": "지구가 멸망한다길래 대한민국을 옮겼다",
+        "author": "그랜드파파",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사",
+        "author": "필드스틱",
+        "view_count": 63,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623049",
+        "title": "NBA 식스맨이 돈까지 많아짐",
+        "author": "미에크",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624733",
+        "title": "해고했으면 영약은 알아서 만드세요",
+        "author": "오만과편육",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623557",
+        "title": "해고당한 헌터가 귀촌했더니 거물들이 몰려옴",
+        "author": "참새친구",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623916",
+        "title": "남작가 장남은 무신이었다",
+        "author": "넉울히",
+        "view_count": 33,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
