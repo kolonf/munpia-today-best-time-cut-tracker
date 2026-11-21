@@ -376894,5 +376894,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-21T10:30:37.634263+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622410",
+        "title": "해고했으면 무기는 알아서 고치세요",
+        "author": "염상(炎上)",
+        "view_count": 580,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623026",
+        "title": "해고 했으니 탑은 알아서 올라라",
+        "author": "글혼",
+        "view_count": 337,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620644",
+        "title": "로펌에서 잘렸더니 속마음이 들림",
+        "author": "[쥬시]",
+        "view_count": 138,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621110",
+        "title": "즉사기 네크로맨서는 회장님 비자금으로 탑 날먹함",
+        "author": "야바위꾼",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618899",
+        "title": "1,000억 당첨자인 걸 아무도 모른다",
+        "author": "듀잇",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621121",
+        "title": "미국 한인 세탁소 아들이 천재라고?",
+        "author": "김리노",
+        "view_count": 50,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622114",
+        "title": "삼국지, 나 혼자 왕으로 시작한다",
+        "author": "신독(愼獨)",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623940",
+        "title": "해고했으면 국민연금은 알아서 굴리세요",
+        "author": "단추공장",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622860",
+        "title": "해고당한 장남은 1999년 신입으로 효도합니다",
+        "author": "방탄커피",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
