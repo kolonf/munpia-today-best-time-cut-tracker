@@ -379294,5 +379294,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T02:00:44.500572+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622410",
+        "title": "해고했으면 무기는 알아서 고치세요",
+        "author": "염상(炎上)",
+        "view_count": 524,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 255,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622737",
+        "title": "6,000억 한량인데 할리우드가 내 음악에 집착함",
+        "author": "듀르쌩",
+        "view_count": 127,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620433",
+        "title": "이혼후 해고까지 당했는데 무한성장 쉘터의 주인이 되었다",
+        "author": "골방개발자",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621442",
+        "title": "재앙급 마수를 길들였더니 거물들이 애호함",
+        "author": "Hadele",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623574",
+        "title": "이혼 후 세계 제일의 부자가 되었다.",
+        "author": "브리쓰",
+        "view_count": 56,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619478",
+        "title": "버림받은 가장이 업계 1위였다",
+        "author": "인터스틱",
+        "view_count": 44,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624508",
+        "title": "회장님 남자친구인줄 모르고 해고당함",
+        "author": "말랑제이",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621838",
+        "title": "해고 후 EX급 전차 소환 능력을 각성했다",
+        "author": "빙봉이",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623396",
+        "title": "근대 프랑스에 부르봉이 복귀함",
+        "author": "여운(餘韻)",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
