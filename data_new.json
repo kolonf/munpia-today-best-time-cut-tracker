@@ -377662,5 +377662,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-21T15:00:40.635827+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623440",
+        "title": "아내가 찾아준 비트코인 50,000개",
+        "author": "아침호수",
+        "view_count": 592,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619566",
+        "title": "주화입마 면역이라 마공이 너무 쉽다",
+        "author": "루도스",
+        "view_count": 320,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622150",
+        "title": "해고 후 파워볼 당첨으로 인생 역전",
+        "author": "발렌타",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623006",
+        "title": "국가에게 버림받은 의사한테 전세계가 집착함",
+        "author": "실패전문가",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619524",
+        "title": "방출 직전에 미래시를 각성했다",
+        "author": "지언(至言)",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619531",
+        "title": "방출당한 기타리스트가 차트올킬",
+        "author": "후레게",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622298",
+        "title": "해고했으니 무림은 알아서 지키세요",
+        "author": "어른호박",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622997",
+        "title": "블랙기업에서 쫓겨난 S급 헌터는 나홀로 던전을 휩씁니다",
+        "author": "펭귄맨8417",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
