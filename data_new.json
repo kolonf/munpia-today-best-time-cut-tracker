@@ -381982,5 +381982,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T20:00:44.010580+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "621007",
+        "title": "코인 대박날 줄 모르고 해고에 이혼까지 당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 604,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 318,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619478",
+        "title": "버림받은 가장이 업계 1위였다",
+        "author": "인터스틱",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620726",
+        "title": "이혼 후 해고, 개판인 우리 집은 돈벼락!",
+        "author": "흑곰작가",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621407",
+        "title": "간첩 아내를 신고했더니 수천억 코인 지갑이 쏟아짐",
+        "author": "샤이텔하우",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624922",
+        "title": "해고당한 마지막 검사가 인류를 손절함",
+        "author": "마지막검사",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622838",
+        "title": "F급도 아닌 내가 탑의 모든 기록을 갈아치운다",
+        "author": "만렙화살",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623734",
+        "title": "회귀한 월가 전설인 줄 모르고 해고당했다",
+        "author": "참맛글",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622327",
+        "title": "회귀자 전용 억만장자 지침서",
+        "author": "HBF",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620962",
+        "title": "평범한 김대리가 로또 당첨되면 생기는일",
+        "author": "잘부",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
