@@ -598463,5 +598463,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T08:30:45.021312+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618058",
+        "title": "퇴직금 90％ 삭감 해고 후 귀농했더니 헌터계가 뒤집힘",
+        "author": "노빠꾸맨",
+        "view_count": 2491,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614188",
+        "title": "고물로 만능이 되어버림",
+        "author": "초씽",
+        "view_count": 1413,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618525",
+        "title": "쫓겨난 중세 십자군 기사가 너무 강함",
+        "author": "적백赤白",
+        "view_count": 947,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613148",
+        "title": "아기 드워프가 인천에서 살아가는 법",
+        "author": "kangyou",
+        "view_count": 737,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616606",
+        "title": "아포칼립스에서 아공간 쉘터 키우기",
+        "author": "김판",
+        "view_count": 542,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611893",
+        "title": "귀환한 삼촌의 드래곤이 귀엽다",
+        "author": "바바루",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617830",
+        "title": "아무것도 안 했는데 자기들끼리 자빠짐",
+        "author": "일단웃어",
+        "view_count": 320,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614755",
+        "title": "그만둔 보조작가 대본에 연예계가 난리남",
+        "author": "피자소주",
+        "view_count": 235,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608937",
+        "title": "명예퇴직당한 전귀 (전투귀신.돈귀신)",
+        "author": "모모다",
+        "view_count": 159,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610745",
+        "title": "19세기 미국의 군수기업 창립자가 되었다",
+        "author": "I알자스I",
+        "view_count": 119,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
