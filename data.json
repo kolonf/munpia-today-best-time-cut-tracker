@@ -596735,5 +596735,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T18:00:43.593969+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 멍게가 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 3272,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608314",
+        "title": "한국에서 방출된 타자는 메이저리그 홈런왕",
+        "author": "신지님",
+        "view_count": 1691,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 1070,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618297",
+        "title": "시골 보건소의 침술 천재",
+        "author": "yespro",
+        "view_count": 780,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "613070",
+        "title": "해고당했는데 나만 게이트 무역을 씹어 먹음",
+        "author": "뜨끈아이스",
+        "view_count": 635,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618289",
+        "title": "선협 세계 재벌가 망나니가 되었다",
+        "author": "리디아.",
+        "view_count": 502,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619566",
+        "title": "주화입마 면역이라 마공이 너무 쉽다",
+        "author": "루도스",
+        "view_count": 404,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "612273",
+        "title": "10년간 준비한 아포칼립스",
+        "author": "느린생각",
+        "view_count": 331,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616822",
+        "title": "해고당한 한 차장이 회귀함",
+        "author": "해비베어",
+        "view_count": 244,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623348",
+        "title": "해고하셨으니 제 덕에 얻은 경험치는 회수할게요",
+        "author": "전설용용",
+        "view_count": 183,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
