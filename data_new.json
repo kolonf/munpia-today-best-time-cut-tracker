@@ -381310,5 +381310,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T15:00:43.499214+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 628,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620781",
+        "title": "로펌에서 해고당한 변호사에게 의뢰인이 다 따라옴",
+        "author": "뽕따팬더",
+        "view_count": 286,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620849",
+        "title": "100억 포인트 쉴터로 아포칼립스 바다 위에서 살아남기",
+        "author": "현진현우",
+        "view_count": 123,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618989",
+        "title": "삼국지 최강 빌런 원술로 살아남기",
+        "author": "chowoe",
+        "view_count": 82,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619524",
+        "title": "방출 직전에 미래시를 각성했다",
+        "author": "지언(至言)",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621429",
+        "title": "해고당한 후 사기급 스킬로 탑 S급 클리어",
+        "author": "백륜",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622867",
+        "title": "아포칼립스에서 나 혼자 힐링 셸터를 운영합니다",
+        "author": "농어촌작가",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621511",
+        "title": "50억 상속받고 퇴사했는데 섬에서 힐링이 너무 잘됨",
+        "author": "닮은계란",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624331",
+        "title": "능력 몰수로 쓰레기 헌터들 참교육 함",
+        "author": "폭파중",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622225",
+        "title": "대기업 스트리머에게 애호받는 델타포스 전역자.",
+        "author": "인스톨",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
