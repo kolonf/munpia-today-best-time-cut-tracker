@@ -381502,5 +381502,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T16:30:38.670038+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619162",
+        "title": "해고당한 셰프가 너무 유능함",
+        "author": "탈주병",
+        "view_count": 649,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622433",
+        "title": "해고 후 심해 자원을 독점했더니 전 세계가 집착함",
+        "author": "크림파이",
+        "view_count": 299,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620849",
+        "title": "100억 포인트 쉴터로 아포칼립스 바다 위에서 살아남기",
+        "author": "현진현우",
+        "view_count": 132,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 86,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621499",
+        "title": "선협에서 상태창을 숨김",
+        "author": "친별",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622780",
+        "title": "대충 부른 노래가 200만 달러에 팔렸다",
+        "author": "죽엇푹",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622327",
+        "title": "회귀자 전용 억만장자 지침서",
+        "author": "HBF",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624334",
+        "title": "해고당한 수리기사에 S급들이 집착함",
+        "author": "폭파중",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615184",
+        "title": "해고당하고 산 캠핑카에 1만 평이 생겼다",
+        "author": "단추공장",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623935",
+        "title": "중졸 또라이가 서울 땅을 통째로 샀다",
+        "author": "해물조림",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
