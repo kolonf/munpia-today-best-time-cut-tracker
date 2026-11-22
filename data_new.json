@@ -382366,5 +382366,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T22:30:36.957800+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623652",
+        "title": "강대국 눈치 안보고 화력에 올인했더니 전 세계가 기겁함",
+        "author": "미친재능",
+        "view_count": 566,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622898",
+        "title": "해고 후 1조로 힐링하는데 투자가 자꾸 대박남",
+        "author": "원일더",
+        "view_count": 254,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619589",
+        "title": "중세 용병 영주가 되다",
+        "author": "최고재벌",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623049",
+        "title": "NBA 식스맨이 돈까지 많아짐",
+        "author": "미에크",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623451",
+        "title": "헌터들의 악성재고가 너무 사기임",
+        "author": "브리젤",
+        "view_count": 69,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623734",
+        "title": "회귀한 월가 전설인 줄 모르고 해고당했다",
+        "author": "참맛글",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621296",
+        "title": "해고당한 날, 비트코인 1조 지갑이 열렸다",
+        "author": "재담온",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624284",
+        "title": "국내 최강 헌터 기업에 핵심 전력 기술자였는데 해고당함",
+        "author": "탄산킬러",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622369",
+        "title": "해고당한 수의사가 업계 최고였음",
+        "author": "네발의사",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
