@@ -382078,5 +382078,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T20:30:35.705924+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619553",
+        "title": "퇴사했더니 잊고 있던 코인이 2천억이었다",
+        "author": "최고얍",
+        "view_count": 569,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621358",
+        "title": "추방당한 S급 헌터, 귀국하니 국가권력급",
+        "author": "아난티",
+        "view_count": 253,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622982",
+        "title": "천재배우가 색마를 숨김",
+        "author": "쏘하이",
+        "view_count": 124,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "624055",
+        "title": "회귀한 코인 재벌인 줄 모르고 아내가 이혼하자함",
+        "author": "백건우.",
+        "view_count": 93,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621283",
+        "title": "시체 태워 얻은 S급 구슬로 새땅 먹는 소각사",
+        "author": "낙필",
+        "view_count": 73,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623444",
+        "title": "신내림 받은 계약직 상담사가 너무 용함",
+        "author": "크로마농",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622780",
+        "title": "대충 부른 노래가 200만 달러에 팔렸다",
+        "author": "죽엇푹",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621549",
+        "title": "악연수선전",
+        "author": "풀잎곰",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622327",
+        "title": "회귀자 전용 억만장자 지침서",
+        "author": "HBF",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624284",
+        "title": "국내 최강 헌터 기업에 핵심 전력 기술자였는데 해고당함",
+        "author": "탄산킬러",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
