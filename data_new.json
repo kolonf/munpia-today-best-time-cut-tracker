@@ -380446,5 +380446,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-22T10:30:34.888473+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620251",
+        "title": "미국 싫어서 기술력에 올인했더니 전 세계가 뒤집어짐",
+        "author": "연함™",
+        "view_count": 660,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 287,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619139",
+        "title": "무림맹 군사, 첩보 요원이 되다",
+        "author": "예린채린",
+        "view_count": 139,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 97,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621024",
+        "title": "잘린 매니저가 짬밥만 3,000년",
+        "author": "카아악퉤",
+        "view_count": 75,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620855",
+        "title": "퓨전펑크 흑마법사가 외신과 계약했다",
+        "author": "범미르",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619895",
+        "title": "파워볼 당첨 후 미국 상폐 기업만 샀는데 자꾸 대박남",
+        "author": "동시",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621838",
+        "title": "해고 후 EX급 전차 소환 능력을 각성했다",
+        "author": "빙봉이",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622685",
+        "title": "해고당한 던전 폐기물 처리반이 돈을 쓸어담음",
+        "author": "글글글1",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
