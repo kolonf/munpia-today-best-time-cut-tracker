@@ -382846,5 +382846,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T08:30:37.967953+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622737",
+        "title": "6,000억 한량인데 할리우드가 내 음악에 집착함",
+        "author": "듀르쌩",
+        "view_count": 468,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619566",
+        "title": "주화입마 면역이라 마공이 너무 쉽다",
+        "author": "루도스",
+        "view_count": 238,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610745",
+        "title": "19세기 미국의 군수기업 창립자가 되었다",
+        "author": "I알자스I",
+        "view_count": 116,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623451",
+        "title": "헌터들의 악성재고가 너무 사기임",
+        "author": "브리젤",
+        "view_count": 87,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623896",
+        "title": "파워볼 당첨 후 휴게소 차려서 힐링합니다",
+        "author": "연진(連進)",
+        "view_count": 74,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622780",
+        "title": "대충 부른 노래가 200만 달러에 팔렸다",
+        "author": "죽엇푹",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610480",
+        "title": "러시아 깡촌에 병원 샀더니 대통령이 찾아옴",
+        "author": "시냅스",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624284",
+        "title": "국내 최강 헌터 기업에 핵심 전력 기술자였는데 해고당함",
+        "author": "탄산킬러",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622970",
+        "title": "당신의 불행을 포인트로 정산해드립니다.",
+        "author": "민땡",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624793",
+        "title": "살인자 , 비트코인 대재벌",
+        "author": "팥빵맨",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
