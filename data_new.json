@@ -386110,5 +386110,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T06:30:38.221187+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620285",
+        "title": "한국에서 수출한 남미독재자가 국가발전을 너무잘시킴",
+        "author": "참숯닭구이",
+        "view_count": 571,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620661",
+        "title": "S급 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 358,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619353",
+        "title": "SSSSS급 천마의 무덤을 독식했다",
+        "author": "고독한아재",
+        "view_count": 172,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622838",
+        "title": "F급도 아닌 내가 탑의 모든 기록을 갈아치운다",
+        "author": "만렙화살",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621469",
+        "title": "방출당한 에이스는 우승 반지를 돌려받기로 했다",
+        "author": "한유림",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624522",
+        "title": "삼국지, 나 혼자 무력 255로 시작한다!",
+        "author": "최선을다해",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624499",
+        "title": "버림받았으니 갑질 좀 할게요",
+        "author": "리케드",
+        "view_count": 62,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624602",
+        "title": "저를 버렸으면 세상은 알아서 지키세요",
+        "author": "늬파랑",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621303",
+        "title": "떡락할 유비가 집착함",
+        "author": "초선택자",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623978",
+        "title": "100조 코인 지갑 열자마자 퇴사갈겼습니다",
+        "author": "매트",
+        "view_count": 36,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
