@@ -601919,5 +601919,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T01:30:41.798584+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609865",
+        "title": "납치당했더니 천재 마법사였다",
+        "author": "수박복숭아",
+        "view_count": 2745,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 1393,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 946,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613353",
+        "title": "건물 상속 받고 힐링함",
+        "author": "울산깍쟁이",
+        "view_count": 689,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606357",
+        "title": "삼국지: 망해버린 가문의 가주가 되었다",
+        "author": "지돌띠",
+        "view_count": 538,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 446,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620572",
+        "title": "국밥집인데 게장 주문이 폭주한다",
+        "author": "처늬",
+        "view_count": 374,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617312",
+        "title": "코스피 폭락후 한국구원",
+        "author": "초선택자",
+        "view_count": 273,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 214,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618587",
+        "title": "삼국지, 여포가 내 말만 듣는다",
+        "author": "풍류랑.",
+        "view_count": 143,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
