@@ -600095,5 +600095,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T16:30:38.406283+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "598792",
+        "title": "퓨전펑크의 멍게가 되었다",
+        "author": "우성(雨瑆)",
+        "view_count": 3533,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616404",
+        "title": "삼국지 유창전",
+        "author": "運月",
+        "view_count": 1674,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617903",
+        "title": "선협에서 아내들이 임신할수록 강해짐",
+        "author": "뭉낑깡",
+        "view_count": 1086,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 786,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622737",
+        "title": "6,000억 한량인데 할리우드가 내 음악에 집착함",
+        "author": "듀르쌩",
+        "view_count": 542,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 439,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 343,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620773",
+        "title": "월가의 전설, 알고 보니 무능한 김대리였다",
+        "author": "로디로디",
+        "view_count": 271,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619602",
+        "title": "멸망하는 세계에서 내 쉘터가 부유섬임",
+        "author": "힐링화원",
+        "view_count": 219,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "606357",
+        "title": "삼국지: 망해버린 가문의 가주가 되었다",
+        "author": "지돌띠",
+        "view_count": 167,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
