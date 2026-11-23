@@ -386206,5 +386206,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T07:30:35.691661+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨된 대리가 퇴사를 안 함",
+        "author": "이공이공",
+        "view_count": 584,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623026",
+        "title": "해고 했으니 탑은 알아서 올라라",
+        "author": "글혼",
+        "view_count": 385,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620066",
+        "title": "S급 힐러인줄 모르고 협회에서 쫓겨남",
+        "author": "백시헌",
+        "view_count": 178,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619556",
+        "title": "권고사직 당했는데 미국에서 건물주가 됐다",
+        "author": "별미안",
+        "view_count": 111,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623006",
+        "title": "추방했으면 환자는 알아서 살리세요",
+        "author": "실패전문가",
+        "view_count": 90,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621884",
+        "title": "검은 머리 신인 단장은 업계 최고임",
+        "author": "땅콩파스타",
+        "view_count": 72,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621549",
+        "title": "악연수선전",
+        "author": "풀잎곰",
+        "view_count": 63,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623201",
+        "title": "EX급 귀환자인줄 모르고 국가에 버려짐",
+        "author": "글먹킹",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623106",
+        "title": "해고 후 로또 맞고 인생 역전",
+        "author": "피자호빵",
+        "view_count": 41,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625185",
+        "title": "전쟁 이겨놨더니 파면당했다. 그래서 적국으로 갑니다",
+        "author": "시르베르",
+        "view_count": 37,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
