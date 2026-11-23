@@ -382942,5 +382942,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T10:00:43.223220+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨된 대리가 퇴사를 안 함",
+        "author": "이공이공",
+        "view_count": 431,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 228,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "624309",
+        "title": "재앙급 몬스터들이 내 말만 듣는 줄 모르고 해고당함",
+        "author": "이자까야™",
+        "view_count": 117,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620651",
+        "title": "무인도를 샀더니 아틀란티스가 따라왔다.",
+        "author": "닥터KIMDH",
+        "view_count": 83,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623835",
+        "title": "해고당한 날 랭커들의 치트가 막혔다",
+        "author": "노블조아",
+        "view_count": 71,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620264",
+        "title": "방출당한 연습생이 업계 최고였던 전생을 각성함",
+        "author": "란장",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623518",
+        "title": "미국이 버린 천재, 인공태양으로 복수하다",
+        "author": "신들의정원",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621993",
+        "title": "해고 후, SSS급 전능 쉘터의 플레이어 되었다",
+        "author": "오브더",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622369",
+        "title": "해고당한 수의사가 업계 최고였음",
+        "author": "네발의사",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624261",
+        "title": "유로잭팟 대박났지만 그리스에서 식당합니다",
+        "author": "녹수(淥水)",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
