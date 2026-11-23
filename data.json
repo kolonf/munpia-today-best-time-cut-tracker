@@ -602303,5 +602303,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T03:30:40.176303+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609865",
+        "title": "납치당했더니 천재 마법사였다",
+        "author": "수박복숭아",
+        "view_count": 2896,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623845",
+        "title": "F급이라 이혼당했는데, 전처의 S급을 이자까지 회수함",
+        "author": "텐버드",
+        "view_count": 1499,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622322",
+        "title": "저는 지쳤으니까 한국은 알아서 지키세요",
+        "author": "오천자",
+        "view_count": 1089,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "618289",
+        "title": "선협 세계 재벌가 망나니가 되었다",
+        "author": "리디아.",
+        "view_count": 725,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617136",
+        "title": "만렙 블랙 요원은 쉬고 싶다.",
+        "author": "임완",
+        "view_count": 597,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 484,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 388,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611026",
+        "title": "삼국지 회귀 마초, 영웅호걸을 싹쓸이하다",
+        "author": "골든라이언",
+        "view_count": 304,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 234,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 157,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
