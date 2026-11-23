@@ -600575,5 +600575,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T18:30:41.017735+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "610555",
+        "title": "예능신 강림한 방송천재가 돈을 쓸어담음",
+        "author": "김한가",
+        "view_count": 3188,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618283",
+        "title": "해고당했더니 폐기템에서 S급 스킬이 나옴",
+        "author": "엘루아.",
+        "view_count": 1569,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619590",
+        "title": "지구 멸망했는데 내 쉘터만 너무 쾌적함",
+        "author": "[쥬시]",
+        "view_count": 1170,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612097",
+        "title": "방송국 때려치고 여행 유튜버로 힐링함",
+        "author": "그레이c",
+        "view_count": 771,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "611987",
+        "title": "게임속 게이트를 건넜더니 현실이 되었다.",
+        "author": "홍정태",
+        "view_count": 557,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "599072",
+        "title": "종말의 각성자가 되었다",
+        "author": "짬뽕조아",
+        "view_count": 452,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622410",
+        "title": "해고했으면 무기는 알아서 고치세요",
+        "author": "염상(炎上)",
+        "view_count": 342,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609865",
+        "title": "납치당했더니 천재 마법사였다",
+        "author": "수박복숭아",
+        "view_count": 282,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "605228",
+        "title": "빙의 후 안부낙도했더니 불충인사",
+        "author": "Money뭐니",
+        "view_count": 238,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 171,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
