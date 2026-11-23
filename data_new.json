@@ -384286,5 +384286,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T18:30:36.674659+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622322",
+        "title": "저는 지쳤으니까 한국은 알아서 지키세요",
+        "author": "오천자",
+        "view_count": 448,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사",
+        "author": "필드스틱",
+        "view_count": 135,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620358",
+        "title": "해고당한 수학 강사는 유튜브로 대치동을 씹어먹음",
+        "author": "이래도",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621993",
+        "title": "해고 후, SSS급 전능 쉘터의 플레이어 되었다",
+        "author": "오브더",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624522",
+        "title": "삼국지, 나 혼자 무력 255로 시작한다!",
+        "author": "최선을다해",
+        "view_count": 60,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623518",
+        "title": "미국이 버린 천재, 인공태양으로 복수하다",
+        "author": "신들의정원",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622650",
+        "title": "하와이에서 보물 찾으니 거물들이 집착함",
+        "author": "지나83",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623940",
+        "title": "해고했으면 국민연금은 알아서 굴리세요",
+        "author": "단추공장",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624128",
+        "title": "회귀한 SNS 개발자가 인터넷을 집어삼킴",
+        "author": "Guybrush",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
