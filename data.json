@@ -602687,5 +602687,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T05:30:39.986122+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620748",
+        "title": "미국 시골 방송국에 미래식 방송을 풀었다",
+        "author": "고별",
+        "view_count": 3029,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618813",
+        "title": "초월급 헌터가 버림받았다",
+        "author": "빌림",
+        "view_count": 1552,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623440",
+        "title": "아내가 찾아준 비트코인 50,000개",
+        "author": "아침호수",
+        "view_count": 1130,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 757,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619527",
+        "title": "나 혼자 스킬 오류로 탑 공략",
+        "author": "Decapoet",
+        "view_count": 633,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614007",
+        "title": "퇴물 짐꾼의 회귀성장기",
+        "author": "J진정S",
+        "view_count": 496,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 398,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 315,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619124",
+        "title": "해고했으니 철강 시세는 내가 알아서 정할게요",
+        "author": "르블랑",
+        "view_count": 248,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620066",
+        "title": "S급 힐러인줄 모르고 협회에서 쫓겨남",
+        "author": "백시헌",
+        "view_count": 170,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
