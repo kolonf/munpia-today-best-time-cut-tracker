@@ -598847,5 +598847,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T10:00:43.450774+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609865",
+        "title": "납치당했더니 천재 마법사였다",
+        "author": "수박복숭아",
+        "view_count": 2670,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "610623",
+        "title": "천재 코치는 야구가 너무 쉽다",
+        "author": "정예",
+        "view_count": 1469,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618525",
+        "title": "쫓겨난 중세 십자군 기사가 너무 강함",
+        "author": "적백赤白",
+        "view_count": 967,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616122",
+        "title": "날 해고한 회사의 공장이 멈췄다",
+        "author": "잡탕드래곤",
+        "view_count": 735,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 534,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "611987",
+        "title": "게임속 게이트를 건넜더니 현실이 되었다.",
+        "author": "홍정태",
+        "view_count": 400,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622898",
+        "title": "해고 후 1조로 힐링하는데 투자가 자꾸 대박남",
+        "author": "원일더",
+        "view_count": 320,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 230,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621269",
+        "title": "무적 치트로 헬 난이도 탑 등반이 너무 쉬움",
+        "author": "글미르",
+        "view_count": 163,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619201",
+        "title": "궁합 한번 봐줬더니 거물들이 집착한다",
+        "author": "글로운",
+        "view_count": 127,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
