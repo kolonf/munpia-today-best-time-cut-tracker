@@ -384094,5 +384094,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T17:30:38.504576+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618644",
+        "title": "1964 천재 법의학자가 살아가는 법",
+        "author": "자몽라임",
+        "view_count": 439,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620899",
+        "title": "해고했으면 떡락은 알아서 버티세요",
+        "author": "가냐슈",
+        "view_count": 261,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621499",
+        "title": "선협에서 상태창을 숨김",
+        "author": "친별",
+        "view_count": 131,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623136",
+        "title": "중동 망나니 왕자가 한국을 너무 좋아함",
+        "author": "탄두리치킨",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623279",
+        "title": "퇴사한 13년차 PD가 알고 보니 에이스였음",
+        "author": "윤준모",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621050",
+        "title": "퇴사했으니 힐링하겠습니다",
+        "author": "1948",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621519",
+        "title": "한의사.exe",
+        "author": "평택안중",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622463",
+        "title": "재능 농사로 만든 스킬 팝니다",
+        "author": "곰산타",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623548",
+        "title": "힐러하다 빡쳐서 딜러로 이직함",
+        "author": "구채",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623114",
+        "title": "선협속 멈춘 시간을 걷는 광속성 수선자가 되었다",
+        "author": "관우(觀雨)",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
