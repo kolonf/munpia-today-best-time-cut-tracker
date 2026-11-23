@@ -384958,5 +384958,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T00:00:46.745103+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623239",
+        "title": "스무살 애아빠가 돈이 너무 많음",
+        "author": "소수림",
+        "view_count": 470,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621683",
+        "title": "대한민국이 시리아와 자리를 바꿨다",
+        "author": "귀농재벌",
+        "view_count": 287,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620066",
+        "title": "S급 힐러인줄 모르고 협회에서 쫓겨남",
+        "author": "백시헌",
+        "view_count": 144,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622269",
+        "title": "배팅볼 투수가 회귀하면 메이저를 찢음",
+        "author": "라봉이",
+        "view_count": 92,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621283",
+        "title": "시체 태워 신천지 접수하는 소각사",
+        "author": "낙필",
+        "view_count": 68,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623030",
+        "title": "해고하셨으니 탑공략 특허는 경쟁업체로 빼돌릴게요",
+        "author": "치규치규",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620706",
+        "title": "취미로 만든 물건을 괴이들이 탐낸다",
+        "author": "Praba",
+        "view_count": 45,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624128",
+        "title": "회귀한 SNS 개발자가 인터넷을 집어삼킴",
+        "author": "Guybrush",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621303",
+        "title": "떡락할 유비가 집착함",
+        "author": "초선택자",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624869",
+        "title": "퇴사 후 시작한 여행 유튜브가 대박났습니다.",
+        "author": "백원도둑놈",
+        "view_count": 28,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
