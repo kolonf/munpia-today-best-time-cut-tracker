@@ -384382,5 +384382,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T20:00:46.812242+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "618644",
+        "title": "1964 천재 법의학자가 살아가는 법",
+        "author": "자몽라임",
+        "view_count": 472,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618409",
+        "title": "지구가 멸망한다길래 대한민국을 옮겼다",
+        "author": "그랜드파파",
+        "view_count": 259,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621317",
+        "title": "미국 사이비교단에서 배신당한 뒤 신성력을 각성함",
+        "author": "시공전사",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623230",
+        "title": "S급 헌터 키워줬더니 해고당함",
+        "author": "양복선",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622298",
+        "title": "해고했으니 무림은 알아서 지키세요",
+        "author": "어른호박",
+        "view_count": 61,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624466",
+        "title": "해고 후 억제기가 풀렸다",
+        "author": "플로우77",
+        "view_count": 48,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622463",
+        "title": "재능 농사로 만든 스킬 팝니다",
+        "author": "곰산타",
+        "view_count": 41,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622619",
+        "title": "로또 1등은 퇴사 후 힐링합니다",
+        "author": "한접시",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622275",
+        "title": "파면무사",
+        "author": "탄마",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
