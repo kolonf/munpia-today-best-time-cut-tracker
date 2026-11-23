@@ -383902,5 +383902,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T15:30:37.500818+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609645",
+        "title": "천재변호사가 성질을 못참고 법으로 조짐",
+        "author": "5스타",
+        "view_count": 489,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620773",
+        "title": "월가의 전설, 알고 보니 무능한 김대리였다",
+        "author": "로디로디",
+        "view_count": 253,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사",
+        "author": "필드스틱",
+        "view_count": 118,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 89,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622734",
+        "title": "힐링하려고 만든 게임 속 마을이 세계적인 명소가 됨",
+        "author": "유노이아",
+        "view_count": 70,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621800",
+        "title": "집에서는 백수, 밖에서는 천재 작가님",
+        "author": "한도현",
+        "view_count": 54,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621838",
+        "title": "해고 후 EX급 전차 소환 능력을 각성했다",
+        "author": "빙봉이",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622970",
+        "title": "당신의 불행을 포인트로 정산해드립니다.",
+        "author": "민땡",
+        "view_count": 37,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623224",
+        "title": "해고 후 도와준 노인이 회장님이라 인생역전",
+        "author": "안녕하새요",
+        "view_count": 31,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623133",
+        "title": "키우던 벌들을 진화시켰더니 괴물들을 씹어 먹음",
+        "author": "하늘바다땅",
+        "view_count": 26,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
