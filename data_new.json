@@ -383326,5 +383326,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-23T12:00:44.827864+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623641",
+        "title": "늙어서 해고당한 헌터들을 회춘시켰다",
+        "author": "귀농재벌",
+        "view_count": 476,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 246,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610745",
+        "title": "19세기 미국의 군수기업 창립자가 되었다",
+        "author": "I알자스I",
+        "view_count": 143,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622838",
+        "title": "F급도 아닌 내가 탑의 모든 기록을 갈아치운다",
+        "author": "만렙화살",
+        "view_count": 88,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 72,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621549",
+        "title": "악연수선전",
+        "author": "풀잎곰",
+        "view_count": 57,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623224",
+        "title": "해고 당한 날 회장님을 구했다. 악귀에게서.",
+        "author": "안녕하새요",
+        "view_count": 47,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615039",
+        "title": "국제무기상 이온",
+        "author": "위선호",
+        "view_count": 38,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616450",
+        "title": "무한동력 셸터를 독점했다",
+        "author": "겡가",
+        "view_count": 32,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624264",
+        "title": "이혼 후 억제기가 풀렸다",
+        "author": "플로우77",
+        "view_count": 25,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
