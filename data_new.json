@@ -388606,5 +388606,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T22:30:41.126672+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619660",
+        "title": "해고 후 내 양계장에 초월급 마수 알들이 배송됨",
+        "author": "[플래터]",
+        "view_count": 498,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "624055",
+        "title": "회귀한 코인 재벌인 줄 모르고 아내가 이혼하자함",
+        "author": "백건우.",
+        "view_count": 287,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621511",
+        "title": "50억 상속받고 퇴사했는데 섬에서 힐링이 너무 잘됨",
+        "author": "닮은계란",
+        "view_count": 160,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623978",
+        "title": "100조 코인 지갑 열자마자 퇴사갈겼습니다",
+        "author": "매트",
+        "view_count": 99,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623069",
+        "title": "해고당한 부장의 인맥이 미쳤다.",
+        "author": "태대비",
+        "view_count": 77,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 59,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622999",
+        "title": "세상이 터졌는데 내 병원만 대박남",
+        "author": "디오피",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623500",
+        "title": "EX급 포식 능력을 각성했다.",
+        "author": "잔나비V",
+        "view_count": 42,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623278",
+        "title": "고물폰 고쳤더니 거물들이 몰려옴",
+        "author": "담하파",
+        "view_count": 33,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "616450",
+        "title": "무한동력 셸터를 독점했다",
+        "author": "겡가",
+        "view_count": 27,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
