@@ -388126,5 +388126,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T19:30:40.405605+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620852",
+        "title": "히트곡 작곡가인 줄 모르고 매니저를 해고함",
+        "author": "무상킹",
+        "view_count": 546,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621317",
+        "title": "미국 사이비교단에서 배신당한 뒤 신성력을 각성함",
+        "author": "시공전사",
+        "view_count": 243,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621679",
+        "title": "해고당했더니 빌보드 가수들이 집착하는 작곡가됨",
+        "author": "햇살쨍",
+        "view_count": 160,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623279",
+        "title": "퇴사한 13년차 PD가 알고 보니 에이스였음",
+        "author": "윤준모",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623230",
+        "title": "S급 헌터 키워줬더니 해고당함",
+        "author": "양복선",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622463",
+        "title": "재능 농사로 만든 스킬 팝니다",
+        "author": "곰산타",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623734",
+        "title": "회귀한 월가 전설인 줄 모르고 해고당했다",
+        "author": "참맛글",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624226",
+        "title": "추방당한 서포터가 버프를 회수했다",
+        "author": "범미르",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623548",
+        "title": "해고된 힐러가 딜러로 대박남",
+        "author": "구채",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625426",
+        "title": "폐가를 샀는데 지하에 초호화 쉘터가 있었다",
+        "author": "웹소툰",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
