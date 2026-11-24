@@ -387934,5 +387934,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T18:00:44.095307+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619038",
+        "title": "호구 가장이 회귀 후 딸바보가 되었다",
+        "author": "소글담",
+        "view_count": 528,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622322",
+        "title": "저는 지쳤으니까 한국은 알아서 지키세요",
+        "author": "오천자",
+        "view_count": 298,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621679",
+        "title": "해고당했더니 빌보드 가수들이 집착하는 작곡가됨",
+        "author": "햇살쨍",
+        "view_count": 147,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623049",
+        "title": "NBA 식스맨이 돈까지 많아짐",
+        "author": "미에크",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623978",
+        "title": "100조 코인 지갑 열자마자 퇴사갈겼습니다",
+        "author": "매트",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621884",
+        "title": "검은 머리 신인 단장은 업계 최고임",
+        "author": "땅콩파스타",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622225",
+        "title": "대기업 스트리머에게 애호받는 델타포스 전역자.",
+        "author": "인스톨",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622999",
+        "title": "세상이 터졌는데 내 병원만 대박남",
+        "author": "디오피",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624261",
+        "title": "유로잭팟 대박났지만 그리스에서 식당합니다",
+        "author": "녹수(淥水)",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
