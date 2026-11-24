@@ -604223,5 +604223,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T13:00:45.092709+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619499",
+        "title": "업계 탑티어를 섭섭하게 만들면 벌어지는 일",
+        "author": "서인하",
+        "view_count": 3625,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616404",
+        "title": "삼국지 강동의패왕",
+        "author": "運月",
+        "view_count": 1767,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612396",
+        "title": "전설의 용병이 키운 아들이 너무 강하다",
+        "author": "블랙카드",
+        "view_count": 1020,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612354",
+        "title": "(귀)신들린 연기자",
+        "author": "burn8",
+        "view_count": 752,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 99,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 597,
+        "substituted": true
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619876",
+        "title": "기교파 투수가 방출 후 165km를 던짐",
+        "author": "지지플레이",
+        "view_count": 462,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621269",
+        "title": "무적 치트로 헬 난이도 탑 등반이 너무 쉬움",
+        "author": "글미르",
+        "view_count": 381,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 222,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "607040",
+        "title": "삼국지, 무력 222 최강폭군이 되었다",
+        "author": "운암선생",
+        "view_count": 168,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
