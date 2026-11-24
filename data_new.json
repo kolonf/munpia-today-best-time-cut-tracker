@@ -387166,5 +387166,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T12:30:38.465846+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 592,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623652",
+        "title": "강대국 눈치 안보고 화력에 올인했더니 전 세계가 기겁함",
+        "author": "미친재능",
+        "view_count": 313,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622418",
+        "title": "이혼 해고 후 냥줍했더니 복권 당첨에 카페 대박남",
+        "author": "마인부유",
+        "view_count": 150,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623208",
+        "title": "미국이 내쫓은 천재, 국산 전투기 심장을 깨우다",
+        "author": "강야수",
+        "view_count": 100,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623687",
+        "title": "고향사랑에 10만원 기부했더니 비트코인 1조가 돌아왔다",
+        "author": "95스피릿",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621729",
+        "title": "로또 20억 당첨됐더니 하는 일마다 대박남",
+        "author": "점군이",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621323",
+        "title": "사이버펑크의 슈퍼히어로는 퇴근하고 싶다",
+        "author": "편곤",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623269",
+        "title": "전지적 영주 시점.",
+        "author": "시인단테",
+        "view_count": 35,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624727",
+        "title": "고물 감정하는 헌터가 너무 유능함",
+        "author": "팔자소관",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
