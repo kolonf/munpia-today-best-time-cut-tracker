@@ -607295,5 +607295,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T04:00:46.301304+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 2734,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613175",
+        "title": "괴이한 재벌집 무당 사위",
+        "author": "전장범",
+        "view_count": 1397,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617340",
+        "title": "튜토리얼 스킵 불가로 1층 부터 고인물",
+        "author": "단정한니트",
+        "view_count": 962,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613475",
+        "title": "아포칼립스에서 도망쳤더니 선협세상",
+        "author": "히버",
+        "view_count": 695,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "606357",
+        "title": "삼국지: 망해버린 가문의 가주가 되었다",
+        "author": "지돌띠",
+        "view_count": 567,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617604",
+        "title": "월세밀린 한의사 재벌친부와 깐부먹다",
+        "author": "가프",
+        "view_count": 448,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619876",
+        "title": "기교파 투수가 방출 후 165km를 던짐",
+        "author": "지지플레이",
+        "view_count": 366,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "617312",
+        "title": "코스피 폭락후 한국구원",
+        "author": "초선택자",
+        "view_count": 295,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618691",
+        "title": "초월급 버퍼인 줄 모르고 해고당함",
+        "author": "루리나",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "610745",
+        "title": "19세기 미국의 군수기업 창립자가 되었다",
+        "author": "I알자스I",
+        "view_count": 155,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
