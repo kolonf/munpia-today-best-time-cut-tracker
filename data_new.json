@@ -389854,5 +389854,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T08:30:38.577232+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622410",
+        "title": "해고했으면 무기는 알아서 고치세요",
+        "author": "자극맨",
+        "view_count": 629,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620672",
+        "title": "나 혼자만 착용제한 없음",
+        "author": "지돌.",
+        "view_count": 294,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620785",
+        "title": "관상으로 결혼시키니 거물들이 몰려옴",
+        "author": "스이베라트콘",
+        "view_count": 157,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 79,
+        "novel_id": "622269",
+        "title": "배팅볼 투수가 회귀하면 메이저를 찢음",
+        "author": "라봉이",
+        "view_count": 111,
+        "substituted": true
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621285",
+        "title": "대학생 무당이 너무 용해서 거물들이 줄을 섬",
+        "author": "안복",
+        "view_count": 86,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "625056",
+        "title": "해고하셨으니 제가 준 재능은 회수할게요",
+        "author": "재귀개선",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623935",
+        "title": "중졸 또라이가 서울 땅을 통째로 샀다",
+        "author": "해물조림",
+        "view_count": 60,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624128",
+        "title": "회귀한 SNS 개발자가 인터넷을 집어삼킴",
+        "author": "Guybrush",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624261",
+        "title": "유로잭팟 대박났지만 그리스에서 식당합니다",
+        "author": "녹수(淥水)",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624331",
+        "title": "능력 몰수로 쓰레기 헌터들 참교육 함",
+        "author": "폭파중",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
