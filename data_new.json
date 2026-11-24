@@ -387070,5 +387070,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T12:00:45.674678+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623690",
+        "title": "나 혼자만 빠른무한으로 마석 캡니다",
+        "author": "후양煦揚",
+        "view_count": 576,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622477",
+        "title": "월가를 뒤집어 엎은 사람은 한국의 기러기 아빠였다",
+        "author": "팥빵맨",
+        "view_count": 322,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622433",
+        "title": "해고 후 심해 자원을 독점했더니 전 세계가 집착함",
+        "author": "크림파이",
+        "view_count": 174,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623272",
+        "title": "배신당한 S급 헌터가 EX급 특성으로 탑 등반",
+        "author": "카피캣",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622860",
+        "title": "해고당한 장남은 1999년 신입으로 효도합니다",
+        "author": "방탄커피",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624793",
+        "title": "살인자 , 비트코인 대재벌",
+        "author": "팥빵맨",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619563",
+        "title": "시골집 창고가 이세계로 연결된다",
+        "author": "에스타리온",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622225",
+        "title": "대기업 스트리머에게 애호받는 델타포스 전역자.",
+        "author": "인스톨",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624261",
+        "title": "유로잭팟 대박났지만 그리스에서 식당합니다",
+        "author": "녹수(淥水)",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
