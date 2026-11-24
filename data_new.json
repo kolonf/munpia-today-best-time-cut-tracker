@@ -389758,5 +389758,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T08:00:42.383425+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619660",
+        "title": "해고 후 내 양계장에 초월급 마수 알들이 배송됨",
+        "author": "[플래터]",
+        "view_count": 609,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622418",
+        "title": "이혼 해고 후 냥줍했더니 복권 당첨에 카페 대박남",
+        "author": "마인부유",
+        "view_count": 295,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623279",
+        "title": "퇴사한 13년차 PD가 알고 보니 에이스였음",
+        "author": "윤준모",
+        "view_count": 149,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622269",
+        "title": "배팅볼 투수가 회귀하면 메이저를 찢음",
+        "author": "라봉이",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623069",
+        "title": "해고당한 부장의 인맥이 미쳤다.",
+        "author": "태대비",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621800",
+        "title": "집에서는 백수, 밖에서는 천재 작가님",
+        "author": "한도현",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624284",
+        "title": "국내 최강 헌터 기업에 핵심 전력 기술자였는데 해고당함",
+        "author": "탄산킬러",
+        "view_count": 60,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624824",
+        "title": "인간쓰레기를 보물로 바꾸는 연금술사",
+        "author": "토이카",
+        "view_count": 48,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623278",
+        "title": "고물폰 고쳤더니 거물들이 몰려옴",
+        "author": "담하파",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623703",
+        "title": "대학원생인 내가 조조군의 일등 책사",
+        "author": "찾는꽃",
+        "view_count": 35,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
