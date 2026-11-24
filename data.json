@@ -608063,5 +608063,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T08:00:46.413797+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 3222,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신책임",
+        "view_count": 1637,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616346",
+        "title": "나 혼자만 특이점",
+        "author": "율담",
+        "view_count": 1022,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "612123",
+        "title": "원룸에 부적 공방을 숨김",
+        "author": "하우트",
+        "view_count": 770,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619660",
+        "title": "해고 후 내 양계장에 초월급 마수 알들이 배송됨",
+        "author": "[플래터]",
+        "view_count": 613,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620572",
+        "title": "국밥집인데 게장 주문이 폭주한다",
+        "author": "처늬",
+        "view_count": 473,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 384,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613485",
+        "title": "해고 대신 좌천된 김과장, 우주선 주운 후 계속 출근함",
+        "author": "퇴근후우주",
+        "view_count": 306,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618691",
+        "title": "초월급 버퍼인 줄 모르고 해고당함",
+        "author": "루리나",
+        "view_count": 221,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623595",
+        "title": "특수요원이 미국 깡촌에 집 샀더니 대박남",
+        "author": "글빚",
+        "view_count": 166,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
