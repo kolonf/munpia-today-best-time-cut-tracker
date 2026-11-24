@@ -604319,5 +604319,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T13:30:40.342521+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 3849,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619492",
+        "title": "이혼할 때 전처가 버린 주식, 다음 날 3천억 됨",
+        "author": "깡조",
+        "view_count": 1606,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614226",
+        "title": "7천억 물려받은 줄 모르고 퇴사당함",
+        "author": "무한와규",
+        "view_count": 1032,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 736,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 573,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617830",
+        "title": "아무것도 안 했는데 자기들끼리 자빠짐",
+        "author": "일단웃어",
+        "view_count": 472,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621407",
+        "title": "간첩 아내를 신고했더니 수천억 코인 지갑이 쏟아짐",
+        "author": "샤이텔하우",
+        "view_count": 360,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "598946",
+        "title": "짐꾼인데 우주 전함의 주인이 됐다",
+        "author": "헬뮤티",
+        "view_count": 280,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "618768",
+        "title": "감독이 떠났더니 축구를 너무 잘함",
+        "author": "부두웅산",
+        "view_count": 216,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622418",
+        "title": "이혼 해고 후 냥줍했더니 복권 당첨에 카페 대박남",
+        "author": "마인부유",
+        "view_count": 157,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
