@@ -388030,5 +388030,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-24T19:00:44.301411+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623348",
+        "title": "해고하셨으니 제 덕에 얻은 경험치는 회수할게요",
+        "author": "전설용용",
+        "view_count": 515,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622153",
+        "title": "코인으로 1조 벌고 은퇴했다",
+        "author": "월백남",
+        "view_count": 255,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사",
+        "author": "필드스틱",
+        "view_count": 150,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621358",
+        "title": "추방당한 S급 헌터, 귀국하니 국가권력급",
+        "author": "아난티",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623732",
+        "title": "먼치킨 소환사의 탑 사용법",
+        "author": "곰대리",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622463",
+        "title": "재능 농사로 만든 스킬 팝니다",
+        "author": "곰산타",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "625005",
+        "title": "퇴사당한 삼촌이 외신급 능력을 각성함",
+        "author": "킹슬레이",
+        "view_count": 52,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623269",
+        "title": "전지적 영주 시점.",
+        "author": "시인단테",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622860",
+        "title": "회귀했더니 1999년, 이번엔 가족부터 챙깁니다.",
+        "author": "방탄커피",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623179",
+        "title": "해고돼서 재해 뽑습니다",
+        "author": "양승훈",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
