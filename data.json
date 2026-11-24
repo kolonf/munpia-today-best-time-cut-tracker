@@ -606911,5 +606911,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T02:30:40.666421+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 2631,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신책임",
+        "view_count": 1364,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617340",
+        "title": "튜토리얼 스킵 불가로 1층 부터 고인물",
+        "author": "단정한니트",
+        "view_count": 928,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613475",
+        "title": "아포칼립스에서 도망쳤더니 선협세상",
+        "author": "히버",
+        "view_count": 685,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622433",
+        "title": "해고 후 심해 자원을 독점했더니 전 세계가 집착함",
+        "author": "크림파이",
+        "view_count": 545,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617604",
+        "title": "월세밀린 한의사 재벌친부와 깐부먹다",
+        "author": "가프",
+        "view_count": 447,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621269",
+        "title": "무적 치트로 헬 난이도 탑 등반이 너무 쉬움",
+        "author": "글미르",
+        "view_count": 358,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623026",
+        "title": "해고 했으니 탑은 알아서 올라라",
+        "author": "글혼",
+        "view_count": 278,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "612360",
+        "title": "회귀한 금감원 에이스가 엄마 곗돈 300만원으로 재벌됨",
+        "author": "반지하창문",
+        "view_count": 203,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615637",
+        "title": "이순신을 왕으로 만들겠습니다.",
+        "author": "강바기",
+        "view_count": 152,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
