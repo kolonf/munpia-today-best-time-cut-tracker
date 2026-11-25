@@ -390718,5 +390718,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T15:30:39.732437+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609645",
+        "title": "천재변호사가 성질을 못참고 법으로 조짐",
+        "author": "5스타",
+        "view_count": 551,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622155",
+        "title": "유산으로 50억 받았는데 운이 너무 좋다",
+        "author": "쌈짱된장",
+        "view_count": 281,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621429",
+        "title": "나 혼자만 사기급 스킬로 탑 S급 클리어",
+        "author": "백륜",
+        "view_count": 137,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 106,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625865",
+        "title": "해고했으면 탑은 알아서 관리하세요",
+        "author": "신까락",
+        "view_count": 81,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623179",
+        "title": "해고돼서 재해 뽑습니다",
+        "author": "양승훈",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624525",
+        "title": "와룡봉추의 동기가 됐다",
+        "author": "마감감마",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624080",
+        "title": "혼자 살려고 산 무인도가 세계 최고의 휴양지가 됐다",
+        "author": "야근중독",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 36,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622669",
+        "title": "동네백수인데 북한해커 10조 코인을 스틸함",
+        "author": "야바위꾼",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
