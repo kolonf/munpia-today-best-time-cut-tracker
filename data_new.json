@@ -392542,5 +392542,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T03:00:44.859761+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620781",
+        "title": "로펌에서 해고당한 변호사에게 의뢰인이 다 따라옴",
+        "author": "뽕따팬더",
+        "view_count": 588,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621090",
+        "title": "해고당한 후 태양신이 되었다",
+        "author": "빅피쉬",
+        "view_count": 317,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622838",
+        "title": "F급도 아닌 내가 탑의 모든 기록을 갈아치운다",
+        "author": "만렙화살",
+        "view_count": 187,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621442",
+        "title": "재앙급 마수를 길들였더니 거물들이 애호함",
+        "author": "Hadele",
+        "view_count": 120,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623595",
+        "title": "특수요원이 미국 깡촌에 집 샀더니 대박남",
+        "author": "글빚",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623671",
+        "title": "신약 개발 천재인지 모르고 의사협회가 나를 제명함",
+        "author": "크로노크",
+        "view_count": 71,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "626101",
+        "title": "이혼 후 비트코인 십만 개를 찾았다",
+        "author": "레테라투",
+        "view_count": 59,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623106",
+        "title": "해고 후 로또 맞고 인생 역전",
+        "author": "피자호빵",
+        "view_count": 51,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622809",
+        "title": "해고 통보받은 날, 회사 블라인드의 작성자가 보였다",
+        "author": "수뿔",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624300",
+        "title": "문종을 죽인 어의가 되었다",
+        "author": "일광자",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
