@@ -391966,5 +391966,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T23:00:45.994986+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623111",
+        "title": "전생의 경험을 물려받았다.",
+        "author": "홍정태",
+        "view_count": 530,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623272",
+        "title": "배신당한 S급 헌터가 EX급 특성으로 탑 등반",
+        "author": "카피캣",
+        "view_count": 271,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621317",
+        "title": "미국 사이비교단에서 배신당한 뒤 신성력을 각성함",
+        "author": "시공전사",
+        "view_count": 150,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622181",
+        "title": "귀환했더니 내가 유일한 S급이었다",
+        "author": "준시최",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624984",
+        "title": "해고했으면 작곡은 알아서 하세요. 전 1000억 있으니",
+        "author": "한꽃",
+        "view_count": 78,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "625796",
+        "title": "용병이 범죄도시에서 사는 법",
+        "author": "데프프픗",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621734",
+        "title": "수집가로 탑 등반",
+        "author": "바삭탕수육",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622225",
+        "title": "대기업 스트리머에게 애호받는 델타포스 전역자.",
+        "author": "인스톨",
+        "view_count": 43,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623557",
+        "title": "해고당한 헌터가 귀촌했더니 거물들이 몰려옴",
+        "author": "참새친구",
+        "view_count": 37,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624080",
+        "title": "망한 무인도를 샀는데 복원이 너무 쉽다",
+        "author": "야근중독",
+        "view_count": 30,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
