@@ -608543,5 +608543,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T11:00:47.124860+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619619",
+        "title": "청소 마법만 썼는데 헬 난이도가 너무 쉬움",
+        "author": "비요뜨귀신",
+        "view_count": 3177,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623348",
+        "title": "해고하셨으니 제 덕에 얻은 경험치는 회수할게요",
+        "author": "전설용용",
+        "view_count": 1559,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619527",
+        "title": "나 혼자 스킬 오류로 탑 공략",
+        "author": "Decapoet",
+        "view_count": 1047,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619801",
+        "title": "월가의 전설은 동네 백수였다",
+        "author": "팥빵맨",
+        "view_count": 776,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620572",
+        "title": "국밥집인데 게장 주문이 폭주한다",
+        "author": "처늬",
+        "view_count": 542,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619602",
+        "title": "멸망하는 세계에서 내 쉘터가 부유섬임",
+        "author": "힐링화원",
+        "view_count": 444,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620661",
+        "title": "S급 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 348,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 278,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "617942",
+        "title": "선조가 고종보다 근대화를 잘함",
+        "author": "슈타인호프",
+        "view_count": 215,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사로 힐링 재벌",
+        "author": "필드스틱",
+        "view_count": 169,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
