@@ -393118,5 +393118,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T07:30:37.673956+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620781",
+        "title": "로펌에서 해고당한 변호사에게 의뢰인이 다 따라옴",
+        "author": "뽕따팬더",
+        "view_count": 629,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 336,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 232,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621442",
+        "title": "재앙급 마수를 길들였더니 거물들이 애호함",
+        "author": "Hadele",
+        "view_count": 127,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621050",
+        "title": "퇴사했으니 EX급으로 각성 후 산에서 육아합니다",
+        "author": "1948",
+        "view_count": 93,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623671",
+        "title": "신약 개발 천재인지 모르고 의사협회가 나를 제명함",
+        "author": "크로노크",
+        "view_count": 75,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623241",
+        "title": "버려진 미국 농장으로 전세계 식량을 쥐어버림",
+        "author": "한탄경",
+        "view_count": 64,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622049",
+        "title": "21세기 영국 백작으로 살아가는 법",
+        "author": "콘페이토",
+        "view_count": 52,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "626075",
+        "title": "종말론자 취급했으니 알아서 살아남으세요",
+        "author": "기영수",
+        "view_count": 46,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624300",
+        "title": "문종을 죽인 어의가 되었다",
+        "author": "일광자",
+        "view_count": 38,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
