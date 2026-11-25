@@ -611231,5 +611231,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T00:00:48.791845+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615486",
+        "title": "삼국지에서 18제후 포신으로 살아남기",
+        "author": "다작김절필",
+        "view_count": 2690,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "612097",
+        "title": "방송국 때려치고 여행 유튜버로 힐링함",
+        "author": "그레이c",
+        "view_count": 1445,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617980",
+        "title": "김 대리가 잘리자마자 S급 헌터들이 미쳐 날뜀",
+        "author": "굶주린청년",
+        "view_count": 933,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "615059",
+        "title": "해고당한 의사가 알고보니 천재 써전",
+        "author": "돼지복실이",
+        "view_count": 645,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "614007",
+        "title": "퇴물 짐꾼의 회귀성장기",
+        "author": "J진정S",
+        "view_count": 483,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618620",
+        "title": "탑에서 낚시만 했는데 인생이 너무 쉬움",
+        "author": "나이와키",
+        "view_count": 363,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623272",
+        "title": "배신당한 S급 헌터가 EX급 특성으로 탑 등반",
+        "author": "카피캣",
+        "view_count": 301,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "614739",
+        "title": "각하의 정치가 대국적임",
+        "author": "빅타이거",
+        "view_count": 240,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621317",
+        "title": "미국 사이비교단에서 배신당한 뒤 신성력을 각성함",
+        "author": "시공전사",
+        "view_count": 172,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "611378",
+        "title": "외계 AI를 얻은 줄 모르고 해고당함",
+        "author": "번민",
+        "view_count": 134,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
