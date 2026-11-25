@@ -611903,5 +611903,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T03:30:43.239426+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 2516,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623708",
+        "title": "희생했어도 쫓아냈으니 미국은 너네 알아서 지키세요",
+        "author": "글로또",
+        "view_count": 1479,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622737",
+        "title": "6,000억 한량인데 할리우드가 내 음악에 집착함",
+        "author": "듀르쌩",
+        "view_count": 970,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "610450",
+        "title": "미국복권 당첨된 공무원이 하고싶은대로 다 함",
+        "author": "나이막",
+        "view_count": 726,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨된 대리가 퇴사를 안 함",
+        "author": "이공이공",
+        "view_count": 551,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615636",
+        "title": "해고당했으니 백수할게요. 근데 손대는 일마다 대박나네?",
+        "author": "신기한작가",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621722",
+        "title": "해고 했으니 미국은 너희가 알아서 지켜라",
+        "author": "앤비즈",
+        "view_count": 358,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623451",
+        "title": "헌터들의 악성재고가 너무 사기임",
+        "author": "브리젤",
+        "view_count": 288,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621101",
+        "title": "나는 중국을 사랑한다",
+        "author": "운비양",
+        "view_count": 219,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619552",
+        "title": "대학병원이 버린 의사는 수술천재였다",
+        "author": "글쓰는랭커",
+        "view_count": 174,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
