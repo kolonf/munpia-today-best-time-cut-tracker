@@ -391102,5 +391102,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T18:00:42.798418+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620285",
+        "title": "한국에서 수출한 남미독재자가 국가발전을 너무잘시킴",
+        "author": "참숯닭구이",
+        "view_count": 490,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623595",
+        "title": "특수요원이 미국 깡촌에 집 샀더니 대박남",
+        "author": "글빚",
+        "view_count": 297,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623136",
+        "title": "중동 망나니 왕자가 한국을 너무 좋아함",
+        "author": "탄두리치킨",
+        "view_count": 162,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "624787",
+        "title": "해고했으니 은신 버프 회수할게요. 각자 알아서 숨으세요",
+        "author": "제갈근철",
+        "view_count": 110,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624226",
+        "title": "추방당한 서포터가 버프를 회수했다",
+        "author": "범미르",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622604",
+        "title": "해고당한 셰프가 메이저리거들을 잘 먹임",
+        "author": "4.Molina",
+        "view_count": 65,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623629",
+        "title": "내 해골들이 노가다를 너무 잘함",
+        "author": "진강™",
+        "view_count": 51,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 45,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622441",
+        "title": "해고 당하고 특허 뺏긴 아버지의 아들이 능력자 임",
+        "author": "트리플악셀",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620677",
+        "title": "뇌전신공으로 돈 많이 벌어 인생역전",
+        "author": "피테쿠스",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
