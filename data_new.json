@@ -390526,5 +390526,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T13:30:38.716631+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "609645",
+        "title": "천재변호사가 성질을 못참고 법으로 조짐",
+        "author": "5스타",
+        "view_count": 527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622433",
+        "title": "해고 후, 심해 자원으로 전 세계에 갑질함",
+        "author": "크림파이",
+        "view_count": 280,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621110",
+        "title": "즉사기 네크로맨서는 회장님 비자금으로 탑 날먹함",
+        "author": "야바위꾼",
+        "view_count": 136,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 98,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623224",
+        "title": "해고 후 회장님 구하고 인생역전",
+        "author": "안녕하새요",
+        "view_count": 79,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622298",
+        "title": "해고했으니 무림은 알아서 지키세요",
+        "author": "어른호박",
+        "view_count": 58,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624613",
+        "title": "미국 할렘가 한의사에게 거물들이 자꾸 찾아온다",
+        "author": "yespro",
+        "view_count": 49,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624718",
+        "title": "쿠팡은 저만 되니 빙하기는 알아서 버티세요",
+        "author": "챠슈",
+        "view_count": 40,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621585",
+        "title": "순회세자의 온몸 조선 비틀기",
+        "author": "아스텔페임",
+        "view_count": 34,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623935",
+        "title": "중졸 또라이가 서울 땅을 통째로 샀다",
+        "author": "해물조림",
+        "view_count": 29,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
