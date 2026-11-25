@@ -609119,5 +609119,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T13:30:51.522461+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617716",
+        "title": "고졸백수가 돈이 너무 많음",
+        "author": "아토별",
+        "view_count": 3390,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616494",
+        "title": "나 하나 해고했다고 100조 구단이 무너짐",
+        "author": "자유수달",
+        "view_count": 1556,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨된 대리가 퇴사를 안 함",
+        "author": "이공이공",
+        "view_count": 993,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616935",
+        "title": "예술대 신입생이 연예계를 집어삼킴",
+        "author": "자경(蔗境)",
+        "view_count": 738,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619416",
+        "title": "해고 당한 일용직 아빠한테 돈벼락이 쏟아짐",
+        "author": "류도율",
+        "view_count": 538,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "607234",
+        "title": "정보상님, 제발 의뢰를 받아주세요",
+        "author": "태대비",
+        "view_count": 425,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620773",
+        "title": "월가의 전설, 알고 보니 무능한 김대리였다",
+        "author": "로디로디",
+        "view_count": 315,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "610450",
+        "title": "미국복권 당첨된 공무원이 하고싶은대로 다 함",
+        "author": "나이막",
+        "view_count": 253,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "611026",
+        "title": "삼국지 회귀 마초, 영웅호걸을 싹쓸이하다",
+        "author": "골든라이언",
+        "view_count": 200,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625796",
+        "title": "용병이 범죄도시에서 사는 법",
+        "author": "데프프픗",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
