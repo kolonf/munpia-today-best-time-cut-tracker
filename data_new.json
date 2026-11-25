@@ -392350,5 +392350,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T01:30:41.788018+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620770",
+        "title": "해고했으면, 새로운 탑은 알아서 공략하세요",
+        "author": "필쏘글",
+        "view_count": 558,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621090",
+        "title": "해고당한 후 태양신이 되었다",
+        "author": "빅피쉬",
+        "view_count": 302,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622838",
+        "title": "F급도 아닌 내가 탑의 모든 기록을 갈아치운다",
+        "author": "만렙화살",
+        "view_count": 177,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622650",
+        "title": "하와이에서 보물 찾으니 거물들이 집착함",
+        "author": "지나83",
+        "view_count": 116,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623734",
+        "title": "회귀한 월가 전설인 줄 모르고 해고당했다",
+        "author": "참맛글",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621121",
+        "title": "미국 한인 세탁소 아들이 천재라고?",
+        "author": "김리노",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "626101",
+        "title": "이혼 후 비트코인 십만 개를 찾았다",
+        "author": "레테라투",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622214",
+        "title": "누나 회귀빨로 재벌 됐더니 천재로 착각당함",
+        "author": "크림손",
+        "view_count": 49,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621303",
+        "title": "떡락할 유비가 집착함",
+        "author": "초선택자",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623110",
+        "title": "퇴직금 대신 받은 낚시터에 재벌들이 줄을 섰다",
+        "author": "아이아이엔",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
