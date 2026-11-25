@@ -612479,5 +612479,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T06:30:38.556878+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617111",
+        "title": "맵핵 능력을 각성했더니 전세계가 집착함",
+        "author": "Ashmor",
+        "view_count": 2863,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "613175",
+        "title": "괴이한 재벌집 무당 사위",
+        "author": "전장범",
+        "view_count": 1588,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 998,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619527",
+        "title": "나 혼자 스킬 오류로 탑 공략",
+        "author": "Decapoet",
+        "view_count": 764,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 612,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612206",
+        "title": "1800억이 생긴 김에 인생 좀 즐기겠습니다.",
+        "author": "BlackSwan.",
+        "view_count": 446,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618942",
+        "title": "망해가던 만화방이 너무 잘됨",
+        "author": "초고상승",
+        "view_count": 391,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 313,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621679",
+        "title": "해고당했더니 빌보드 가수들이 집착하는 작곡가됨",
+        "author": "햇살쨍",
+        "view_count": 241,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618179",
+        "title": "귀환한 대마법사는 소소하게 산다",
+        "author": "천서경",
+        "view_count": 191,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
