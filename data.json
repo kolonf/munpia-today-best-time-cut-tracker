@@ -610559,5 +610559,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T21:00:46.015075+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 3010,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617903",
+        "title": "선협에서 아내들이 임신할수록 강해짐",
+        "author": "뭉낑깡",
+        "view_count": 1494,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618106",
+        "title": "EX급 인챈터인 줄 몰 모르고 버림받음",
+        "author": "가좌",
+        "view_count": 1083,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 694,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "616933",
+        "title": "증여받은 무인도가 보물들을 쏟아냄",
+        "author": "한매화",
+        "view_count": 569,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622433",
+        "title": "해고 후, 심해 자원으로 전 세계에 갑질함",
+        "author": "크림파이",
+        "view_count": 452,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617604",
+        "title": "월세밀린 한의사 재벌친부와 깐부먹다",
+        "author": "가프",
+        "view_count": 353,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616822",
+        "title": "이번 생은 내가 갑이다",
+        "author": "해비베어",
+        "view_count": 279,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624733",
+        "title": "해고했으면 영약은 알아서 만드세요",
+        "author": "즈즈브브",
+        "view_count": 218,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617606",
+        "title": "회귀한 아공간 능력자 밀수 금괴 얻어 재벌됨",
+        "author": "야바위꾼",
+        "view_count": 156,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
