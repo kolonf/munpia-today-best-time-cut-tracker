@@ -391582,5 +391582,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-25T21:00:45.391915+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620781",
+        "title": "로펌에서 해고당한 변호사에게 의뢰인이 다 따라옴",
+        "author": "뽕따팬더",
+        "view_count": 486,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622982",
+        "title": "천재배우가 색마를 숨김",
+        "author": "쏘하이",
+        "view_count": 272,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621090",
+        "title": "해고당한 후 태양신이 되었다",
+        "author": "빅피쉬",
+        "view_count": 161,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622155",
+        "title": "유산으로 50억 받았는데 운이 너무 좋다",
+        "author": "쌈짱된장",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625185",
+        "title": "전쟁 이겨놨더니 파면당했다. 그래서 적국으로 갑니다",
+        "author": "시르베르",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624546",
+        "title": "간판 예능 만들어줬더니 해고당함",
+        "author": "진필.",
+        "view_count": 62,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623548",
+        "title": "해고된 힐러가 딜러로 대박남",
+        "author": "구채",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622669",
+        "title": "동네백수인데 북한해커 10조 코인을 스틸함",
+        "author": "야바위꾼",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624522",
+        "title": "삼국지, 나 혼자 무력 255로 시작한다!",
+        "author": "최선을다해",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625438",
+        "title": "날 해고한 회장님, 당신 비자금으로 회사 샀습니다",
+        "author": "강야수",
+        "view_count": 31,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
