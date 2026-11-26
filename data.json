@@ -613055,5 +613055,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T09:00:49.941308+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 2997,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618813",
+        "title": "초월급 헌터가 버림받았다",
+        "author": "빌림",
+        "view_count": 1622,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 1018,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620285",
+        "title": "한국에서 수출한 남미독재자가 국가발전을 너무잘시킴",
+        "author": "참숯닭구이",
+        "view_count": 815,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622433",
+        "title": "해고 후, 심해 자원으로 전 세계에 갑질함",
+        "author": "크림파이",
+        "view_count": 599,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "617604",
+        "title": "월세밀린 한의사 재벌친부와 깐부먹다",
+        "author": "가프",
+        "view_count": 448,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 378,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615059",
+        "title": "해고당한 의사가 알고보니 천재 써전",
+        "author": "돼지복실이",
+        "view_count": 304,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610664",
+        "title": "눈 떠보니 백작이 되어 있었다",
+        "author": "용은",
+        "view_count": 239,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619552",
+        "title": "대학병원이 버린 의사는 수술천재였다",
+        "author": "글쓰는랭커",
+        "view_count": 182,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
