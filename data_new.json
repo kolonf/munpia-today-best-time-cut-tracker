@@ -393886,5 +393886,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T13:00:44.677676+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "621269",
+        "title": "무적 치트로 헬 난이도 탑 등반이 너무 쉬움",
+        "author": "글미르",
+        "view_count": 623,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 344,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사로 힐링 재벌",
+        "author": "필드스틱",
+        "view_count": 237,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623687",
+        "title": "고향사랑에 10만원 기부했더니 비트코인 1조가 돌아왔다",
+        "author": "95스피릿",
+        "view_count": 116,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619524",
+        "title": "미래 메타 선점으로 최강 투수",
+        "author": "지언(至言)",
+        "view_count": 89,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "625185",
+        "title": "전쟁 이겨놨더니 파면당했다. 그래서 적국으로 갑니다",
+        "author": "시르베르",
+        "view_count": 72,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622780",
+        "title": "작곡 천재인 줄 몰랐는데 알아서 명곡이 나옴",
+        "author": "죽엇푹",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622572",
+        "title": "수의사인데 동물들의 게시판이 보여 거물들이 집착함",
+        "author": "네발의사",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622970",
+        "title": "당신의 불행을 포인트로 정산해드립니다.",
+        "author": "민땡",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625438",
+        "title": "날 해고한 회장님, 당신 비자금으로 회사 샀습니다",
+        "author": "강야수",
+        "view_count": 35,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
