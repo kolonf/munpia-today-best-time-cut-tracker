@@ -394558,5 +394558,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T17:30:40.392931+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623111",
+        "title": "전생의 경험을 물려받았다.",
+        "author": "홍정태",
+        "view_count": 520,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622982",
+        "title": "천재배우가 색마를 숨김",
+        "author": "쏘하이",
+        "view_count": 315,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620672",
+        "title": "나 혼자만 착용제한 없음",
+        "author": "지돌.",
+        "view_count": 181,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621815",
+        "title": "30년 전 사기당한 아버지 땅이 1조가 되었다",
+        "author": "말랑제이",
+        "view_count": 108,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623978",
+        "title": "100조 코인 지갑 열자마자 퇴사갈겼습니다",
+        "author": "매트",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621519",
+        "title": "한의사.exe",
+        "author": "평택안중",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620384",
+        "title": "망한 식당에 신들이 찾아왔다",
+        "author": "맨발의시인",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622881",
+        "title": "해고당한 마사지사는 신의 손을 가졌다",
+        "author": "mirtail",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623366",
+        "title": "아포칼립스 되기 전 미사일 기지부터 털었다",
+        "author": "글력",
+        "view_count": 42,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622860",
+        "title": "회귀했더니 1999년, 이번엔 가족부터 챙깁니다.",
+        "author": "방탄커피",
+        "view_count": 37,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
