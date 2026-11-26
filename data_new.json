@@ -394942,5 +394942,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T21:00:51.013201+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620781",
+        "title": "로펌에서 해고당한 변호사에게 의뢰인이 다 따라옴",
+        "author": "뽕따팬더",
+        "view_count": 535,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622734",
+        "title": "힐링하려고 만든 게임 속 마을이 세계적인 명소가 됨",
+        "author": "유노이아",
+        "view_count": 329,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621511",
+        "title": "50억 상속받고 퇴사했는데 섬에서 힐링이 너무 잘됨",
+        "author": "닮은계란",
+        "view_count": 171,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622150",
+        "title": "해고 후 파워볼 당첨으로 인생 역전",
+        "author": "발렌타",
+        "view_count": 107,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624988",
+        "title": "주식 대박날 줄 모르고 해고에 이혼당하고 버림받음",
+        "author": "늬파랑",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624793",
+        "title": "살인자 , 비트코인 대재벌",
+        "author": "팥빵맨",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "625438",
+        "title": "날 해고한 회장님, 당신 비자금으로 회사 샀습니다",
+        "author": "강야수",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623366",
+        "title": "아포칼립스 되기 전 미사일 기지부터 털었다",
+        "author": "글력",
+        "view_count": 49,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "626214",
+        "title": "선협에서 내 무덤 2만 개를 털어 먹음",
+        "author": "풀잎곰",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "626187",
+        "title": "선협에서 방치형 게임을 숨김",
+        "author": "선인모드",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
