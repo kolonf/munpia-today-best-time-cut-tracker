@@ -615743,5 +615743,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T22:30:47.462065+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619162",
+        "title": "해고당한 셰프가 너무 유능함",
+        "author": "탈주병",
+        "view_count": 2397,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619527",
+        "title": "나 혼자 스킬 오류로 탑 공략",
+        "author": "Decapoet",
+        "view_count": 1519,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619492",
+        "title": "이혼할 때 전처가 버린 주식, 다음 날 3천억 됨",
+        "author": "깡조",
+        "view_count": 924,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620285",
+        "title": "한국에서 수출한 남미독재자가 국가발전을 너무잘시킴",
+        "author": "참숯닭구이",
+        "view_count": 657,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624299",
+        "title": "배신당한 국정원 직원이 1890 미국 대재벌이 되었다",
+        "author": "코락스",
+        "view_count": 497,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623030",
+        "title": "해고하셨으니 탑공략 특허는 경쟁업체로 빼돌릴게요",
+        "author": "치규치규",
+        "view_count": 382,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "605228",
+        "title": "빙의 후 안부낙도했더니 불충인사",
+        "author": "Money뭐니",
+        "view_count": 328,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619020",
+        "title": "내 신점에 거물들이 돈 바치고 FBI가 매달림",
+        "author": "글거북.",
+        "view_count": 265,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619139",
+        "title": "무림맹 군사, 첩보 요원이 되다",
+        "author": "예린채린",
+        "view_count": 197,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "615796",
+        "title": "버림받은 F급 광물채집자의 미국 힐링 라이프",
+        "author": "몽꾼",
+        "view_count": 132,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
