@@ -616607,5 +616607,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T02:30:39.234249+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 2407,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618813",
+        "title": "초월급 헌터가 버림받았다",
+        "author": "빌림",
+        "view_count": 1407,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620852",
+        "title": "히트곡 작곡가인 줄 모르고 매니저를 해고함",
+        "author": "무상킹",
+        "view_count": 956,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "614665",
+        "title": "돈 복사 네크로맨서는 끝도 없이 강해짐",
+        "author": "시르베르",
+        "view_count": 687,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622898",
+        "title": "해고 후 1조로 힐링하는데 투자가 자꾸 대박남",
+        "author": "원일더",
+        "view_count": 540,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "619101",
+        "title": "기억을 읽는 천재감정사가 되었다",
+        "author": "김튀김",
+        "view_count": 419,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619038",
+        "title": "호구 가장이 회귀 후 딸바보가 되었다",
+        "author": "소글담",
+        "view_count": 350,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "619020",
+        "title": "내 신점에 거물들이 돈 바치고 FBI가 매달림",
+        "author": "글거북.",
+        "view_count": 275,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "614018",
+        "title": "코인 떡상한 줄 모르고 해고당함",
+        "author": "롱파르파",
+        "view_count": 205,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 163,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
