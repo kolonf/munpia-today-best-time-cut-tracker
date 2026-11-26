@@ -396094,5 +396094,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T07:00:43.202502+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "620770",
+        "title": "해고했으면, 새로운 탑은 알아서 공략하세요",
+        "author": "필쏘글",
+        "view_count": 636,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623916",
+        "title": "남작가 장남은 무신이었다",
+        "author": "넉울히",
+        "view_count": 385,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622155",
+        "title": "유산으로 50억 받았는데 운이 너무 좋다",
+        "author": "쌈짱된장",
+        "view_count": 216,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621442",
+        "title": "재앙급 마수를 길들였더니 거물들이 애호함",
+        "author": "Hadele",
+        "view_count": 120,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "626101",
+        "title": "이혼 후 비트코인 십만 개를 찾았다",
+        "author": "레테라투",
+        "view_count": 90,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 74,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622604",
+        "title": "해고당한 셰프가 메이저리거들을 잘 먹임",
+        "author": "4.Molina",
+        "view_count": 62,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624929",
+        "title": "해고하셨으니 행운 버프 회수합니다",
+        "author": "게블",
+        "view_count": 53,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "622809",
+        "title": "해고 통보받은 날, 회사 블라인드의 작성자가 보였다",
+        "author": "수뿔",
+        "view_count": 45,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621303",
+        "title": "떡락할 유비가 집착함",
+        "author": "초선택자",
+        "view_count": 37,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
