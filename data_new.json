@@ -394750,5 +394750,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T18:30:40.917989+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623348",
+        "title": "해고하셨으니 제 덕에 얻은 경험치는 회수할게요",
+        "author": "전설용용",
+        "view_count": 577,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621358",
+        "title": "추방당한 S급 헌터, 귀국하니 국가권력급",
+        "author": "아난티",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620661",
+        "title": "S급 서포터가 너무 유능함",
+        "author": "글쓰는벌레",
+        "view_count": 184,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622181",
+        "title": "귀환했더니 내가 유일한 S급이었다",
+        "author": "준시최",
+        "view_count": 104,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622604",
+        "title": "해고당한 셰프가 메이저리거들을 잘 먹임",
+        "author": "4.Molina",
+        "view_count": 86,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621519",
+        "title": "한의사.exe",
+        "author": "평택안중",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624793",
+        "title": "살인자 , 비트코인 대재벌",
+        "author": "팥빵맨",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "625584",
+        "title": "버림받은 기사는 황실의 데릴사위",
+        "author": "방구석용사",
+        "view_count": 49,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624508",
+        "title": "회장님 남자친구인줄 모르고 해고당함",
+        "author": "말랑제이",
+        "view_count": 43,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "626214",
+        "title": "선협에서 내 무덤 2만 개를 털어 먹음",
+        "author": "풀잎곰",
+        "view_count": 36,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
