@@ -394174,5 +394174,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T14:30:41.859424+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623652",
+        "title": "강대국 눈치 안보고 화력에 올인했더니 전 세계가 기겁함",
+        "author": "미친재능",
+        "view_count": 527,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623595",
+        "title": "특수요원이 미국 깡촌에 집 샀더니 대박남",
+        "author": "글빚",
+        "view_count": 323,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623279",
+        "title": "퇴사한 13년차 PD가 알고 보니 에이스였음",
+        "author": "윤준모",
+        "view_count": 167,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "624334",
+        "title": "해고당한 수리기사에 S급들이 집착함",
+        "author": "폭파중",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621426",
+        "title": "좀비 아포칼립스에서 나혼자 마법사임",
+        "author": "서해강",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623106",
+        "title": "해고 후 로또 맞고 인생 역전",
+        "author": "피자호빵",
+        "view_count": 69,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622214",
+        "title": "누나 회귀빨로 재벌 됐더니 천재로 착각당함",
+        "author": "크림손",
+        "view_count": 55,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622980",
+        "title": "미래 투자일지를 들고 회귀했다",
+        "author": "예성",
+        "view_count": 46,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624261",
+        "title": "힐링하려고 산 망한 그리스 식당이 자꾸 잘됨",
+        "author": "녹수(淥水)",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623543",
+        "title": "해고당한 아이템 감정사가 너무 유능함",
+        "author": "종착지",
+        "view_count": 33,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
