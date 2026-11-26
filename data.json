@@ -615359,5 +615359,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T20:30:43.805615+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623815",
+        "title": "해고 했으니까 은퇴합니다. 게이트는 알아서 막으세요",
+        "author": "임부키",
+        "view_count": 2814,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607496",
+        "title": "전 프로가 슈퍼루키인 척 함",
+        "author": "엠보돌",
+        "view_count": 1474,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 1050,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619566",
+        "title": "주화입마 면역이라 마공이 너무 쉽다",
+        "author": "루도스",
+        "view_count": 755,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "619660",
+        "title": "해고 후 내 양계장에 초월급 마수 알들이 배송됨",
+        "author": "[플래터]",
+        "view_count": 562,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614007",
+        "title": "회귀한 짐꾼의 만물 독식 인벤토리",
+        "author": "J진정S",
+        "view_count": 435,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "617513",
+        "title": "현대로 귀환한 진선이 갈수록 무서워진다",
+        "author": "한성악",
+        "view_count": 353,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "611132",
+        "title": "빙의당한 망나니 미국 대통령이 의료보험을 무상화함",
+        "author": "배천",
+        "view_count": 298,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "620672",
+        "title": "나 혼자만 착용제한 없음",
+        "author": "지돌.",
+        "view_count": 239,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621285",
+        "title": "대학생 무당이 너무 용해서 거물들이 줄을 섬",
+        "author": "안복",
+        "view_count": 167,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
