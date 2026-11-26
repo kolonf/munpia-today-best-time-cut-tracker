@@ -617279,5 +617279,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T06:00:52.725319+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "611522",
+        "title": "국과수 출신이 미국에서 세탁소 차렸더니 FBI가 집착함",
+        "author": "세디바",
+        "view_count": 2658,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614188",
+        "title": "고물로 만능이 되어버림",
+        "author": "초씽",
+        "view_count": 1510,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620852",
+        "title": "히트곡 작곡가인 줄 모르고 매니저를 해고함",
+        "author": "무상킹",
+        "view_count": 990,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619527",
+        "title": "나 혼자 스킬 오류로 탑 공략",
+        "author": "Decapoet",
+        "view_count": 745,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 594,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623006",
+        "title": "추방했으면 환자는 알아서 살리세요",
+        "author": "실패전문가",
+        "view_count": 433,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "618106",
+        "title": "EX급 인챈터인 줄 몰 모르고 버림받음",
+        "author": "가좌",
+        "view_count": 387,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 304,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621511",
+        "title": "50억 상속받고 퇴사했는데 섬에서 힐링이 너무 잘됨",
+        "author": "닮은계란",
+        "view_count": 242,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619201",
+        "title": "궁합 한번 봐줬더니 거물들이 집착한다",
+        "author": "글로운",
+        "view_count": 180,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
