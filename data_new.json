@@ -393790,5 +393790,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T12:00:45.030531+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "621269",
+        "title": "무적 치트로 헬 난이도 탑 등반이 너무 쉬움",
+        "author": "글미르",
+        "view_count": 605,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 338,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "624922",
+        "title": "해고했으면 아포칼립스는 알아서 버티세요",
+        "author": "마지막검사",
+        "view_count": 247,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623049",
+        "title": "NBA 식스맨이 돈까지 많아짐",
+        "author": "미에크",
+        "view_count": 123,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 91,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "626101",
+        "title": "이혼 후 비트코인 십만 개를 찾았다",
+        "author": "레테라투",
+        "view_count": 72,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "625413",
+        "title": "또라이 천재셰프를 해고했으면 뒷수습은 알아서 하세요",
+        "author": "오태혁",
+        "view_count": 59,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615039",
+        "title": "국제무기상 이온",
+        "author": "위선호",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "626073",
+        "title": "미국이 먼저 배신했으니 무너뜨려도 괜찮겠죠?",
+        "author": "브리쓰",
+        "view_count": 41,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620677",
+        "title": "뇌전신공으로 돈 많이 벌어 인생역전",
+        "author": "피테쿠스",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
