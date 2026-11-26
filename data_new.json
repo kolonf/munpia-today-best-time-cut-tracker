@@ -394366,5 +394366,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T16:30:46.625309+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622523",
+        "title": "해고 후 미국에서 고물상 차렸더니 빅테크가 집착함",
+        "author": "베르나르베",
+        "view_count": 508,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622155",
+        "title": "유산으로 50억 받았는데 운이 너무 좋다",
+        "author": "쌈짱된장",
+        "view_count": 300,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622477",
+        "title": "월가를 뒤집어 엎은 사람은 한국의 기러기 아빠였다",
+        "author": "팥빵맨",
+        "view_count": 187,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621722",
+        "title": "해고 했으니 미국은 너희가 알아서 지켜라",
+        "author": "앤비즈",
+        "view_count": 109,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625185",
+        "title": "전쟁 영웅 해고했으면 나라는 알아서 지키세요",
+        "author": "시르베르",
+        "view_count": 84,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624546",
+        "title": "간판 예능 만들어줬더니 해고당함",
+        "author": "진필.",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622809",
+        "title": "해고 통보받은 날, 회사 블라인드의 작성자가 보였다",
+        "author": "수뿔",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623850",
+        "title": "천재 포수인 줄 알고 선수들이 줄을 섬",
+        "author": "페디아",
+        "view_count": 48,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624670",
+        "title": "PC방 말아먹고 캔 비트코인이 40만 개였다",
+        "author": "쓸쓸한배",
+        "view_count": 42,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623278",
+        "title": "고물폰 고쳤더니 거물들이 몰려옴",
+        "author": "담하파",
+        "view_count": 36,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
