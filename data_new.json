@@ -394270,5 +394270,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T16:00:45.768183+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623026",
+        "title": "해고 했으니 탑은 알아서 올라라",
+        "author": "글혼",
+        "view_count": 517,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621317",
+        "title": "미국 사이비교단에서 배신당한 뒤 신성력을 각성함",
+        "author": "시공전사",
+        "view_count": 320,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622477",
+        "title": "월가를 뒤집어 엎은 사람은 한국의 기러기 아빠였다",
+        "author": "팥빵맨",
+        "view_count": 167,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "624522",
+        "title": "삼국지, 나 혼자 무력 255로 시작한다!",
+        "author": "최선을다해",
+        "view_count": 105,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621296",
+        "title": "해고당한 날, 비트코인 1조 지갑이 열렸다",
+        "author": "재담온",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624984",
+        "title": "해고했으면 작곡은 알아서 하세요. 전 1000억 있으니",
+        "author": "한꽃",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621722",
+        "title": "해고 했으니 미국은 너희가 알아서 지켜라",
+        "author": "앤비즈",
+        "view_count": 54,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623500",
+        "title": "EX급 포식 능력을 각성했다.",
+        "author": "잔나비V",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623539",
+        "title": "천마, 국정원 블랙요원 되다",
+        "author": "proveme",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624824",
+        "title": "인간쓰레기를 보물로 바꾸는 연금술사",
+        "author": "토이카",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
