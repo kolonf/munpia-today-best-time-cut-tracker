@@ -395326,5 +395326,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T00:30:40.344299+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "621269",
+        "title": "무적 치트로 헬 난이도가 너무 쉬움",
+        "author": "글미르",
+        "view_count": 540,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623006",
+        "title": "추방했으면 환자는 알아서 살리세요",
+        "author": "실패전문가",
+        "view_count": 296,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "610745",
+        "title": "19세기 미국의 군수기업 창립자가 되었다",
+        "author": "I알자스I",
+        "view_count": 152,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621285",
+        "title": "대학생 무당이 너무 용해서 거물들이 줄을 섬",
+        "author": "안복",
+        "view_count": 101,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623500",
+        "title": "EX급 포식 능력을 각성했다.",
+        "author": "잔나비V",
+        "view_count": 76,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622572",
+        "title": "수의사인데 동물들의 게시판이 보여 거물들이 집착함",
+        "author": "네발의사",
+        "view_count": 53,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621883",
+        "title": "중세의 재앙급 용병이 되었다",
+        "author": "MetalSlime",
+        "view_count": 44,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624284",
+        "title": "국내 최강 헌터 기업에 핵심 전력 기술자였는데 해고당함",
+        "author": "탄산킬러",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624267",
+        "title": "로또 1등도 콜센터 출근합니다.",
+        "author": "덤피",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
