@@ -393694,5 +393694,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T11:00:44.525156+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "621269",
+        "title": "무적 치트로 헬 난이도 탑 등반이 너무 쉬움",
+        "author": "글미르",
+        "view_count": 578,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622982",
+        "title": "천재배우가 색마를 숨김",
+        "author": "쏘하이",
+        "view_count": 223,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623049",
+        "title": "NBA 식스맨이 돈까지 많아짐",
+        "author": "미에크",
+        "view_count": 116,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623451",
+        "title": "헌터들의 악성재고가 너무 사기임",
+        "author": "브리젤",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621426",
+        "title": "좀비 아포칼립스에서 나혼자 마법사임",
+        "author": "서해강",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "625413",
+        "title": "또라이 천재셰프를 해고했으면 뒷수습은 알아서 하세요",
+        "author": "오태혁",
+        "view_count": 57,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "615039",
+        "title": "국제무기상 이온",
+        "author": "위선호",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625005",
+        "title": "나 혼자만 외신급 각성했더니 업계 거물이 되어버림",
+        "author": "킹슬레이",
+        "view_count": 39,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625776",
+        "title": "해고당했으니 금쪽이 S급 헌터들은 알아서 케어하세요",
+        "author": "두바이민트",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
