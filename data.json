@@ -614783,5 +614783,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-26T17:30:50.110341+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "615470",
+        "title": "오늘부터 미친 칼잡이로 출근합니다",
+        "author": "지곡.",
+        "view_count": 3160,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "616714",
+        "title": "초한지 금쪽이 항우 클리닉",
+        "author": "간절히",
+        "view_count": 1387,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "614684",
+        "title": "해고당한 서포터가 EX급 루팅 합성을 각성함",
+        "author": "착한소",
+        "view_count": 1024,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 702,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620285",
+        "title": "한국에서 수출한 남미독재자가 국가발전을 너무잘시킴",
+        "author": "참숯닭구이",
+        "view_count": 536,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "612364",
+        "title": "만년 대리 정서민은 로또 1등이라 퇴사합니다",
+        "author": "유우리",
+        "view_count": 441,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620785",
+        "title": "관상으로 결혼시키니 거물들이 몰려옴",
+        "author": "스이베라트콘",
+        "view_count": 368,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621101",
+        "title": "나는 중국을 사랑한다",
+        "author": "운비양",
+        "view_count": 292,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623451",
+        "title": "헌터들의 악성재고가 너무 사기임",
+        "author": "브리젤",
+        "view_count": 244,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617312",
+        "title": "코스피 폭락후 한국구원",
+        "author": "초선택자",
+        "view_count": 187,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
