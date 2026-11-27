@@ -620639,5 +620639,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T22:30:40.715133+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619619",
+        "title": "청소 마법만 썼는데 헬 난이도가 너무 쉬움",
+        "author": "비요뜨귀신",
+        "view_count": 2402,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 1501,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623111",
+        "title": "전생의 경험을 물려받았다.",
+        "author": "홍정태",
+        "view_count": 963,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616072",
+        "title": "메이저리그 먹튀의 회귀",
+        "author": "크림커피",
+        "view_count": 672,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621358",
+        "title": "추방당한 S급 헌터, 귀국하니 국가권력급",
+        "author": "아난티",
+        "view_count": 526,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621499",
+        "title": "선협에서 상태창을 숨김",
+        "author": "친별",
+        "view_count": 398,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621407",
+        "title": "간첩 아내를 신고했더니 수천억 코인 지갑이 쏟아짐",
+        "author": "샤이텔하우",
+        "view_count": 319,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618998",
+        "title": "흑화한 시스템으로 천재 작곡가가 되었다!",
+        "author": "담덕™",
+        "view_count": 232,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "603762",
+        "title": "퓨전펑크 천재 해커는 외신을 해킹한다",
+        "author": "범미르",
+        "view_count": 169,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "622650",
+        "title": "하와이에서 보물 찾으니 거물들이 집착함",
+        "author": "지나83",
+        "view_count": 120,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
