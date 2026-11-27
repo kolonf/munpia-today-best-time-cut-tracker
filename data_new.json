@@ -398590,5 +398590,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T04:30:39.171484+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "624299",
+        "title": "배신당한 국정원 직원이 1890 미국 대재벌이 되었다",
+        "author": "코락스",
+        "view_count": 662,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 371,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623444",
+        "title": "신내림 받았으니 알아서 찾아오세요",
+        "author": "크로마농",
+        "view_count": 228,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621285",
+        "title": "대학생 무당이 너무 용해서 거물들이 줄을 섬",
+        "author": "안복",
+        "view_count": 123,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621800",
+        "title": "집에서는 백수, 밖에서는 천재 작가님",
+        "author": "한도현",
+        "view_count": 94,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623037",
+        "title": "셋플릭스 1위 작가인 줄 모르고 보조작가 해고당함",
+        "author": "장바오",
+        "view_count": 77,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623919",
+        "title": "해고당한 개발자가 만든 AI가 국가 재앙급임",
+        "author": "냥재",
+        "view_count": 67,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624824",
+        "title": "인간쓰레기를 보물로 바꾸는 연금술사",
+        "author": "토이카",
+        "view_count": 55,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625023",
+        "title": "무림맹 무사는 퇴사후, 파이어족",
+        "author": "컨트리셰프",
+        "view_count": 45,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623366",
+        "title": "아포칼립스 되기 전 미사일 기지부터 털었다",
+        "author": "글력",
+        "view_count": 38,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
