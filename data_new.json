@@ -398494,5 +398494,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T02:30:38.393316+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622898",
+        "title": "해고 후 1조로 힐링하는데 투자가 자꾸 대박남",
+        "author": "원일더",
+        "view_count": 614,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622150",
+        "title": "해고 후 파워볼 당첨으로 인생 역전",
+        "author": "발렌타",
+        "view_count": 344,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621429",
+        "title": "나 혼자만 사기급 스킬로 탑 S급 클리어",
+        "author": "백륜",
+        "view_count": 213,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623105",
+        "title": "장희빈의 오빠로 살아남기",
+        "author": "누텔라.",
+        "view_count": 120,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625796",
+        "title": "전설의 용병이 범죄도시에서 사는 법",
+        "author": "데프프픗",
+        "view_count": 88,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "625378",
+        "title": "해고하셨으니 내 행운은 돌려받겠습니다",
+        "author": "단추공장",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623557",
+        "title": "해고당한 헌터가 귀촌했더니 거물들이 몰려옴",
+        "author": "참새친구",
+        "view_count": 61,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622214",
+        "title": "누나 회귀빨로 재벌 됐더니 천재로 착각당함",
+        "author": "크림손",
+        "view_count": 52,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621036",
+        "title": "탑스타들이 집착하는 천재매니저 인줄 모르고 해고당함",
+        "author": "다이칸야마",
+        "view_count": 42,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "622669",
+        "title": "동네백수인데 북한해커 10조 코인을 스틸함",
+        "author": "야바위꾼",
+        "view_count": 37,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
