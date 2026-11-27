@@ -396478,5 +396478,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T11:30:37.269790+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622898",
+        "title": "해고 후 1조로 힐링하는데 투자가 자꾸 대박남",
+        "author": "원일더",
+        "view_count": 652,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619353",
+        "title": "EX급 천마의 유산을 얻었다!",
+        "author": "고독한아재",
+        "view_count": 360,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "624055",
+        "title": "회귀한 코인 재벌인 줄 모르고 아내가 이혼하자함",
+        "author": "백건우.",
+        "view_count": 235,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "624226",
+        "title": "추방당한 서포터가 버프를 회수했다",
+        "author": "범미르",
+        "view_count": 124,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625378",
+        "title": "해고하셨으니 내 행운은 돌려받겠습니다",
+        "author": "단추공장",
+        "view_count": 92,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "625426",
+        "title": "폐가를 샀는데 지하에 초호화 쉘터가 있었다",
+        "author": "웹소툰",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623179",
+        "title": "해고돼서 재해 뽑습니다",
+        "author": "양승훈",
+        "view_count": 59,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622669",
+        "title": "동네백수인데 북한해커 10조 코인을 스틸함",
+        "author": "야바위꾼",
+        "view_count": 52,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625544",
+        "title": "EX급 성기사된 줄 모르고 재계약 실패함",
+        "author": "대박터짐",
+        "view_count": 43,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624937",
+        "title": "버림받은 E급 짐꾼, 회귀해 최초(EX)를 독식함",
+        "author": "기세(氣勢)",
+        "view_count": 37,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
