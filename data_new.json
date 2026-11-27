@@ -397246,5 +397246,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T16:00:44.735635+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623835",
+        "title": "해고당한 날 랭커들의 치트가 막혔다",
+        "author": "노블조아",
+        "view_count": 631,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사로 힐링 재벌",
+        "author": "필드스틱",
+        "view_count": 331,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "624334",
+        "title": "해고당한 수리기사에 S급들이 집착함",
+        "author": "폭파중",
+        "view_count": 167,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "622225",
+        "title": "델타포스는 방송도 잘함",
+        "author": "인스톨",
+        "view_count": 111,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625426",
+        "title": "폐가를 샀는데 지하에 초호화 쉘터가 있었다",
+        "author": "웹소툰",
+        "view_count": 83,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623179",
+        "title": "해고돼서 재해 뽑습니다",
+        "author": "양승훈",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622970",
+        "title": "당신의 불행을 포인트로 정산해드립니다.",
+        "author": "민땡",
+        "view_count": 59,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623842",
+        "title": "버려진 스킬을 고쳤더니 나 혼자 EX급",
+        "author": "물닥",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624300",
+        "title": "문종을 죽인 어의가 되었다",
+        "author": "일광자",
+        "view_count": 43,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625893",
+        "title": "해고당하고 EX급 무공서 제작 각성함",
+        "author": "자까떼껄룩",
+        "view_count": 35,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
