@@ -620351,5 +620351,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T21:00:47.630973+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623815",
+        "title": "해고 했으니까 은퇴합니다. 게이트는 알아서 막으세요",
+        "author": "임부키",
+        "view_count": 2708,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "608087",
+        "title": "1조 파워볼 당첨된 대리가 퇴사를 안 함",
+        "author": "이공이공",
+        "view_count": 1532,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622737",
+        "title": "6,000억 한량인데 할리우드가 내 음악에 집착함",
+        "author": "듀르쌩",
+        "view_count": 1028,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620572",
+        "title": "국밥집인데 게장 주문이 폭주한다",
+        "author": "처늬",
+        "view_count": 723,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622153",
+        "title": "코인으로 1조 벌고 은퇴했다",
+        "author": "월백남",
+        "view_count": 544,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624922",
+        "title": "해고했으면 아포칼립스는 알아서 버티세요",
+        "author": "마지막검사",
+        "view_count": 449,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "614334",
+        "title": "회장님들이 줄 서는 신점 스트리밍",
+        "author": "벨노트",
+        "view_count": 359,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "609645",
+        "title": "노빠꾸 천재 변호사 주지용",
+        "author": "5스타",
+        "view_count": 278,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 197,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623732",
+        "title": "먼치킨 소환사의 탑 사용법",
+        "author": "곰대리",
+        "view_count": 149,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
