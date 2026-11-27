@@ -397630,5 +397630,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T19:30:39.038880+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622322",
+        "title": "저는 지쳤으니까 한국은 알아서 지키세요",
+        "author": "오천자",
+        "view_count": 646,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623030",
+        "title": "해고하셨으니 탑공략 특허는 경쟁업체로 빼돌릴게요",
+        "author": "치규치규",
+        "view_count": 365,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "620672",
+        "title": "나 혼자만 착용제한 없음",
+        "author": "지돌.",
+        "view_count": 184,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623978",
+        "title": "100조 코인 지갑 열자마자 퇴사갈겼습니다",
+        "author": "매트",
+        "view_count": 111,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625894",
+        "title": "폐업했으니까 S급 무기는 알아서 만드세요",
+        "author": "이소파",
+        "view_count": 89,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622980",
+        "title": "미래 투자일지를 들고 회귀했다",
+        "author": "예성",
+        "view_count": 72,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623935",
+        "title": "중졸 배달맨! 서울 땅 다 내꺼!",
+        "author": "해물조림",
+        "view_count": 60,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623823",
+        "title": "해고시킨 의사가 자꾸만 거물이 되어간다",
+        "author": "글택",
+        "view_count": 51,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "626278",
+        "title": "해고 후 방구석 힐러가 됐으니까 병원은 알아서 하세요",
+        "author": "성공할",
+        "view_count": 40,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625154",
+        "title": "드루이드 해고했으니 식량 문제는 알아서 책임지세요",
+        "author": "디플로",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
