@@ -396862,5 +396862,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T14:00:45.776146+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "624733",
+        "title": "해고했으면 영약은 알아서 만드세요",
+        "author": "즈즈브브",
+        "view_count": 630,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "620561",
+        "title": "전 세계가 무과금인데 나만 1500억 들고 시작함",
+        "author": "대상필",
+        "view_count": 324,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "621285",
+        "title": "대학생 무당이 너무 용해서 거물들이 줄을 섬",
+        "author": "안복",
+        "view_count": 157,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "625796",
+        "title": "전설의 용병이 범죄도시에서 사는 법",
+        "author": "데프프픗",
+        "view_count": 112,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623919",
+        "title": "해고당한 개발자가 만든 AI가 국가 재앙급임",
+        "author": "냥재",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621323",
+        "title": "사이버펑크의 슈퍼히어로는 퇴근하고 싶다",
+        "author": "편곤",
+        "view_count": 66,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 58,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "621734",
+        "title": "수집가로 탑 등반",
+        "author": "바삭탕수육",
+        "view_count": 48,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625566",
+        "title": "해고했으면 보스는 알아서 잡으세요",
+        "author": "해고냥이",
+        "view_count": 42,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625023",
+        "title": "무림맹 무사는 퇴사후, 파이어족",
+        "author": "컨트리셰프",
+        "view_count": 35,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
