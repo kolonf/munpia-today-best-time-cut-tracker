@@ -620063,5 +620063,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T19:30:42.355205+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 2877,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "607688",
+        "title": "이혼했더니 자산이 미친듯 늘어남",
+        "author": "차원의방",
+        "view_count": 1578,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "619655",
+        "title": "대한민국 미래항모가 2026년에 떨어졌다",
+        "author": "스키리",
+        "view_count": 1107,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619355",
+        "title": "회귀했지만 아무것도 하기 싫다. 격렬히",
+        "author": "프프산",
+        "view_count": 780,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615853",
+        "title": "삼국지: 백마의종 공손찬이 천하를 독식함",
+        "author": "맥스.",
+        "view_count": 577,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "605247",
+        "title": "해고당한 천하제일인은 조용히 살고 싶다",
+        "author": "자까떼껄룩",
+        "view_count": 446,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "623030",
+        "title": "해고하셨으니 탑공략 특허는 경쟁업체로 빼돌릴게요",
+        "author": "치규치규",
+        "view_count": 369,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622477",
+        "title": "월가를 뒤집어 엎은 사람은 한국의 기러기 아빠였다",
+        "author": "팥빵맨",
+        "view_count": 292,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623835",
+        "title": "해고당한 날 랭커들의 치트가 막혔다",
+        "author": "노블조아",
+        "view_count": 218,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "618519",
+        "title": "위대한 대문호의 낙원",
+        "author": "임한백",
+        "view_count": 164,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
