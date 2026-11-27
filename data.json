@@ -619967,5 +619967,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T19:00:44.887589+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "608741",
+        "title": "망한 재벌이 국가권력급 신기술을 독점함",
+        "author": "유수流水",
+        "view_count": 2537,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "617903",
+        "title": "선협에서 아내들이 임신할수록 강해짐",
+        "author": "뭉낑깡",
+        "view_count": 1490,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623239",
+        "title": "스무살 애아빠가 돈이 너무 많음",
+        "author": "소수림",
+        "view_count": 1087,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 763,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620852",
+        "title": "히트곡 작곡가인 줄 모르고 매니저를 해고함",
+        "author": "무상킹",
+        "view_count": 579,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614007",
+        "title": "회귀한 짐꾼의 만물 독식 인벤토리",
+        "author": "J진정S",
+        "view_count": 434,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "612206",
+        "title": "1800억이 생긴 김에 인생 좀 즐기겠습니다.",
+        "author": "BlackSwan.",
+        "view_count": 362,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 159,
+        "novel_id": "617604",
+        "title": "월세밀린 한의사 재벌친부와 깐부먹다",
+        "author": "가프",
+        "view_count": 294,
+        "substituted": true
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 219,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 164,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
