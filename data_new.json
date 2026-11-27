@@ -397342,5 +397342,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-27T17:00:43.795944+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623916",
+        "title": "남작가 장남은 무신이었다",
+        "author": "넉울히",
+        "view_count": 567,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623136",
+        "title": "중동 망나니 왕자가 한국을 너무 좋아함",
+        "author": "탄두리치킨",
+        "view_count": 312,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623802",
+        "title": "세상은 니들이 지키세요",
+        "author": "루리나",
+        "view_count": 178,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623241",
+        "title": "버려진 미국 농장으로 전세계 식량을 쥐어버림",
+        "author": "한탄경",
+        "view_count": 119,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "621245",
+        "title": "환생한 무사는 소드마스터의 꿈을 꾸는가?",
+        "author": "글로장생.",
+        "view_count": 82,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "626234",
+        "title": "미국에서 해고당하고 1조 복권 터졌다",
+        "author": "주맛사탕",
+        "view_count": 70,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624929",
+        "title": "해고하셨으니 행운 버프 회수합니다",
+        "author": "게블",
+        "view_count": 62,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "625833",
+        "title": "해고했으면 부작용은 알아서 감당하세요",
+        "author": "[플루토]",
+        "view_count": 53,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "623114",
+        "title": "선협에서 나만의 오만오천오백년을 얻었다",
+        "author": "관우(觀雨)",
+        "view_count": 45,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "620438",
+        "title": "해고당한 무림맹주가 중세판타지에서 무공으로 휩쓸고 다님",
+        "author": "단군하부지",
+        "view_count": 37,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
