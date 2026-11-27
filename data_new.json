@@ -398686,5 +398686,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T05:30:39.456747+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "624299",
+        "title": "배신당한 국정원 직원이 1890 미국 대재벌이 되었다",
+        "author": "코락스",
+        "view_count": 671,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623199",
+        "title": "탑을 나만 깰 수 있는데 해고당함",
+        "author": "므닐",
+        "view_count": 379,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623444",
+        "title": "신내림 받았으니 알아서 찾아오세요",
+        "author": "크로마농",
+        "view_count": 232,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623049",
+        "title": "NBA 식스맨이 돈까지 많아짐",
+        "author": "미에크",
+        "view_count": 127,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "626653",
+        "title": "해고했으니 제가 키운 연예인들 스탯은 몰수할게요",
+        "author": "버드와칭",
+        "view_count": 98,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624787",
+        "title": "해고했으니 은신 버프 회수할게요. 각자 알아서 숨으세요",
+        "author": "제갈근철",
+        "view_count": 78,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621283",
+        "title": "나혼자 알아서 스킬 흡수해서 부자 되자",
+        "author": "낙필",
+        "view_count": 69,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624824",
+        "title": "인간쓰레기를 보물로 바꾸는 연금술사",
+        "author": "토이카",
+        "view_count": 55,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625976",
+        "title": "욕먹을수록 돈이 복사된다",
+        "author": "강그리니",
+        "view_count": 44,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623813",
+        "title": "나 혼자 조난 당했으니 지구는 알아서 지킬게요",
+        "author": "계란탁",
+        "view_count": 39,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
