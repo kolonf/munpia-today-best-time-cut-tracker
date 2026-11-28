@@ -402622,5 +402622,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-29T05:00:43.828862+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623279",
+        "title": "퇴사한 13년차 PD가 알고 보니 에이스였음",
+        "author": "윤준모",
+        "view_count": 648,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622150",
+        "title": "해고 후 파워볼 당첨으로 인생 역전",
+        "author": "발렌타",
+        "view_count": 379,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "626101",
+        "title": "이혼 후 비트코인 십만 개를 찾았다",
+        "author": "레테라투",
+        "view_count": 240,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621426",
+        "title": "좀비 아포칼립스에서 나혼자 마법사임",
+        "author": "서해강",
+        "view_count": 133,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624141",
+        "title": "해고당하고 싶은 차관인데 IMF를 막아버림",
+        "author": "김장대전",
+        "view_count": 91,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "625413",
+        "title": "또라이 천재셰프를 해고했으면 뒷수습은 알아서 하세요",
+        "author": "오태혁",
+        "view_count": 73,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "626850",
+        "title": "고졸 망나니가 돈이 너무 많음",
+        "author": "전장범",
+        "view_count": 61,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "624824",
+        "title": "인간쓰레기를 보물로 바꾸는 연금술사",
+        "author": "토이카",
+        "view_count": 49,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "627052",
+        "title": "신의 눈을 가지고 세상 모든 비리를 생중계하는 유튜버",
+        "author": "신들의정원",
+        "view_count": 44,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "624937",
+        "title": "버림받은 E급 짐꾼, 회귀해 최초(EX)를 독식함",
+        "author": "기세(氣勢)",
+        "view_count": 36,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
