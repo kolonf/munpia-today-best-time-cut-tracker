@@ -399358,5 +399358,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T09:00:46.361563+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "624299",
+        "title": "배신당한 국정원 직원이 1890 미국 대재벌이 되었다",
+        "author": "코락스",
+        "view_count": 696,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "624984",
+        "title": "해고했으면 작곡은 알아서 하세요. 전 1000억 있으니",
+        "author": "한꽃",
+        "view_count": 363,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623444",
+        "title": "신내림 받았으니 알아서 찾아오세요",
+        "author": "크로마농",
+        "view_count": 244,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621285",
+        "title": "대학생 무당이 너무 용해서 거물들이 줄을 섬",
+        "author": "안복",
+        "view_count": 135,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625833",
+        "title": "해고했으면 부작용은 알아서 감당하세요",
+        "author": "[플루토]",
+        "view_count": 106,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624128",
+        "title": "회귀했으니 인터넷은 이제 제 겁니다",
+        "author": "Guybrush",
+        "view_count": 81,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624672",
+        "title": "퇴직금 대신 판권 받은 PD앞에 방송국이 무릎꿇음",
+        "author": "하몽크래커",
+        "view_count": 71,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623269",
+        "title": "전지적 영주 시점.",
+        "author": "시인단테",
+        "view_count": 55,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625566",
+        "title": "해고했으면 보스는 알아서 잡으세요",
+        "author": "해고냥이",
+        "view_count": 47,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "621303",
+        "title": "떡락할 유비가 집착함",
+        "author": "초선택자",
+        "view_count": 40,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
