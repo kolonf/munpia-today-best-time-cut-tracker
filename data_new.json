@@ -400414,5 +400414,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T15:00:44.246776+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623835",
+        "title": "해고당한 날 랭커들의 치트가 막혔다",
+        "author": "노블조아",
+        "view_count": 741,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623927",
+        "title": "폭염 세상에 나 혼자 빙결법사로 힐링 재벌",
+        "author": "필드스틱",
+        "view_count": 359,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622898",
+        "title": "해고 후 1조로 힐링하는데 투자가 자꾸 대박남",
+        "author": "원일더",
+        "view_count": 207,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621815",
+        "title": "30년 전 사기당한 아버지 땅이 1조가 되었다",
+        "author": "말랑제이",
+        "view_count": 138,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624499",
+        "title": "버림받았으니 갑질 좀 할게요",
+        "author": "리케드",
+        "view_count": 97,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "620927",
+        "title": "해고당한 F급 과장이 길드 전체를 버프하고 있었다",
+        "author": "늦은하늘",
+        "view_count": 76,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624264",
+        "title": "이혼 후 억제기가 풀렸다",
+        "author": "플로우77",
+        "view_count": 59,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623133",
+        "title": "망한 세상에서 내가 키운 벌들만 진화한다",
+        "author": "하늘바다땅",
+        "view_count": 52,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "624659",
+        "title": "서울 봉쇄됐는데 나만 공간이동 각성함",
+        "author": "육개장.",
+        "view_count": 41,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "623831",
+        "title": "내 1레벨 스킬들이 너무 강함",
+        "author": "에바트리체",
+        "view_count": 33,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
