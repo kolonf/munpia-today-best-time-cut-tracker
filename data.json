@@ -626975,5 +626975,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-29T05:30:40.375842+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 2488,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623111",
+        "title": "전생의 경험을 물려받았다.",
+        "author": "홍정태",
+        "view_count": 1565,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613148",
+        "title": "아기 드워프가 인천에서 살아가는 법",
+        "author": "kangyou",
+        "view_count": 1006,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "623272",
+        "title": "배신당한 S급 헌터가 EX급 특성으로 탑 등반",
+        "author": "카피캣",
+        "view_count": 781,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623835",
+        "title": "해고당한 날 랭커들의 치트가 막혔다",
+        "author": "노블조아",
+        "view_count": 607,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "618942",
+        "title": "망해가던 만화방이 너무 잘됨",
+        "author": "초고상승",
+        "view_count": 468,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621679",
+        "title": "해고당했더니 빌보드 가수들이 집착하는 작곡가됨",
+        "author": "햇살쨍",
+        "view_count": 375,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "625109",
+        "title": "천재 프로그래머는 시골에서 힐링 중",
+        "author": "켈매",
+        "view_count": 298,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "608937",
+        "title": "명예퇴직당한 전귀 (전투귀신.돈귀신)",
+        "author": "모모다",
+        "view_count": 235,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619552",
+        "title": "대학병원이 버린 의사는 수술천재였다",
+        "author": "글쓰는랭커",
+        "view_count": 178,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
