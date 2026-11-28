@@ -401278,5 +401278,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T20:00:45.531034+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "622322",
+        "title": "저는 지쳤으니까 한국은 알아서 지키세요",
+        "author": "오천자",
+        "view_count": 590,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "621499",
+        "title": "선협에서 상태창을 숨김",
+        "author": "친별",
+        "view_count": 396,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "623049",
+        "title": "NBA 식스맨이 돈까지 많아짐",
+        "author": "미에크",
+        "view_count": 241,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "621121",
+        "title": "미국 한인 세탁소 아들이 천재라고?",
+        "author": "김리노",
+        "view_count": 141,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "625894",
+        "title": "폐업했으니까 S급 무기는 알아서 만드세요",
+        "author": "이소파",
+        "view_count": 100,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624128",
+        "title": "회귀했으니 인터넷은 이제 제 겁니다",
+        "author": "Guybrush",
+        "view_count": 78,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "621283",
+        "title": "나혼자 알아서 스킬 흡수해서 부자 되자",
+        "author": "낙필",
+        "view_count": 62,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623363",
+        "title": "무공 익힌 직장인도 출근합니다",
+        "author": "창조소설러",
+        "view_count": 50,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625500",
+        "title": "스페이스 마린을 원했지만, 다른 종족이 나와버렸다.",
+        "author": "레드풋",
+        "view_count": 43,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "626811",
+        "title": "해고했으니 다 까발릴게요",
+        "author": "레테라투",
+        "view_count": 34,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
