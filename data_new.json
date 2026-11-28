@@ -401854,5 +401854,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-29T01:00:45.143357+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623279",
+        "title": "퇴사한 13년차 PD가 알고 보니 에이스였음",
+        "author": "윤준모",
+        "view_count": 584,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "625185",
+        "title": "파면당한 기사가 적대국으로 가니 각성함",
+        "author": "시르베르",
+        "view_count": 328,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "626119",
+        "title": "이혼했으니 아내의 경험치부터 뺐겠습니다",
+        "author": "플로우77",
+        "view_count": 199,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "625196",
+        "title": "S급탱커 해고했으니 대한민국 협회는 각오 단단히 하세요",
+        "author": "MaUna",
+        "view_count": 116,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "622463",
+        "title": "재능 농사로 만든 스킬 팝니다",
+        "author": "곰산타",
+        "view_count": 85,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "623340",
+        "title": "나만 천사의 언어가 들린다",
+        "author": "피너피넛",
+        "view_count": 64,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 56,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616450",
+        "title": "무한동력 셸터를 독점했다",
+        "author": "겡가",
+        "view_count": 47,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "625888",
+        "title": "미국 시골 폐가 샀더니 1조짜리 지하 벙커가 발견됐다",
+        "author": "황자리",
+        "view_count": 38,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "626489",
+        "title": "해고당한 날 S급 능력 317개를 얻었다",
+        "author": "코어통견",
+        "view_count": 32,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
