@@ -623519,5 +623519,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T12:30:39.091692+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623440",
+        "title": "아내가 찾아준 비트코인 50,000개",
+        "author": "아침호수",
+        "view_count": 2878,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "614665",
+        "title": "돈 복사 네크로맨서는 끝도 없이 강해짐",
+        "author": "시르베르",
+        "view_count": 1407,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "616346",
+        "title": "나 혼자만 특이점",
+        "author": "율담",
+        "view_count": 1046,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "613148",
+        "title": "아기 드워프가 인천에서 살아가는 법",
+        "author": "kangyou",
+        "view_count": 750,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "615644",
+        "title": "여자친구가 임신했는데 방출당함",
+        "author": "맥스.",
+        "view_count": 583,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621679",
+        "title": "해고당했더니 빌보드 가수들이 집착하는 작곡가됨",
+        "author": "햇살쨍",
+        "view_count": 454,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622838",
+        "title": "F급도 아닌 내가 탑의 모든 기록을 갈아치운다",
+        "author": "만렙화살",
+        "view_count": 343,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "610664",
+        "title": "눈 떠보니 백작이 되어 있었다",
+        "author": "용은",
+        "view_count": 279,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621499",
+        "title": "선협에서 상태창을 숨김",
+        "author": "친별",
+        "view_count": 228,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619020",
+        "title": "내 신점에 거물들이 돈 바치고 FBI가 매달림",
+        "author": "글거북.",
+        "view_count": 173,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
