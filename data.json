@@ -622847,5 +622847,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T09:30:46.795508+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 2671,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "619374",
+        "title": "해고했으면 지구는 알아서 지키세요",
+        "author": "포참",
+        "view_count": 1384,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "622153",
+        "title": "코인으로 1조 벌고 은퇴했다",
+        "author": "월백남",
+        "view_count": 1020,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616933",
+        "title": "증여받은 무인도가 보물들을 쏟아냄",
+        "author": "한매화",
+        "view_count": 760,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "618106",
+        "title": "EX급 인챈터인 줄 몰 모르고 버림받음",
+        "author": "가좌",
+        "view_count": 563,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "615853",
+        "title": "삼국지: 백마의종 공손찬이 천하를 독식함",
+        "author": "맥스.",
+        "view_count": 431,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "620672",
+        "title": "나 혼자만 착용제한 없음",
+        "author": "지돌.",
+        "view_count": 337,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "622860",
+        "title": "회귀해서 가족만 챙겼는데 인생이 술술 풀림",
+        "author": "방탄커피",
+        "view_count": 274,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "619201",
+        "title": "궁합 한번 봐줬더니 거물들이 집착한다",
+        "author": "글로운",
+        "view_count": 209,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 156,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
