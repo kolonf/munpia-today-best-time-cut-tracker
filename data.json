@@ -626207,5 +626207,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-29T02:00:47.763472+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623708",
+        "title": "희생했어도 쫓아냈으니 미국은 너네 알아서 지키세요",
+        "author": "글로또",
+        "view_count": 2116,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "618813",
+        "title": "초월급 헌터가 버림받았다",
+        "author": "빌림",
+        "view_count": 1329,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "613129",
+        "title": "해고당한 감독이 애니로 일본을 지배함",
+        "author": "RUT",
+        "view_count": 895,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "617340",
+        "title": "튜토리얼 스킵 불가로 1층 부터 고인물",
+        "author": "단정한니트",
+        "view_count": 678,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "620781",
+        "title": "로펌에서 해고당한 변호사에게 의뢰인이 다 따라옴",
+        "author": "뽕따팬더",
+        "view_count": 547,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614334",
+        "title": "회장님들이 줄 서는 신점 스트리밍",
+        "author": "벨노트",
+        "view_count": 430,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "619020",
+        "title": "내 신점에 거물들이 돈 바치고 FBI가 매달림",
+        "author": "글거북.",
+        "view_count": 338,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "618409",
+        "title": "지구가 멸망한다길래 대한민국을 옮겼다",
+        "author": "그랜드파파",
+        "view_count": 272,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621429",
+        "title": "나 혼자만 사기급 스킬로 탑 S급 클리어",
+        "author": "백륜",
+        "view_count": 208,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617458",
+        "title": "선협 최강자가 망나니 몸에 들어옴",
+        "author": "쩝쩝새",
+        "view_count": 150,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
