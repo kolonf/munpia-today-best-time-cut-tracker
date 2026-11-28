@@ -623039,5 +623039,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T10:30:43.226138+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619194",
+        "title": "병가 거절당한 평민 기사는 세계 최강임",
+        "author": "땃쮜",
+        "view_count": 2876,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622189",
+        "title": "은퇴당한 헌터는 미국령 무인도에서 개꿀 힐링합니다",
+        "author": "토산",
+        "view_count": 1300,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "617136",
+        "title": "만렙 블랙 요원은 쉬고 싶다.",
+        "author": "임완",
+        "view_count": 1037,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "620770",
+        "title": "해고했으면, 새로운 탑은 알아서 공략하세요",
+        "author": "필쏘글",
+        "view_count": 788,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "617903",
+        "title": "선협에서 아내들이 임신할수록 강해짐",
+        "author": "뭉낑깡",
+        "view_count": 571,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "621407",
+        "title": "간첩 아내를 신고했더니 수천억 코인 지갑이 쏟아짐",
+        "author": "샤이텔하우",
+        "view_count": 439,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "622193",
+        "title": "스킬 흡수로 비자발적 전쟁영웅",
+        "author": "휴헤",
+        "view_count": 337,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "620308",
+        "title": "선협 속 잡역 제자는 천재였다",
+        "author": "간로인",
+        "view_count": 276,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "615708",
+        "title": "일하기 싫어서 퇴사 후 힐링했더니 전 세계가 주목함",
+        "author": "따상",
+        "view_count": 219,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "617942",
+        "title": "선조가 고종보다 근대화를 잘함",
+        "author": "슈타인호프",
+        "view_count": 183,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
