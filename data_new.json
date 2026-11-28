@@ -399934,5 +399934,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T12:30:36.871912+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "623006",
+        "title": "추방했으면 환자는 알아서 살리세요",
+        "author": "실패전문가",
+        "view_count": 747,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "622982",
+        "title": "천재배우가 색마를 숨김",
+        "author": "쏘하이",
+        "view_count": 366,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "624499",
+        "title": "버림받았으니 갑질 좀 할게요",
+        "author": "리케드",
+        "view_count": 253,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "624602",
+        "title": "해고했으면 한국은 알아서 지키세요, 힐링이나 할 거니까",
+        "author": "늬파랑",
+        "view_count": 138,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "624787",
+        "title": "해고했으니 은신 버프 회수할게요. 각자 알아서 숨으세요",
+        "author": "제갈근철",
+        "view_count": 98,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "622867",
+        "title": "아포칼립스에서 나 혼자 힐링 셸터를 운영합니다",
+        "author": "농어촌작가",
+        "view_count": 85,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "624601",
+        "title": "해고당한 마취과 의사가 신의손 본체였다",
+        "author": "일광자",
+        "view_count": 68,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "623230",
+        "title": "S급 헌터 양성은 알아서 하세요",
+        "author": "양복선",
+        "view_count": 52,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "621303",
+        "title": "떡락할 유비가 집착함",
+        "author": "초선택자",
+        "view_count": 45,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "625749",
+        "title": "상속받은 야산 속 벙커에 무기고가 있다",
+        "author": "반달곰81",
+        "view_count": 38,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
