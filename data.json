@@ -625151,5 +625151,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-28T20:30:48.954183+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "617233",
+        "title": "회귀한 한국은행 팀장은 투자가 너무 쉽다",
+        "author": "폭우(暴雨)",
+        "view_count": 2739,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "623708",
+        "title": "희생했어도 쫓아냈으니 미국은 너네 알아서 지키세요",
+        "author": "글로또",
+        "view_count": 1523,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "618813",
+        "title": "초월급 헌터가 버림받았다",
+        "author": "빌림",
+        "view_count": 1036,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "616494",
+        "title": "우승이 내 덕인지 모르고 해고당함",
+        "author": "자유수달",
+        "view_count": 713,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623272",
+        "title": "배신당한 S급 헌터가 EX급 특성으로 탑 등반",
+        "author": "카피캣",
+        "view_count": 540,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "624226",
+        "title": "추방당한 서포터가 버프를 회수했다",
+        "author": "범미르",
+        "view_count": 441,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "610745",
+        "title": "19세기 미국의 군수기업 창립자가 되었다",
+        "author": "I알자스I",
+        "view_count": 367,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 284,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "343688",
+        "title": "야구천재가 되었다",
+        "author": "불릿타임",
+        "view_count": 209,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 200,
+        "novel_id": "619839",
+        "title": "AI 보안 솔루션을 도입하고 날 해고했다",
+        "author": "자침",
+        "view_count": 164,
+        "substituted": false
+      }
+    },
+    "ok": true
   }
 ]
