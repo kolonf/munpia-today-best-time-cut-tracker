@@ -626783,5 +626783,101 @@
       }
     },
     "ok": true
+  },
+  {
+    "timestamp": "2026-11-29T04:30:42.602459+09:00",
+    "ranks": {
+      "20": {
+        "target_rank": 20,
+        "actual_rank": 20,
+        "novel_id": "619203",
+        "title": "20년 전 사기당한 주식이 1조가 되어 있었다",
+        "author": "강그리니",
+        "view_count": 2427,
+        "substituted": false
+      },
+      "40": {
+        "target_rank": 40,
+        "actual_rank": 40,
+        "novel_id": "611314",
+        "title": "전 세계 1위 코인 고래가 사는 법",
+        "author": "신책임",
+        "view_count": 1523,
+        "substituted": false
+      },
+      "60": {
+        "target_rank": 60,
+        "actual_rank": 60,
+        "novel_id": "612097",
+        "title": "퇴사 후 요트 타고 힐링 유튜버",
+        "author": "그레이c",
+        "view_count": 978,
+        "substituted": false
+      },
+      "80": {
+        "target_rank": 80,
+        "actual_rank": 80,
+        "novel_id": "619220",
+        "title": "하룻밤 보낸 미망인이 왕위 계승자였다",
+        "author": "취랑(醉郞)",
+        "view_count": 759,
+        "substituted": false
+      },
+      "100": {
+        "target_rank": 100,
+        "actual_rank": 100,
+        "novel_id": "623835",
+        "title": "해고당한 날 랭커들의 치트가 막혔다",
+        "author": "노블조아",
+        "view_count": 594,
+        "substituted": false
+      },
+      "120": {
+        "target_rank": 120,
+        "actual_rank": 120,
+        "novel_id": "614334",
+        "title": "회장님들이 줄 서는 신점 스트리밍",
+        "author": "벨노트",
+        "view_count": 451,
+        "substituted": false
+      },
+      "140": {
+        "target_rank": 140,
+        "actual_rank": 140,
+        "novel_id": "613508",
+        "title": "300년 만에 돌아온 천재화가",
+        "author": "경우勁雨",
+        "view_count": 361,
+        "substituted": false
+      },
+      "160": {
+        "target_rank": 160,
+        "actual_rank": 160,
+        "novel_id": "616822",
+        "title": "이번 생은 내가 갑이다",
+        "author": "해비베어",
+        "view_count": 289,
+        "substituted": false
+      },
+      "180": {
+        "target_rank": 180,
+        "actual_rank": 180,
+        "novel_id": "610745",
+        "title": "19세기 미국의 군수기업 창립자가 되었다",
+        "author": "I알자스I",
+        "view_count": 233,
+        "substituted": false
+      },
+      "200": {
+        "target_rank": 200,
+        "actual_rank": 199,
+        "novel_id": "619201",
+        "title": "궁합 한번 봐줬더니 거물들이 집착한다",
+        "author": "글로운",
+        "view_count": 176,
+        "substituted": true
+      }
+    },
+    "ok": true
   }
 ]
